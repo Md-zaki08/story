@@ -1,0 +1,22 @@
+{
+  "source": "bm-hang-the-dj",
+  "diet": "A",
+  "atoms": [
+    {"id": "bm-hang-the-dj-01", "text": "The matching system: a device assigns relationships with fixed durations, so love is scheduled by an algorithm.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "bm-hang-the-dj-02", "text": "The countdown timer: couples know exactly when their relationship will end, so every intimacy is shadowed by an expiry date.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "bm-hang-the-dj-03", "text": "The couple who stop checking: two people agree not to look at their timer, so trust is built by refusing information.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "bm-hang-the-dj-04", "text": "The simulated dating pool: the world is revealed to be a test run for compatibility, so the characters' romance is also an experiment.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "bm-hang-the-dj-05", "text": "The pairing day: everyone is promised a lifelong partner on a set date, so hope is institutionalized.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "bm-hang-the-dj-06", "text": "The bad match: one partner is deliberately unpleasant, so the system tests endurance rather than compatibility.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "bm-hang-the-dj-07", "text": "The recalibration: breaking the agreement changes the timer, so the system punishes disobedience.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "bm-hang-the-dj-08", "text": "No memories before the system: the characters cannot recall life before matching, so the world's history is withheld.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "bm-hang-the-dj-09", "text": "The rebellion against the algorithm: the couple chooses each other over the system's promise, so love is defined as refusal.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "bm-hang-the-dj-10", "text": "The pebbles that skip four times: a small recurring detail becomes evidence of a simulated world, so the environment leaks its code.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "bm-hang-the-dj-11", "text": "The farewell session: each person gets one last meeting before pairing, so closure is rationed.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "bm-hang-the-dj-12", "text": "The resort-like world: the dating system operates in a pleasant, controlled environment, so the setting is a laboratory disguised as a holiday.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "bm-hang-the-dj-13", "text": "The ethics of testing love: the system claims a 99.8% success rate, so the story asks what is being optimized and at whose expense.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "bm-hang-the-dj-14", "text": "The pool escape: a character throws the device into a pool, so rejecting the system is a physical act.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "bm-hang-the-dj-15", "text": "The reveal that the world is a simulation: the final twist reframes the romance as a compatibility test, so the audience re-reads the whole story.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "bm-hang-the-dj-16", "text": "Love as statistical anomaly: the couple's connection is the exception the system cannot model, so romance is the residue of determinism.", "kind": "theme_engine", "quality": "strong", "original": null}
+  ]
+}

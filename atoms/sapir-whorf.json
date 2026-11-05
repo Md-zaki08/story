@@ -1,0 +1,22 @@
+{
+  "source": "sapir-whorf",
+  "diet": "B",
+  "atoms": [
+    {"id": "sapir-whorf-01", "text": "The word that makes a category: a language lacks a term for a distinction, so speakers cannot easily perceive it.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "sapir-whorf-02", "text": "The grammar of time: a language's tense structure shapes how speakers remember and plan, so the future is a linguistic construction.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "sapir-whorf-03", "text": "The untranslatable feeling: a word exists in one language and not another, so an experience becomes possible only where it is named.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "sapir-whorf-04", "text": "The strong hypothesis: language determines thought, so a regime can control minds by controlling vocabulary.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "sapir-whorf-05", "text": "The weak hypothesis: language nudges perception without determining it, so the story can stage a subtle, deniable influence.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "sapir-whorf-06", "text": "The constructed language: a new tongue is invented to produce a new way of thinking, so revolution begins with a dictionary.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "sapir-whorf-07", "text": "The color test: speakers of different languages sort colors differently, so a laboratory experiment reveals a cultural boundary.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "sapir-whorf-08", "text": "The interpreter's gap: a translator cannot carry a concept across languages, so communication fails at the exact point that matters.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "sapir-whorf-09", "text": "The forbidden word: a language's vocabulary is policed, so naming something becomes an act of resistance.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "sapir-whorf-10", "text": "The child raised in two tongues: a bilingual character experiences the world twice, so identity is divided by grammar.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "sapir-whorf-11", "text": "The nation's spirit: a language is treated as the expression of a people, so linguistics becomes nationalism.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "sapir-whorf-12", "text": "The machine that thinks in code: an AI's internal language shapes its reasoning, so its mind is alien in a describable way.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "sapir-whorf-13", "text": "The disputed evidence: the hypothesis is hard to test and often exaggerated, so the story's science is also a myth.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "sapir-whorf-14", "text": "The word that changes behavior: a new term enters common speech and alters how people act, so language is a soft weapon.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "sapir-whorf-15", "text": "The last speaker: a language dies with its final fluent speaker, so a way of perceiving the world ends.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "sapir-whorf-16", "text": "The naming ritual: a culture gives names only after an event is understood, so speech lags behind experience.", "kind": "world_rule", "quality": "medium", "original": null}
+  ]
+}

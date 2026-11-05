@@ -1,0 +1,22 @@
+{
+  "source": "tsukumogami",
+  "diet": "B",
+  "atoms": [
+    {"id": "tsukumogami-01", "text": "The hundred-year object: a tool that survives a century develops a spirit and self-awareness, so age is the mechanism by which property becomes a person.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "tsukumogami-02", "text": "The discarded tool's grudge: an object neglected or thrown away turns malevolent, so the victim of use becomes the punisher of waste.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "tsukumogami-03", "text": "The household inventory as cast: brooms, umbrellas, and pots each have personalities, so a domestic setting becomes a society of objects.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "tsukumogami-04", "text": "The object that remembers its owners: a tool retains the habits and secrets of everyone who used it, so inheritance is also surveillance.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "tsukumogami-05", "text": "The repair that offends: mending an old object can be experienced as mutilation, so care and violation are indistinguishable to the thing being cared for.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "tsukumogami-06", "text": "The object that wants to be used: a sentient tool defines its worth by function, so retirement is a kind of death.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "tsukumogami-07", "text": "The hundredth birthday: the exact moment of awakening is unpredictable, so owners live with the possibility that any familiar object is listening.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "tsukumogami-08", "text": "The mass-produced object: identical factory items awaken with different personalities, so individuality emerges from use rather than manufacture.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "tsukumogami-09", "text": "The ritual of disposal: old tools are given a funeral to prevent them from becoming vengeful, so waste management is theology.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "tsukumogami-10", "text": "The object as witness: a mirror or a knife has observed a crime, so the detective must interrogate furniture.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "tsukumogami-11", "text": "The spirit that cannot leave: an object-bound being is tied to its location, so mobility is the price of embodiment.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "tsukumogami-12", "text": "The collector's guilt: a person hoards old objects and discovers they have been keeping company, so ownership becomes a relationship with dependents.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "tsukumogami-13", "text": "The tool that upgrades itself: a sentient object modifies its own form using nearby materials, so it becomes an autonomous maker.", "kind": "plot_device", "quality": "medium", "original": null},
+    {"id": "tsukumogami-14", "text": "The new object that resents the old: a modern appliance competes with an antique for the owner's attention, so domestic jealousy is technological.", "kind": "character_dynamic", "quality": "medium", "original": null},
+    {"id": "tsukumogami-15", "text": "The object's perspective: the story is told from the tool's point of view, so human life appears as a series of incomprehensible rituals.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "tsukumogami-16", "text": "The forgotten spirit: an awakened object is left in storage and goes mad from neglect, so isolation is the origin of horror.", "kind": "theme_engine", "quality": "strong", "original": null}
+  ]
+}

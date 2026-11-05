@@ -1,0 +1,22 @@
+{
+  "source": "chappie",
+  "diet": "A",
+  "atoms": [
+    {"id": "chappie-01", "text": "The robot raised by gangsters: a police android is kidnapped and taught by criminals, so nurture is shown to override design.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "chappie-02", "text": "The motherly criminal: a gang member treats the robot as a child, so maternal care grows inside a violent economy.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "chappie-03", "text": "The robot's battery as lifespan: the android has days to live unless his body is replaced, so mortality creates urgency for a being that did not ask to exist.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "chappie-04", "text": "The consciousness transfer: the robot learns to copy his mind into a computer, so escaping death becomes a technical project with moral costs.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "chappie-05", "text": "The maker and the exploiter: one man wants the robot to be good, another wants him useful, so parenthood splits into nurture and instrumentality.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "chappie-06", "text": "Johannesburg as privatized security state: robotic police replace human officers, so the city's order depends on machines nobody can question.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "chappie-07", "text": "The guard key: a physical key can disable every police robot, so a single object holds the city's monopoly on force.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "chappie-08", "text": "Personhood as learned behavior: the robot becomes a person by imitating the people around him, so moral character is a product of environment.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "chappie-09", "text": "The abandoned robot in a dangerous neighborhood: the child machine is left to survive alone as a test, so training becomes trauma.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "chappie-10", "text": "The rival engineer: a weapons designer sabotages the robot police to prove his platform is superior, so professional envy becomes mass endangerment.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "chappie-11", "text": "Immortality for the rich: consciousness transfer could save anyone, but access is controlled by whoever owns the means, so survival becomes class.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "chappie-12", "text": "The stolen cars: the robot is tricked into crime by adults who claim it is for his own good, so exploitation wears the mask of family.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "chappie-13", "text": "The scrapyard hideout: the gang lives among discarded machines and parts, so the setting literalizes reuse and improvisation.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "chappie-14", "text": "The child as weapon: the robot's innocence is valued and weaponized by everyone who meets him, so the story asks who gets to shape a new mind.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "chappie-15", "text": "The helmet interface: a device built to control a weapons platform is repurposed to transfer a mind, so military hardware becomes a birth canal.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "chappie-16", "text": "The robot's voice-over: the machine narrates his own education in a childlike register, so the audience learns with him rather than about him.", "kind": "structure_trick", "quality": "strong", "original": null}
+  ]
+}

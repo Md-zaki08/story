@@ -1,0 +1,234 @@
+{
+  "brief": {
+    "genre": "",
+    "tone": "inspirational",
+    "setting": "future",
+    "time_period": "",
+    "must_include": [
+      "young programmer",
+      "robot family",
+      "endangered birds",
+      "natural pollination",
+      "pest control",
+      "world dependent on nature"
+    ],
+    "must_avoid": [
+      "romantic relationships",
+      "time travel",
+      "magic",
+      "fantasy creatures"
+    ],
+    "banned_tropes": [
+      "time travel",
+      "magic",
+      "fantasy creatures",
+      "superheroes",
+      "villains"
+    ],
+    "themes": [
+      "ecological conservation",
+      "innovation in technology",
+      "human-animal coexistence",
+      "sustainable living",
+      "predictive science"
+    ],
+    "search_queries": [
+      "predictive methods for wildlife conservation",
+      "robot families in future society",
+      "endangered species protection methods",
+      "natural pollination vs synthetic pollinators",
+      "pest control without pesticides",
+      "future technology in agriculture"
+    ],
+    "foreign_queries": [
+      "ancient bird migration patterns",
+      "botany and synthetic pollinators",
+      "future society economic models",
+      "sustainability in technology",
+      "ecological balance in literature"
+    ],
+    "hard_constraints_summary": "Must include young programmer, robot family, endangered birds, natural pollination, and pest control in a world dependent on nature. Must avoid romance, time travel, magic, and fantasy creatures.",
+    "soft_constraints_summary": "Desired tone is inspirational, focusing on the young programmer's innovative solution to save endangered birds and their ecological roles.",
+    "audience": "general public",
+    "brief": "In a world where outliving a robot family is common, a young programmer discovers a groundbreaking method to predict and prevent the Convenient Death of migratory birds, saving endangered species and their vital ecological roles in a world increasingly dependent on natural pollination and pest control."
+  },
+  "sources": [
+    {
+      "id": "wildlife-population",
+      "title": "Wildlife population",
+      "url": "https://en.wikipedia.org/wiki/Wildlife_population",
+      "diet": "A",
+      "atoms": 10,
+      "query": "predictive methods for wildlife conservation"
+    },
+    {
+      "id": "wildlife-conservation-technology",
+      "title": "Wildlife conservation technology",
+      "url": "https://en.wikipedia.org/wiki/Wildlife_conservation_technology",
+      "diet": "A",
+      "atoms": 10,
+      "query": "predictive methods for wildlife conservation"
+    },
+    {
+      "id": "conservation-biology",
+      "title": "Conservation biology",
+      "url": "https://en.wikipedia.org/wiki/Conservation_biology",
+      "diet": "A",
+      "atoms": 10,
+      "query": "predictive methods for wildlife conservation"
+    }
+  ],
+  "atoms": [
+    {
+      "id": "wildlife-population-01",
+      "text": "Counting the number of individuals in a population is key to predicting and identifying ecosystem collapse when populations of wildlife will go extinct.",
+      "source": "wildlife-population"
+    },
+    {
+      "id": "wildlife-population-02",
+      "text": "Economic reasons for doing wildlife surveys can include harvesting wildlife, controlling disease, or negotiating conflicts between multiple business interests who claim control of a resource.",
+      "source": "wildlife-population"
+    },
+    {
+      "id": "wildlife-population-03",
+      "text": "Population viability analysis is a method for determining if a population will go extinct in given circumstances.",
+      "source": "wildlife-population"
+    },
+    {
+      "id": "wildlife-population-04",
+      "text": "Wildlife populations are declining globally at fast rates.",
+      "source": "wildlife-population"
+    },
+    {
+      "id": "wildlife-population-05",
+      "text": "Understanding a wildlife population requires a census of the species, and the technique for accomplishing that vary depending on the species and circumstance.",
+      "source": "wildlife-population"
+    },
+    {
+      "id": "wildlife-population-06",
+      "text": "The Living Planet Index reported that from 1970-2020, the global populations in freshwater ecosystems have decreased by 85%, Terrestrial animals by 69%, and marine life by 56%",
+      "source": "wildlife-population"
+    },
+    {
+      "id": "wildlife-population-07",
+      "text": "Biologists who survey wildlife populations often work in a business context where they balance maintaining quality data, but complete the survey quickly, and work at low cost.",
+      "source": "wildlife-population"
+    },
+    {
+      "id": "wildlife-population-08",
+      "text": "Wildlife conservation and wildlife management are motivations for studying wildlife populations.",
+      "source": "wildlife-population"
+    },
+    {
+      "id": "wildlife-population-09",
+      "text": "Methods for measuring wildlife populations include mark and recapture, distance sampling, and examining a harvest.",
+      "source": "wildlife-population"
+    },
+    {
+      "id": "wildlife-population-10",
+      "text": "The concept of 'population' is applied to any species other than humans.",
+      "source": "wildlife-population"
+    },
+    {
+      "id": "wildlife-conservation-technology-01",
+      "text": "Remote sensing systems, devices that track animal movements, automated camera systems, drones or unmanned aerial vehicles (UAVs), methods that detect environmental DNA (eDNA), geographic information systems (GIS), and software platforms that process large datasets.",
+      "source": "wildlife-conservation-technology"
+    },
+    {
+      "id": "wildlife-conservation-technology-02",
+      "text": "Artificial intelligence (AI) and machine learning (ML) can automate data processing in wildlife conservation and support detection and can classify tasks across large ecological datasets.",
+      "source": "wildlife-conservation-technology"
+    },
+    {
+      "id": "wildlife-conservation-technology-03",
+      "text": "AI is increasingly applied to predict and prevent illegal activities, such as poaching, by analyzing spatial and temporal patterns in wildlife habitats, patrol routes, and historical incident records.",
+      "source": "wildlife-conservation-technology"
+    },
+    {
+      "id": "wildlife-conservation-technology-04",
+      "text": "WildDrone Autonomous Monitoring Project (Kenya) uses artificial intelligence (AI) to support wildlife conservation and emphasizes ethical use of technology.",
+      "source": "wildlife-conservation-technology"
+    },
+    {
+      "id": "wildlife-conservation-technology-05",
+      "text": "Camera traps are automated cameras used in wildlife ecology and conservation because they generate large amounts of data that can be used to estimate presence, occupancy, behaviour, and population trends.",
+      "source": "wildlife-conservation-technology"
+    },
+    {
+      "id": "wildlife-conservation-technology-06",
+      "text": "Drones and aerial monitoring are used to observe landscapes and wildlife from above, allowing researchers to cover broad areas much faster than on foot, gather high-resolution imagery, and monitor habitats that are remote or difficult for ground surveys.",
+      "source": "wildlife-conservation-technology"
+    },
+    {
+      "id": "wildlife-conservation-technology-07",
+      "text": "Genetic and eDNA technologies enable detection of multiple species from single environmental samples, providing a complementary approach to conventional monitoring techniques and can inform biodiversity assessments, conservation planning, and habitat management at regional and global scales.",
+      "source": "wildlife-conservation-technology"
+    },
+    {
+      "id": "wildlife-conservation-technology-08",
+      "text": "Pilot eDNA Metabarcoding Surveys on U.S. National Wildlife Refuges: Provides data for informed decisions about wildlife management.",
+      "source": "wildlife-conservation-technology"
+    },
+    {
+      "id": "wildlife-conservation-technology-09",
+      "text": "WildDrone's expansion into other regions: Creates pressure for innovation and adaptation to new environments.",
+      "source": "wildlife-conservation-technology"
+    },
+    {
+      "id": "wildlife-conservation-technology-10",
+      "text": "eDNA metabarcoding for aquatic biodiversity assessment: Reveals patterns of biodiversity across refuges.",
+      "source": "wildlife-conservation-technology"
+    },
+    {
+      "id": "conservation-biology-01",
+      "text": "The term conservation biology and its conception as a new field originated with the convening of a conference, leading to the formation of a new interdisciplinary field.",
+      "source": "conservation-biology"
+    },
+    {
+      "id": "conservation-biology-02",
+      "text": "The rapid decline of biological systems around the world leads to the characterization of conservation biology as a 'Discipline with a deadline'.",
+      "source": "conservation-biology"
+    },
+    {
+      "id": "conservation-biology-03",
+      "text": "Conservation biologists research and educate on biodiversity loss, species extinctions, and the negative effects on human society.",
+      "source": "conservation-biology"
+    },
+    {
+      "id": "conservation-biology-04",
+      "text": "The Mauryan emperor Ashoka issued edicts restricting animal and bird slaughter, demonstrating early conservation ethics in religious and philosophical traditions.",
+      "source": "conservation-biology"
+    },
+    {
+      "id": "conservation-biology-05",
+      "text": "The biodiversity crisis is projected to cause up to 50% of species to disappear within the next 50 years, leading to increased urgency in conservation efforts.",
+      "source": "conservation-biology"
+    },
+    {
+      "id": "conservation-biology-06",
+      "text": "Conservation biologists work in various sectors including government, universities, non-profit organizations, and industry, indicating the interdisciplinary nature of the field.",
+      "source": "conservation-biology"
+    },
+    {
+      "id": "conservation-biology-07",
+      "text": "Cultural practices such as resource boundaries, rules, and restrictions indicate the long history of conservation ethics in human cultures.",
+      "source": "conservation-biology"
+    },
+    {
+      "id": "conservation-biology-08",
+      "text": "The 'tragedy of the commons' principle is traced back to conservation biologists, highlighting the social dilemma of resource management.",
+      "source": "conservation-biology"
+    },
+    {
+      "id": "conservation-biology-09",
+      "text": "The rapid decline of biological systems and biodiversity loss are presented as major concerns for conservation biologists, creating tension around the need for immediate action.",
+      "source": "conservation-biology"
+    },
+    {
+      "id": "conservation-biology-10",
+      "text": "Conservation biologists advocate for a global response to the biodiversity crisis based on morals, ethics, and scientific reason, emphasizing the importance of interdisciplinary collaboration.",
+      "source": "conservation-biology"
+    }
+  ],
+  "new_clusters": []
+}

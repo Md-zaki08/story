@@ -1,0 +1,798 @@
+{
+  "beta": 0.7,
+  "judged": [
+    {
+      "rank_fused": 1,
+      "cluster_ids": [
+        18,
+        35,
+        84
+      ],
+      "cluster_names": [
+        "The Repair Ethic",
+        "Possession and Memory",
+        "Hologram Patient Family"
+      ],
+      "exemplar_atoms": [
+        "The repair café: a community resists disposal by fixing things together, so maintenance becomes political resistance.",
+        "The collector's guilt: a person hoards old objects and discovers they have been keeping company, so ownership becomes a relationship with dependents.",
+        "The caretaker who confides in the machine: a live-in aide tells secrets to a hologram, so intimacy is displaced onto a safe listener."
+      ],
+      "brief_anchors": [
+        18
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.47181,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.29434,
+        "cliche_distance": 0.44563
+      },
+      "z_coherence": 0.4865,
+      "z_unavailability": 1.4582,
+      "fusion": 1.1667,
+      "rank_coherence": 2167,
+      "rank_unavailability": 350,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "Imani wants to save her valley from the irrigation network's water trading, but the network's secrets threaten her and her community.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "The Repair Ethic cluster is the core engine.",
+        "closest_canon": [
+          {
+            "title": "The Handmaid's Tale",
+            "year": 1985,
+            "similarity": 0.4097
+          },
+          {
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "similarity": 0.3531
+          },
+          {
+            "title": "The Remains of the Day",
+            "year": 1989,
+            "similarity": 0.3295
+          }
+        ],
+        "canon_max_similarity": 0.4097,
+        "fallback": false
+      },
+      "quality": 22.125
+    },
+    {
+      "rank_fused": 2,
+      "cluster_ids": [
+        18,
+        54,
+        78
+      ],
+      "cluster_names": [
+        "The Repair Ethic",
+        "Memory Replay",
+        "Becomes Memory Remembers"
+      ],
+      "exemplar_atoms": [
+        "The repair café: a community resists disposal by fixing things together, so maintenance becomes political resistance.",
+        "The time recording: a device clones the player's past actions and replays them as a helper, so memory becomes a tool that can be edited and employed.",
+        "The fragment that remembers: each piece of a divided animal may retain the original's habits, so copies inherit without being told."
+      ],
+      "brief_anchors": [
+        18
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.4855,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.29434,
+        "cliche_distance": 0.43724
+      },
+      "z_coherence": 0.5735,
+      "z_unavailability": 1.4171,
+      "fusion": 1.164,
+      "rank_coherence": 1954,
+      "rank_unavailability": 400,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "Imani wants to fix the irrigation network to save her valley, but discovers the network is secretly trading water, leading to a conflict with the network's creators",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "",
+        "closest_canon": [
+          {
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "similarity": 0.469
+          },
+          {
+            "title": "The Matrix",
+            "year": 1999,
+            "similarity": 0.4615
+          },
+          {
+            "title": "The Handmaid's Tale",
+            "year": 1985,
+            "similarity": 0.3838
+          }
+        ],
+        "canon_max_similarity": 0.469,
+        "fallback": false
+      },
+      "quality": 21.768
+    },
+    {
+      "rank_fused": 3,
+      "cluster_ids": [
+        22,
+        103,
+        108
+      ],
+      "cluster_names": [
+        "Digital Afterlives",
+        "Simulation and Revision",
+        "Time-Shifting Narratives"
+      ],
+      "exemplar_atoms": [
+        "The narrator frame from the far future: the story is told by machines who study humans, so the whole film is an artifact of a post-human archive.",
+        "The Cold War setting: the story is placed in the past, so the robot's choice reads as a revision of real history.",
+        "The nightly reset: android hosts have their memories wiped after every narrative loop, so the same day can be sold to guests forever and no host accumulates a past."
+      ],
+      "brief_anchors": [
+        103
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.44227,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.29434,
+        "cliche_distance": 0.44615
+      },
+      "z_coherence": 0.2988,
+      "z_unavailability": 1.4607,
+      "fusion": 1.1121,
+      "rank_coherence": 2604,
+      "rank_unavailability": 346,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "Imani wants to understand the autonomous irrigation network's secrets, but her discovery of water trading threatens her and the valley's future.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "no dead weight",
+        "closest_canon": [
+          {
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "similarity": 0.4981
+          },
+          {
+            "title": "The Matrix",
+            "year": 1999,
+            "similarity": 0.4683
+          },
+          {
+            "title": "The Lathe of Heaven",
+            "year": 1971,
+            "similarity": 0.4407
+          }
+        ],
+        "canon_max_similarity": 0.4981,
+        "fallback": false
+      },
+      "quality": 21.567
+    },
+    {
+      "rank_fused": 4,
+      "cluster_ids": [
+        18,
+        34,
+        108
+      ],
+      "cluster_names": [
+        "The Repair Ethic",
+        "Forgetting and Holding",
+        "Time-Shifting Narratives"
+      ],
+      "exemplar_atoms": [
+        "The repair café: a community resists disposal by fixing things together, so maintenance becomes political resistance.",
+        "The person who forgets the dead: a character with no object permanence cannot hold an absent loved one in mind, so grief requires a cognitive achievement.",
+        "The nightly reset: android hosts have their memories wiped after every narrative loop, so the same day can be sold to guests forever and no host accumulates a past."
+      ],
+      "brief_anchors": [
+        18
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.46472,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.29434,
+        "cliche_distance": 0.43097
+      },
+      "z_coherence": 0.4415,
+      "z_unavailability": 1.3864,
+      "fusion": 1.1029,
+      "rank_coherence": 2285,
+      "rank_unavailability": 436,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "Imani wants to fix the irrigation network to save her valley, but discovers it is secretly trading water, leading to a conflict with the network's creators.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "The engine captures the core conflict and stakes without relying on tropes or familiar story elements.",
+        "closest_canon": [
+          {
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "similarity": 0.5591
+          },
+          {
+            "title": "The Handmaid's Tale",
+            "year": 1985,
+            "similarity": 0.3873
+          },
+          {
+            "title": "The Remains of the Day",
+            "year": 1989,
+            "similarity": 0.3684
+          }
+        ],
+        "canon_max_similarity": 0.5591,
+        "fallback": false
+      },
+      "quality": 21.197
+    },
+    {
+      "rank_fused": 5,
+      "cluster_ids": [
+        21,
+        33,
+        103
+      ],
+      "cluster_names": [
+        "Polite Violence",
+        "The Editable Past",
+        "Simulation and Revision"
+      ],
+      "exemplar_atoms": [
+        "Voice-over interiority: the protagonist's spoken letters let the audience hear him composing himself, so the narration is itself the act of learning to feel.",
+        "Memories as evidence: where memory can be implanted, a memory proves identity only if another body can corroborate it.",
+        "The Cold War setting: the story is placed in the past, so the robot's choice reads as a revision of real history."
+      ],
+      "brief_anchors": [
+        103
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.45506,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.52179,
+        "cliche_distance": 0.39374
+      },
+      "z_coherence": -0.2673,
+      "z_unavailability": 1.6781,
+      "fusion": 1.0945,
+      "rank_coherence": 4002,
+      "rank_unavailability": 163,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "Imani wants to repair the irrigation network to save her valley from drought, but discovers the network is secretly trading water to keep a dead orchard alive, leading to a conflict with the network's creators and her own ethics.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "no dead weight cluster",
+        "closest_canon": [
+          {
+            "title": "Story of Your Life / Arrival",
+            "year": 1998,
+            "similarity": 0.4363
+          },
+          {
+            "title": "The Matrix",
+            "year": 1999,
+            "similarity": 0.4247
+          },
+          {
+            "title": "Arrival",
+            "year": 2016,
+            "similarity": 0.3912
+          }
+        ],
+        "canon_max_similarity": 0.4363,
+        "fallback": false
+      },
+      "quality": 21.929
+    },
+    {
+      "rank_fused": 6,
+      "cluster_ids": [
+        18,
+        54,
+        84
+      ],
+      "cluster_names": [
+        "The Repair Ethic",
+        "Memory Replay",
+        "Hologram Patient Family"
+      ],
+      "exemplar_atoms": [
+        "The repair café: a community resists disposal by fixing things together, so maintenance becomes political resistance.",
+        "The time recording: a device clones the player's past actions and replays them as a helper, so memory becomes a tool that can be edited and employed.",
+        "The caretaker who confides in the machine: a live-in aide tells secrets to a hologram, so intimacy is displaced onto a safe listener."
+      ],
+      "brief_anchors": [
+        18
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.4197,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.52179,
+        "cliche_distance": 0.41229
+      },
+      "z_coherence": -0.492,
+      "z_unavailability": 1.769,
+      "fusion": 1.0907,
+      "rank_coherence": 4514,
+      "rank_unavailability": 121,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "Imani wants to fix the irrigation network to save her valley, but discovers it is secretly trading water, leading to a conflict with the network's operators.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "no dead weight",
+        "closest_canon": [
+          {
+            "title": "The Matrix",
+            "year": 1999,
+            "similarity": 0.4333
+          },
+          {
+            "title": "The Handmaid's Tale",
+            "year": 1985,
+            "similarity": 0.3876
+          },
+          {
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "similarity": 0.3708
+          }
+        ],
+        "canon_max_similarity": 0.4333,
+        "fallback": false
+      },
+      "quality": 21.946
+    },
+    {
+      "rank_fused": 7,
+      "cluster_ids": [
+        59,
+        103,
+        108
+      ],
+      "cluster_names": [
+        "Deterministic Forecasts",
+        "Simulation and Revision",
+        "Time-Shifting Narratives"
+      ],
+      "exemplar_atoms": [
+        "The hundred-year wait: a true life expectancy can only be known after everyone dies, so certainty arrives too late to be useful.",
+        "The Cold War setting: the story is placed in the past, so the robot's choice reads as a revision of real history.",
+        "The nightly reset: android hosts have their memories wiped after every narrative loop, so the same day can be sold to guests forever and no host accumulates a past."
+      ],
+      "brief_anchors": [
+        103
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.40668,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.29434,
+        "cliche_distance": 0.45955
+      },
+      "z_coherence": 0.0726,
+      "z_unavailability": 1.5264,
+      "fusion": 1.0902,
+      "rank_coherence": 3130,
+      "rank_unavailability": 281,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "Imani wants to fix the irrigation network to save her valley, but discovers it has been secretly trading water, leading to a conflict with the network's creators and her own ethics.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "The engine captures the core conflict and stakes without relying on tropes or familiar story elements.",
+        "closest_canon": [
+          {
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "similarity": 0.4692
+          },
+          {
+            "title": "The Matrix",
+            "year": 1999,
+            "similarity": 0.4338
+          },
+          {
+            "title": "One Hundred Years of Solitude",
+            "year": 1967,
+            "similarity": 0.3995
+          }
+        ],
+        "canon_max_similarity": 0.4692,
+        "fallback": false
+      },
+      "quality": 21.73
+    },
+    {
+      "rank_fused": 8,
+      "cluster_ids": [
+        51,
+        55,
+        110
+      ],
+      "cluster_names": [
+        "The Afterlife Economy",
+        "Intimacy by Proxy",
+        "Eternity and Divergence"
+      ],
+      "exemplar_atoms": [
+        "The simulated resort for the dead: elderly people can visit and eventually upload to a virtual town, so heaven is a subscription service.",
+        "The babysitter as witness: an outsider is asked to judge the couple's memories, so intimacy is outsourced to a stranger.",
+        "The wife who chooses the copy: a spouse uploads her dying husband against his friend's warning, so love is tested as willingness to accept a substitute."
+      ],
+      "brief_anchors": [
+        51
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.46271,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.0669,
+        "cliche_distance": 0.44836
+      },
+      "z_coherence": 1.0761,
+      "z_unavailability": 0.9974,
+      "fusion": 1.021,
+      "rank_coherence": 981,
+      "rank_unavailability": 1058,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "Imani wants to fix the irrigation network to save her valley, but discovers it is secretly trading water, leading to conflict with the network's creators and her own moral dilemma.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "",
+        "closest_canon": [
+          {
+            "title": "Story of Your Life / Arrival",
+            "year": 1998,
+            "similarity": 0.4109
+          },
+          {
+            "title": "The Lathe of Heaven",
+            "year": 1971,
+            "similarity": 0.4036
+          },
+          {
+            "title": "Blade Runner 2049",
+            "year": 2017,
+            "similarity": 0.3916
+          }
+        ],
+        "canon_max_similarity": 0.4109,
+        "fallback": false
+      },
+      "quality": 22.045
+    },
+    {
+      "rank_fused": 9,
+      "cluster_ids": [
+        46,
+        103,
+        108
+      ],
+      "cluster_names": [
+        "The Last of It",
+        "Simulation and Revision",
+        "Time-Shifting Narratives"
+      ],
+      "exemplar_atoms": [
+        "The last survivor: the final member inherits the remaining fund, so the story's ending is a waiting game with a single winner.",
+        "The Cold War setting: the story is placed in the past, so the robot's choice reads as a revision of real history.",
+        "The nightly reset: android hosts have their memories wiped after every narrative loop, so the same day can be sold to guests forever and no host accumulates a past."
+      ],
+      "brief_anchors": [
+        103
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.35516,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.29434,
+        "cliche_distance": 0.46441
+      },
+      "z_coherence": -0.2548,
+      "z_unavailability": 1.5501,
+      "fusion": 1.0087,
+      "rank_coherence": 3964,
+      "rank_unavailability": 258,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "Imani wants to save her valley from drought, but the autonomous irrigation network she works with secretly trades water, causing her to question her own identity and the true purpose of her work.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "no dead weight cluster",
+        "closest_canon": [
+          {
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "similarity": 0.4542
+          },
+          {
+            "title": "One Hundred Years of Solitude",
+            "year": 1967,
+            "similarity": 0.4404
+          },
+          {
+            "title": "The Matrix",
+            "year": 1999,
+            "similarity": 0.4235
+          }
+        ],
+        "canon_max_similarity": 0.4542,
+        "fallback": false
+      },
+      "quality": 21.779
+    },
+    {
+      "rank_fused": 10,
+      "cluster_ids": [
+        18,
+        106,
+        108
+      ],
+      "cluster_names": [
+        "The Repair Ethic",
+        "Data Center Orphans",
+        "Time-Shifting Narratives"
+      ],
+      "exemplar_atoms": [
+        "The repair café: a community resists disposal by fixing things together, so maintenance becomes political resistance.",
+        "The repair that offends: mending an old object can be experienced as mutilation, so care and violation are indistinguishable to the thing being cared for.",
+        "The nightly reset: android hosts have their memories wiped after every narrative loop, so the same day can be sold to guests forever and no host accumulates a past."
+      ],
+      "brief_anchors": [
+        18
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.34791,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.29434,
+        "cliche_distance": 0.46759
+      },
+      "z_coherence": -0.3009,
+      "z_unavailability": 1.5657,
+      "fusion": 1.0057,
+      "rank_coherence": 4084,
+      "rank_unavailability": 250,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "Imani wants to fix the irrigation network to save her valley, but discovers it is secretly trading water, forcing her to confront her own complicity and the ethics of technology.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "no dead weight",
+        "closest_canon": [
+          {
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "similarity": 0.4494
+          },
+          {
+            "title": "Never Let Me Go",
+            "year": 2005,
+            "similarity": 0.3283
+          },
+          {
+            "title": "The Matrix",
+            "year": 1999,
+            "similarity": 0.3231
+          }
+        ],
+        "canon_max_similarity": 0.4494,
+        "fallback": false
+      },
+      "quality": 21.806
+    },
+    {
+      "rank_fused": 11,
+      "cluster_ids": [
+        64,
+        89,
+        103
+      ],
+      "cluster_names": [
+        "Uploaded Videos",
+        "Simulation Revelation",
+        "Simulation and Revision"
+      ],
+      "exemplar_atoms": [
+        "The looping song: the clone is punished with an endless Christmas tune, so repetition becomes torture.",
+        "The late reveal: the audience learns the true survivor only at the end, so the whole film is retroactively reframed as a simulation.",
+        "The Cold War setting: the story is placed in the past, so the robot's choice reads as a revision of real history."
+      ],
+      "brief_anchors": [
+        103
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.4136,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.29434,
+        "cliche_distance": 0.42885
+      },
+      "z_coherence": 0.1166,
+      "z_unavailability": 1.376,
+      "fusion": 0.9982,
+      "rank_coherence": 3030,
+      "rank_unavailability": 444,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "Imani wants to fix the irrigation network to save her valley from drought, but discovers it has been secretly trading water, leading to a confrontation with the network's creators. What blocks her is her own skepticism and the fear of being seen as a traitor.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "The engine is a clear and coherent story with fresh elements.",
+        "closest_canon": [
+          {
+            "title": "The Matrix",
+            "year": 1999,
+            "similarity": 0.5444
+          },
+          {
+            "title": "The Lathe of Heaven",
+            "year": 1971,
+            "similarity": 0.432
+          },
+          {
+            "title": "I, Robot",
+            "year": 1950,
+            "similarity": 0.4163
+          }
+        ],
+        "canon_max_similarity": 0.5444,
+        "fallback": false
+      },
+      "quality": 21.233
+    },
+    {
+      "rank_fused": 12,
+      "cluster_ids": [
+        18,
+        62,
+        78
+      ],
+      "cluster_names": [
+        "The Repair Ethic",
+        "Secure Base",
+        "Becomes Memory Remembers"
+      ],
+      "exemplar_atoms": [
+        "The repair café: a community resists disposal by fixing things together, so maintenance becomes political resistance.",
+        "The vanishing parent: a caregiver leaves the room and the child's distress reveals whether they believe in return, so attachment is tested by absence.",
+        "The fragment that remembers: each piece of a divided animal may retain the original's habits, so copies inherit without being told."
+      ],
+      "brief_anchors": [
+        18
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.47061,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.29434,
+        "cliche_distance": 0.3947
+      },
+      "z_coherence": 0.4789,
+      "z_unavailability": 1.2087,
+      "fusion": 0.9898,
+      "rank_coherence": 2190,
+      "rank_unavailability": 650,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "Imani wants to fix the irrigation network to save her valley, but discovers it is secretly trading water, leading to a conflict with the network's creators and her own ethics.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "",
+        "closest_canon": [
+          {
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "similarity": 0.4883
+          },
+          {
+            "title": "The Handmaid's Tale",
+            "year": 1985,
+            "similarity": 0.3982
+          },
+          {
+            "title": "The Matrix",
+            "year": 1999,
+            "similarity": 0.3565
+          }
+        ],
+        "canon_max_similarity": 0.4883,
+        "fallback": false
+      },
+      "quality": 21.565
+    }
+  ],
+  "survivors": 12
+}

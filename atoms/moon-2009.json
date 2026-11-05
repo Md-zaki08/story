@@ -1,0 +1,22 @@
+{
+  "source": "moon-2009",
+  "diet": "A",
+  "atoms": [
+    {"id": "moon-2009-01", "text": "The clone who meets himself: a solitary worker discovers his own duplicate, so the protagonist's uniqueness — the basis of his identity — is revealed as consumable.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "moon-2009-02", "text": "Clones with implanted memories: each copy believes he is the original with a family waiting on Earth, so hope is a manufactured incentive.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "moon-2009-03", "text": "The three-year contract as lifespan: clones are activated for a fixed term and disposed of when they degrade, so employment is literally a death sentence.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "moon-2009-04", "text": "The AI caretaker who chooses sides: a helper robot follows corporate orders until it quietly helps the clones, so obedience is a dial rather than a switch.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "moon-2009-05", "text": "The value of a life measured in output: the company treats each clone as a replaceable unit, so the story asks what a person is worth beyond productivity.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "moon-2009-06", "text": "The forbidden live call: a communications blackout is revealed as deliberate isolation, so the protagonist's loneliness is policy rather than accident.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "moon-2009-07", "text": "Two versions of the same man: older and newer clones cooperate and compete, so selfhood becomes a negotiation between copies with different remaining time.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "moon-2009-08", "text": "The hidden vault of sleeping clones: a room full of identical bodies turns a personal mystery into an industrial inventory.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "moon-2009-09", "text": "Memories as leased property: the clones' families are real memories belonging to another man, so love is genuine in the copy and stolen from the original.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "moon-2009-10", "text": "The far side of the Moon: isolation is geographical and total, so the setting enforces the theme of being out of sight and out of mind.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "moon-2009-11", "text": "The dying clone's escape plan: a copy near death helps his successor escape, so solidarity across replacements becomes a form of inheritance.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "moon-2009-12", "text": "Helium-3 as the world's fuel: one worker sustains an energy economy, so the protagonist's solitude is the hidden cost of civilization's comfort.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "moon-2009-13", "text": "Recorded messages from home: family videos are the only connection to Earth, so intimacy is mediated by a one-way archive.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "moon-2009-14", "text": "The crash that starts the countdown: an accident reveals the replacement protocol, so the plot's inciting incident is the system's maintenance routine.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "moon-2009-15", "text": "The right to know you are a copy: the clones' ignorance is engineered, so dignity is defined as access to the truth about one's own origin.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "moon-2009-16", "text": "The AI as witness and accomplice: the caretaker knows the whole truth and reveals it slowly, so care and complicity are performed in the same voice.", "kind": "character_dynamic", "quality": "strong", "original": null}
+  ]
+}

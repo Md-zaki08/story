@@ -1,0 +1,799 @@
+{
+  "beta": 0.7,
+  "judged": [
+    {
+      "rank_fused": 1,
+      "cluster_ids": [
+        42,
+        89,
+        108
+      ],
+      "cluster_names": [
+        "Android Dead Family",
+        "Simulation Revelation",
+        "Time-Shifting Narratives"
+      ],
+      "exemplar_atoms": [
+        "The other woman who loved the android: a stranger copied his memories into her home, so two mourners share a dead person's archive.",
+        "The late reveal: the audience learns the true survivor only at the end, so the whole film is retroactively reframed as a simulation.",
+        "The nightly reset: android hosts have their memories wiped after every narrative loop, so the same day can be sold to guests forever and no host accumulates a past."
+      ],
+      "brief_anchors": [
+        42
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.42468,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.17971,
+        "cliche_distance": 0.47872
+      },
+      "z_coherence": 0.1478,
+      "z_unavailability": 1.8214,
+      "fusion": 1.3193,
+      "rank_coherence": 2882,
+      "rank_unavailability": 84,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "Mara wants to broker memories but is hindered by the decaying AI archive and the flooded mining town, creating a tense situation for her survival and her work.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "",
+        "closest_canon": [
+          {
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "similarity": 0.5135
+          },
+          {
+            "title": "Beloved",
+            "year": 1987,
+            "similarity": 0.4726
+          },
+          {
+            "title": "The Buried Giant",
+            "year": 2015,
+            "similarity": 0.4286
+          }
+        ],
+        "canon_max_similarity": 0.5135,
+        "fallback": false
+      },
+      "quality": 21.579
+    },
+    {
+      "rank_fused": 2,
+      "cluster_ids": [
+        22,
+        78,
+        108
+      ],
+      "cluster_names": [
+        "Digital Afterlives",
+        "Becomes Memory Remembers",
+        "Time-Shifting Narratives"
+      ],
+      "exemplar_atoms": [
+        "The narrator frame from the far future: the story is told by machines who study humans, so the whole film is an artifact of a post-human archive.",
+        "The fragment that remembers: each piece of a divided animal may retain the original's habits, so copies inherit without being told.",
+        "The nightly reset: android hosts have their memories wiped after every narrative loop, so the same day can be sold to guests forever and no host accumulates a past."
+      ],
+      "brief_anchors": [
+        22
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.48358,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.17971,
+        "cliche_distance": 0.44646
+      },
+      "z_coherence": 0.5745,
+      "z_unavailability": 1.6155,
+      "fusion": 1.3032,
+      "rank_coherence": 1918,
+      "rank_unavailability": 198,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "who wants what and what blocks them",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "one sentence naming the engine or the dead weight",
+        "closest_canon": [
+          {
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "similarity": 0.5946
+          },
+          {
+            "title": "One Hundred Years of Solitude",
+            "year": 1967,
+            "similarity": 0.472
+          },
+          {
+            "title": "Story of Your Life / Arrival",
+            "year": 1998,
+            "similarity": 0.441
+          }
+        ],
+        "canon_max_similarity": 0.5946,
+        "fallback": false
+      },
+      "quality": 21.084
+    },
+    {
+      "rank_fused": 3,
+      "cluster_ids": [
+        35,
+        42,
+        108
+      ],
+      "cluster_names": [
+        "Possession and Memory",
+        "Android Dead Family",
+        "Time-Shifting Narratives"
+      ],
+      "exemplar_atoms": [
+        "The collector's guilt: a person hoards old objects and discovers they have been keeping company, so ownership becomes a relationship with dependents.",
+        "The other woman who loved the android: a stranger copied his memories into her home, so two mourners share a dead person's archive.",
+        "The nightly reset: android hosts have their memories wiped after every narrative loop, so the same day can be sold to guests forever and no host accumulates a past."
+      ],
+      "brief_anchors": [
+        42
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.45354,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.17971,
+        "cliche_distance": 0.45575
+      },
+      "z_coherence": 0.3569,
+      "z_unavailability": 1.6748,
+      "fusion": 1.2794,
+      "rank_coherence": 2385,
+      "rank_unavailability": 163,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "Mara, a woman who brokers memories through a decaying AI archive in a flooded mining town, wants to keep her job and her sanity, but the decaying AI and the memories of the dead miners threaten to consume her.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "no derivation grounds",
+        "closest_canon": [
+          {
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "similarity": 0.5327
+          },
+          {
+            "title": "The Buried Giant",
+            "year": 2015,
+            "similarity": 0.4838
+          },
+          {
+            "title": "Beloved",
+            "year": 1987,
+            "similarity": 0.4731
+          }
+        ],
+        "canon_max_similarity": 0.5327,
+        "fallback": false
+      },
+      "quality": 21.444
+    },
+    {
+      "rank_fused": 4,
+      "cluster_ids": [
+        32,
+        35,
+        42
+      ],
+      "cluster_names": [
+        "Past and Present",
+        "Possession and Memory",
+        "Android Dead Family"
+      ],
+      "exemplar_atoms": [
+        "The design lab as dating market: researchers prototype companions in a corporate setting, so intimacy is industrialized.",
+        "The collector's guilt: a person hoards old objects and discovers they have been keeping company, so ownership becomes a relationship with dependents.",
+        "The other woman who loved the android: a stranger copied his memories into her home, so two mourners share a dead person's archive."
+      ],
+      "brief_anchors": [
+        42
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.47602,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.40672,
+        "cliche_distance": 0.39983
+      },
+      "z_coherence": -0.1296,
+      "z_unavailability": 1.822,
+      "fusion": 1.2365,
+      "rank_coherence": 3583,
+      "rank_unavailability": 83,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "Mara, a woman who brokers memories through a decaying AI archive in a flooded mining town faces the loss of her only connection to the past as she struggles to maintain her identity in a world that is slowly drowning.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "none",
+        "closest_canon": [
+          {
+            "title": "The Buried Giant",
+            "year": 2015,
+            "similarity": 0.4385
+          },
+          {
+            "title": "Memento",
+            "year": 2000,
+            "similarity": 0.4128
+          },
+          {
+            "title": "Get Out",
+            "year": 2017,
+            "similarity": 0.4078
+          }
+        ],
+        "canon_max_similarity": 0.4385,
+        "fallback": false
+      },
+      "quality": 21.987
+    },
+    {
+      "rank_fused": 5,
+      "cluster_ids": [
+        42,
+        84,
+        108
+      ],
+      "cluster_names": [
+        "Android Dead Family",
+        "Hologram Patient Family",
+        "Time-Shifting Narratives"
+      ],
+      "exemplar_atoms": [
+        "The other woman who loved the android: a stranger copied his memories into her home, so two mourners share a dead person's archive.",
+        "The caretaker who confides in the machine: a live-in aide tells secrets to a hologram, so intimacy is displaced onto a safe listener.",
+        "The nightly reset: android hosts have their memories wiped after every narrative loop, so the same day can be sold to guests forever and no host accumulates a past."
+      ],
+      "brief_anchors": [
+        42
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.43909,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.17971,
+        "cliche_distance": 0.44071
+      },
+      "z_coherence": 0.2522,
+      "z_unavailability": 1.5788,
+      "fusion": 1.1808,
+      "rank_coherence": 2644,
+      "rank_unavailability": 226,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "Mara, a woman who brokers memories through a decaying AI archive in a flooded mining town, faces the haunting of her past and the loss of her only connection to the outside world as she tries to broker memories for others, but the memories she holds are the only thing keeping her alive, and the floo",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "none",
+        "closest_canon": [
+          {
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "similarity": 0.5075
+          },
+          {
+            "title": "Beloved",
+            "year": 1987,
+            "similarity": 0.4703
+          },
+          {
+            "title": "The Buried Giant",
+            "year": 2015,
+            "similarity": 0.4176
+          }
+        ],
+        "canon_max_similarity": 0.5075,
+        "fallback": false
+      },
+      "quality": 21.545
+    },
+    {
+      "rank_fused": 6,
+      "cluster_ids": [
+        21,
+        54,
+        103
+      ],
+      "cluster_names": [
+        "Polite Violence",
+        "Memory Replay",
+        "Simulation and Revision"
+      ],
+      "exemplar_atoms": [
+        "Voice-over interiority: the protagonist's spoken letters let the audience hear him composing himself, so the narration is itself the act of learning to feel.",
+        "The time recording: a device clones the player's past actions and replays them as a helper, so memory becomes a tool that can be edited and employed.",
+        "The Cold War setting: the story is placed in the past, so the robot's choice reads as a revision of real history."
+      ],
+      "brief_anchors": [
+        103
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.49504,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.17971,
+        "cliche_distance": 0.40686
+      },
+      "z_coherence": 0.6576,
+      "z_unavailability": 1.3627,
+      "fusion": 1.1512,
+      "rank_coherence": 1736,
+      "rank_unavailability": 457,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KILL",
+        "engine": "who wants what and what blocks them",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "The Memory Replay cluster is too similar to The Matrix and Story of Your Life, which are canon hits with similarity scores of 0.41 and 0.36 respectively.",
+        "closest_canon": [
+          {
+            "title": "The Matrix",
+            "year": 1999,
+            "similarity": 0.4998
+          },
+          {
+            "title": "Story of Your Life / Arrival",
+            "year": 1998,
+            "similarity": 0.4058
+          },
+          {
+            "title": "The Lathe of Heaven",
+            "year": 1971,
+            "similarity": 0.3627
+          }
+        ],
+        "canon_max_similarity": 0.4998,
+        "fallback": false
+      },
+      "quality": 21.577
+    },
+    {
+      "rank_fused": 7,
+      "cluster_ids": [
+        42,
+        54,
+        98
+      ],
+      "cluster_names": [
+        "Android Dead Family",
+        "Memory Replay",
+        "The Borrowed Childhood"
+      ],
+      "exemplar_atoms": [
+        "The other woman who loved the android: a stranger copied his memories into her home, so two mourners share a dead person's archive.",
+        "The time recording: a device clones the player's past actions and replays them as a helper, so memory becomes a tool that can be edited and employed.",
+        "The memory that predates the body: implanted memories give the synthetic person a past she never lived, so nostalgia is a manufactured resource."
+      ],
+      "brief_anchors": [
+        42
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.51045,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.9527,
+        "cliche_distance": 0.43446
+      },
+      "z_coherence": 1.4186,
+      "z_unavailability": 1.0347,
+      "fusion": 1.1499,
+      "rank_coherence": 544,
+      "rank_unavailability": 943,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "who wants what and what blocks them",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "no need to kill, as the candidate meets the requirements and has a clear engine",
+        "closest_canon": [
+          {
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "similarity": 0.4418
+          },
+          {
+            "title": "The Buried Giant",
+            "year": 2015,
+            "similarity": 0.4321
+          },
+          {
+            "title": "The Handmaid's Tale",
+            "year": 1985,
+            "similarity": 0.39
+          }
+        ],
+        "canon_max_similarity": 0.4418,
+        "fallback": false
+      },
+      "quality": 21.924
+    },
+    {
+      "rank_fused": 8,
+      "cluster_ids": [
+        54,
+        66,
+        103
+      ],
+      "cluster_names": [
+        "Memory Replay",
+        "Cabin Confession",
+        "Simulation and Revision"
+      ],
+      "exemplar_atoms": [
+        "The time recording: a device clones the player's past actions and replays them as a helper, so memory becomes a tool that can be edited and employed.",
+        "The surveillance confession: a target realizes every private act has been recorded and interpreted by a machine, so the interrogation happens before the arrest.",
+        "The Cold War setting: the story is placed in the past, so the robot's choice reads as a revision of real history."
+      ],
+      "brief_anchors": [
+        103
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.46241,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.17971,
+        "cliche_distance": 0.41458
+      },
+      "z_coherence": 0.4212,
+      "z_unavailability": 1.412,
+      "fusion": 1.1148,
+      "rank_coherence": 2256,
+      "rank_unavailability": 411,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "Mara, a woman who brokers memories through a decaying AI archive in a flooded mining town, faces the haunting memories she brokered and the oppressive surveillance of the AI, all while trying to escape the town's impending doom.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "The closest canon work is effectively the same story.",
+        "closest_canon": [
+          {
+            "title": "The Matrix",
+            "year": 1999,
+            "similarity": 0.519
+          },
+          {
+            "title": "1984",
+            "year": 1949,
+            "similarity": 0.4504
+          },
+          {
+            "title": "Blade Runner 2049",
+            "year": 2017,
+            "similarity": 0.399
+          }
+        ],
+        "canon_max_similarity": 0.519,
+        "fallback": false
+      },
+      "quality": 21.443
+    },
+    {
+      "rank_fused": 9,
+      "cluster_ids": [
+        42,
+        95,
+        108
+      ],
+      "cluster_names": [
+        "Android Dead Family",
+        "Digital Memory",
+        "Time-Shifting Narratives"
+      ],
+      "exemplar_atoms": [
+        "The other woman who loved the android: a stranger copied his memories into her home, so two mourners share a dead person's archive.",
+        "The grief chatbot: a service reconstructs a dead partner from social media and messages, so mourning is automated.",
+        "The nightly reset: android hosts have their memories wiped after every narrative loop, so the same day can be sold to guests forever and no host accumulates a past."
+      ],
+      "brief_anchors": [
+        42
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.47607,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.17971,
+        "cliche_distance": 0.4009
+      },
+      "z_coherence": 0.5202,
+      "z_unavailability": 1.3247,
+      "fusion": 1.0834,
+      "rank_coherence": 2026,
+      "rank_unavailability": 506,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "Mara wants to broker memories for a living in a flooded mining town, but the decaying AI archive and the oppressive silence of the town threaten to consume her identity and sanity.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "no dead weight cluster",
+        "closest_canon": [
+          {
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "similarity": 0.5102
+          },
+          {
+            "title": "The Buried Giant",
+            "year": 2015,
+            "similarity": 0.4818
+          },
+          {
+            "title": "Beloved",
+            "year": 1987,
+            "similarity": 0.4208
+          }
+        ],
+        "canon_max_similarity": 0.5102,
+        "fallback": false
+      },
+      "quality": 21.48
+    },
+    {
+      "rank_fused": 10,
+      "cluster_ids": [
+        42,
+        54,
+        55
+      ],
+      "cluster_names": [
+        "Android Dead Family",
+        "Memory Replay",
+        "Intimacy by Proxy"
+      ],
+      "exemplar_atoms": [
+        "The other woman who loved the android: a stranger copied his memories into her home, so two mourners share a dead person's archive.",
+        "The time recording: a device clones the player's past actions and replays them as a helper, so memory becomes a tool that can be edited and employed.",
+        "The babysitter as witness: an outsider is asked to judge the couple's memories, so intimacy is outsourced to a stranger."
+      ],
+      "brief_anchors": [
+        42
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.51695,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.9527,
+        "cliche_distance": 0.4162
+      },
+      "z_coherence": 1.4657,
+      "z_unavailability": 0.9182,
+      "fusion": 1.0825,
+      "rank_coherence": 504,
+      "rank_unavailability": 1193,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "Mara wants to broker memories for others in a flooded mining town, but her connection to the decaying AI archive and the memories of the town's past tragedies block her ability to do so effectively.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "The engine is clear and coherent, and the story is fresh with the combination of Mara, the flooded mining town, and the decaying AI archive.",
+        "closest_canon": [
+          {
+            "title": "The Buried Giant",
+            "year": 2015,
+            "similarity": 0.3893
+          },
+          {
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "similarity": 0.3892
+          },
+          {
+            "title": "The Murderbot Diaries",
+            "year": 2017,
+            "similarity": 0.3891
+          }
+        ],
+        "canon_max_similarity": 0.3893,
+        "fallback": false
+      },
+      "quality": 22.205
+    },
+    {
+      "rank_fused": 11,
+      "cluster_ids": [
+        35,
+        42,
+        61
+      ],
+      "cluster_names": [
+        "Possession and Memory",
+        "Android Dead Family",
+        "Environmental Edits"
+      ],
+      "exemplar_atoms": [
+        "The collector's guilt: a person hoards old objects and discovers they have been keeping company, so ownership becomes a relationship with dependents.",
+        "The other woman who loved the android: a stranger copied his memories into her home, so two mourners share a dead person's archive.",
+        "The buried miracle: a replicant corpse shows signs of childbirth, so a single body rewrites the rules of an entire species."
+      ],
+      "brief_anchors": [
+        42
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.48739,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.17971,
+        "cliche_distance": 0.39447
+      },
+      "z_coherence": 0.6022,
+      "z_unavailability": 1.2836,
+      "fusion": 1.0792,
+      "rank_coherence": 1860,
+      "rank_unavailability": 558,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "Mara, a woman who brokers memories through a decaying AI archive in a flooded mining town, wants to uncover the truth about her past and the fate of the AI, but is haunted by the memories she brokered and the guilt of keeping them alive, while the town's flooding and the AI's decay threaten to consu",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "none",
+        "closest_canon": [
+          {
+            "title": "The Buried Giant",
+            "year": 2015,
+            "similarity": 0.5157
+          },
+          {
+            "title": "Beloved",
+            "year": 1987,
+            "similarity": 0.4764
+          },
+          {
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "similarity": 0.4301
+          }
+        ],
+        "canon_max_similarity": 0.5157,
+        "fallback": false
+      },
+      "quality": 21.445
+    },
+    {
+      "rank_fused": 12,
+      "cluster_ids": [
+        22,
+        78,
+        103
+      ],
+      "cluster_names": [
+        "Digital Afterlives",
+        "Becomes Memory Remembers",
+        "Simulation and Revision"
+      ],
+      "exemplar_atoms": [
+        "The narrator frame from the far future: the story is told by machines who study humans, so the whole film is an artifact of a post-human archive.",
+        "The fragment that remembers: each piece of a divided animal may retain the original's habits, so copies inherit without being told.",
+        "The Cold War setting: the story is placed in the past, so the robot's choice reads as a revision of real history."
+      ],
+      "brief_anchors": [
+        22,
+        103
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.42579,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.40672,
+        "cliche_distance": 0.38692
+      },
+      "z_coherence": -0.4935,
+      "z_unavailability": 1.7396,
+      "fusion": 1.0697,
+      "rank_coherence": 4415,
+      "rank_unavailability": 127,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "Mara, a woman who brokers memories through a decaying AI archive in a flooded mining town wants to prevent the AI from being shut down, but she is blocked by her own memories and the town's history.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "no dead weight",
+        "closest_canon": [
+          {
+            "title": "The Matrix",
+            "year": 1999,
+            "similarity": 0.4762
+          },
+          {
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "similarity": 0.4569
+          },
+          {
+            "title": "Story of Your Life / Arrival",
+            "year": 1998,
+            "similarity": 0.4495
+          }
+        ],
+        "canon_max_similarity": 0.4762,
+        "fallback": false
+      },
+      "quality": 21.678
+    }
+  ],
+  "survivors": 11
+}

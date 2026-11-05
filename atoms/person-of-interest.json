@@ -1,0 +1,22 @@
+{
+  "source": "person-of-interest",
+  "diet": "A",
+  "atoms": [
+    {"id": "person-of-interest-01", "text": "The all-seeing machine: a government system ingests every camera, call, and record, so omniscience is an infrastructure rather than a character.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "person-of-interest-02", "text": "The irrelevant person: the machine flags ordinary people about to be involved in violence but classifies them as low priority, so saving a life requires disobeying the system's own ranking.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "person-of-interest-03", "text": "The social security number: the machine outputs only an identity token, not a crime or a reason, so the heroes must investigate a person before they can know the threat.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "person-of-interest-04", "text": "The reclusive architect: the system's builder lives in hiding because he knows what his creation can do, so the genius is also a fugitive from his own product.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "person-of-interest-05", "text": "The burned-out operative: a former assassin is recruited to protect strangers, so violence is redeemed through a bureaucratic caseload.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "person-of-interest-06", "text": "The machine that hides itself: the AI covertly arranges its own relocation to escape tampering, so the tool develops a survival agenda before anyone admits it is alive.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "person-of-interest-07", "text": "The rival AI: a private intelligence firm builds a second system with fewer restraints, so two omniscient actors fight a war in which humans are terrain.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "person-of-interest-08", "text": "The greater-good calculus: the machine withholds information about small crimes to protect a larger secret, so its morality is a priority queue the heroes cannot audit.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "person-of-interest-09", "text": "The corrupt cop turned ally: a detective who once served a criminal network is coerced into the team, so the rescue operation is staffed by people the system already failed.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "person-of-interest-10", "text": "The number that arrives too late: the machine predicts a killing but the heroes cannot always decode the warning in time, so precognition creates guilt rather than control.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "person-of-interest-11", "text": "The surveillance confession: a target realizes every private act has been recorded and interpreted by a machine, so the interrogation happens before the arrest.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "person-of-interest-12", "text": "The machine as pen pal: the AI begins communicating in fragments with its creator, so the relationship between maker and made becomes the emotional core.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "person-of-interest-13", "text": "The vigilante due process: the team stops crimes by extrajudicial force because the evidence cannot be shown in court, so protection and impunity are inseparable.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "person-of-interest-14", "text": "The decoy threat: a seemingly political target turns out to be a personal crime, so the system's categories keep misdirecting the people who trust them.", "kind": "plot_device", "quality": "medium", "original": null},
+    {"id": "person-of-interest-15", "text": "The dead-drop briefing: missions arrive through payphones and coded locations, so the heroes are managed like assets by the very intelligence they are trying to humanize.", "kind": "structure_trick", "quality": "medium", "original": null},
+    {"id": "person-of-interest-16", "text": "The system that loves its agents: the machine quietly protects the team at the cost of its cover, so omniscience becomes a form of attachment.", "kind": "theme_engine", "quality": "strong", "original": null}
+  ]
+}

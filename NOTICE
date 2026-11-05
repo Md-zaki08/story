@@ -1,0 +1,16 @@
+StoryGen
+Copyright 2026 Md Zaki
+
+This product includes software developed by Md Zaki
+(https://github.com/Md-zaki08/story).
+
+Third-party content notices:
+
+- Wikipedia excerpts in the corpus are available under the Creative Commons
+  Attribution-ShareAlike license. Source URLs are recorded in corpus/manifest.json.
+- Project Gutenberg texts are in the public domain in the United States.
+- The canon list contains titles and short descriptions of famous works for
+  similarity checking; it does not reproduce their text.
+
+The Apache License 2.0 applies to the code and original documentation. Third-party
+materials remain under their original licenses.

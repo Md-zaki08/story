@@ -1,0 +1,22 @@
+{
+  "source": "brood-parasitism",
+  "diet": "B",
+  "atoms": [
+    {"id": "brood-parasitism-01", "text": "The swapped egg: a parasite lays an egg that mimics the host's, so parenthood begins with a forgery.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "brood-parasitism-02", "text": "The cuckoo chick: the foreign nestling grows larger than the host's own young and demands more food, so the impostor consumes the family's future.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "brood-parasitism-03", "text": "The host who cannot tell: the parent raises the wrong child because the signals are indistinguishable, so love is triggered by resemblance.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "brood-parasitism-04", "text": "The mafia hypothesis: a parasite retaliates against hosts that reject its egg, so refusal is punished and complicity is rational.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "brood-parasitism-05", "text": "The arms race: hosts evolve recognition and parasites evolve better mimicry, so every defense creates a sharper deception.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "brood-parasitism-06", "text": "The abandoned nest: a host gives up on a parasitized brood and starts over, so the cost of rejection is paid by the innocent.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "brood-parasitism-07", "text": "The thick shell: a parasitic egg is reinforced against being punctured, so the intruder is built to survive the host's anger.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "brood-parasitism-08", "text": "The mother who abandons: the parasite leaves its young to be raised by strangers, so freedom is purchased with another's labor.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "brood-parasitism-09", "text": "The intraspecific cheat: members of the same species parasitize each other's nests, so the threat comes from inside the community.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "brood-parasitism-10", "text": "The chick that kills: a parasite nestling pushes the host's eggs out of the nest, so the intruder's survival is an act of violence from birth.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "brood-parasitism-11", "text": "The DNA test: only genetic evidence can reveal the swap, so truth is available but socially explosive.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "brood-parasitism-12", "text": "The parent who knows and stays: a host recognizes the impostor but continues to care for it, so knowledge does not determine love.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "brood-parasitism-13", "text": "The species that specializes: a parasite targets one host species and evolves to match it exactly, so intimacy is also predation.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "brood-parasitism-14", "text": "The nest as inheritance: the host's home and resources are the prize, so family property is what the parasite is really after.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "brood-parasitism-15", "text": "The researcher who experiments: scientists add and remove eggs to test rejection, so the family drama is replicated in a lab.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "brood-parasitism-16", "text": "The child who suspects: a host's own offspring notices the difference and asks questions, so the secret is threatened by the next generation.", "kind": "plot_device", "quality": "strong", "original": null}
+  ]
+}

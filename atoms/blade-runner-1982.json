@@ -1,0 +1,22 @@
+{
+  "source": "blade-runner-1982",
+  "diet": "A",
+  "atoms": [
+    {"id": "blade-runner-1982-01", "text": "Voight-Kampff test: empathy becomes a biometric, and the ability to be moved by another creature's plight is the legal difference between person and property.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "blade-runner-1982-02", "text": "Replicants with implanted memories: manufactured beings are given childhoods they never lived, so authenticity is a fabrication that feels seamless from the inside.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "blade-runner-1982-03", "text": "More human than human: artificial beings display more tenderness, grief, and moral outrage than the humans hunting them, so the label 'human' becomes a legal fiction.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "blade-runner-1982-04", "text": "Hunter who may be his own prey: the blade runner's uncertain humanity makes every act of killing a possible self-destruction.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "blade-runner-1982-05", "text": "Tears in rain: a dying replicant narrates the sensory archive of his life, converting a monster into the only character who truly mourns experience.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "blade-runner-1982-06", "text": "Four-year lifespan as built-in obsolescence: engineered mortality creates urgency and rage, so the machines' violence reads as a demand for meaning rather than a bid for domination.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "blade-runner-1982-07", "text": "Decaying high-tech city: flying cars above streets of trash and rain make progress and rot coexist, so the future looks like a wealthy ruin.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "blade-runner-1982-08", "text": "The origami unicorn: a small paper figure left at the door implies the protagonist's memories are implanted, turning a gift into a threat of unreality.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "blade-runner-1982-09", "text": "Creator confronted by creation: the replicant asks his maker for more life, and the maker's inability to grant it reveals the god's poverty.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "blade-runner-1982-10", "text": "Slavery with a human face: replicants are designed for off-world labor and forbidden on Earth, so the story is a slave narrative in chrome.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "blade-runner-1982-11", "text": "The empathy box: a device that lets humans share synthetic feelings becomes a substitute for community, so technology mediates even compassion.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "blade-runner-1982-12", "text": "Animals as status objects: real animals are rare and precious while artificial ones are common, so care for the living becomes a luxury good.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "blade-runner-1982-13", "text": "Noir voice-over as confession: the detective narrates his own compromised choices, so the film's mystery is less whodunit than what-he-has-become.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "blade-runner-1982-14", "text": "The police chief's veiled threat: the hero is coerced into hunting by implied consequences rather than explicit force, so the system's violence stays bureaucratic.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "blade-runner-1982-15", "text": "Love between fugitives: two replicants cling to each other while being hunted, so romance becomes a last assertion of a future the world denies them.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "blade-runner-1982-16", "text": "Memory as the only proof of self: in a world of implants, characters cling to photographs and stories because nothing else certifies an identity.", "kind": "theme_engine", "quality": "strong", "original": null}
+  ]
+}

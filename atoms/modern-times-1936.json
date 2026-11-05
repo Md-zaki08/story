@@ -1,0 +1,22 @@
+{
+  "source": "modern-times-1936",
+  "diet": "A",
+  "atoms": [
+    {"id": "modern-times-1936-01", "text": "The assembly line that consumes the worker: repetitive labor causes a breakdown, so the machine sets the human tempo and the human breaks.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "modern-times-1936-02", "text": "The automatic feeding machine: a device designed to eliminate lunch breaks malfunctions, so efficiency literally force-feeds the worker.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "modern-times-1936-03", "text": "The tramp and the orphan: two destitute people form a makeshift family, so intimacy grows from shared precarity.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "modern-times-1936-04", "text": "Jail as shelter: the protagonist prefers prison to freedom because it provides food and routine, so the social safety net is the penal system.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "modern-times-1936-05", "text": "Industrial modernity as comedy: the film makes automation absurd, so laughter becomes a critique of efficiency.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "modern-times-1936-06", "text": "The accidental strike leader: the tramp is mistaken for a political organizer, so political identity is assigned by the crowd.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "modern-times-1936-07", "text": "The worker and the machine: the tramp is swallowed by gears and emerges transformed, so the body and the apparatus merge.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "modern-times-1936-08", "text": "Depression-era scarcity: jobs are scarce and food is a struggle, so the comedy is built on material desperation.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "modern-times-1936-09", "text": "The department store at night: the tramp works as a watchman and hosts burglars, so the temple of consumption becomes a playground.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "modern-times-1936-10", "text": "The dream of a home: the couple fantasizes about a small house, so domestic normalcy is the film's utopia.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "modern-times-1936-11", "text": "The cafe job: the tramp becomes a singing waiter, so performance is a survival strategy.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "modern-times-1936-12", "text": "The police as recurring obstacle: authority keeps separating the couple, so institutions are the antagonist.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "modern-times-1936-13", "text": "The human cost of the machine age: the film's slapstick is a body-count of industrial injuries, so comedy registers pain.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "modern-times-1936-14", "text": "The final road: the couple walks toward the horizon, so the ending is hope without resolution.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "modern-times-1936-15", "text": "The red flag: the tramp picks up a fallen flag and is arrested, so political meaning is imposed by accident.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "modern-times-1936-16", "text": "Dignity without money: the characters keep their tenderness despite poverty, so love is the one thing the depression cannot repossess.", "kind": "theme_engine", "quality": "strong", "original": null}
+  ]
+}

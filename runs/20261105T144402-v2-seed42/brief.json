@@ -1,0 +1,53 @@
+{
+  "genre": "",
+  "tone": "inspirational",
+  "setting": "future",
+  "time_period": "",
+  "must_include": [
+    "young programmer",
+    "robot family",
+    "endangered birds",
+    "natural pollination",
+    "pest control",
+    "world dependent on nature"
+  ],
+  "must_avoid": [
+    "romantic relationships",
+    "time travel",
+    "magic",
+    "fantasy creatures"
+  ],
+  "banned_tropes": [
+    "time travel",
+    "magic",
+    "fantasy creatures",
+    "superheroes",
+    "villains"
+  ],
+  "themes": [
+    "ecological conservation",
+    "innovation in technology",
+    "human-animal coexistence",
+    "sustainable living",
+    "predictive science"
+  ],
+  "search_queries": [
+    "predictive methods for wildlife conservation",
+    "robot families in future society",
+    "endangered species protection methods",
+    "natural pollination vs synthetic pollinators",
+    "pest control without pesticides",
+    "future technology in agriculture"
+  ],
+  "foreign_queries": [
+    "ancient bird migration patterns",
+    "botany and synthetic pollinators",
+    "future society economic models",
+    "sustainability in technology",
+    "ecological balance in literature"
+  ],
+  "hard_constraints_summary": "Must include young programmer, robot family, endangered birds, natural pollination, and pest control in a world dependent on nature. Must avoid romance, time travel, magic, and fantasy creatures.",
+  "soft_constraints_summary": "Desired tone is inspirational, focusing on the young programmer's innovative solution to save endangered birds and their ecological roles.",
+  "audience": "general public",
+  "brief": "In a world where outliving a robot family is common, a young programmer discovers a groundbreaking method to predict and prevent the Convenient Death of migratory birds, saving endangered species and their vital ecological roles in a world increasingly dependent on natural pollination and pest control."
+}

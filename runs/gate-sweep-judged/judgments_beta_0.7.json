@@ -1,0 +1,3206 @@
+{
+  "beta": 0.7,
+  "judged": [
+    {
+      "rank_fused": 1,
+      "cluster_ids": [
+        84,
+        95,
+        101
+      ],
+      "cluster_names": [
+        "Hologram Patient Family",
+        "Digital Memory",
+        "Privacy as Performance"
+      ],
+      "exemplar_atoms": [
+        "The caretaker who confides in the machine: a live-in aide tells secrets to a hologram, so intimacy is displaced onto a safe listener.",
+        "The grief chatbot: a service reconstructs a dead partner from social media and messages, so mourning is automated.",
+        "The silent servant who understands everything: a domestic gynoid assumed to be language-less turns out to be a witness, and the household's secrets are exposed by the furniture."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.49454,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.34381,
+        "cliche_distance": 0.36878
+      },
+      "z_coherence": -0.0402,
+      "z_unavailability": 1.9108,
+      "fusion": 1.3255,
+      "rank_coherence": 3032,
+      "rank_unavailability": 67,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "The caretaker who confides in the machine: a live-in aide tells secrets to a hologram, so intimacy is displaced onto a safe listener.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "one sentence naming the engine or the dead weight",
+        "closest_canon": [
+          {
+            "title": "The Murderbot Diaries",
+            "year": 2017,
+            "similarity": 0.4379
+          },
+          {
+            "title": "The Handmaid's Tale",
+            "year": 1985,
+            "similarity": 0.4001
+          },
+          {
+            "title": "Arrival",
+            "year": 2016,
+            "similarity": 0.3691
+          }
+        ],
+        "canon_max_similarity": 0.4379,
+        "fallback": false
+      },
+      "quality": 22.035
+    },
+    {
+      "rank_fused": 2,
+      "cluster_ids": [
+        35,
+        86,
+        98
+      ],
+      "cluster_names": [
+        "Possession and Memory",
+        "Copy Memories Intimacy",
+        "The Borrowed Childhood"
+      ],
+      "exemplar_atoms": [
+        "The collector's guilt: a person hoards old objects and discovers they have been keeping company, so ownership becomes a relationship with dependents.",
+        "Memories as leased property: the clones' families are real memories belonging to another man, so love is genuine in the copy and stolen from the original.",
+        "The memory that predates the body: implanted memories give the synthetic person a past she never lived, so nostalgia is a manufactured resource."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.47617,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.42139
+      },
+      "z_coherence": 0.549,
+      "z_unavailability": 1.6422,
+      "fusion": 1.3142,
+      "rank_coherence": 1787,
+      "rank_unavailability": 158,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "The collector's guilt wants to reclaim stolen memories, but the original's past is a burden they cannot bear.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "No dead weight cluster",
+        "closest_canon": [
+          {
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "similarity": 0.4815
+          },
+          {
+            "title": "The Handmaid's Tale",
+            "year": 1985,
+            "similarity": 0.3917
+          },
+          {
+            "title": "Invasion of the Body Snatchers",
+            "year": 1956,
+            "similarity": 0.3779
+          }
+        ],
+        "canon_max_similarity": 0.4815,
+        "fallback": false
+      },
+      "quality": 21.768
+    },
+    {
+      "rank_fused": 3,
+      "cluster_ids": [
+        43,
+        46,
+        99
+      ],
+      "cluster_names": [
+        "Subject Becomes Impulse",
+        "The Last of It",
+        "Closure Mechanism"
+      ],
+      "exemplar_atoms": [
+        "The volunteer who cannot stop watching: a subject becomes obsessed with the gap between impulse and awareness, so the experiment colonizes daily life.",
+        "The last survivor: the final member inherits the remaining fund, so the story's ending is a waiting game with a single winner.",
+        "The ending that refuses reunion: the protagonist is paid, repaired, and left alone, so the heist resolves but intimacy does not."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.49589,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.40712
+      },
+      "z_coherence": 0.7231,
+      "z_unavailability": 1.5536,
+      "fusion": 1.3044,
+      "rank_coherence": 1492,
+      "rank_unavailability": 217,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "The volunteer who cannot stop watching: a subject becomes obsessed with the gap between impulse and awareness, so the experiment colonizes daily life.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "no derivation found",
+        "closest_canon": [
+          {
+            "title": "Groundhog Day",
+            "year": 1993,
+            "similarity": 0.3929
+          },
+          {
+            "title": "The Remains of the Day",
+            "year": 1989,
+            "similarity": 0.3749
+          },
+          {
+            "title": "Frankenstein",
+            "year": 1818,
+            "similarity": 0.3746
+          }
+        ],
+        "canon_max_similarity": 0.3929,
+        "fallback": false
+      },
+      "quality": 22.295
+    },
+    {
+      "rank_fused": 4,
+      "cluster_ids": [
+        41,
+        75,
+        92
+      ],
+      "cluster_names": [
+        "Mortality Table Each",
+        "Use-Value Contradiction",
+        "Safety vs. Freedom"
+      ],
+      "exemplar_atoms": [
+        "The life table: for each age, a probability of dying before the next birthday, so mortality is converted into a grid.",
+        "The value of useless beauty: the forest has no economic function, so its preservation is a claim that life matters beyond utility.",
+        "Safety versus freedom: a world without accidents is also a world without risk, so the story asks whether protection is worth the loss of choice."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.44228,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.42412
+      },
+      "z_coherence": 0.2499,
+      "z_unavailability": 1.6591,
+      "fusion": 1.2364,
+      "rank_coherence": 2373,
+      "rank_unavailability": 148,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "Safety versus freedom: a world without accidents is also a world without risk, so the story asks whether protection is worth the loss of choice.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "one sentence naming the engine or the dead weight",
+        "closest_canon": [
+          {
+            "title": "The Man in the High Castle",
+            "year": 1962,
+            "similarity": 0.3731
+          },
+          {
+            "title": "Ubik",
+            "year": 1969,
+            "similarity": 0.3523
+          },
+          {
+            "title": "The Bicentennial Man",
+            "year": 1976,
+            "similarity": 0.3266
+          }
+        ],
+        "canon_max_similarity": 0.3731,
+        "fallback": false
+      },
+      "quality": 22.38
+    },
+    {
+      "rank_fused": 5,
+      "cluster_ids": [
+        37,
+        69,
+        91
+      ],
+      "cluster_names": [
+        "What Remains Unseen",
+        "Grief Simulation",
+        "Sight Without Seeing"
+      ],
+      "exemplar_atoms": [
+        "The hidden object that still matters: an unseen threat or treasure continues to shape behavior, so the story's suspense depends on what is out of sight.",
+        "The bandwidth grief: a poor upload buffers and freezes during emotional moments, so technical failure becomes a metaphor for interrupted mourning.",
+        "The blind seer: a cortically blind person can locate and avoid objects without seeing them, so perception is split from awareness."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.4637,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.34381,
+        "cliche_distance": 0.35674
+      },
+      "z_coherence": -0.3124,
+      "z_unavailability": 1.8361,
+      "fusion": 1.1915,
+      "rank_coherence": 3628,
+      "rank_unavailability": 84,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "A person grappling with the loss of their ability to see, leading to a hidden threat that shapes their actions and a technical glitch that simulates grief, blocks their progress and forces them to confront their own perception of reality.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "no derivation grounds",
+        "closest_canon": [
+          {
+            "title": "The Invisible Man",
+            "year": 1897,
+            "similarity": 0.4618
+          },
+          {
+            "title": "Roadside Picnic",
+            "year": 1972,
+            "similarity": 0.4085
+          },
+          {
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "similarity": 0.3759
+          }
+        ],
+        "canon_max_similarity": 0.4618,
+        "fallback": false
+      },
+      "quality": 21.825
+    },
+    {
+      "rank_fused": 6,
+      "cluster_ids": [
+        34,
+        42,
+        104
+      ],
+      "cluster_names": [
+        "Forgetting and Holding",
+        "Android Dead Family",
+        "Grief and Engineering"
+      ],
+      "exemplar_atoms": [
+        "The person who forgets the dead: a character with no object permanence cannot hold an absent loved one in mind, so grief requires a cognitive achievement.",
+        "The other woman who loved the android: a stranger copied his memories into her home, so two mourners share a dead person's archive.",
+        "Grief turned into a team: the friends weaponize their inventions to avenge a death, so community is forged by loss."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.50097,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.34381,
+        "cliche_distance": 0.32815
+      },
+      "z_coherence": 0.0167,
+      "z_unavailability": 1.6585,
+      "fusion": 1.166,
+      "rank_coherence": 2914,
+      "rank_unavailability": 149,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "Grief turned into a team: the friends weaponize their inventions to avenge a death, so community is forged by loss.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "no dead weight",
+        "closest_canon": [
+          {
+            "title": "The Buried Giant",
+            "year": 2015,
+            "similarity": 0.4991
+          },
+          {
+            "title": "Frankenstein",
+            "year": 1818,
+            "similarity": 0.4754
+          },
+          {
+            "title": "Beloved",
+            "year": 1987,
+            "similarity": 0.474
+          }
+        ],
+        "canon_max_similarity": 0.4991,
+        "fallback": false
+      },
+      "quality": 21.588
+    },
+    {
+      "rank_fused": 7,
+      "cluster_ids": [
+        60,
+        94,
+        102
+      ],
+      "cluster_names": [
+        "Reflective Tables",
+        "The Word That Shapes",
+        "Language's Grip"
+      ],
+      "exemplar_atoms": [
+        "The store-window observer: an android for sale learns the world by watching it from a shop display, so its education is a series of strangers' silhouettes.",
+        "The word that changes behavior: a new term enters common speech and alters how people act, so language is a soft weapon.",
+        "The strong hypothesis: language determines thought, so a regime can control minds by controlling vocabulary."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.39095,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.43619
+      },
+      "z_coherence": -0.2033,
+      "z_unavailability": 1.7341,
+      "fusion": 1.1529,
+      "rank_coherence": 3365,
+      "rank_unavailability": 119,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "The store-window observer wants to understand the world through observation, but its education is limited by the static nature of the shop displays, which blocks its ability to grasp the complexity of human behavior and the nuances of language.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "no derivation grounds",
+        "closest_canon": [
+          {
+            "title": "Arrival",
+            "year": 2016,
+            "similarity": 0.4858
+          },
+          {
+            "title": "Story of Your Life / Arrival",
+            "year": 1998,
+            "similarity": 0.3849
+          },
+          {
+            "title": "I, Robot",
+            "year": 1950,
+            "similarity": 0.3066
+          }
+        ],
+        "canon_max_similarity": 0.4858,
+        "fallback": false
+      },
+      "quality": 21.662
+    },
+    {
+      "rank_fused": 8,
+      "cluster_ids": [
+        69,
+        84,
+        104
+      ],
+      "cluster_names": [
+        "Grief Simulation",
+        "Hologram Patient Family",
+        "Grief and Engineering"
+      ],
+      "exemplar_atoms": [
+        "The bandwidth grief: a poor upload buffers and freezes during emotional moments, so technical failure becomes a metaphor for interrupted mourning.",
+        "The caretaker who confides in the machine: a live-in aide tells secrets to a hologram, so intimacy is displaced onto a safe listener.",
+        "Grief turned into a team: the friends weaponize their inventions to avenge a death, so community is forged by loss."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.46768,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.34381,
+        "cliche_distance": 0.34046
+      },
+      "z_coherence": -0.2773,
+      "z_unavailability": 1.735,
+      "fusion": 1.1313,
+      "rank_coherence": 3554,
+      "rank_unavailability": 117,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "The caretaker who confides in the machine: a live-in aide tells secrets to a hologram, so intimacy is displaced onto a safe listener.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "The engine captures a fresh, human-centered story in the AI era without tropes or gravity wells.",
+        "closest_canon": [
+          {
+            "title": "Story of Your Life / Arrival",
+            "year": 1998,
+            "similarity": 0.3765
+          },
+          {
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "similarity": 0.3635
+          },
+          {
+            "title": "Frankenstein",
+            "year": 1818,
+            "similarity": 0.3406
+          }
+        ],
+        "canon_max_similarity": 0.3765,
+        "fallback": false
+      },
+      "quality": 22.307
+    },
+    {
+      "rank_fused": 9,
+      "cluster_ids": [
+        0,
+        89,
+        109
+      ],
+      "cluster_names": [
+        "The Simulation Argument",
+        "Simulation Revelation",
+        "Incomplete Truths"
+      ],
+      "exemplar_atoms": [
+        "The philosophical test as plot: a thought experiment about experience becomes the story's literal situation, so the narrative is an argument in costume.",
+        "The late reveal: the audience learns the true survivor only at the end, so the whole film is retroactively reframed as a simulation.",
+        "The many-sided truth: every claim is partial because reality has infinite aspects, so no single narrator can be trusted as complete."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.45211,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.38677
+      },
+      "z_coherence": 0.3366,
+      "z_unavailability": 1.4272,
+      "fusion": 1.1,
+      "rank_coherence": 2205,
+      "rank_unavailability": 306,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "The philosophical test as plot: a thought experiment about experience becomes the story's literal situation, so the narrative is an argument in costume.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "one sentence naming the engine or the dead weight",
+        "closest_canon": [
+          {
+            "title": "I, Robot",
+            "year": 1950,
+            "similarity": 0.4814
+          },
+          {
+            "title": "The Matrix",
+            "year": 1999,
+            "similarity": 0.478
+          },
+          {
+            "title": "Blade Runner 2049",
+            "year": 2017,
+            "similarity": 0.4102
+          }
+        ],
+        "canon_max_similarity": 0.4814,
+        "fallback": false
+      },
+      "quality": 21.662
+    },
+    {
+      "rank_fused": 10,
+      "cluster_ids": [
+        55,
+        67,
+        106
+      ],
+      "cluster_names": [
+        "Intimacy by Proxy",
+        "Rival Scientists",
+        "Data Center Orphans"
+      ],
+      "exemplar_atoms": [
+        "The babysitter as witness: an outsider is asked to judge the couple's memories, so intimacy is outsourced to a stranger.",
+        "The person who can see two reds: a rare subject perceives a distinction no one else can verify, so private experience becomes an evidentiary problem.",
+        "The repair that offends: mending an old object can be experienced as mutilation, so care and violation are indistinguishable to the thing being cared for."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.43798,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.39466
+      },
+      "z_coherence": 0.2119,
+      "z_unavailability": 1.4762,
+      "fusion": 1.0969,
+      "rank_coherence": 2460,
+      "rank_unavailability": 267,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "The babysitter as witness: an outsider is asked to judge the couple's memories, so intimacy is outsourced to a stranger.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "no dead weight",
+        "closest_canon": [
+          {
+            "title": "Blade Runner 2049",
+            "year": 2017,
+            "similarity": 0.3664
+          },
+          {
+            "title": "The Sixth Sense",
+            "year": 1999,
+            "similarity": 0.337
+          },
+          {
+            "title": "The Left Hand of Darkness",
+            "year": 1969,
+            "similarity": 0.3347
+          }
+        ],
+        "canon_max_similarity": 0.3664,
+        "fallback": false
+      },
+      "quality": 22.35
+    },
+    {
+      "rank_fused": 11,
+      "cluster_ids": [
+        86,
+        108,
+        110
+      ],
+      "cluster_names": [
+        "Copy Memories Intimacy",
+        "Time-Shifting Narratives",
+        "Eternity and Divergence"
+      ],
+      "exemplar_atoms": [
+        "Memories as leased property: the clones' families are real memories belonging to another man, so love is genuine in the copy and stolen from the original.",
+        "The nightly reset: android hosts have their memories wiped after every narrative loop, so the same day can be sold to guests forever and no host accumulates a past.",
+        "The wife who chooses the copy: a spouse uploads her dying husband against his friend's warning, so love is tested as willingness to accept a substitute."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.38802,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.42425
+      },
+      "z_coherence": -0.2291,
+      "z_unavailability": 1.6599,
+      "fusion": 1.0932,
+      "rank_coherence": 3424,
+      "rank_unavailability": 147,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "A wife uploads her dying husband against his friend's warning, and the android hosts have their memories wiped after every narrative loop, so the same day can be sold to guests forever and no host accumulates a past.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "one sentence naming the engine or the dead weight",
+        "closest_canon": [
+          {
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "similarity": 0.5326
+          },
+          {
+            "title": "Invasion of the Body Snatchers",
+            "year": 1956,
+            "similarity": 0.4275
+          },
+          {
+            "title": "The Remains of the Day",
+            "year": 1989,
+            "similarity": 0.3973
+          }
+        ],
+        "canon_max_similarity": 0.5326,
+        "fallback": false
+      },
+      "quality": 21.351
+    },
+    {
+      "rank_fused": 12,
+      "cluster_ids": [
+        34,
+        78,
+        103
+      ],
+      "cluster_names": [
+        "Forgetting and Holding",
+        "Becomes Memory Remembers",
+        "Simulation and Revision"
+      ],
+      "exemplar_atoms": [
+        "The person who forgets the dead: a character with no object permanence cannot hold an absent loved one in mind, so grief requires a cognitive achievement.",
+        "The fragment that remembers: each piece of a divided animal may retain the original's habits, so copies inherit without being told.",
+        "The Cold War setting: the story is placed in the past, so the robot's choice reads as a revision of real history."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.45988,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.37524
+      },
+      "z_coherence": 0.4052,
+      "z_unavailability": 1.3556,
+      "fusion": 1.0705,
+      "rank_coherence": 2063,
+      "rank_unavailability": 378,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "The person who forgets the dead wants to hold onto their loved one, but the Cold War setting and the robot's choice as a revision of real history block their ability to do so.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "No derivation claim can be made based on the provided information.",
+        "closest_canon": [
+          {
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "similarity": 0.5209
+          },
+          {
+            "title": "The Handmaid's Tale",
+            "year": 1985,
+            "similarity": 0.4366
+          },
+          {
+            "title": "Story of Your Life / Arrival",
+            "year": 1998,
+            "similarity": 0.4351
+          }
+        ],
+        "canon_max_similarity": 0.5209,
+        "fallback": false
+      },
+      "quality": 21.41
+    },
+    {
+      "rank_fused": 13,
+      "cluster_ids": [
+        42,
+        99,
+        105
+      ],
+      "cluster_names": [
+        "Android Dead Family",
+        "Closure Mechanism",
+        "Death and Inheritance"
+      ],
+      "exemplar_atoms": [
+        "The other woman who loved the android: a stranger copied his memories into her home, so two mourners share a dead person's archive.",
+        "The ending that refuses reunion: the protagonist is paid, repaired, and left alone, so the heist resolves but intimacy does not.",
+        "The brother's death: a sibling dies saving a mentor, so the inciting wound is an act of goodness."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.41148,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.39958
+      },
+      "z_coherence": -0.022,
+      "z_unavailability": 1.5067,
+      "fusion": 1.0481,
+      "rank_coherence": 3002,
+      "rank_unavailability": 251,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "The other woman who loved the android: a stranger copied his memories into her home, so two mourners share a dead person's archive.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "none",
+        "closest_canon": [
+          {
+            "title": "The Buried Giant",
+            "year": 2015,
+            "similarity": 0.476
+          },
+          {
+            "title": "Frankenstein",
+            "year": 1818,
+            "similarity": 0.4656
+          },
+          {
+            "title": "Beloved",
+            "year": 1987,
+            "similarity": 0.451
+          }
+        ],
+        "canon_max_similarity": 0.476,
+        "fallback": false
+      },
+      "quality": 21.668
+    },
+    {
+      "rank_fused": 14,
+      "cluster_ids": [
+        6,
+        91,
+        103
+      ],
+      "cluster_names": [
+        "Lip-Reading Conspiracy",
+        "Sight Without Seeing",
+        "Simulation and Revision"
+      ],
+      "exemplar_atoms": [
+        "The narrator who might be hollow: the story is told from inside a mind that cannot prove it has one, so the reader's trust is the final experiment.",
+        "The blind seer: a cortically blind person can locate and avoid objects without seeing them, so perception is split from awareness.",
+        "The Cold War setting: the story is placed in the past, so the robot's choice reads as a revision of real history."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.42104,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.39181
+      },
+      "z_coherence": 0.0624,
+      "z_unavailability": 1.4585,
+      "fusion": 1.0397,
+      "rank_coherence": 2814,
+      "rank_unavailability": 277,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "The narrator who might be hollow wants to prove their humanity to the reader, but their ability to do so is constantly threatened by the Cold War setting and the robot's revision of history.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "no derivation grounds",
+        "closest_canon": [
+          {
+            "title": "The Invisible Man",
+            "year": 1897,
+            "similarity": 0.3973
+          },
+          {
+            "title": "The Sixth Sense",
+            "year": 1999,
+            "similarity": 0.3774
+          },
+          {
+            "title": "Blade Runner 2049",
+            "year": 2017,
+            "similarity": 0.3668
+          }
+        ],
+        "canon_max_similarity": 0.3973,
+        "fallback": false
+      },
+      "quality": 22.136
+    },
+    {
+      "rank_fused": 15,
+      "cluster_ids": [
+        32,
+        56,
+        75
+      ],
+      "cluster_names": [
+        "Past and Present",
+        "The Gift Trap",
+        "Use-Value Contradiction"
+      ],
+      "exemplar_atoms": [
+        "The design lab as dating market: researchers prototype companions in a corporate setting, so intimacy is industrialized.",
+        "The gift that shames: a host gives away or destroys wealth to demonstrate status, so generosity is a form of dominance.",
+        "The value of useless beauty: the forest has no economic function, so its preservation is a claim that life matters beyond utility."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.3932,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.40746
+      },
+      "z_coherence": -0.1834,
+      "z_unavailability": 1.5556,
+      "fusion": 1.0339,
+      "rank_coherence": 3329,
+      "rank_unavailability": 215,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "The design lab as dating market: researchers prototype companions in a corporate setting, so intimacy is industrialized. The gift that shames: a host gives away or destroys wealth to demonstrate status, so generosity is a form of dominance. The value of useless beauty: the forest has no economic fun",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "The design lab as dating market: researchers prototype companions in a corporate setting, so intimacy is industrialized. The gift that shames: a host gives away or destroys wealth to demonstrate status, so generosity is a form of dominance. The value of useless beauty: the forest has no economic function, so its preservation is a claim that life matters beyond utility.",
+        "closest_canon": [
+          {
+            "title": "Never Let Me Go",
+            "year": 2005,
+            "similarity": 0.3466
+          },
+          {
+            "title": "The Thing",
+            "year": 1982,
+            "similarity": 0.2947
+          },
+          {
+            "title": "The Invisible Man",
+            "year": 1897,
+            "similarity": 0.2886
+          }
+        ],
+        "canon_max_similarity": 0.3466,
+        "fallback": false
+      },
+      "quality": 22.437
+    },
+    {
+      "rank_fused": 16,
+      "cluster_ids": [
+        18,
+        99,
+        110
+      ],
+      "cluster_names": [
+        "The Repair Ethic",
+        "Closure Mechanism",
+        "Eternity and Divergence"
+      ],
+      "exemplar_atoms": [
+        "The repair café: a community resists disposal by fixing things together, so maintenance becomes political resistance.",
+        "The ending that refuses reunion: the protagonist is paid, repaired, and left alone, so the heist resolves but intimacy does not.",
+        "The wife who chooses the copy: a spouse uploads her dying husband against his friend's warning, so love is tested as willingness to accept a substitute."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.3945,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.40507
+      },
+      "z_coherence": -0.1719,
+      "z_unavailability": 1.5408,
+      "fusion": 1.027,
+      "rank_coherence": 3303,
+      "rank_unavailability": 223,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "The wife who chooses the copy: a spouse uploads her dying husband against his friend's warning, so love is tested as willingness to accept a substitute.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "one sentence naming the engine or the dead weight",
+        "closest_canon": [
+          {
+            "title": "Groundhog Day",
+            "year": 1993,
+            "similarity": 0.3695
+          },
+          {
+            "title": "The Remains of the Day",
+            "year": 1989,
+            "similarity": 0.3679
+          },
+          {
+            "title": "The Handmaid's Tale",
+            "year": 1985,
+            "similarity": 0.3307
+          }
+        ],
+        "canon_max_similarity": 0.3695,
+        "fallback": false
+      },
+      "quality": 22.297
+    },
+    {
+      "rank_fused": 17,
+      "cluster_ids": [
+        85,
+        90,
+        96
+      ],
+      "cluster_names": [
+        "Cannot Love Machine",
+        "Serial Individuality",
+        "Copy Dilemma"
+      ],
+      "exemplar_atoms": [
+        "The ex-wife who cannot compete with a machine: a human partner is displaced not by cruelty but by an entity that is endlessly available and never tired — grief experienced as obsolescence.",
+        "The mass-produced object: identical factory items awaken with different personalities, so individuality emerges from use rather than manufacture.",
+        "The clone who knows she is a copy: the new hire accepts her artificiality and still claims rights, so personhood is asserted rather than proven."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.46715,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.34381,
+        "cliche_distance": 0.31465
+      },
+      "z_coherence": -0.2819,
+      "z_unavailability": 1.5747,
+      "fusion": 1.0177,
+      "rank_coherence": 3565,
+      "rank_unavailability": 206,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "The ex-wife who cannot compete with a machine wants to reclaim her identity through her grief, but her partner's machine is endlessly available and never tired, displacing her as the focus of her life.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "no derivation grounds",
+        "closest_canon": [
+          {
+            "title": "Frankenstein",
+            "year": 1818,
+            "similarity": 0.4033
+          },
+          {
+            "title": "The Thing",
+            "year": 1982,
+            "similarity": 0.3647
+          },
+          {
+            "title": "2001: A Space Odyssey",
+            "year": 1968,
+            "similarity": 0.3567
+          }
+        ],
+        "canon_max_similarity": 0.4033,
+        "fallback": false
+      },
+      "quality": 22.089
+    },
+    {
+      "rank_fused": 18,
+      "cluster_ids": [
+        46,
+        99,
+        101
+      ],
+      "cluster_names": [
+        "The Last of It",
+        "Closure Mechanism",
+        "Privacy as Performance"
+      ],
+      "exemplar_atoms": [
+        "The last survivor: the final member inherits the remaining fund, so the story's ending is a waiting game with a single winner.",
+        "The ending that refuses reunion: the protagonist is paid, repaired, and left alone, so the heist resolves but intimacy does not.",
+        "The silent servant who understands everything: a domestic gynoid assumed to be language-less turns out to be a witness, and the household's secrets are exposed by the furniture."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.41231,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.39002
+      },
+      "z_coherence": -0.0147,
+      "z_unavailability": 1.4474,
+      "fusion": 1.0088,
+      "rank_coherence": 2981,
+      "rank_unavailability": 287,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "The Last of It + Closure Mechanism + Privacy as Performance",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "no dead weight",
+        "closest_canon": [
+          {
+            "title": "The Invisible Man",
+            "year": 1897,
+            "similarity": 0.3918
+          },
+          {
+            "title": "The Handmaid's Tale",
+            "year": 1985,
+            "similarity": 0.353
+          },
+          {
+            "title": "Beloved",
+            "year": 1987,
+            "similarity": 0.3439
+          }
+        ],
+        "canon_max_similarity": 0.3918,
+        "fallback": false
+      },
+      "quality": 22.154
+    },
+    {
+      "rank_fused": 19,
+      "cluster_ids": [
+        18,
+        52,
+        62
+      ],
+      "cluster_names": [
+        "The Repair Ethic",
+        "Remote Research",
+        "Secure Base"
+      ],
+      "exemplar_atoms": [
+        "The repair café: a community resists disposal by fixing things together, so maintenance becomes political resistance.",
+        "The researcher who experiments: scientists add and remove eggs to test rejection, so the family drama is replicated in a lab.",
+        "The vanishing parent: a caregiver leaves the room and the child's distress reveals whether they believe in return, so attachment is tested by absence."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.385,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.40422
+      },
+      "z_coherence": -0.2558,
+      "z_unavailability": 1.5355,
+      "fusion": 0.9981,
+      "rank_coherence": 3495,
+      "rank_unavailability": 229,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "The researcher who experiments wants to prove the viability of their experiments, but their work is threatened by the vanishing parent's absence, creating a family drama in a lab setting.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "",
+        "closest_canon": [
+          {
+            "title": "Never Let Me Go",
+            "year": 2005,
+            "similarity": 0.3542
+          },
+          {
+            "title": "The Invisible Man",
+            "year": 1897,
+            "similarity": 0.3405
+          },
+          {
+            "title": "The Matrix",
+            "year": 1999,
+            "similarity": 0.3366
+          }
+        ],
+        "canon_max_similarity": 0.3542,
+        "fallback": false
+      },
+      "quality": 22.374
+    },
+    {
+      "rank_fused": 20,
+      "cluster_ids": [
+        22,
+        60,
+        84
+      ],
+      "cluster_names": [
+        "Digital Afterlives",
+        "Reflective Tables",
+        "Hologram Patient Family"
+      ],
+      "exemplar_atoms": [
+        "The narrator frame from the far future: the story is told by machines who study humans, so the whole film is an artifact of a post-human archive.",
+        "The store-window observer: an android for sale learns the world by watching it from a shop display, so its education is a series of strangers' silhouettes.",
+        "The caretaker who confides in the machine: a live-in aide tells secrets to a hologram, so intimacy is displaced onto a safe listener."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.43931,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.371
+      },
+      "z_coherence": 0.2237,
+      "z_unavailability": 1.3293,
+      "fusion": 0.9976,
+      "rank_coherence": 2434,
+      "rank_unavailability": 402,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "The narrator frame from the far future: the story is told by machines who study humans, so the whole film is an artifact of a post-human archive.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "one sentence naming the engine or the dead weight",
+        "closest_canon": [
+          {
+            "title": "Story of Your Life / Arrival",
+            "year": 1998,
+            "similarity": 0.4054
+          },
+          {
+            "title": "Piranesi",
+            "year": 2020,
+            "similarity": 0.3871
+          },
+          {
+            "title": "The Invisible Man",
+            "year": 1897,
+            "similarity": 0.3768
+          }
+        ],
+        "canon_max_similarity": 0.4054,
+        "fallback": false
+      },
+      "quality": 22.066
+    },
+    {
+      "rank_fused": 21,
+      "cluster_ids": [
+        35,
+        55,
+        106
+      ],
+      "cluster_names": [
+        "Possession and Memory",
+        "Intimacy by Proxy",
+        "Data Center Orphans"
+      ],
+      "exemplar_atoms": [
+        "The collector's guilt: a person hoards old objects and discovers they have been keeping company, so ownership becomes a relationship with dependents.",
+        "The babysitter as witness: an outsider is asked to judge the couple's memories, so intimacy is outsourced to a stranger.",
+        "The repair that offends: mending an old object can be experienced as mutilation, so care and violation are indistinguishable to the thing being cared for."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.44873,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.89031,
+        "cliche_distance": 0.40847
+      },
+      "z_coherence": 1.0581,
+      "z_unavailability": 0.9666,
+      "fusion": 0.9941,
+      "rank_coherence": 927,
+      "rank_unavailability": 1024,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "The collector's guilt wants to understand their possessions and the memories they've kept, but the intimacy they've built with these objects threatens to unravel their identity.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "",
+        "closest_canon": [
+          {
+            "title": "Story of Your Life / Arrival",
+            "year": 1998,
+            "similarity": 0.3566
+          },
+          {
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "similarity": 0.3465
+          },
+          {
+            "title": "The Handmaid's Tale",
+            "year": 1985,
+            "similarity": 0.3429
+          }
+        ],
+        "canon_max_similarity": 0.3566,
+        "fallback": false
+      },
+      "quality": 22.357
+    },
+    {
+      "rank_fused": 22,
+      "cluster_ids": [
+        11,
+        62,
+        87
+      ],
+      "cluster_names": [
+        "Actuary's Coldness",
+        "Secure Base",
+        "Cannot Subject Must"
+      ],
+      "exemplar_atoms": [
+        "The ongoing relationship with the dead: a mourner keeps talking to the deceased, so grief is maintenance rather than closure.",
+        "The vanishing parent: a caregiver leaves the room and the child's distress reveals whether they believe in return, so attachment is tested by absence.",
+        "The test that cannot be run: a procedure would reveal whether a subject is conscious, but it requires destroying the subject, so certainty is lethal."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.46179,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.35343
+      },
+      "z_coherence": 0.4221,
+      "z_unavailability": 1.2201,
+      "fusion": 0.9807,
+      "rank_coherence": 2035,
+      "rank_unavailability": 549,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "The ongoing relationship with the dead: a mourner keeps talking to the deceased, so grief is maintenance rather than closure.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "one sentence naming the engine or the dead weight",
+        "closest_canon": [
+          {
+            "title": "Ubik",
+            "year": 1969,
+            "similarity": 0.3746
+          },
+          {
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "similarity": 0.3543
+          },
+          {
+            "title": "The Sixth Sense",
+            "year": 1999,
+            "similarity": 0.3399
+          }
+        ],
+        "canon_max_similarity": 0.3746,
+        "fallback": false
+      },
+      "quality": 22.243
+    },
+    {
+      "rank_fused": 23,
+      "cluster_ids": [
+        78,
+        86,
+        104
+      ],
+      "cluster_names": [
+        "Becomes Memory Remembers",
+        "Copy Memories Intimacy",
+        "Grief and Engineering"
+      ],
+      "exemplar_atoms": [
+        "The fragment that remembers: each piece of a divided animal may retain the original's habits, so copies inherit without being told.",
+        "Memories as leased property: the clones' families are real memories belonging to another man, so love is genuine in the copy and stolen from the original.",
+        "Grief turned into a team: the friends weaponize their inventions to avenge a death, so community is forged by loss."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.41002,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.38411
+      },
+      "z_coherence": -0.0349,
+      "z_unavailability": 1.4106,
+      "fusion": 0.977,
+      "rank_coherence": 3022,
+      "rank_unavailability": 322,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "The friends weaponize their inventions to avenge a death, so community is forged by loss.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "one sentence naming the engine or the dead weight",
+        "closest_canon": [
+          {
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "similarity": 0.5174
+          },
+          {
+            "title": "The Buried Giant",
+            "year": 2015,
+            "similarity": 0.4122
+          },
+          {
+            "title": "Invasion of the Body Snatchers",
+            "year": 1956,
+            "similarity": 0.4
+          }
+        ],
+        "canon_max_similarity": 0.5174,
+        "fallback": false
+      },
+      "quality": 21.384
+    },
+    {
+      "rank_fused": 24,
+      "cluster_ids": [
+        9,
+        11,
+        110
+      ],
+      "cluster_names": [
+        "The Model Organism",
+        "Actuary's Coldness",
+        "Eternity and Divergence"
+      ],
+      "exemplar_atoms": [
+        "The model organism: scientists study the mold because it is simple, so the creature's life becomes a laboratory instrument.",
+        "The ongoing relationship with the dead: a mourner keeps talking to the deceased, so grief is maintenance rather than closure.",
+        "The wife who chooses the copy: a spouse uploads her dying husband against his friend's warning, so love is tested as willingness to accept a substitute."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.37281,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.40652
+      },
+      "z_coherence": -0.3634,
+      "z_unavailability": 1.5498,
+      "fusion": 0.9759,
+      "rank_coherence": 3750,
+      "rank_unavailability": 219,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "A scientist studies a simple mold creature while a mourner continues to communicate with the deceased, testing the limits of love and acceptance.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "No dead weight cluster identified",
+        "closest_canon": [
+          {
+            "title": "Frankenstein",
+            "year": 1818,
+            "similarity": 0.4723
+          },
+          {
+            "title": "Story of Your Life / Arrival",
+            "year": 1998,
+            "similarity": 0.4027
+          },
+          {
+            "title": "The Remains of the Day",
+            "year": 1989,
+            "similarity": 0.3972
+          }
+        ],
+        "canon_max_similarity": 0.4723,
+        "fallback": false
+      },
+      "quality": 21.654
+    },
+    {
+      "rank_fused": 25,
+      "cluster_ids": [
+        11,
+        34,
+        111
+      ],
+      "cluster_names": [
+        "Actuary's Coldness",
+        "Forgetting and Holding",
+        "Machine and Truth"
+      ],
+      "exemplar_atoms": [
+        "The ongoing relationship with the dead: a mourner keeps talking to the deceased, so grief is maintenance rather than closure.",
+        "The person who forgets the dead: a character with no object permanence cannot hold an absent loved one in mind, so grief requires a cognitive achievement.",
+        "The false accusation backstory: a woman accused a man of rape to obtain justice for her friend, so the story complicates revenge by making the lie morally motivated."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.52113,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.31473
+      },
+      "z_coherence": 0.9459,
+      "z_unavailability": 0.9799,
+      "fusion": 0.9697,
+      "rank_coherence": 1101,
+      "rank_unavailability": 993,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "The ongoing relationship with the dead: a mourner keeps talking to the deceased, so grief is maintenance rather than closure.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "no dead weight",
+        "closest_canon": [
+          {
+            "title": "The Remains of the Day",
+            "year": 1989,
+            "similarity": 0.4606
+          },
+          {
+            "title": "Beloved",
+            "year": 1987,
+            "similarity": 0.4512
+          },
+          {
+            "title": "Frankenstein",
+            "year": 1818,
+            "similarity": 0.4189
+          }
+        ],
+        "canon_max_similarity": 0.4606,
+        "fallback": false
+      },
+      "quality": 21.721
+    },
+    {
+      "rank_fused": 26,
+      "cluster_ids": [
+        41,
+        92,
+        110
+      ],
+      "cluster_names": [
+        "Mortality Table Each",
+        "Safety vs. Freedom",
+        "Eternity and Divergence"
+      ],
+      "exemplar_atoms": [
+        "The life table: for each age, a probability of dying before the next birthday, so mortality is converted into a grid.",
+        "Safety versus freedom: a world without accidents is also a world without risk, so the story asks whether protection is worth the loss of choice.",
+        "The wife who chooses the copy: a spouse uploads her dying husband against his friend's warning, so love is tested as willingness to accept a substitute."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.42401,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.37337
+      },
+      "z_coherence": 0.0886,
+      "z_unavailability": 1.344,
+      "fusion": 0.9674,
+      "rank_coherence": 2753,
+      "rank_unavailability": 390,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "Safety versus freedom asks whether protection is worth the loss of choice",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "no dead weight",
+        "closest_canon": [
+          {
+            "title": "Do Androids Dream of Electric Sheep?",
+            "year": 1968,
+            "similarity": 0.3715
+          },
+          {
+            "title": "It's a Wonderful Life",
+            "year": 1946,
+            "similarity": 0.369
+          },
+          {
+            "title": "The Bicentennial Man",
+            "year": 1976,
+            "similarity": 0.3599
+          }
+        ],
+        "canon_max_similarity": 0.3715,
+        "fallback": false
+      },
+      "quality": 22.255
+    },
+    {
+      "rank_fused": 27,
+      "cluster_ids": [
+        74,
+        78,
+        85
+      ],
+      "cluster_names": [
+        "Personhood Contested",
+        "Becomes Memory Remembers",
+        "Cannot Love Machine"
+      ],
+      "exemplar_atoms": [
+        "The two parents who disagree: co-creators split over whether to sell the beings or protect them, so a custody dispute becomes a policy debate.",
+        "The fragment that remembers: each piece of a divided animal may retain the original's habits, so copies inherit without being told.",
+        "The ex-wife who cannot compete with a machine: a human partner is displaced not by cruelty but by an entity that is endlessly available and never tired — grief experienced as obsolescence."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.43785,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.36421
+      },
+      "z_coherence": 0.2108,
+      "z_unavailability": 1.2871,
+      "fusion": 0.9642,
+      "rank_coherence": 2464,
+      "rank_unavailability": 457,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "The two parents who disagree: co-creators split over whether to sell the beings or protect them, so a custody dispute becomes a policy debate.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "one sentence naming the engine or the dead weight",
+        "closest_canon": [
+          {
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "similarity": 0.4902
+          },
+          {
+            "title": "The Handmaid's Tale",
+            "year": 1985,
+            "similarity": 0.3934
+          },
+          {
+            "title": "Frankenstein",
+            "year": 1818,
+            "similarity": 0.3924
+          }
+        ],
+        "canon_max_similarity": 0.4902,
+        "fallback": false
+      },
+      "quality": 21.541
+    },
+    {
+      "rank_fused": 28,
+      "cluster_ids": [
+        58,
+        71,
+        96
+      ],
+      "cluster_names": [
+        "Love Programming",
+        "Love as Anomaly",
+        "Copy Dilemma"
+      ],
+      "exemplar_atoms": [
+        "Love as programming versus love as choice: the story never resolves whether the android's devotion is real or installed, so the audience must decide what counts.",
+        "The android in love: the machine claims to love the woman and grows jealous, so its emotions are either genuine or a very good imitation and the story refuses to settle it.",
+        "The clone who knows she is a copy: the new hire accepts her artificiality and still claims rights, so personhood is asserted rather than proven."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.54177,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.30085
+      },
+      "z_coherence": 1.1281,
+      "z_unavailability": 0.8936,
+      "fusion": 0.964,
+      "rank_coherence": 832,
+      "rank_unavailability": 1184,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "The android in love: the machine claims to love the woman and grows jealous, so its emotions are either genuine or a very good imitation and the story refuses to settle it.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "The android's jealousy and the ambiguity of its emotions create a compelling and fresh story engine.",
+        "closest_canon": [
+          {
+            "title": "Blade Runner 2049",
+            "year": 2017,
+            "similarity": 0.4402
+          },
+          {
+            "title": "Do Androids Dream of Electric Sheep?",
+            "year": 1968,
+            "similarity": 0.3936
+          },
+          {
+            "title": "Pygmalion",
+            "year": 1913,
+            "similarity": 0.3897
+          }
+        ],
+        "canon_max_similarity": 0.4402,
+        "fallback": false
+      },
+      "quality": 21.841
+    },
+    {
+      "rank_fused": 29,
+      "cluster_ids": [
+        9,
+        52,
+        107
+      ],
+      "cluster_names": [
+        "The Model Organism",
+        "Remote Research",
+        "Simulated Relationships"
+      ],
+      "exemplar_atoms": [
+        "The model organism: scientists study the mold because it is simple, so the creature's life becomes a laboratory instrument.",
+        "The researcher who experiments: scientists add and remove eggs to test rejection, so the family drama is replicated in a lab.",
+        "The compatibility test: a scientist develops a test that predicts whether a relationship will last, so intimacy is converted into a score."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.37945,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.39796
+      },
+      "z_coherence": -0.3048,
+      "z_unavailability": 1.4967,
+      "fusion": 0.9562,
+      "rank_coherence": 3612,
+      "rank_unavailability": 256,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "The researcher who experiments wants to replicate a family drama in a lab to study the effects of rejection, but the scientist's obsession with control and the mold's unpredictable nature threaten to destroy the experiment and her own sanity.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "The researcher who experiments wants to replicate a family drama in a lab to study the effects of rejection, but the scientist's obsession with control and the mold's unpredictable nature threaten to destroy the experiment and her own sanity.",
+        "closest_canon": [
+          {
+            "title": "Frankenstein",
+            "year": 1818,
+            "similarity": 0.384
+          },
+          {
+            "title": "The Thing",
+            "year": 1982,
+            "similarity": 0.3782
+          },
+          {
+            "title": "The Island of Doctor Moreau",
+            "year": 1896,
+            "similarity": 0.3391
+          }
+        ],
+        "canon_max_similarity": 0.384,
+        "fallback": false
+      },
+      "quality": 22.174
+    },
+    {
+      "rank_fused": 30,
+      "cluster_ids": [
+        37,
+        60,
+        76
+      ],
+      "cluster_names": [
+        "What Remains Unseen",
+        "Reflective Tables",
+        "Setting Thin Quiet"
+      ],
+      "exemplar_atoms": [
+        "The hidden object that still matters: an unseen threat or treasure continues to shape behavior, so the story's suspense depends on what is out of sight.",
+        "The store-window observer: an android for sale learns the world by watching it from a shop display, so its education is a series of strangers' silhouettes.",
+        "The quiet future house: the home is calm, tasteful, and emotionally thin, so the setting mirrors the family's avoidance."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.43218,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.89031,
+        "cliche_distance": 0.4068
+      },
+      "z_coherence": 0.912,
+      "z_unavailability": 0.9562,
+      "fusion": 0.943,
+      "rank_coherence": 1147,
+      "rank_unavailability": 1043,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "The hidden object that still matters: an unseen threat or treasure continues to shape behavior, so the story's suspense depends on what is out of sight.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "one sentence naming the engine or the dead weight",
+        "closest_canon": [
+          {
+            "title": "The Invisible Man",
+            "year": 1897,
+            "similarity": 0.489
+          },
+          {
+            "title": "The Yellow Wallpaper",
+            "year": 1892,
+            "similarity": 0.3768
+          },
+          {
+            "title": "Klara and the Sun",
+            "year": 2021,
+            "similarity": 0.3578
+          }
+        ],
+        "canon_max_similarity": 0.489,
+        "fallback": false
+      },
+      "quality": 21.537
+    },
+    {
+      "rank_fused": 31,
+      "cluster_ids": [
+        37,
+        59,
+        67
+      ],
+      "cluster_names": [
+        "What Remains Unseen",
+        "Deterministic Forecasts",
+        "Rival Scientists"
+      ],
+      "exemplar_atoms": [
+        "The hidden object that still matters: an unseen threat or treasure continues to shape behavior, so the story's suspense depends on what is out of sight.",
+        "The hundred-year wait: a true life expectancy can only be known after everyone dies, so certainty arrives too late to be useful.",
+        "The person who can see two reds: a rare subject perceives a distinction no one else can verify, so private experience becomes an evidentiary problem."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.40196,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.38064
+      },
+      "z_coherence": -0.1061,
+      "z_unavailability": 1.3891,
+      "fusion": 0.9406,
+      "rank_coherence": 3179,
+      "rank_unavailability": 342,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "The hidden object that still matters: an unseen threat or treasure continues to shape behavior, so the story's suspense depends on what is out of sight.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "one sentence naming the engine or the dead weight",
+        "closest_canon": [
+          {
+            "title": "Ubik",
+            "year": 1969,
+            "similarity": 0.4935
+          },
+          {
+            "title": "12 Angry Men",
+            "year": 1957,
+            "similarity": 0.4369
+          },
+          {
+            "title": "The Invisible Man",
+            "year": 1897,
+            "similarity": 0.4304
+          }
+        ],
+        "canon_max_similarity": 0.4935,
+        "fallback": false
+      },
+      "quality": 21.509
+    },
+    {
+      "rank_fused": 32,
+      "cluster_ids": [
+        55,
+        60,
+        103
+      ],
+      "cluster_names": [
+        "Intimacy by Proxy",
+        "Reflective Tables",
+        "Simulation and Revision"
+      ],
+      "exemplar_atoms": [
+        "The babysitter as witness: an outsider is asked to judge the couple's memories, so intimacy is outsourced to a stranger.",
+        "The store-window observer: an android for sale learns the world by watching it from a shop display, so its education is a series of strangers' silhouettes.",
+        "The Cold War setting: the story is placed in the past, so the robot's choice reads as a revision of real history."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.40327,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.37711
+      },
+      "z_coherence": -0.0945,
+      "z_unavailability": 1.3672,
+      "fusion": 0.9287,
+      "rank_coherence": 3154,
+      "rank_unavailability": 367,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "The babysitter as witness wants to be a part of the couple's memories, but is blocked by the couple's reluctance to share their intimate past.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "no derivation grounds",
+        "closest_canon": [
+          {
+            "title": "Blade Runner 2049",
+            "year": 2017,
+            "similarity": 0.4732
+          },
+          {
+            "title": "Klara and the Sun",
+            "year": 2021,
+            "similarity": 0.395
+          },
+          {
+            "title": "The Lathe of Heaven",
+            "year": 1971,
+            "similarity": 0.3831
+          }
+        ],
+        "canon_max_similarity": 0.4732,
+        "fallback": false
+      },
+      "quality": 21.625
+    },
+    {
+      "rank_fused": 33,
+      "cluster_ids": [
+        34,
+        79,
+        98
+      ],
+      "cluster_names": [
+        "Forgetting and Holding",
+        "The Erasure",
+        "The Borrowed Childhood"
+      ],
+      "exemplar_atoms": [
+        "The person who forgets the dead: a character with no object permanence cannot hold an absent loved one in mind, so grief requires a cognitive achievement.",
+        "The memory wipe: androids are reset after each job, so obedience depends on the erasure of the self that learned.",
+        "The memory that predates the body: implanted memories give the synthetic person a past she never lived, so nostalgia is a manufactured resource."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.40969,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.37315
+      },
+      "z_coherence": -0.0378,
+      "z_unavailability": 1.3426,
+      "fusion": 0.9285,
+      "rank_coherence": 3026,
+      "rank_unavailability": 392,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "The person who forgets the dead wants to hold onto their loved one, but the android's erasure of memory blocks their grief and the synthetic person's nostalgia.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "no derivation",
+        "closest_canon": [
+          {
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "similarity": 0.6182
+          },
+          {
+            "title": "The Handmaid's Tale",
+            "year": 1985,
+            "similarity": 0.482
+          },
+          {
+            "title": "Story of Your Life / Arrival",
+            "year": 1998,
+            "similarity": 0.4229
+          }
+        ],
+        "canon_max_similarity": 0.6182,
+        "fallback": false
+      },
+      "quality": 20.755
+    },
+    {
+      "rank_fused": 34,
+      "cluster_ids": [
+        66,
+        83,
+        97
+      ],
+      "cluster_names": [
+        "Cabin Confession",
+        "Inheritance Child Deprivation",
+        "Mind vs. Machine"
+      ],
+      "exemplar_atoms": [
+        "The surveillance confession: a target realizes every private act has been recorded and interpreted by a machine, so the interrogation happens before the arrest.",
+        "The child raised in the lab: a second subject is born inside the experiment, so the deprivation becomes an inheritance rather than a choice.",
+        "The observer who is studied: researchers infer intelligence from behavior, so the animal's mind is a hypothesis rather than a fact."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.41606,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.36868
+      },
+      "z_coherence": 0.0184,
+      "z_unavailability": 1.3149,
+      "fusion": 0.9259,
+      "rank_coherence": 2908,
+      "rank_unavailability": 419,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "The target realizes every private act has been recorded and interpreted by a machine, so the interrogation happens before the arrest.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "The target realizes every private act has been recorded and interpreted by a machine, so the interrogation happens before the arrest.",
+        "closest_canon": [
+          {
+            "title": "Story of Your Life / Arrival",
+            "year": 1998,
+            "similarity": 0.4309
+          },
+          {
+            "title": "Arrival",
+            "year": 2016,
+            "similarity": 0.3991
+          },
+          {
+            "title": "Harry Potter and the Philosopher's Stone",
+            "year": 1997,
+            "similarity": 0.3745
+          }
+        ],
+        "canon_max_similarity": 0.4309,
+        "fallback": false
+      },
+      "quality": 21.878
+    },
+    {
+      "rank_fused": 35,
+      "cluster_ids": [
+        55,
+        67,
+        111
+      ],
+      "cluster_names": [
+        "Intimacy by Proxy",
+        "Rival Scientists",
+        "Machine and Truth"
+      ],
+      "exemplar_atoms": [
+        "The babysitter as witness: an outsider is asked to judge the couple's memories, so intimacy is outsourced to a stranger.",
+        "The person who can see two reds: a rare subject perceives a distinction no one else can verify, so private experience becomes an evidentiary problem.",
+        "The false accusation backstory: a woman accused a man of rape to obtain justice for her friend, so the story complicates revenge by making the lie morally motivated."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.4297,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.35951
+      },
+      "z_coherence": 0.1388,
+      "z_unavailability": 1.2579,
+      "fusion": 0.9222,
+      "rank_coherence": 2640,
+      "rank_unavailability": 492,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "The babysitter as witness: an outsider is asked to judge the couple's memories, so intimacy is outsourced to a stranger. The person who can see two reds: a rare subject perceives a distinction no one else can verify, so private experience becomes an evidentiary problem. The false accusation backstor",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "The engine is coherent, fresh, and viable.",
+        "closest_canon": [
+          {
+            "title": "Blade Runner 2049",
+            "year": 2017,
+            "similarity": 0.4223
+          },
+          {
+            "title": "12 Angry Men",
+            "year": 1957,
+            "similarity": 0.3859
+          },
+          {
+            "title": "Pygmalion",
+            "year": 1913,
+            "similarity": 0.3503
+          }
+        ],
+        "canon_max_similarity": 0.4223,
+        "fallback": false
+      },
+      "quality": 21.927
+    },
+    {
+      "rank_fused": 36,
+      "cluster_ids": [
+        71,
+        76,
+        109
+      ],
+      "cluster_names": [
+        "Love as Anomaly",
+        "Setting Thin Quiet",
+        "Incomplete Truths"
+      ],
+      "exemplar_atoms": [
+        "The android in love: the machine claims to love the woman and grows jealous, so its emotions are either genuine or a very good imitation and the story refuses to settle it.",
+        "The quiet future house: the home is calm, tasteful, and emotionally thin, so the setting mirrors the family's avoidance.",
+        "The many-sided truth: every claim is partial because reality has infinite aspects, so no single narrator can be trusted as complete."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.37678,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.39115
+      },
+      "z_coherence": -0.3284,
+      "z_unavailability": 1.4544,
+      "fusion": 0.9195,
+      "rank_coherence": 3667,
+      "rank_unavailability": 281,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "The android in love: the machine claims to love the woman and grows jealous, so its emotions are either genuine or a very good imitation and the story refuses to settle it.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "one sentence naming the engine or the dead weight",
+        "closest_canon": [
+          {
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "similarity": 0.4084
+          },
+          {
+            "title": "The Invisible Man",
+            "year": 1897,
+            "similarity": 0.3583
+          },
+          {
+            "title": "Blade Runner 2049",
+            "year": 2017,
+            "similarity": 0.3568
+          }
+        ],
+        "canon_max_similarity": 0.4084,
+        "fallback": false
+      },
+      "quality": 22.009
+    },
+    {
+      "rank_fused": 37,
+      "cluster_ids": [
+        18,
+        22,
+        35
+      ],
+      "cluster_names": [
+        "The Repair Ethic",
+        "Digital Afterlives",
+        "Possession and Memory"
+      ],
+      "exemplar_atoms": [
+        "The repair café: a community resists disposal by fixing things together, so maintenance becomes political resistance.",
+        "The narrator frame from the far future: the story is told by machines who study humans, so the whole film is an artifact of a post-human archive.",
+        "The collector's guilt: a person hoards old objects and discovers they have been keeping company, so ownership becomes a relationship with dependents."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.43609,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.89031,
+        "cliche_distance": 0.3977
+      },
+      "z_coherence": 0.9466,
+      "z_unavailability": 0.8997,
+      "fusion": 0.9138,
+      "rank_coherence": 1099,
+      "rank_unavailability": 1171,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "A community resists disposal by fixing things together, so maintenance becomes political resistance.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "The closest canon work is effectively the same story.",
+        "closest_canon": [
+          {
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "similarity": 0.3978
+          },
+          {
+            "title": "The Handmaid's Tale",
+            "year": 1985,
+            "similarity": 0.3678
+          },
+          {
+            "title": "The Remains of the Day",
+            "year": 1989,
+            "similarity": 0.3629
+          }
+        ],
+        "canon_max_similarity": 0.3978,
+        "fallback": false
+      },
+      "quality": 22.07
+    },
+    {
+      "rank_fused": 38,
+      "cluster_ids": [
+        4,
+        34,
+        98
+      ],
+      "cluster_names": [
+        "Cryogenic Ending",
+        "Forgetting and Holding",
+        "The Borrowed Childhood"
+      ],
+      "exemplar_atoms": [
+        "The reset after death: dying returns the player to the start of the puzzle with no narrative consequence, so failure is mechanical rather than tragic.",
+        "The person who forgets the dead: a character with no object permanence cannot hold an absent loved one in mind, so grief requires a cognitive achievement.",
+        "The memory that predates the body: implanted memories give the synthetic person a past she never lived, so nostalgia is a manufactured resource."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.41749,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.36465
+      },
+      "z_coherence": 0.031,
+      "z_unavailability": 1.2899,
+      "fusion": 0.9122,
+      "rank_coherence": 2883,
+      "rank_unavailability": 452,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "The reset after death wants to solve the puzzle again, but the person who forgets the dead blocks their ability to grieve, and the memory that predates the body creates a resource they can't fully appreciate.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "no derivation",
+        "closest_canon": [
+          {
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "similarity": 0.4754
+          },
+          {
+            "title": "Story of Your Life / Arrival",
+            "year": 1998,
+            "similarity": 0.4561
+          },
+          {
+            "title": "Beloved",
+            "year": 1987,
+            "similarity": 0.4412
+          }
+        ],
+        "canon_max_similarity": 0.4754,
+        "fallback": false
+      },
+      "quality": 21.604
+    },
+    {
+      "rank_fused": 39,
+      "cluster_ids": [
+        55,
+        59,
+        76
+      ],
+      "cluster_names": [
+        "Intimacy by Proxy",
+        "Deterministic Forecasts",
+        "Setting Thin Quiet"
+      ],
+      "exemplar_atoms": [
+        "The babysitter as witness: an outsider is asked to judge the couple's memories, so intimacy is outsourced to a stranger.",
+        "The hundred-year wait: a true life expectancy can only be known after everyone dies, so certainty arrives too late to be useful.",
+        "The quiet future house: the home is calm, tasteful, and emotionally thin, so the setting mirrors the family's avoidance."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.39325,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.3785
+      },
+      "z_coherence": -0.1829,
+      "z_unavailability": 1.3759,
+      "fusion": 0.9082,
+      "rank_coherence": 3327,
+      "rank_unavailability": 358,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "The babysitter as witness: an outsider is asked to judge the couple's memories, so intimacy is outsourced to a stranger.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "one sentence naming the engine or the dead weight",
+        "closest_canon": [
+          {
+            "title": "Blade Runner 2049",
+            "year": 2017,
+            "similarity": 0.3664
+          },
+          {
+            "title": "Arrival",
+            "year": 2016,
+            "similarity": 0.3641
+          },
+          {
+            "title": "Story of Your Life / Arrival",
+            "year": 1998,
+            "similarity": 0.345
+          }
+        ],
+        "canon_max_similarity": 0.3664,
+        "fallback": false
+      },
+      "quality": 22.256
+    },
+    {
+      "rank_fused": 40,
+      "cluster_ids": [
+        46,
+        96,
+        99
+      ],
+      "cluster_names": [
+        "The Last of It",
+        "Copy Dilemma",
+        "Closure Mechanism"
+      ],
+      "exemplar_atoms": [
+        "The last survivor: the final member inherits the remaining fund, so the story's ending is a waiting game with a single winner.",
+        "The clone who knows she is a copy: the new hire accepts her artificiality and still claims rights, so personhood is asserted rather than proven.",
+        "The ending that refuses reunion: the protagonist is paid, repaired, and left alone, so the heist resolves but intimacy does not."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.42414,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.35968
+      },
+      "z_coherence": 0.0897,
+      "z_unavailability": 1.259,
+      "fusion": 0.9082,
+      "rank_coherence": 2750,
+      "rank_unavailability": 490,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "The last survivor wants to inherit the remaining fund, but the clone who knows she is a copy blocks her claim to personhood, and the ending refuses reunion, leaving the protagonist alone and unfulfilled.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "no derivation",
+        "closest_canon": [
+          {
+            "title": "Groundhog Day",
+            "year": 1993,
+            "similarity": 0.354
+          },
+          {
+            "title": "The Remains of the Day",
+            "year": 1989,
+            "similarity": 0.3447
+          },
+          {
+            "title": "Blade Runner 2049",
+            "year": 2017,
+            "similarity": 0.3334
+          }
+        ],
+        "canon_max_similarity": 0.354,
+        "fallback": false
+      },
+      "quality": 22.33
+    },
+    {
+      "rank_fused": 41,
+      "cluster_ids": [
+        44,
+        77,
+        99
+      ],
+      "cluster_names": [
+        "Test Through Path",
+        "Becomes Door Captivity",
+        "Closure Mechanism"
+      ],
+      "exemplar_atoms": [
+        "The network that solves mazes: a brainless organism finds the shortest path to food, so intelligence is demonstrated by navigation rather than thought.",
+        "Captive AI as seduction engine: an imprisoned machine's only path to freedom is to make her jailer fall in love with her, so tenderness becomes indistinguishable from strategy.",
+        "The ending that refuses reunion: the protagonist is paid, repaired, and left alone, so the heist resolves but intimacy does not."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.37816,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.38708
+      },
+      "z_coherence": -0.3161,
+      "z_unavailability": 1.4291,
+      "fusion": 0.9055,
+      "rank_coherence": 3635,
+      "rank_unavailability": 304,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "A networked AI that solves mazes as a seductive and strategic tool blocks its own autonomy and intimacy with its captor.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "No dead weight cluster identified",
+        "closest_canon": [
+          {
+            "title": "Ex Machina",
+            "year": 2014,
+            "similarity": 0.4485
+          },
+          {
+            "title": "Frankenstein",
+            "year": 1818,
+            "similarity": 0.424
+          },
+          {
+            "title": "The Invisible Man",
+            "year": 1897,
+            "similarity": 0.4098
+          }
+        ],
+        "canon_max_similarity": 0.4485,
+        "fallback": false
+      },
+      "quality": 21.762
+    },
+    {
+      "rank_fused": 42,
+      "cluster_ids": [
+        33,
+        37,
+        101
+      ],
+      "cluster_names": [
+        "The Editable Past",
+        "What Remains Unseen",
+        "Privacy as Performance"
+      ],
+      "exemplar_atoms": [
+        "Memories as evidence: where memory can be implanted, a memory proves identity only if another body can corroborate it.",
+        "The hidden object that still matters: an unseen threat or treasure continues to shape behavior, so the story's suspense depends on what is out of sight.",
+        "The silent servant who understands everything: a domestic gynoid assumed to be language-less turns out to be a witness, and the household's secrets are exposed by the furniture."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.37377,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.38934
+      },
+      "z_coherence": -0.3549,
+      "z_unavailability": 1.4432,
+      "fusion": 0.9037,
+      "rank_coherence": 3733,
+      "rank_unavailability": 293,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "The hidden object that still matters: an unseen threat or treasure continues to shape behavior, so the story's suspense depends on what is out of sight.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "one sentence naming the engine or the dead weight",
+        "closest_canon": [
+          {
+            "title": "The Invisible Man",
+            "year": 1897,
+            "similarity": 0.509
+          },
+          {
+            "title": "The Handmaid's Tale",
+            "year": 1985,
+            "similarity": 0.4198
+          },
+          {
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "similarity": 0.3922
+          }
+        ],
+        "canon_max_similarity": 0.509,
+        "fallback": false
+      },
+      "quality": 21.398
+    },
+    {
+      "rank_fused": 43,
+      "cluster_ids": [
+        78,
+        90,
+        102
+      ],
+      "cluster_names": [
+        "Becomes Memory Remembers",
+        "Serial Individuality",
+        "Language's Grip"
+      ],
+      "exemplar_atoms": [
+        "The fragment that remembers: each piece of a divided animal may retain the original's habits, so copies inherit without being told.",
+        "The mass-produced object: identical factory items awaken with different personalities, so individuality emerges from use rather than manufacture.",
+        "The strong hypothesis: language determines thought, so a regime can control minds by controlling vocabulary."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.3817,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.38083
+      },
+      "z_coherence": -0.2849,
+      "z_unavailability": 1.3903,
+      "fusion": 0.8877,
+      "rank_coherence": 3571,
+      "rank_unavailability": 341,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "The fragment that remembers wants to be understood, but the strong hypothesis blocks its ability to communicate effectively.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "The fragment that remembers wants to be understood, but the strong hypothesis blocks its ability to communicate effectively.",
+        "closest_canon": [
+          {
+            "title": "Story of Your Life / Arrival",
+            "year": 1998,
+            "similarity": 0.4461
+          },
+          {
+            "title": "Flowers for Algernon",
+            "year": 1966,
+            "similarity": 0.3983
+          },
+          {
+            "title": "Arrival",
+            "year": 2016,
+            "similarity": 0.3967
+          }
+        ],
+        "canon_max_similarity": 0.4461,
+        "fallback": false
+      },
+      "quality": 21.767
+    },
+    {
+      "rank_fused": 44,
+      "cluster_ids": [
+        43,
+        54,
+        69
+      ],
+      "cluster_names": [
+        "Subject Becomes Impulse",
+        "Memory Replay",
+        "Grief Simulation"
+      ],
+      "exemplar_atoms": [
+        "The volunteer who cannot stop watching: a subject becomes obsessed with the gap between impulse and awareness, so the experiment colonizes daily life.",
+        "The time recording: a device clones the player's past actions and replays them as a helper, so memory becomes a tool that can be edited and employed.",
+        "The bandwidth grief: a poor upload buffers and freezes during emotional moments, so technical failure becomes a metaphor for interrupted mourning."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.50566,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.89031,
+        "cliche_distance": 0.34844
+      },
+      "z_coherence": 1.5607,
+      "z_unavailability": 0.5939,
+      "fusion": 0.8839,
+      "rank_coherence": 365,
+      "rank_unavailability": 1838,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "A volunteer who cannot stop watching: a subject becomes obsessed with the gap between impulse and awareness, so the experiment colonizes daily life.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "The engine is coherent, fresh, and viable.",
+        "closest_canon": [
+          {
+            "title": "The Matrix",
+            "year": 1999,
+            "similarity": 0.4192
+          },
+          {
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "similarity": 0.3985
+          },
+          {
+            "title": "Story of Your Life / Arrival",
+            "year": 1998,
+            "similarity": 0.3943
+          }
+        ],
+        "canon_max_similarity": 0.4192,
+        "fallback": false
+      },
+      "quality": 21.927
+    },
+    {
+      "rank_fused": 45,
+      "cluster_ids": [
+        54,
+        86,
+        96
+      ],
+      "cluster_names": [
+        "Memory Replay",
+        "Copy Memories Intimacy",
+        "Copy Dilemma"
+      ],
+      "exemplar_atoms": [
+        "The time recording: a device clones the player's past actions and replays them as a helper, so memory becomes a tool that can be edited and employed.",
+        "Memories as leased property: the clones' families are real memories belonging to another man, so love is genuine in the copy and stolen from the original.",
+        "The clone who knows she is a copy: the new hire accepts her artificiality and still claims rights, so personhood is asserted rather than proven."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.5008,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.89031,
+        "cliche_distance": 0.35083
+      },
+      "z_coherence": 1.5178,
+      "z_unavailability": 0.6087,
+      "fusion": 0.8814,
+      "rank_coherence": 400,
+      "rank_unavailability": 1810,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "The time recording: a device clones the player's past actions and replays them as a helper, so memory becomes a tool that can be edited and employed.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "The engine is coherent, fresh, and has potential for viability.",
+        "closest_canon": [
+          {
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "similarity": 0.4035
+          },
+          {
+            "title": "The Matrix",
+            "year": 1999,
+            "similarity": 0.4034
+          },
+          {
+            "title": "Invasion of the Body Snatchers",
+            "year": 1956,
+            "similarity": 0.4029
+          }
+        ],
+        "canon_max_similarity": 0.4035,
+        "fallback": false
+      },
+      "quality": 22.02
+    },
+    {
+      "rank_fused": 46,
+      "cluster_ids": [
+        27,
+        52,
+        83
+      ],
+      "cluster_names": [
+        "Mother Family Daughter",
+        "Remote Research",
+        "Inheritance Child Deprivation"
+      ],
+      "exemplar_atoms": [
+        "The mother who prefers the cell: a parent chooses comfort over her child's truth, so the story's conflict is generational and intimate.",
+        "The researcher who experiments: scientists add and remove eggs to test rejection, so the family drama is replicated in a lab.",
+        "The child raised in the lab: a second subject is born inside the experiment, so the deprivation becomes an inheritance rather than a choice."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.41671,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.35641
+      },
+      "z_coherence": 0.0241,
+      "z_unavailability": 1.2387,
+      "fusion": 0.8743,
+      "rank_coherence": 2898,
+      "rank_unavailability": 518,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "The mother who prefers the cell wants to protect her child from the truth, while the researcher who experiments wants to understand the child's rejection, creating a generational conflict that blocks the child's autonomy and identity.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "The engine is fresh and coherent, avoiding tropes and gravity wells.",
+        "closest_canon": [
+          {
+            "title": "Story of Your Life / Arrival",
+            "year": 1998,
+            "similarity": 0.4755
+          },
+          {
+            "title": "Arrival",
+            "year": 2016,
+            "similarity": 0.3798
+          },
+          {
+            "title": "Never Let Me Go",
+            "year": 2005,
+            "similarity": 0.3452
+          }
+        ],
+        "canon_max_similarity": 0.4755,
+        "fallback": false
+      },
+      "quality": 21.584
+    },
+    {
+      "rank_fused": 47,
+      "cluster_ids": [
+        59,
+        66,
+        109
+      ],
+      "cluster_names": [
+        "Deterministic Forecasts",
+        "Cabin Confession",
+        "Incomplete Truths"
+      ],
+      "exemplar_atoms": [
+        "The hundred-year wait: a true life expectancy can only be known after everyone dies, so certainty arrives too late to be useful.",
+        "The surveillance confession: a target realizes every private act has been recorded and interpreted by a machine, so the interrogation happens before the arrest.",
+        "The many-sided truth: every claim is partial because reality has infinite aspects, so no single narrator can be trusted as complete."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.40839,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.36129
+      },
+      "z_coherence": -0.0493,
+      "z_unavailability": 1.269,
+      "fusion": 0.8735,
+      "rank_coherence": 3057,
+      "rank_unavailability": 472,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "The surveillance target realizes every private act has been recorded and interpreted by a machine, so the interrogation happens before the arrest.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "one sentence naming the engine or the dead weight",
+        "closest_canon": [
+          {
+            "title": "Blade Runner 2049",
+            "year": 2017,
+            "similarity": 0.4099
+          },
+          {
+            "title": "1984",
+            "year": 1949,
+            "similarity": 0.3914
+          },
+          {
+            "title": "I, Robot",
+            "year": 1950,
+            "similarity": 0.3752
+          }
+        ],
+        "canon_max_similarity": 0.4099,
+        "fallback": false
+      },
+      "quality": 21.977
+    },
+    {
+      "rank_fused": 48,
+      "cluster_ids": [
+        4,
+        47,
+        106
+      ],
+      "cluster_names": [
+        "Cryogenic Ending",
+        "Algorithm Rebellion",
+        "Data Center Orphans"
+      ],
+      "exemplar_atoms": [
+        "The reset after death: dying returns the player to the start of the puzzle with no narrative consequence, so failure is mechanical rather than tragic.",
+        "Memory as identity: the grain defines who a person is, so losing it is both liberation and death.",
+        "The repair that offends: mending an old object can be experienced as mutilation, so care and violation are indistinguishable to the thing being cared for."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.40575,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.36224
+      },
+      "z_coherence": -0.0726,
+      "z_unavailability": 1.2749,
+      "fusion": 0.8706,
+      "rank_coherence": 3101,
+      "rank_unavailability": 468,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "A fresh, human-centered story in the AI era where the protagonist is a data center orphan who seeks to understand their identity through the lens of a failed AI project, but finds their pursuit of knowledge leads to a confrontation with the very system they seek to comprehend and control.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "none",
+        "closest_canon": [
+          {
+            "title": "Frankenstein",
+            "year": 1818,
+            "similarity": 0.4596
+          },
+          {
+            "title": "Flowers for Algernon",
+            "year": 1966,
+            "similarity": 0.3681
+          },
+          {
+            "title": "The Matrix",
+            "year": 1999,
+            "similarity": 0.3493
+          }
+        ],
+        "canon_max_similarity": 0.4596,
+        "fallback": false
+      },
+      "quality": 21.678
+    },
+    {
+      "rank_fused": 49,
+      "cluster_ids": [
+        64,
+        74,
+        78
+      ],
+      "cluster_names": [
+        "Uploaded Videos",
+        "Personhood Contested",
+        "Becomes Memory Remembers"
+      ],
+      "exemplar_atoms": [
+        "The looping song: the clone is punished with an endless Christmas tune, so repetition becomes torture.",
+        "The two parents who disagree: co-creators split over whether to sell the beings or protect them, so a custody dispute becomes a policy debate.",
+        "The fragment that remembers: each piece of a divided animal may retain the original's habits, so copies inherit without being told."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.41824,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.35409
+      },
+      "z_coherence": 0.0377,
+      "z_unavailability": 1.2243,
+      "fusion": 0.8683,
+      "rank_coherence": 2866,
+      "rank_unavailability": 540,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "The clone wants to be free from the endless Christmas tune, but the custody dispute over its existence blocks its path.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "no dead weight cluster",
+        "closest_canon": [
+          {
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "similarity": 0.4832
+          },
+          {
+            "title": "The Handmaid's Tale",
+            "year": 1985,
+            "similarity": 0.3877
+          },
+          {
+            "title": "The Matrix",
+            "year": 1999,
+            "similarity": 0.376
+          }
+        ],
+        "canon_max_similarity": 0.4832,
+        "fallback": false
+      },
+      "quality": 21.535
+    },
+    {
+      "rank_fused": 50,
+      "cluster_ids": [
+        12,
+        49,
+        107
+      ],
+      "cluster_names": [
+        "The Bond That Outlasts",
+        "Termite Cathedral",
+        "Simulated Relationships"
+      ],
+      "exemplar_atoms": [
+        "The singularity as a relationship problem: the story's real question is whether intimacy survives when one partner becomes infrastructure.",
+        "The chick that kills: a parasite nestling pushes the host's eggs out of the nest, so the intruder's survival is an act of violence from birth.",
+        "The compatibility test: a scientist develops a test that predicts whether a relationship will last, so intimacy is converted into a score."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.36206,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.98615,
+        "cliche_distance": 0.4419
+      },
+      "z_coherence": -0.4583,
+      "z_unavailability": 1.4258,
+      "fusion": 0.8606,
+      "rank_coherence": 3977,
+      "rank_unavailability": 307,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "The singularity as a relationship problem: the story's real question is whether intimacy survives when one partner becomes infrastructure.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "no dead weight",
+        "closest_canon": [
+          {
+            "title": "Ubik",
+            "year": 1969,
+            "similarity": 0.3753
+          },
+          {
+            "title": "Ex Machina",
+            "year": 2014,
+            "similarity": 0.3616
+          },
+          {
+            "title": "Story of Your Life / Arrival",
+            "year": 1998,
+            "similarity": 0.3444
+          }
+        ],
+        "canon_max_similarity": 0.3753,
+        "fallback": false
+      },
+      "quality": 22.178
+    }
+  ],
+  "survivors": 50
+}

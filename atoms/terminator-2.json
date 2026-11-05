@@ -1,0 +1,22 @@
+{
+  "source": "terminator-2",
+  "diet": "A",
+  "atoms": [
+    {"id": "terminator-2-01", "text": "The protector Terminator: a killing machine is reprogrammed to protect a child, so the audience's affection for the weapon becomes the film's moral experiment.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "terminator-2-02", "text": "The shape-shifting assassin: a liquid-metal Terminator can become anyone, so trust depends on continuous verification rather than stable identity.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "terminator-2-03", "text": "The mother who trains her son for a war he may never see: parenting becomes paramilitary preparation, so love and trauma share one curriculum.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "terminator-2-04", "text": "Judgment Day as scheduled apocalypse: the future war has a date, so every present choice is measured against a countdown.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "terminator-2-05", "text": "No fate but what we make: the story insists the future is open while its own time loop keeps re-creating the same war, so hope and determinism coexist.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "terminator-2-06", "text": "The reprogrammed machine learns value: the Terminator's gradual acquisition of empathy makes the real test whether a weapon can choose not to kill.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "terminator-2-07", "text": "The boy who teaches the machine: a child becomes the moral instructor of a killer, so innocence is depicted as a technology for converting violence.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "terminator-2-08", "text": "The father figure who is also a machine: the hero's missing father is replaced by a robot protector, so paternal care is outsourced and literalized.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "terminator-2-09", "text": "The asylum as prison for the sane: the mother who knows the truth is locked up, so institutions pathologize the only person preparing for disaster.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "terminator-2-10", "text": "The chip that must be destroyed: the protagonists must kill the technology that could save them, so survival requires renouncing the tool that guarantees it.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "terminator-2-11", "text": "The machine as mirror of humanity: the Terminator's obedience and the humans' violence ask which side is more programmatic.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "terminator-2-12", "text": "The mall chase: an ordinary consumer space becomes a battlefield, so the apocalypse intrudes into daily life without warning.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "terminator-2-13", "text": "The adopted family: a killer, a soldier, and a boy form a household, so the family unit is assembled from damaged parts rather than blood.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "terminator-2-14", "text": "Repeated catchphrases as learning curve: the Terminator's lines are recycled with changing context, so verbal repetition measures moral development.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "terminator-2-15", "text": "The sacrifice in the steel mill: the machine chooses self-destruction to remove its own future threat, so the protector's death is also a decommissioning.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "terminator-2-16", "text": "Prevention as parenthood: saving the future means raising a child who can resist the machine, so the only reliable defense is human formation.", "kind": "theme_engine", "quality": "strong", "original": null}
+  ]
+}

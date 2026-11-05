@@ -1,0 +1,22 @@
+{
+  "source": "sharecropping",
+  "diet": "B",
+  "atoms": [
+    {"id": "sharecropping-01", "text": "The crop share: a tenant pays the landlord half to two-thirds of the harvest, so labor is rewarded only after the owner takes their cut.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "sharecropping-02", "text": "The company store: the landlord supplies food and tools on credit, so the worker's survival depends on the employer's ledger.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "sharecropping-03", "text": "The crop lien: the year's harvest is collateral for a loan, so the future is mortgaged before it grows.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "sharecropping-04", "text": "The debt that never clears: after the owner and merchant are paid, nothing remains, so labor reproduces its own bondage.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "sharecropping-05", "text": "The tenant with a mule: a farmer who owns tools owes a smaller share, so autonomy is measured by equipment.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "sharecropping-06", "text": "The landlord who provides everything: housing, seed, and animals come from the owner, so dependency is built into the contract.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "sharecropping-07", "text": "The settlement day: the merchant sells the harvest on the worker's behalf and settles the debt, so the worker never touches the money.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "sharecropping-08", "text": "The decentralized plot: scattered fields give the landlord no role, so the same institution can be intimate or absent.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "sharecropping-09", "text": "The plantation store: long tenure ties a family to one owner, so the relationship outlasts individuals.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "sharecropping-10", "text": "The salary that replaces the share: markets turn tenants into wage laborers, so one form of dependency becomes another.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "sharecropping-11", "text": "The harvest festival: a community celebrates a crop it does not own, so joy and expropriation share a table.", "kind": "setting_pressure", "quality": "medium", "original": null},
+    {"id": "sharecropping-12", "text": "The oral contract: the arrangement is traditional and legally governed, so memory and law compete over the terms.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "sharecropping-13", "text": "The tenant who hides grain: a worker conceals part of the harvest to survive, so theft is the only form of savings.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "sharecropping-14", "text": "The owner's generosity: a landlord forgives a debt and calls it kindness, so power is exercised through mercy.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "sharecropping-15", "text": "The next generation's debt: children inherit the obligation to work the same land, so the contract is generational.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "sharecropping-16", "text": "The record book: the owner's accounts determine who owes what, so truth is a private document.", "kind": "structure_trick", "quality": "strong", "original": null}
+  ]
+}

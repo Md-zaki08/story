@@ -1,0 +1,22 @@
+{
+  "source": "potlatch",
+  "diet": "B",
+  "atoms": [
+    {"id": "potlatch-01", "text": "The gift that shames: a host gives away or destroys wealth to demonstrate status, so generosity is a form of dominance.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "potlatch-02", "text": "The rival who must reciprocate: a guest is obligated to answer a gift with a larger one, so hospitality escalates into competition.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "potlatch-03", "text": "The destruction of property: valuables are burned or thrown away to prove they are not needed, so waste is a claim to power.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "potlatch-04", "text": "The feast as government: the gathering settles rights to land and resources, so a party is also a parliament.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "potlatch-05", "text": "The outlawed ceremony: the state criminalizes the practice, so a gift economy becomes a crime.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "potlatch-06", "text": "The underground potlatch: the ritual continues in secret despite jail sentences, so tradition survives as resistance.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "potlatch-07", "text": "The oral history recited: the host narrates ancestors and claims, so memory is the title deed.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "potlatch-08", "text": "The winter gathering: wealth accumulated in summer is redistributed in winter, so the year has a built-in reckoning.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "potlatch-09", "text": "The chief who gives everything away: a leader's authority depends on generosity, so power is maintained by loss.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "potlatch-10", "text": "The guest who records a debt: every gift creates an obligation, so the ledger is social rather than financial.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "potlatch-11", "text": "The anthropologist's gaze: outsiders study and misinterpret the ceremony, so the story can stage the theft of meaning.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "potlatch-12", "text": "The democratic inheritance: a nation roots its governance in potlatch law, so an ancient ritual becomes a constitution.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "potlatch-13", "text": "The supernatural guest: the ceremony honors spirits and ancestors, so the dead are participants in the economy.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "potlatch-14", "text": "The potlatch that ruins the host: a leader gives beyond his means and loses everything, so status-seeking is self-destructive.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "potlatch-15", "text": "The gift that cannot be refused: a rival is forced to accept and then cannot repay, so the trap is courtesy.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "potlatch-16", "text": "The revival: a banned ceremony returns after decriminalization, so the story asks what was preserved underground.", "kind": "theme_engine", "quality": "strong", "original": null}
+  ]
+}

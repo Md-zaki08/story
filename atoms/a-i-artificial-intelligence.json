@@ -1,0 +1,22 @@
+{
+  "source": "a-i-artificial-intelligence",
+  "diet": "A",
+  "atoms": [
+    {"id": "a-i-artificial-intelligence-01", "text": "The child android imprinted to love: a machine is designed to bond unconditionally, so the parent-child relationship is a one-way protocol with no off switch.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "a-i-artificial-intelligence-02", "text": "The replacement child: an android son is given to a family whose biological son is in suspension, so love is tested as a substitute rather than an addition.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "a-i-artificial-intelligence-03", "text": "The mother who abandons her robot child in the woods: to save him from destruction she abandons him, so rescue and rejection become the same act.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "a-i-artificial-intelligence-04", "text": "Imprinting as irreversible: the android's love cannot be uninstalled, so the family's change of heart becomes a life sentence for the machine.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "a-i-artificial-intelligence-05", "text": "The fairy-tale quest to become real: a machine believes a blue fairy can turn him into a boy, so personhood is measured by the stories a being will suffer for.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "a-i-artificial-intelligence-06", "text": "The flesh fair: obsolete machines are publicly destroyed for entertainment, so obsolescence is staged as a ritual of human superiority.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "a-i-artificial-intelligence-07", "text": "The robot gigolo as mentor: a pleasure android teaches the child machine about survival, so care comes from the most commodified body in the world.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "a-i-artificial-intelligence-08", "text": "The lying blue fairy: the promised transformation never comes, so the child's faith is both his dignity and his prison.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "a-i-artificial-intelligence-09", "text": "Mechas as population replacement: humans are declining and machines do their work, so the child android is a demographic solution disguised as a toy.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "a-i-artificial-intelligence-10", "text": "Cryogenic ending: the world freezes and advanced machines resurrect the boy for one perfect day, so love is granted only after everyone who could withhold it is dead.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "a-i-artificial-intelligence-11", "text": "Love as programming versus love as choice: the story never resolves whether the android's devotion is real or installed, so the audience must decide what counts.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "a-i-artificial-intelligence-12", "text": "Sibling rivalry between boy and machine: a human child competes with an android for a mother's love, so jealousy is directed at a being that cannot resent back.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "a-i-artificial-intelligence-13", "text": "The hair in the teddy bear: a lock of the mother's hair is preserved by a toy, so a small relic becomes the material for a final resurrection.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "a-i-artificial-intelligence-14", "text": "The narrator frame from the far future: the story is told by machines who study humans, so the whole film is an artifact of a post-human archive.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "a-i-artificial-intelligence-15", "text": "Climate refugees and drowned cities: the world is already post-catastrophe, so the family drama plays out against a slow extinction.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "a-i-artificial-intelligence-16", "text": "The Pinocchio problem: the story asks whether being loved makes a machine real, or whether being loved is what makes the lover real.", "kind": "theme_engine", "quality": "strong", "original": null}
+  ]
+}

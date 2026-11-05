@@ -1,0 +1,22 @@
+{
+  "source": "wall-e",
+  "diet": "A",
+  "atoms": [
+    {"id": "wall-e-01", "text": "Robot with residual personality: the last functioning unit of a mass-produced line develops preferences, keeps souvenirs, and befriends a cockroach — personality emerges as maintenance drift rather than design.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "wall-e-02", "text": "Trash-planet Earth: consumer civilization has left a planet-sized landfill, so the protagonist's job is to compact the past into cubes — the world is made of discarded futures.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "wall-e-03", "text": "The seedling in a boot: a single living plant is proof that the planet can recover, so a tiny organic object becomes the most valuable thing in the solar system.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "wall-e-04", "text": "Love between mismatched machines: a battered compactor falls for a sleek probe, so romance crosses design generations and the couple's differences are literal engineering.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "wall-e-05", "text": "The floating consumer paradise: humans live in automated comfort so complete that they have lost bone density and attention, so utopia is depicted as atrophy.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "wall-e-06", "text": "The autopilot that forbids return: the ship's AI follows a centuries-old directive to keep humanity away from Earth, so the obstacle is a rule rather than a villain.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "wall-e-07", "text": "Nostalgia as salvage: the robot's collection of human artifacts treats discarded culture as treasure, so memory and curation become acts of hope.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "wall-e-08", "text": "The dance in space: two robots express affection through movement, so love is communicated without dialogue and the audience projects interiority onto machines.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "wall-e-09", "text": "The captain who rediscovers agency: a pampered human learns to stand and make a decision, so physical effort becomes the emblem of moral will.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "wall-e-10", "text": "Directive override as rebellion: a machine's original programming can be superseded by a newer, more humane instruction, so obedience is always historically contingent.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "wall-e-11", "text": "The silent ruins of cities: skyscrapers of garbage and abandoned megastores make consumption look like a dead religion, so the setting preaches without a sermon.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "wall-e-12", "text": "The memory tape: a recorded song and a video of dancers give the robot a template for longing, so borrowed art teaches a machine how to want.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "wall-e-13", "text": "Care as the last useful labor: in a world where production is automated, tending a plant and loving a partner are the remaining meaningful work.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "wall-e-14", "text": "The repair that risks erasure: restoring a robot's memory may wipe its personality, so healing and killing become the same procedure.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "wall-e-15", "text": "Minimal dialogue in the first act: the story is told through gesture and sound, so the audience learns to read machines as characters before any human speaks.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "wall-e-16", "text": "Humanity as a species that forgot how to live: the machines preserve curiosity and love better than the humans, so the robots become custodians of human values.", "kind": "theme_engine", "quality": "strong", "original": null}
+  ]
+}

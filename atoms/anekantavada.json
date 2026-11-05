@@ -1,0 +1,22 @@
+{
+  "source": "anekantavada",
+  "diet": "B",
+  "atoms": [
+    {"id": "anekantavada-01", "text": "The many-sided truth: every claim is partial because reality has infinite aspects, so no single narrator can be trusted as complete.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "anekantavada-02", "text": "The qualified assertion: statements must be affirmed and denied at once, so dialogue is built from hedges and conditions.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "anekantavada-03", "text": "The blind men and the elephant: each witness describes a different part of one thing, so contradiction is evidence of a larger whole.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "anekantavada-04", "text": "The omniscient only: complete knowledge belongs to enlightened beings, so the story's mystery cannot be solved by any character.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "anekantavada-05", "text": "The conditional viewpoint: a claim is true only from a specified perspective, so the same fact supports opposite conclusions.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "anekantavada-06", "text": "The intellectual ahimsa: refusing absolutism is framed as nonviolence, so tolerance becomes a discipline rather than a mood.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "anekantavada-07", "text": "The debate between schools: rival philosophers argue for centuries, so the story's conflict is institutional and unresolved.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "anekantavada-08", "text": "The fanatic who is refuted: absolutism leads to violence, so the story ties certainty to cruelty.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "anekantavada-09", "text": "The sevenfold predication: a logical scheme lists the ways a proposition can be true, false, both, or neither, so language is a machine for nuance.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "anekantavada-10", "text": "The partial viewpoint: a single perspective is valid but limited, so each character's account is true and insufficient.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "anekantavada-11", "text": "The infinite aspects: reality cannot be exhausted by description, so the story can always produce another interpretation.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "anekantavada-12", "text": "The doctrine weaponized: pluralism is used to excuse inaction, so tolerance has a failure mode.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "anekantavada-13", "text": "The council of interpreters: a community must decide a dispute without a final authority, so procedure replaces truth.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "anekantavada-14", "text": "The saint who sees all sides: an enlightened figure can hold contradictions without distress, so sanity is redefined as capacity.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "anekantavada-15", "text": "The modern revision: later thinkers reinterpret the doctrine as pluralism, so the past is recruited for present politics.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "anekantavada-16", "text": "The ending that refuses verdict: the story closes with multiple incompatible accounts, so the reader must choose a side.", "kind": "structure_trick", "quality": "strong", "original": null}
+  ]
+}

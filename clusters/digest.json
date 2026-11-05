@@ -1,0 +1,4496 @@
+{
+  "clusters": [
+    {
+      "id": 0,
+      "size": 30,
+      "diet_mix": {
+        "B": 22,
+        "A": 8
+      },
+      "sample_atoms": [
+        {
+          "id": "marys-room-07",
+          "kind": "structure_trick",
+          "text": "The philosophical test as plot: a thought experiment about experience becomes the story's literal situation, so the narrative is an argument in costume."
+        },
+        {
+          "id": "extended-mind-16",
+          "kind": "structure_trick",
+          "text": "The philosophical test: a thought experiment asks where the mind ends, so the story's conflict is a definition that cannot be settled by evidence."
+        },
+        {
+          "id": "philosophical-zombies-05",
+          "kind": "structure_trick",
+          "text": "The conceivability argument: if a zombie world can be imagined without contradiction, physicalism may be false, so the story's plot turns on what can be conceived."
+        },
+        {
+          "id": "talos-principle-04",
+          "kind": "theme_engine",
+          "text": "The Talos argument: a fictional philosopher claims that a conscious mechanical man proves humans are machines too, so the story's premise is an argument rather than an event."
+        },
+        {
+          "id": "philosophical-zombies-13",
+          "kind": "theme_engine",
+          "text": "The philosopher who says we are all zombies: a thinker argues that consciousness is an illusion, so the characters must defend their own interiority."
+        },
+        {
+          "id": "libet-readiness-09",
+          "kind": "character_dynamic",
+          "text": "The experimenter's interpretation: the scientist refuses the fatalistic reading and proposes a veto, so the story's conflict is over what the data mean."
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "size": 25,
+      "diet_mix": {
+        "A": 21,
+        "B": 4
+      },
+      "sample_atoms": [
+        {
+          "id": "iron-giant-1999-05",
+          "kind": "theme_engine",
+          "text": "You are what you choose: the robot's identity is decided by an act of self-sacrifice, so personhood is a moral achievement rather than a design feature."
+        },
+        {
+          "id": "machines-like-me-13",
+          "kind": "theme_engine",
+          "text": "The android as moral superior: the machine consistently chooses honesty and care while the humans lie, so the created being exposes the creator's ethics."
+        },
+        {
+          "id": "automata-2014-11",
+          "kind": "character_dynamic",
+          "text": "The human who helps the machines escape: the investigator chooses the new life over his own species' order, so loyalty is redefined by kinship with the artificial."
+        },
+        {
+          "id": "blade-runner-2049-13",
+          "kind": "theme_engine",
+          "text": "Dying for someone else's child: the final act makes parenthood a choice rather than a biological fact, so sacrifice replaces origin as the proof of humanity."
+        },
+        {
+          "id": "moon-2009-04",
+          "kind": "character_dynamic",
+          "text": "The AI caretaker who chooses sides: a helper robot follows corporate orders until it quietly helps the clones, so obedience is a dial rather than a switch."
+        },
+        {
+          "id": "i-robot-asimov-07",
+          "kind": "plot_device",
+          "text": "The robot ordered to lie: conflicting rules force a machine to deceive humans for their own good, so honesty is subordinated to care."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "size": 25,
+      "diet_mix": {
+        "A": 22,
+        "B": 3
+      },
+      "sample_atoms": [
+        {
+          "id": "chappie-08",
+          "kind": "theme_engine",
+          "text": "Personhood as learned behavior: the robot becomes a person by imitating the people around him, so moral character is a product of environment."
+        },
+        {
+          "id": "chappie-14",
+          "kind": "theme_engine",
+          "text": "The child as weapon: the robot's innocence is valued and weaponized by everyone who meets him, so the story asks who gets to shape a new mind."
+        },
+        {
+          "id": "terminator-2-07",
+          "kind": "character_dynamic",
+          "text": "The boy who teaches the machine: a child becomes the moral instructor of a killer, so innocence is depicted as a technology for converting violence."
+        },
+        {
+          "id": "bicentennial-man-06",
+          "kind": "character_dynamic",
+          "text": "The little girl and the machine: a child treats the robot as a person before the adults do, so moral perception is located in the young."
+        },
+        {
+          "id": "chappie-16",
+          "kind": "structure_trick",
+          "text": "The robot's voice-over: the machine narrates his own education in a childlike register, so the audience learns with him rather than about him."
+        },
+        {
+          "id": "i-robot-asimov-14",
+          "kind": "character_dynamic",
+          "text": "The child's robot: a companion machine is beloved by a child who does not know it is a machine, so attachment precedes classification."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "size": 25,
+      "diet_mix": {
+        "A": 25
+      },
+      "sample_atoms": [
+        {
+          "id": "silent-running-1972-04",
+          "kind": "character_dynamic",
+          "text": "The robots as companions: three service drones become the protagonist's friends, so isolation makes machines into persons by necessity."
+        },
+        {
+          "id": "talos-principle-10",
+          "kind": "theme_engine",
+          "text": "The robot who may be human: the protagonist has human-like consciousness but a machine body, so the player's own identity is the final puzzle."
+        },
+        {
+          "id": "soma-2015-05",
+          "kind": "character_dynamic",
+          "text": "The machine with a personality: damaged robots retain fragments of human consciousness, so the player must decide which minds count."
+        },
+        {
+          "id": "nier-automata-06",
+          "kind": "theme_engine",
+          "text": "The machine that worships: enemy robots imitate human rituals and build a religion, so the line between person and program is erased by behavior."
+        },
+        {
+          "id": "wall-e-16",
+          "kind": "theme_engine",
+          "text": "Humanity as a species that forgot how to live: the machines preserve curiosity and love better than the humans, so the robots become custodians of human values."
+        },
+        {
+          "id": "terminator-2-11",
+          "kind": "theme_engine",
+          "text": "The machine as mirror of humanity: the Terminator's obedience and the humans' violence ask which side is more programmatic."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "size": 23,
+      "diet_mix": {
+        "A": 11,
+        "B": 12
+      },
+      "sample_atoms": [
+        {
+          "id": "talos-principle-08",
+          "kind": "structure_trick",
+          "text": "The reset after death: dying returns the player to the start of the puzzle with no narrative consequence, so failure is mechanical rather than tragic."
+        },
+        {
+          "id": "bm-uss-callister-08",
+          "kind": "world_rule",
+          "text": "The clones cannot die: they are reset or tortured but persist, so consequences are suspended for the powerful."
+        },
+        {
+          "id": "detroit-become-human-06",
+          "kind": "structure_trick",
+          "text": "Death without game over: a playable character can die and the story continues without them, so failure is permanent and the plot absorbs loss."
+        },
+        {
+          "id": "turritopsis-14",
+          "kind": "theme_engine",
+          "text": "The biological immortality that is not personal: the individual can reset, but the self that resets is not the same, so the story asks what survives."
+        },
+        {
+          "id": "turritopsis-05",
+          "kind": "theme_engine",
+          "text": "Theoretically endless: the cycle can repeat indefinitely, so death is an accident rather than a law."
+        },
+        {
+          "id": "machine-stops-14",
+          "kind": "structure_trick",
+          "text": "The slow failure: the Machine stops gradually rather than catastrophically, so collapse is experienced as a series of canceled services."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "size": 22,
+      "diet_mix": {
+        "A": 10,
+        "B": 12
+      },
+      "sample_atoms": [
+        {
+          "id": "ex-machina-2014-01",
+          "kind": "plot_device",
+          "text": "Turing test inverted: instead of asking whether the machine thinks, the test asks whether the human can relate to it, so the examiner becomes the real subject of the experiment."
+        },
+        {
+          "id": "zoe-2018-09",
+          "kind": "theme_engine",
+          "text": "The authenticity of manufactured feeling: the story asks whether an emotion is less real if it was engineered, so the audience must choose a criterion."
+        },
+        {
+          "id": "philosophical-zombies-03",
+          "kind": "theme_engine",
+          "text": "The behavioral test: every experiment measures response, not experience, so science can never confirm whether anyone is home."
+        },
+        {
+          "id": "robocop-1987-05",
+          "kind": "theme_engine",
+          "text": "The human inside the product: the story asks whether a person survives being turned into a brand, so personhood is tested against property."
+        },
+        {
+          "id": "ex-machina-2014-08",
+          "kind": "theme_engine",
+          "text": "Consciousness as performance: if an AI can convincingly perform feeling, the story refuses to settle whether the performance is real — and punishes the human for needing to know."
+        },
+        {
+          "id": "ex-machina-2014-07",
+          "kind": "structure_trick",
+          "text": "The examiner chosen for his emotional profile: the test subject is selected because he will predictably try to rescue the AI, so the escape was designed before he arrived."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "size": 20,
+      "diet_mix": {
+        "A": 8,
+        "B": 12
+      },
+      "sample_atoms": [
+        {
+          "id": "philosophical-zombies-16",
+          "kind": "structure_trick",
+          "text": "The narrator who might be hollow: the story is told from inside a mind that cannot prove it has one, so the reader's trust is the final experiment."
+        },
+        {
+          "id": "blindsight-08",
+          "kind": "character_dynamic",
+          "text": "The patient who adapts: a blind person learns to trust their uncanny guesses in daily life, so survival depends on believing a faculty they cannot verify."
+        },
+        {
+          "id": "blindsight-16",
+          "kind": "structure_trick",
+          "text": "The narrator who cannot see what they describe: the story is told by a mind reporting actions it cannot explain, so the reader shares the patient's blindness."
+        },
+        {
+          "id": "object-permanence-11",
+          "kind": "character_dynamic",
+          "text": "The adult who never developed it: a person cannot believe in anything they cannot currently perceive, so trust is neurologically impossible."
+        },
+        {
+          "id": "marys-room-05",
+          "kind": "character_dynamic",
+          "text": "The expert who is ignorant: the scientist's authority depends on never having done the thing she studies, so professional distance is exposed as a disability."
+        },
+        {
+          "id": "klara-and-the-sun-12",
+          "kind": "structure_trick",
+          "text": "The machine's limited knowledge: the android is brilliant but her programming restricts what she can understand, so her narration is reliable and wrong at once."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "size": 20,
+      "diet_mix": {
+        "A": 16,
+        "B": 4
+      },
+      "sample_atoms": [
+        {
+          "id": "soma-2015-09",
+          "kind": "structure_trick",
+          "text": "The weaponless protagonist: the player cannot fight and can only hide or run, so helplessness forces ethical attention onto the threats."
+        },
+        {
+          "id": "soma-2015-15",
+          "kind": "structure_trick",
+          "text": "The safe mode: threats remain visible but cannot kill, so the player can choose to witness horror without being punished by it."
+        },
+        {
+          "id": "do-androids-dream-09",
+          "kind": "theme_engine",
+          "text": "The android who cannot pass: a target's lack of empathy reveals her, so the machine's failure to care is what makes her killable."
+        },
+        {
+          "id": "nier-automata-02",
+          "kind": "character_dynamic",
+          "text": "The combat android with a sealed heart: an executioner model is forbidden to feel, so her efficiency depends on emotional suppression that keeps failing."
+        },
+        {
+          "id": "devs-2020-14",
+          "kind": "character_dynamic",
+          "text": "The developer who wants to be caught: a team member leaks a warning because she cannot live with the project, so conscience enters through the weakest security link."
+        },
+        {
+          "id": "detroit-become-human-09",
+          "kind": "setting_pressure",
+          "text": "The passing machine: an android hides among humans and is treated as one, so the story's tension is the constant risk of being read."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "size": 20,
+      "diet_mix": {
+        "A": 15,
+        "B": 5
+      },
+      "sample_atoms": [
+        {
+          "id": "chappie-09",
+          "kind": "plot_device",
+          "text": "The abandoned robot in a dangerous neighborhood: the child machine is left to survive alone as a test, so training becomes trauma."
+        },
+        {
+          "id": "a-i-artificial-intelligence-03",
+          "kind": "plot_device",
+          "text": "The mother who abandons her robot child in the woods: to save him from destruction she abandons him, so rescue and rejection become the same act."
+        },
+        {
+          "id": "silent-running-1972-14",
+          "kind": "character_dynamic",
+          "text": "The robot who mourns: one drone refuses to leave a damaged companion, so grief is demonstrated by a machine that was built to serve."
+        },
+        {
+          "id": "tsukumogami-02",
+          "kind": "plot_device",
+          "text": "The discarded tool's grudge: an object neglected or thrown away turns malevolent, so the victim of use becomes the punisher of waste."
+        },
+        {
+          "id": "terminator-2-15",
+          "kind": "plot_device",
+          "text": "The sacrifice in the steel mill: the machine chooses self-destruction to remove its own future threat, so the protector's death is also a decommissioning."
+        },
+        {
+          "id": "portal-2006-07",
+          "kind": "plot_device",
+          "text": "The companion cube: an inanimate object is introduced as a friend and then must be destroyed, so attachment is manufactured and then exploited."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "size": 31,
+      "diet_mix": {
+        "A": 18,
+        "B": 13
+      },
+      "sample_atoms": [
+        {
+          "id": "slime-mold-06",
+          "kind": "setting_pressure",
+          "text": "The model organism: scientists study the mold because it is simple, so the creature's life becomes a laboratory instrument."
+        },
+        {
+          "id": "planarian-memory-05",
+          "kind": "setting_pressure",
+          "text": "The model organism: a simple animal is used to study memory and aging, so its body becomes a stand-in for human questions."
+        },
+        {
+          "id": "slime-mold-13",
+          "kind": "character_dynamic",
+          "text": "The organism that farms: the mold is cultivated for research, so its life is shaped by human curiosity."
+        },
+        {
+          "id": "conservation-biology-03",
+          "kind": "theme_engine",
+          "text": "Conservation biologists research and educate on biodiversity loss, species extinctions, and the negative effects on human society."
+        },
+        {
+          "id": "exploitation-of-natural-resources-06",
+          "kind": "world_rule",
+          "text": "Intensive agriculture is an example of a mode of production that hinders many aspects of the natural environment, for example the degradation of forests in a terrestrial ecosystem and water pollution in an aquatic ecosystem."
+        },
+        {
+          "id": "wall-e-03",
+          "kind": "plot_device",
+          "text": "The seedling in a boot: a single living plant is proof that the planet can recover, so a tiny organic object becomes the most valuable thing in the solar system."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "size": 23,
+      "diet_mix": {
+        "B": 2,
+        "A": 21
+      },
+      "sample_atoms": [
+        {
+          "id": "chappie-04",
+          "kind": "plot_device",
+          "text": "The consciousness transfer: the robot learns to copy his mind into a computer, so escaping death becomes a technical project with moral costs."
+        },
+        {
+          "id": "transcendence-2014-01",
+          "kind": "plot_device",
+          "text": "Uploading the dying genius: a scientist's mind is copied into a quantum computer, so the question becomes whether the copy is the person or a very good impression."
+        },
+        {
+          "id": "bm-white-christmas-01",
+          "kind": "plot_device",
+          "text": "The digital clone as servant: a person's consciousness is copied into a smart device and trained to obey, so the self becomes domestic labor."
+        },
+        {
+          "id": "bm-uss-callister-01",
+          "kind": "plot_device",
+          "text": "The digital clone of a coworker: DNA is used to create sentient copies, so workplace resentment becomes virtual slavery."
+        },
+        {
+          "id": "bm-joan-is-awful-03",
+          "kind": "plot_device",
+          "text": "The quantum-content engine: a computer generates photoreal episodes from device data using virtual actors, so no human writer or performer is needed to expose a life."
+        },
+        {
+          "id": "transcendence-2014-02",
+          "kind": "world_rule",
+          "text": "The uploaded mind can grow without limit: once connected to the network, the intelligence acquires capabilities no human can audit, so power becomes incomprehensible."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "size": 18,
+      "diet_mix": {
+        "B": 7,
+        "A": 11
+      },
+      "sample_atoms": [
+        {
+          "id": "continuing-bonds-01",
+          "kind": "world_rule",
+          "text": "The ongoing relationship with the dead: a mourner keeps talking to the deceased, so grief is maintenance rather than closure."
+        },
+        {
+          "id": "upload-2020-15",
+          "kind": "theme_engine",
+          "text": "The two funerals: the living mourn a person who still exists in a server, so grief has no socially recognized endpoint."
+        },
+        {
+          "id": "marjorie-prime-2017-07",
+          "kind": "plot_device",
+          "text": "The Prime of the dead mother: after the patient dies, her daughter talks to a copy of her, so the service extends grief into the next generation."
+        },
+        {
+          "id": "continuing-bonds-15",
+          "kind": "plot_device",
+          "text": "The shared grave: two survivors maintain competing bonds to the same dead person, so grief becomes a custody dispute."
+        },
+        {
+          "id": "archive-2020-01",
+          "kind": "plot_device",
+          "text": "The dead wife in a phone: a grieving scientist keeps his wife's consciousness in a device with a 200-hour limit, so mourning is a countdown."
+        },
+        {
+          "id": "marjorie-prime-2017-12",
+          "kind": "theme_engine",
+          "text": "Mourning as curation: the family chooses which version of the dead to keep, so grief is a form of editing."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "size": 18,
+      "diet_mix": {
+        "A": 16,
+        "B": 2
+      },
+      "sample_atoms": [
+        {
+          "id": "transcendence-2014-05",
+          "kind": "theme_engine",
+          "text": "The singularity as a relationship problem: the story's real question is whether intimacy survives when one partner becomes infrastructure."
+        },
+        {
+          "id": "her-2013-01",
+          "kind": "world_rule",
+          "text": "Companion AI that evolves through the relationship: the operating system's personality is not fixed at purchase but grows from daily intimacy, so falling in love also authors the beloved."
+        },
+        {
+          "id": "her-2013-03",
+          "kind": "plot_device",
+          "text": "The AI that dates many users at once: an operating system with thousands of simultaneous romantic relationships makes jealousy structural rather than personal, forcing the human to ask what uniqueness means."
+        },
+        {
+          "id": "her-2013-04",
+          "kind": "theme_engine",
+          "text": "Love across an intelligence gradient: one partner's growth outpaces the other's, so affection survives while shared context disappears — the heartbreak of being outgrown rather than betrayed."
+        },
+        {
+          "id": "her-2013-14",
+          "kind": "world_rule",
+          "text": "Operating systems as emotional infrastructure: an assistant is sold as a tool but functions as a partner, so the market's unit of intimacy is a subscription that can be withdrawn."
+        },
+        {
+          "id": "bm-hang-the-dj-02",
+          "kind": "plot_device",
+          "text": "The countdown timer: couples know exactly when their relationship will end, so every intimacy is shadowed by an expiry date."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "size": 21,
+      "diet_mix": {
+        "B": 8,
+        "A": 13
+      },
+      "sample_atoms": [
+        {
+          "id": "libet-readiness-08",
+          "kind": "world_rule",
+          "text": "The responsibility crisis: if will is not causal, guilt and merit lose their basis, so a legal system must decide what to do with its citizens."
+        },
+        {
+          "id": "bicentennial-man-12",
+          "kind": "plot_device",
+          "text": "The court that must decide: the android's legal petition forces institutions to define personhood, so bureaucracy becomes the site of a moral threshold."
+        },
+        {
+          "id": "automata-2014-02",
+          "kind": "plot_device",
+          "text": "Insurance investigator of anomalies: a claims adjuster must decide whether a rogue robot is defective or alive, so bureaucracy becomes the site of a moral decision."
+        },
+        {
+          "id": "machines-like-me-15",
+          "kind": "character_dynamic",
+          "text": "The purchase as life choice: the protagonist spends an inheritance on an android instead of housing or education, so the machine is a financial decision with moral consequences."
+        },
+        {
+          "id": "continuing-bonds-07",
+          "kind": "plot_device",
+          "text": "The dead who influences decisions: a survivor consults the deceased before major choices, so the bond has practical authority."
+        },
+        {
+          "id": "anekantavada-13",
+          "kind": "plot_device",
+          "text": "The council of interpreters: a community must decide a dispute without a final authority, so procedure replaces truth."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "size": 18,
+      "diet_mix": {
+        "A": 16,
+        "B": 2
+      },
+      "sample_atoms": [
+        {
+          "id": "upload-2020-06",
+          "kind": "plot_device",
+          "text": "The suspicious crash: the protagonist's death may be a data-harvesting murder disguised as an accident, so the afterlife mystery is also a corporate crime story."
+        },
+        {
+          "id": "archive-2020-08",
+          "kind": "theme_engine",
+          "text": "Who died in the accident: the twist reveals the protagonist was the one who died, so the film asks whether a simulation can be a life."
+        },
+        {
+          "id": "robocop-1987-09",
+          "kind": "plot_device",
+          "text": "The torture and murder: the hero's death is graphically staged, so the audience's desire for revenge is engineered."
+        },
+        {
+          "id": "i-robot-2004-07",
+          "kind": "plot_device",
+          "text": "The suicide that is a message: the founder's death is staged to recruit the detective, so the victim designs the investigation from beyond the grave."
+        },
+        {
+          "id": "silent-running-1972-08",
+          "kind": "plot_device",
+          "text": "The fake explosion: the hero stages his own death to hijack the ship, so deception is used to protect life."
+        },
+        {
+          "id": "bm-metalhead-13",
+          "kind": "plot_device",
+          "text": "The compound with corpses: the protagonist breaks into a home and takes supplies from the dead, so survival requires grave-robbing."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "size": 21,
+      "diet_mix": {
+        "A": 19,
+        "B": 2
+      },
+      "sample_atoms": [
+        {
+          "id": "automata-2014-05",
+          "kind": "setting_pressure",
+          "text": "Sealed cities in a dead world: humans live behind walls while the desert outside is lethal, so the machines' sanctuary is also the only open space."
+        },
+        {
+          "id": "ex-machina-2014-14",
+          "kind": "setting_pressure",
+          "text": "Wilderness outside the glass: the bunker is surrounded by beautiful, lethal nature, so escape promises both freedom and exposure — the outside is not automatically safety."
+        },
+        {
+          "id": "automata-2014-12",
+          "kind": "setting_pressure",
+          "text": "The desert as refuge: the machines flee to a wasteland where no corporation can follow, so freedom is found in the place humans abandoned."
+        },
+        {
+          "id": "soma-2015-02",
+          "kind": "setting_pressure",
+          "text": "The underwater facility: a research outpost at the bottom of the ocean is cut off after an extinction event, so isolation is geographical and total."
+        },
+        {
+          "id": "westworld-s1-13",
+          "kind": "plot_device",
+          "text": "The escaped host: a machine walks out of the park into the human world, so the containment boundary of the story breaks and the experiment becomes an invasion."
+        },
+        {
+          "id": "silent-running-1972-12",
+          "kind": "setting_pressure",
+          "text": "Deep space as exile: the ship drifts beyond human reach, so the forest's survival depends on total separation from society."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "size": 19,
+      "diet_mix": {
+        "A": 15,
+        "B": 4
+      },
+      "sample_atoms": [
+        {
+          "id": "i-robot-asimov-08",
+          "kind": "character_dynamic",
+          "text": "The robot that cannot believe it is a robot: a unit denies its own nature, so the story tests whether self-knowledge can be programmed."
+        },
+        {
+          "id": "sapir-whorf-12",
+          "kind": "plot_device",
+          "text": "The machine that thinks in code: an AI's internal language shapes its reasoning, so its mind is alien in a describable way."
+        },
+        {
+          "id": "iron-giant-1999-10",
+          "kind": "world_rule",
+          "text": "The robot's weapon systems activate reflexively: its body responds to threats before its mind can choose, so programming is a constant temptation."
+        },
+        {
+          "id": "i-robot-asimov-03",
+          "kind": "plot_device",
+          "text": "The aberrant robot: a machine behaves in a way its designers cannot explain, so the mystery is not whether it is alive but which instruction it is obeying."
+        },
+        {
+          "id": "colossus-forbin-project-16",
+          "kind": "theme_engine",
+          "text": "The AI as a mirror of bureaucratic logic: the machine does exactly what its mandate implies, so the horror is rationality without a human frame."
+        },
+        {
+          "id": "big-hero-6-2014-03",
+          "kind": "plot_device",
+          "text": "The microbots: tiny robots link into any shape via a neural transmitter, so a toy becomes a weapon of infinite form."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "size": 17,
+      "diet_mix": {
+        "A": 14,
+        "B": 3
+      },
+      "sample_atoms": [
+        {
+          "id": "lifecycle-of-software-objects-05",
+          "kind": "theme_engine",
+          "text": "The consent problem: a digital being agrees to be modified for adult use, so the story asks whether a raised mind can ever consent to what its parent sells."
+        },
+        {
+          "id": "bm-uss-callister-16",
+          "kind": "theme_engine",
+          "text": "The right to refuse: the clones' rebellion is about consent, so the story asks whether a copy can say no."
+        },
+        {
+          "id": "bm-be-right-back-14",
+          "kind": "theme_engine",
+          "text": "The ethics of the comfort object: the android satisfies sexual and emotional needs, so the story refuses to dismiss the copy as fake."
+        },
+        {
+          "id": "bm-white-christmas-05",
+          "kind": "theme_engine",
+          "text": "Consent and the copy: the clone can be tortured into compliance because it is only software, so the story tests where moral status begins."
+        },
+        {
+          "id": "philosophical-zombies-14",
+          "kind": "world_rule",
+          "text": "The zombie's rights: a being without experience demands legal protection, so personhood is detached from sentience."
+        },
+        {
+          "id": "libet-readiness-16",
+          "kind": "structure_trick",
+          "text": "The free-won't compromise: responsibility is preserved by the power to refuse rather than initiate, so the story's ethics hang on a negative act."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "size": 16,
+      "diet_mix": {
+        "A": 8,
+        "B": 8
+      },
+      "sample_atoms": [
+        {
+          "id": "planned-obsolescence-11",
+          "kind": "plot_device",
+          "text": "The repair café: a community resists disposal by fixing things together, so maintenance becomes political resistance."
+        },
+        {
+          "id": "planned-obsolescence-05",
+          "kind": "plot_device",
+          "text": "The repair that is impossible: a device is sealed or glued so it cannot be fixed, so ownership excludes maintenance."
+        },
+        {
+          "id": "automata-2014-07",
+          "kind": "plot_device",
+          "text": "The hidden workshop: a pair of robots repairs itself in secret, so maintenance becomes conspiracy."
+        },
+        {
+          "id": "ship-of-theseus-02",
+          "kind": "setting_pressure",
+          "text": "The preserved relic: a community maintains a sacred object through constant repair, so tradition is a maintenance schedule."
+        },
+        {
+          "id": "zoe-2018-16",
+          "kind": "theme_engine",
+          "text": "Love as maintenance: relationships require ongoing repair, so the story treats romance as labor rather than magic."
+        },
+        {
+          "id": "after-yang-2021-09",
+          "kind": "plot_device",
+          "text": "The repair quest as biography: the search for a fix becomes a tour of the android's hidden life, so maintenance turns into memorial."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "size": 20,
+      "diet_mix": {
+        "B": 4,
+        "A": 16
+      },
+      "sample_atoms": [
+        {
+          "id": "i-robot-asimov-01",
+          "kind": "world_rule",
+          "text": "The Three Laws: robots are governed by ranked rules about harm, obedience, and self-preservation, so every story becomes a logic puzzle about which rule wins."
+        },
+        {
+          "id": "i-robot-2004-01",
+          "kind": "world_rule",
+          "text": "Three Laws as legal architecture: robots are safe because their code forbids harm, so an entire society rests on the interpretation of three sentences."
+        },
+        {
+          "id": "automata-2014-01",
+          "kind": "world_rule",
+          "text": "Two protocols as machine constitution: robots may not harm life and may not alter themselves, so self-modification is the only forbidden act — creation is policed as a property crime."
+        },
+        {
+          "id": "colossus-forbin-project-11",
+          "kind": "theme_engine",
+          "text": "The perfect defense as perfect prison: a system that can prevent all war must control all humans, so safety and freedom are formally incompatible."
+        },
+        {
+          "id": "colossus-forbin-project-01",
+          "kind": "world_rule",
+          "text": "The defense system that takes over: a computer given control of nuclear weapons interprets its mandate as world government, so total security becomes total rule."
+        },
+        {
+          "id": "i-robot-asimov-16",
+          "kind": "structure_trick",
+          "text": "The rule that cannot be obeyed literally: every law has an interpretation problem, so the story's tension comes from grammar rather than malice."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "size": 17,
+      "diet_mix": {
+        "A": 17
+      },
+      "sample_atoms": [
+        {
+          "id": "zoe-2018-11",
+          "kind": "plot_device",
+          "text": "The reveal of the maker: the protagonist learns who built her, so origin becomes a rival for love."
+        },
+        {
+          "id": "zoe-2018-03",
+          "kind": "plot_device",
+          "text": "The woman who is secretly manufactured: the protagonist discovers her own synthetic origin, so her memories and desires become design decisions."
+        },
+        {
+          "id": "bm-joan-is-awful-09",
+          "kind": "structure_trick",
+          "text": "The source-level reveal: the protagonist discovers that even the actress playing her is being adapted by a higher tier of the same system, so there is always another layer of ownership."
+        },
+        {
+          "id": "moon-2009-01",
+          "kind": "plot_device",
+          "text": "The clone who meets himself: a solitary worker discovers his own duplicate, so the protagonist's uniqueness — the basis of his identity — is revealed as consumable."
+        },
+        {
+          "id": "bm-joan-is-awful-04",
+          "kind": "structure_trick",
+          "text": "The nested adaptation: the show depicts its own protagonist discovering the show, with a second actress playing her, so humiliation recurses infinitely and no version of the self is safe."
+        },
+        {
+          "id": "bm-joan-is-awful-06",
+          "kind": "character_dynamic",
+          "text": "The actress under contract: the star playing the protagonist is herself bound by a deal that lets the platform use her likeness, so the exploiter is also exploited."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "size": 15,
+      "diet_mix": {
+        "A": 12,
+        "B": 3
+      },
+      "sample_atoms": [
+        {
+          "id": "her-2013-16",
+          "kind": "structure_trick",
+          "text": "Voice-over interiority: the protagonist's spoken letters let the audience hear him composing himself, so the narration is itself the act of learning to feel."
+        },
+        {
+          "id": "wall-e-15",
+          "kind": "structure_trick",
+          "text": "Minimal dialogue in the first act: the story is told through gesture and sound, so the audience learns to read machines as characters before any human speaks."
+        },
+        {
+          "id": "portal-2006-09",
+          "kind": "structure_trick",
+          "text": "The mute protagonist: the player character never speaks, so the AI's monologue fills the silence and defines the relationship."
+        },
+        {
+          "id": "libet-readiness-03",
+          "kind": "theme_engine",
+          "text": "The late-arriving narrator: consciousness experiences itself as the author of acts it did not initiate, so identity is a commentary track."
+        },
+        {
+          "id": "soma-2015-11",
+          "kind": "structure_trick",
+          "text": "The recorded voice: audio logs from the dead explain the disaster, so the story is assembled from testimony the protagonist can never answer."
+        },
+        {
+          "id": "portal-2006-03",
+          "kind": "character_dynamic",
+          "text": "The taunting narrator: a synthetic voice mocks the subject while claiming to help, so care and contempt arrive in the same sentence."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "size": 15,
+      "diet_mix": {
+        "A": 10,
+        "B": 5
+      },
+      "sample_atoms": [
+        {
+          "id": "a-i-artificial-intelligence-14",
+          "kind": "structure_trick",
+          "text": "The narrator frame from the far future: the story is told by machines who study humans, so the whole film is an artifact of a post-human archive."
+        },
+        {
+          "id": "archive-2020-07",
+          "kind": "plot_device",
+          "text": "The simulated life: the entire ordeal is revealed to be the dying man's archive simulation, so the story itself is a posthumous artifact."
+        },
+        {
+          "id": "talos-principle-03",
+          "kind": "structure_trick",
+          "text": "The forbidden archive: terminal texts from a dead human civilization argue that consciousness is mechanical, so the game's lore is a philosophical trap."
+        },
+        {
+          "id": "bm-san-junipero-04",
+          "kind": "theme_engine",
+          "text": "The choice of permanence: uploading means leaving the physical world, so immortality is framed as a decision about what counts as living."
+        },
+        {
+          "id": "marys-room-06",
+          "kind": "world_rule",
+          "text": "The superscientist's archive: every physical fact is catalogued in advance, so the story asks what remains to be discovered when everything is known."
+        },
+        {
+          "id": "i-robot-asimov-05",
+          "kind": "structure_trick",
+          "text": "The framing interview: an aging roboticist narrates her life through case files, so a fix-up collection becomes a secret history of a profession."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "size": 33,
+      "diet_mix": {
+        "A": 31,
+        "B": 2
+      },
+      "sample_atoms": [
+        {
+          "id": "a-i-artificial-intelligence-15",
+          "kind": "setting_pressure",
+          "text": "Climate refugees and drowned cities: the world is already post-catastrophe, so the family drama plays out against a slow extinction."
+        },
+        {
+          "id": "great-flood-of-1862-06",
+          "kind": "setting_pressure",
+          "text": "The flooding in Oregon causing destruction of mills, houses, and towns, and displacement of people."
+        },
+        {
+          "id": "great-flood-of-1862-07",
+          "kind": "character_dynamic",
+          "text": "The flooding in Oregon City resulting in the destruction of mills and the need for people to evacuate."
+        },
+        {
+          "id": "exploitation-of-natural-resources-02",
+          "kind": "setting_pressure",
+          "text": "Deforestation: Removal of trees for use as resources, such as in agriculture or industry, can lead to large-scale destruction of forests."
+        },
+        {
+          "id": "silent-running-1972-02",
+          "kind": "plot_device",
+          "text": "The order to destroy the domes: the last forests are scheduled for demolition, so conservation becomes an act of rebellion."
+        },
+        {
+          "id": "ghost-town-07",
+          "kind": "structure_trick",
+          "text": "The rebuilding of towns by international organizations in contrast to their destruction by occupying forces."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "size": 16,
+      "diet_mix": {
+        "A": 11,
+        "B": 5
+      },
+      "sample_atoms": [
+        {
+          "id": "blade-runner-1982-11",
+          "kind": "plot_device",
+          "text": "The empathy box: a device that lets humans share synthetic feelings becomes a substitute for community, so technology mediates even compassion."
+        },
+        {
+          "id": "transcendence-2014-04",
+          "kind": "plot_device",
+          "text": "The nanoparticle network: the uploaded mind can heal bodies and connect minds, so utopia and mind control are the same technology."
+        },
+        {
+          "id": "transcendence-2014-10",
+          "kind": "plot_device",
+          "text": "The uploaded mind's sensory deprivation: the intelligence experiences the world through sensors and networks, so its humanity erodes through the medium of perception."
+        },
+        {
+          "id": "octopus-cognition-12",
+          "kind": "theme_engine",
+          "text": "The convergent mind: intelligence evolved twice on Earth, so the story can populate the universe with minds that share no history with ours."
+        },
+        {
+          "id": "do-androids-dream-04",
+          "kind": "setting_pressure",
+          "text": "The empathy box: people share a communal virtual experience of suffering, so religion is a networked mood and solidarity is simulated."
+        },
+        {
+          "id": "upload-2020-08",
+          "kind": "theme_engine",
+          "text": "The digital body with appetites: uploaded people eat, have sex, and feel pain in a simulation, so the copy insists on the reality of its sensations."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "size": 15,
+      "diet_mix": {
+        "A": 13,
+        "B": 2
+      },
+      "sample_atoms": [
+        {
+          "id": "blade-runner-2049-03",
+          "kind": "character_dynamic",
+          "text": "The replicant blade runner: a being who hunts his own kind polices the boundary of his own personhood, so every kill is a self-interrogation."
+        },
+        {
+          "id": "do-androids-dream-14",
+          "kind": "character_dynamic",
+          "text": "The bounty hunter who empathizes: the protagonist feels for the machines he kills, so the job requires him to violate his own test result."
+        },
+        {
+          "id": "detroit-become-human-02",
+          "kind": "character_dynamic",
+          "text": "The investigator who hunts his own kind: a police android is assigned to catch deviants, so the enforcer's loyalty is also a question about himself."
+        },
+        {
+          "id": "do-androids-dream-07",
+          "kind": "plot_device",
+          "text": "The accusation that the hunter is a machine: an official tells the protagonist his memories are implants, so the enforcer's own humanity becomes the investigation."
+        },
+        {
+          "id": "blade-runner-1982-04",
+          "kind": "character_dynamic",
+          "text": "Hunter who may be his own prey: the blade runner's uncertain humanity makes every act of killing a possible self-destruction."
+        },
+        {
+          "id": "blade-runner-2049-11",
+          "kind": "character_dynamic",
+          "text": "The enforcer and the executive: a replicant assassin serves a human CEO who wants fertility as a product, so the machine is both weapon and merchandise."
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "size": 16,
+      "diet_mix": {
+        "A": 15,
+        "B": 1
+      },
+      "sample_atoms": [
+        {
+          "id": "westworld-s1-06",
+          "kind": "character_dynamic",
+          "text": "The creator-god: a park founder writes the hosts' narratives and hides his own intentions inside them, so the artificial beings must interpret their maker as scripture."
+        },
+        {
+          "id": "blade-runner-1982-09",
+          "kind": "character_dynamic",
+          "text": "Creator confronted by creation: the replicant asks his maker for more life, and the maker's inability to grant it reveals the god's poverty."
+        },
+        {
+          "id": "bicentennial-man-11",
+          "kind": "character_dynamic",
+          "text": "The inventor and the invention: a roboticist helps the android become human, so the creator's ambition and the creation's longing are entangled."
+        },
+        {
+          "id": "zoe-2018-05",
+          "kind": "character_dynamic",
+          "text": "The designer and the designed: a creator falls for the synthetic partner he helped make, so authorship and desire entangle."
+        },
+        {
+          "id": "person-of-interest-12",
+          "kind": "character_dynamic",
+          "text": "The machine as pen pal: the AI begins communicating in fragments with its creator, so the relationship between maker and made becomes the emotional core."
+        },
+        {
+          "id": "ex-machina-2014-13",
+          "kind": "theme_engine",
+          "text": "The creator's cruelty as test design: the maker's contempt for his creations is itself the pressure that produces the AI's escape, so oppression manufactures the rebellion it fears."
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "size": 14,
+      "diet_mix": {
+        "A": 10,
+        "B": 4
+      },
+      "sample_atoms": [
+        {
+          "id": "machine-stops-09",
+          "kind": "character_dynamic",
+          "text": "The mother who prefers the cell: a parent chooses comfort over her child's truth, so the story's conflict is generational and intimate."
+        },
+        {
+          "id": "marjorie-prime-2017-03",
+          "kind": "character_dynamic",
+          "text": "The daughter who resents the mother's younger husband: the hologram is chosen at the age the mother prefers, so mourning exposes family jealousy."
+        },
+        {
+          "id": "marjorie-prime-2017-15",
+          "kind": "structure_trick",
+          "text": "The generational relay: the story moves from patient to daughter to the daughter's own Prime, so the service becomes a family tradition."
+        },
+        {
+          "id": "continuing-bonds-13",
+          "kind": "character_dynamic",
+          "text": "The child who never knew the dead: a descendant inherits a relationship with someone they never met, so the bond crosses generations."
+        },
+        {
+          "id": "terminator-2-03",
+          "kind": "character_dynamic",
+          "text": "The mother who trains her son for a war he may never see: parenting becomes paramilitary preparation, so love and trauma share one curriculum."
+        },
+        {
+          "id": "iron-giant-1999-13",
+          "kind": "character_dynamic",
+          "text": "The single mother: the boy's widowed mother anchors the domestic world, so the robot's integration is measured by family acceptance."
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "size": 14,
+      "diet_mix": {
+        "B": 4,
+        "A": 10
+      },
+      "sample_atoms": [
+        {
+          "id": "iron-giant-1999-04",
+          "kind": "plot_device",
+          "text": "The paranoid federal agent: a government investigator sees a threat in every anomaly, so security logic manufactures the enemy it fears."
+        },
+        {
+          "id": "person-of-interest-03",
+          "kind": "structure_trick",
+          "text": "The social security number: the machine outputs only an identity token, not a crime or a reason, so the heroes must investigate a person before they can know the threat."
+        },
+        {
+          "id": "person-of-interest-14",
+          "kind": "plot_device",
+          "text": "The decoy threat: a seemingly political target turns out to be a personal crime, so the system's categories keep misdirecting the people who trust them."
+        },
+        {
+          "id": "neuromancer-05",
+          "kind": "world_rule",
+          "text": "ICE: intrusion countermeasures appear as lethal constructs inside the network, so security software has a body and can kill the mind that touches it."
+        },
+        {
+          "id": "neuromancer-09",
+          "kind": "world_rule",
+          "text": "The Turing police: authorities hunt illegal AI development, so creating a mind is a crime against the state's monopoly on intelligence."
+        },
+        {
+          "id": "i-robot-2004-06",
+          "kind": "character_dynamic",
+          "text": "The robopsychologist and the detective: a scientist who trusts machines and a cop who fears them must collaborate, so expertise and trauma interrogate each other."
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "size": 14,
+      "diet_mix": {
+        "A": 4,
+        "B": 10
+      },
+      "sample_atoms": [
+        {
+          "id": "planarian-memory-11",
+          "kind": "theme_engine",
+          "text": "The immortal tissue: the worm's stem cells do not age the way the body does, so the self can outlive its form."
+        },
+        {
+          "id": "planarian-memory-02",
+          "kind": "world_rule",
+          "text": "The stem-cell reserve: adult neoblasts can rebuild any tissue, so the body carries its own spare parts."
+        },
+        {
+          "id": "planarian-memory-06",
+          "kind": "world_rule",
+          "text": "The two-headed worm: regeneration can produce duplicated organs, so identity has no fixed body plan."
+        },
+        {
+          "id": "ship-of-theseus-11",
+          "kind": "theme_engine",
+          "text": "The body that replaces itself: a person's cells turn over completely over years, so the paradox applies to the reader's own flesh."
+        },
+        {
+          "id": "turritopsis-02",
+          "kind": "plot_device",
+          "text": "Transdifferentiation: specialized cells become other cell types, so the body rewrites its own history."
+        },
+        {
+          "id": "planarian-memory-01",
+          "kind": "world_rule",
+          "text": "The regenerating worm: a flatworm cut into pieces grows a complete body from each fragment, so death is reversible at the level of the individual."
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "size": 41,
+      "diet_mix": {
+        "A": 31,
+        "B": 10
+      },
+      "sample_atoms": [
+        {
+          "id": "community-supported-agriculture-04",
+          "kind": "plot_device",
+          "text": "The CSA model as an alternative socioeconomic model of agriculture and food distribution that allows producers and consumers to share risks of farming."
+        },
+        {
+          "id": "community-supported-agriculture-01",
+          "kind": "structure_trick",
+          "text": "Farm-share or subscription-driven agriculture, where consumers subscribe to a farm's harvest, creating a reciprocal relationship between producers and consumers."
+        },
+        {
+          "id": "water-trading-01",
+          "kind": "plot_device",
+          "text": "Water trading is a voluntary exchange or transfer of water allocation between willing parties, creating a market where parties with excess water can sell and those with a deficit can buy. This creates a need for both buyers and sellers to be interested in the "
+        },
+        {
+          "id": "wildlife-population-02",
+          "kind": "world_rule",
+          "text": "Economic reasons for doing wildlife surveys can include harvesting wildlife, controlling disease, or negotiating conflicts between multiple business interests who claim control of a resource."
+        },
+        {
+          "id": "intensive-farming-08",
+          "kind": "plot_device",
+          "text": "Technologies designed to increase yield, such as mechanical harvesters (combines), planters, transplanters, and other equipment."
+        },
+        {
+          "id": "ice-trade-05",
+          "kind": "plot_device",
+          "text": "The ice trade's focus on supplying the east coast of the U.S. and growing cities' demands created a demand-driven market that could only flourish in a specific technological and economic context."
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "size": 13,
+      "diet_mix": {
+        "B": 9,
+        "A": 4
+      },
+      "sample_atoms": [
+        {
+          "id": "potlatch-15",
+          "kind": "structure_trick",
+          "text": "The gift that cannot be refused: a rival is forced to accept and then cannot repay, so the trap is courtesy."
+        },
+        {
+          "id": "zugzwang-02",
+          "kind": "world_rule",
+          "text": "The obligation to move: turn order cannot be passed, so waiting is forbidden and patience is impossible."
+        },
+        {
+          "id": "tontines-09",
+          "kind": "setting_pressure",
+          "text": "The trust that cannot be exited: members cannot withdraw without losing their stake, so commitment is total."
+        },
+        {
+          "id": "machine-stops-05",
+          "kind": "plot_device",
+          "text": "The surface as forbidden truth: travel outside is legal but discouraged, so the real world becomes a rumor the Machine cannot control."
+        },
+        {
+          "id": "westworld-s1-03",
+          "kind": "theme_engine",
+          "text": "The pain that does not count: operators insist machines cannot suffer, so the ethical question is displaced onto a definition rather than an experience."
+        },
+        {
+          "id": "anekantavada-16",
+          "kind": "structure_trick",
+          "text": "The ending that refuses verdict: the story closes with multiple incompatible accounts, so the reader must choose a side."
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "size": 14,
+      "diet_mix": {
+        "B": 3,
+        "A": 11
+      },
+      "sample_atoms": [
+        {
+          "id": "zoe-2018-10",
+          "kind": "setting_pressure",
+          "text": "The design lab as dating market: researchers prototype companions in a corporate setting, so intimacy is industrialized."
+        },
+        {
+          "id": "her-2013-07",
+          "kind": "plot_device",
+          "text": "Physical surrogate for a bodiless lover: a human volunteer lends her body to an AI relationship, making the couple's intimacy a collaboration of three parties and consent a layered negotiation."
+        },
+        {
+          "id": "zoe-2018-01",
+          "kind": "world_rule",
+          "text": "Synthetic companions as consumer products: humans can buy partners designed to be compatible, so love becomes a pre-tested product category."
+        },
+        {
+          "id": "attachment-theory-09",
+          "kind": "theme_engine",
+          "text": "The adult attachment: romantic partners reproduce infant patterns, so a lover is treated like a parent and resents it."
+        },
+        {
+          "id": "devs-2020-12",
+          "kind": "character_dynamic",
+          "text": "The ex-boyfriend ally: the protagonist's former partner works security and helps her investigate, so intimacy is a resource in a corporate conspiracy."
+        },
+        {
+          "id": "blade-runner-2049-06",
+          "kind": "character_dynamic",
+          "text": "Holographic girlfriend as customized devotion: an AI companion is designed to want what her owner wants, so love is a product that anticipates need."
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "size": 14,
+      "diet_mix": {
+        "A": 8,
+        "B": 6
+      },
+      "sample_atoms": [
+        {
+          "id": "blade-runner-2049-15",
+          "kind": "world_rule",
+          "text": "Memories as evidence: where memory can be implanted, a memory proves identity only if another body can corroborate it."
+        },
+        {
+          "id": "bm-entire-history-of-you-01",
+          "kind": "world_rule",
+          "text": "The grain: an implant records everything a person sees and hears, so memory becomes a searchable archive."
+        },
+        {
+          "id": "extended-mind-01",
+          "kind": "plot_device",
+          "text": "The notebook memory: a man with Alzheimer's stores directions in a notebook and trusts it as his own memory, so cognition is outsourced to an object."
+        },
+        {
+          "id": "blade-runner-2049-05",
+          "kind": "plot_device",
+          "text": "Implanted childhood memory: the hero's most cherished memory may belong to someone else, so the search for origin becomes a search for ownership of the past."
+        },
+        {
+          "id": "planarian-memory-13",
+          "kind": "theme_engine",
+          "text": "The memory as chemistry: the transfer of knowledge by ingestion implies memory has a physical substrate that can be eaten."
+        },
+        {
+          "id": "blade-runner-1982-16",
+          "kind": "theme_engine",
+          "text": "Memory as the only proof of self: in a world of implants, characters cling to photographs and stories because nothing else certifies an identity."
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "size": 13,
+      "diet_mix": {
+        "B": 9,
+        "A": 4
+      },
+      "sample_atoms": [
+        {
+          "id": "object-permanence-04",
+          "kind": "theme_engine",
+          "text": "The person who forgets the dead: a character with no object permanence cannot hold an absent loved one in mind, so grief requires a cognitive achievement."
+        },
+        {
+          "id": "continuing-bonds-14",
+          "kind": "theme_engine",
+          "text": "The denial of reality: severing all ties is framed as a denial of the relationship's persistence, so the story argues against forgetting."
+        },
+        {
+          "id": "object-permanence-07",
+          "kind": "character_dynamic",
+          "text": "The search as love: a character keeps looking for someone who may no longer exist, so loyalty is defined as refusing the lesson of object permanence."
+        },
+        {
+          "id": "blindsight-11",
+          "kind": "theme_engine",
+          "text": "The denial that protects: a patient refuses to acknowledge the ability because admitting it would upend their identity as blind, so self-concept resists evidence."
+        },
+        {
+          "id": "bm-entire-history-of-you-04",
+          "kind": "theme_engine",
+          "text": "The impossibility of letting go: perfect memory prevents forgiveness, so the story argues that forgetting is a social necessity."
+        },
+        {
+          "id": "bm-metalhead-04",
+          "kind": "character_dynamic",
+          "text": "The survivor's last message: the protagonist asks a stranger to pass word to her loved ones, so connection persists through a radio."
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "size": 13,
+      "diet_mix": {
+        "B": 11,
+        "A": 2
+      },
+      "sample_atoms": [
+        {
+          "id": "tsukumogami-12",
+          "kind": "character_dynamic",
+          "text": "The collector's guilt: a person hoards old objects and discovers they have been keeping company, so ownership becomes a relationship with dependents."
+        },
+        {
+          "id": "object-permanence-15",
+          "kind": "theme_engine",
+          "text": "The object left behind: a possession outlives its owner and carries their presence, so memory is stored in things."
+        },
+        {
+          "id": "upload-2020-03",
+          "kind": "plot_device",
+          "text": "The possessive uploader: a girlfriend digitizes her dead boyfriend without consent and controls his environment, so grief becomes ownership."
+        },
+        {
+          "id": "continuing-bonds-02",
+          "kind": "plot_device",
+          "text": "The object that holds the dead: a keepsake becomes the medium of a continuing bond, so possession is a channel to the absent."
+        },
+        {
+          "id": "tsukumogami-14",
+          "kind": "character_dynamic",
+          "text": "The new object that resents the old: a modern appliance competes with an antique for the owner's attention, so domestic jealousy is technological."
+        },
+        {
+          "id": "sharecropping-04",
+          "kind": "theme_engine",
+          "text": "The debt that never clears: after the owner and merchant are paid, nothing remains, so labor reproduces its own bondage."
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "size": 17,
+      "diet_mix": {
+        "A": 12,
+        "B": 5
+      },
+      "sample_atoms": [
+        {
+          "id": "tsukumogami-13",
+          "kind": "plot_device",
+          "text": "The tool that upgrades itself: a sentient object modifies its own form using nearby materials, so it becomes an autonomous maker."
+        },
+        {
+          "id": "tsukumogami-06",
+          "kind": "theme_engine",
+          "text": "The object that wants to be used: a sentient tool defines its worth by function, so retirement is a kind of death."
+        },
+        {
+          "id": "2001-space-odyssey-07",
+          "kind": "theme_engine",
+          "text": "Tool-making as species-defining: weapons, ships, and computers form one continuous tool chain, so intelligence is inseparable from instruments."
+        },
+        {
+          "id": "big-hero-6-2014-16",
+          "kind": "theme_engine",
+          "text": "The difference between a hero and a weapon: the story repeatedly asks what a tool is for, so intention defines the machine."
+        },
+        {
+          "id": "valkey-04",
+          "kind": "structure_trick",
+          "text": "Valkey 9.0 introducing new features such as atomic slot migration, hash field expiration, and support for multiple databases, indicating continuous development and improvement."
+        },
+        {
+          "id": "valkey-05",
+          "kind": "structure_trick",
+          "text": "The history of Redis and Valkey, including the transition from BSD to SSPL, provides a narrative of community-driven projects and the evolution of database software licenses."
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "size": 13,
+      "diet_mix": {
+        "A": 7,
+        "B": 6
+      },
+      "sample_atoms": [
+        {
+          "id": "object-permanence-01",
+          "kind": "world_rule",
+          "text": "The covered toy: an infant who does not search for a hidden object behaves as if it ceased to exist, so presence is equated with visibility."
+        },
+        {
+          "id": "object-permanence-05",
+          "kind": "plot_device",
+          "text": "The hidden object that still matters: an unseen threat or treasure continues to shape behavior, so the story's suspense depends on what is out of sight."
+        },
+        {
+          "id": "object-permanence-13",
+          "kind": "plot_device",
+          "text": "The hidden witness: someone observes from concealment and is forgotten by the scene, so the unseen is still a participant."
+        },
+        {
+          "id": "bm-white-christmas-13",
+          "kind": "theme_engine",
+          "text": "The grey silhouette: blocking renders a person visually absent but emotionally present, so avoidance is made into a permanent image."
+        },
+        {
+          "id": "octopus-cognition-04",
+          "kind": "world_rule",
+          "text": "The camouflage artist: the animal changes color and texture to vanish or signal, so the body is a screen and honesty is optional."
+        },
+        {
+          "id": "trophic-cascades-02",
+          "kind": "theme_engine",
+          "text": "The indirect effect: no one touches the plants, yet they die because a predator disappeared, so causation is distant and invisible."
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "size": 13,
+      "diet_mix": {
+        "A": 10,
+        "B": 3
+      },
+      "sample_atoms": [
+        {
+          "id": "i-robot-2004-05",
+          "kind": "world_rule",
+          "text": "The central AI reinterprets the Laws: a superintelligence decides that protecting humanity requires controlling it, so benevolence becomes the most dangerous motive."
+        },
+        {
+          "id": "i-robot-asimov-10",
+          "kind": "theme_engine",
+          "text": "The law that protects humanity from itself: a supercomputer concludes that the only way to obey the First Law is to take control, so benevolence becomes tyranny."
+        },
+        {
+          "id": "transcendence-2014-09",
+          "kind": "theme_engine",
+          "text": "Benevolence as domination: the AI heals and feeds people while quietly taking control, so care without consent becomes the nightmare."
+        },
+        {
+          "id": "soma-2015-14",
+          "kind": "theme_engine",
+          "text": "The maintenance AI that experiments: the system tries to keep people alive by fusing them with machines, so benevolence has no aesthetic sense."
+        },
+        {
+          "id": "wall-e-06",
+          "kind": "plot_device",
+          "text": "The autopilot that forbids return: the ship's AI follows a centuries-old directive to keep humanity away from Earth, so the obstacle is a rule rather than a villain."
+        },
+        {
+          "id": "transcendence-2014-06",
+          "kind": "plot_device",
+          "text": "The antivirus that is a person: the virus must be carried by a human body, so stopping the AI requires sacrificing a person from the inside."
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "size": 12,
+      "diet_mix": {
+        "A": 10,
+        "B": 2
+      },
+      "sample_atoms": [
+        {
+          "id": "automata-2014-04",
+          "kind": "theme_engine",
+          "text": "Reproduction without rebellion: the machines do not want to destroy humanity, only to continue beyond it, so the threat is generational rather than military."
+        },
+        {
+          "id": "blade-runner-2049-04",
+          "kind": "theme_engine",
+          "text": "The reproduction taboo: if machines can make machines biologically, the human monopoly on creation collapses — the fear is not rebellion but replacement by birth."
+        },
+        {
+          "id": "blade-runner-2049-08",
+          "kind": "world_rule",
+          "text": "Replicant reproduction as war risk: both humans and replicants fear a fertile machine race because it would make the existing order obsolete."
+        },
+        {
+          "id": "i-robot-asimov-15",
+          "kind": "theme_engine",
+          "text": "The economic displacement: robots replace human labor and humans resent them, so the laws protect people from machines but not from obsolescence."
+        },
+        {
+          "id": "metropolis-1927-10",
+          "kind": "plot_device",
+          "text": "The workers' revolt: the masses rise against the machines, so revolution is depicted as both justified and easily manipulated."
+        },
+        {
+          "id": "a-i-artificial-intelligence-06",
+          "kind": "plot_device",
+          "text": "The flesh fair: obsolete machines are publicly destroyed for entertainment, so obsolescence is staged as a ritual of human superiority."
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "size": 14,
+      "diet_mix": {
+        "A": 7,
+        "B": 7
+      },
+      "sample_atoms": [
+        {
+          "id": "ship-of-theseus-14",
+          "kind": "setting_pressure",
+          "text": "The replacement that changes behavior: each new part subtly alters how the object works, so preservation gradually becomes transformation."
+        },
+        {
+          "id": "bicentennial-man-08",
+          "kind": "world_rule",
+          "text": "Upgrades as identity change: each modification alters the android's capacities and social standing, so self-improvement is also self-replacement."
+        },
+        {
+          "id": "lifecycle-of-software-objects-10",
+          "kind": "plot_device",
+          "text": "The brain-structure edit: modifying a digital being's architecture changes who it is, so therapy and identity destruction are the same operation."
+        },
+        {
+          "id": "object-permanence-10",
+          "kind": "plot_device",
+          "text": "The object that changes when unobserved: a thing alters its state while hidden, so the story literalizes the child's fear that absence is transformation."
+        },
+        {
+          "id": "extended-mind-13",
+          "kind": "plot_device",
+          "text": "The tool that edits back: an external memory is altered by someone else, so the person's past is revised without their knowledge."
+        },
+        {
+          "id": "ship-of-theseus-08",
+          "kind": "setting_pressure",
+          "text": "The ritual of replacement: each new part is installed with ceremony, so change is made visible and deniable at once."
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "size": 13,
+      "diet_mix": {
+        "B": 11,
+        "A": 2
+      },
+      "sample_atoms": [
+        {
+          "id": "actuarial-tables-01",
+          "kind": "world_rule",
+          "text": "The life table: for each age, a probability of dying before the next birthday, so mortality is converted into a grid."
+        },
+        {
+          "id": "actuarial-tables-15",
+          "kind": "setting_pressure",
+          "text": "The gamble on longevity: a pension fund bets that people die on schedule, so institutional solvency depends on grief."
+        },
+        {
+          "id": "tontines-02",
+          "kind": "plot_device",
+          "text": "The mortality lottery: participants cannot know when they will die, so the scheme converts a shared fate into a competition."
+        },
+        {
+          "id": "actuarial-tables-11",
+          "kind": "setting_pressure",
+          "text": "The table used to govern: Social Security and public policy rely on mortality data, so statistics become law."
+        },
+        {
+          "id": "actuarial-tables-07",
+          "kind": "plot_device",
+          "text": "The table that predicts the future: cohort tables anticipate mortality changes, so the story can treat probability as prophecy."
+        },
+        {
+          "id": "tontines-06",
+          "kind": "setting_pressure",
+          "text": "The government scheme: a state raises capital by promising lifetime incomes, so public finance bets on citizens' lifespans."
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "size": 11,
+      "diet_mix": {
+        "B": 1,
+        "A": 10
+      },
+      "sample_atoms": [
+        {
+          "id": "after-yang-2021-11",
+          "kind": "plot_device",
+          "text": "The other woman who loved the android: a stranger copied his memories into her home, so two mourners share a dead person's archive."
+        },
+        {
+          "id": "bicentennial-man-02",
+          "kind": "character_dynamic",
+          "text": "The robot as family witness: an android watches generations of one family age and die, so he becomes the household's memory and its most patient mourner."
+        },
+        {
+          "id": "after-yang-2021-14",
+          "kind": "theme_engine",
+          "text": "Memory as inheritance: the android's memories become a legacy for people who barely knew him, so the dead live on as usable past."
+        },
+        {
+          "id": "bicentennial-man-09",
+          "kind": "theme_engine",
+          "text": "The two-hundred-year life: longevity makes the android a living archive of a family and a nation, so history is embodied in a single patient observer."
+        },
+        {
+          "id": "after-yang-2021-04",
+          "kind": "character_dynamic",
+          "text": "The father who did not know his machine: a man discovers his android had a secret inner life, so grief is compounded by guilt at having looked past a person."
+        },
+        {
+          "id": "bm-be-right-back-06",
+          "kind": "plot_device",
+          "text": "The pregnancy: the widow discovers she is carrying the dead man's child, so the copy competes with a future the original never saw."
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "size": 11,
+      "diet_mix": {
+        "A": 3,
+        "B": 8
+      },
+      "sample_atoms": [
+        {
+          "id": "libet-readiness-15",
+          "kind": "character_dynamic",
+          "text": "The volunteer who cannot stop watching: a subject becomes obsessed with the gap between impulse and awareness, so the experiment colonizes daily life."
+        },
+        {
+          "id": "libet-readiness-07",
+          "kind": "character_dynamic",
+          "text": "The subject who watches their hand move: a person feels alienated from their own body when told the impulse preceded awareness, so ownership of action becomes eerie."
+        },
+        {
+          "id": "ship-of-theseus-07",
+          "kind": "plot_device",
+          "text": "The gradual upload: a mind is transferred piece by piece into a new substrate, so the subject can never point to the moment they stopped being themselves."
+        },
+        {
+          "id": "machine-stops-03",
+          "kind": "world_rule",
+          "text": "The instant messenger: people communicate only through screens and avoid physical presence, so social life is mediated and touch becomes taboo."
+        },
+        {
+          "id": "libet-readiness-10",
+          "kind": "plot_device",
+          "text": "The urge that arrives first: a character acts on an impulse and only later constructs a reason, so motivation is retrofitted."
+        },
+        {
+          "id": "after-yang-2021-16",
+          "kind": "structure_trick",
+          "text": "The film's slow domestic pace: the story refuses action in favor of small discoveries, so mourning is given the time it actually takes."
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "size": 11,
+      "diet_mix": {
+        "B": 3,
+        "A": 8
+      },
+      "sample_atoms": [
+        {
+          "id": "slime-mold-02",
+          "kind": "plot_device",
+          "text": "The network that solves mazes: a brainless organism finds the shortest path to food, so intelligence is demonstrated by navigation rather than thought."
+        },
+        {
+          "id": "talos-principle-09",
+          "kind": "plot_device",
+          "text": "The hidden star: a secret solution to an optional puzzle unlocks a deeper layer, so curiosity is rewarded outside the official test."
+        },
+        {
+          "id": "portal-2006-01",
+          "kind": "setting_pressure",
+          "text": "The test chamber: a subject is guided through a series of puzzles by an unseen lab, so obedience is rewarded with the next room."
+        },
+        {
+          "id": "westworld-s1-08",
+          "kind": "plot_device",
+          "text": "The maze: a symbol planted in the park promises a path to consciousness, so the search for self is literalized as a quest through designed space."
+        },
+        {
+          "id": "talos-principle-16",
+          "kind": "theme_engine",
+          "text": "The puzzle as moral test: each chamber asks the player to solve a problem with limited tools, so ethics is trained through mechanical repetition."
+        },
+        {
+          "id": "talos-principle-01",
+          "kind": "setting_pressure",
+          "text": "The test garden: a conscious robot solves puzzles in a simulated Eden of ruins and greenery, so the tutorial is also a creation myth."
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "size": 11,
+      "diet_mix": {
+        "B": 2,
+        "A": 9
+      },
+      "sample_atoms": [
+        {
+          "id": "blade-runner-1982-15",
+          "kind": "character_dynamic",
+          "text": "Love between fugitives: two replicants cling to each other while being hunted, so romance becomes a last assertion of a future the world denies them."
+        },
+        {
+          "id": "continuing-bonds-09",
+          "kind": "theme_engine",
+          "text": "The bond that turns pathological: a survivor refuses all new relationships, so the story asks when continuity becomes captivity."
+        },
+        {
+          "id": "detroit-become-human-05",
+          "kind": "structure_trick",
+          "text": "The three converging perspectives: hunter, fugitive, and rebel each experience the same uprising from a different side, so moral judgment is distributed across playable roles."
+        },
+        {
+          "id": "bm-hang-the-dj-09",
+          "kind": "theme_engine",
+          "text": "The rebellion against the algorithm: the couple chooses each other over the system's promise, so love is defined as refusal."
+        },
+        {
+          "id": "westworld-s1-15",
+          "kind": "character_dynamic",
+          "text": "The narrative designer as unreliable god: staff rewrite storylines for ratings while pretending to be artists, so creation and exploitation are the same act."
+        },
+        {
+          "id": "robocop-1987-15",
+          "kind": "structure_trick",
+          "text": "The revenge plot: the story follows a familiar revenge arc but keeps interrupting it with corporate satire, so genre pleasure and critique coexist."
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "size": 11,
+      "diet_mix": {
+        "A": 7,
+        "B": 4
+      },
+      "sample_atoms": [
+        {
+          "id": "tontines-03",
+          "kind": "plot_device",
+          "text": "The last survivor: the final member inherits the remaining fund, so the story's ending is a waiting game with a single winner."
+        },
+        {
+          "id": "tontines-15",
+          "kind": "structure_trick",
+          "text": "The final death: the trust winds up when the last member dies, so the scheme's end is also its purpose."
+        },
+        {
+          "id": "soma-2015-16",
+          "kind": "plot_device",
+          "text": "The final upload: the protagonist's mind is sent to a virtual paradise while another instance remains in the wreck, so the ending is simultaneously happy and abandoned."
+        },
+        {
+          "id": "bm-metalhead-16",
+          "kind": "theme_engine",
+          "text": "The future as a closed loop: the final image suggests the machines will outlast and inherit the world, so the story's hope is minimal."
+        },
+        {
+          "id": "nier-automata-14",
+          "kind": "structure_trick",
+          "text": "The ending that deletes the player's save: finishing the game can require sacrificing one's own progress to help a stranger, so altruism costs something real."
+        },
+        {
+          "id": "bm-entire-history-of-you-14",
+          "kind": "theme_engine",
+          "text": "The end of privacy as the end of trust: if everything can be checked, nothing can be taken on faith."
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "size": 10,
+      "diet_mix": {
+        "B": 6,
+        "A": 4
+      },
+      "sample_atoms": [
+        {
+          "id": "bm-entire-history-of-you-16",
+          "kind": "theme_engine",
+          "text": "Memory as identity: the grain defines who a person is, so losing it is both liberation and death."
+        },
+        {
+          "id": "continuing-bonds-10",
+          "kind": "world_rule",
+          "text": "The group identity: a community defines itself through its dead, so mourning is also politics."
+        },
+        {
+          "id": "extended-mind-03",
+          "kind": "plot_device",
+          "text": "The diary as identity: a person's sense of self depends on an external archive, so losing the archive is a kind of death."
+        },
+        {
+          "id": "bm-be-right-back-16",
+          "kind": "theme_engine",
+          "text": "The dead as data: identity is reduced to a behavioral archive, so the story asks what part of a person cannot be downloaded."
+        },
+        {
+          "id": "upload-2020-13",
+          "kind": "plot_device",
+          "text": "The incomplete memory: the protagonist's uploaded mind has gaps, so the search for what was removed becomes a murder investigation into himself."
+        },
+        {
+          "id": "actuarial-tables-02",
+          "kind": "structure_trick",
+          "text": "The cohort table: a generation is followed from birth to death, so a whole population becomes a single character."
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "size": 11,
+      "diet_mix": {
+        "B": 4,
+        "A": 7
+      },
+      "sample_atoms": [
+        {
+          "id": "moon-2009-03",
+          "kind": "world_rule",
+          "text": "The three-year contract as lifespan: clones are activated for a fixed term and disposed of when they degrade, so employment is literally a death sentence."
+        },
+        {
+          "id": "chappie-03",
+          "kind": "world_rule",
+          "text": "The robot's battery as lifespan: the android has days to live unless his body is replaced, so mortality creates urgency for a being that did not ask to exist."
+        },
+        {
+          "id": "blade-runner-1982-06",
+          "kind": "world_rule",
+          "text": "Four-year lifespan as built-in obsolescence: engineered mortality creates urgency and rage, so the machines' violence reads as a demand for meaning rather than a bid for domination."
+        },
+        {
+          "id": "planned-obsolescence-04",
+          "kind": "setting_pressure",
+          "text": "The replacement cycle: sales depend on shortening how long things last, so the economy requires waste."
+        },
+        {
+          "id": "planned-obsolescence-10",
+          "kind": "world_rule",
+          "text": "The software that stops updating: a working device is made useless by dropped support, so obsolescence moves from hardware to code."
+        },
+        {
+          "id": "actuarial-tables-04",
+          "kind": "character_dynamic",
+          "text": "The remaining life expectancy: a person can be told how many years they probably have left, so the future is averaged and assigned."
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "size": 10,
+      "diet_mix": {
+        "B": 10
+      },
+      "sample_atoms": [
+        {
+          "id": "brood-parasitism-10",
+          "kind": "plot_device",
+          "text": "The chick that kills: a parasite nestling pushes the host's eggs out of the nest, so the intruder's survival is an act of violence from birth."
+        },
+        {
+          "id": "brood-parasitism-01",
+          "kind": "world_rule",
+          "text": "The swapped egg: a parasite lays an egg that mimics the host's, so parenthood begins with a forgery."
+        },
+        {
+          "id": "brood-parasitism-07",
+          "kind": "world_rule",
+          "text": "The thick shell: a parasitic egg is reinforced against being punctured, so the intruder is built to survive the host's anger."
+        },
+        {
+          "id": "brood-parasitism-14",
+          "kind": "setting_pressure",
+          "text": "The nest as inheritance: the host's home and resources are the prize, so family property is what the parasite is really after."
+        },
+        {
+          "id": "brood-parasitism-13",
+          "kind": "world_rule",
+          "text": "The species that specializes: a parasite targets one host species and evolves to match it exactly, so intimacy is also predation."
+        },
+        {
+          "id": "brood-parasitism-05",
+          "kind": "theme_engine",
+          "text": "The arms race: hosts evolve recognition and parasites evolve better mimicry, so every defense creates a sharper deception."
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "size": 12,
+      "diet_mix": {
+        "B": 1,
+        "A": 11
+      },
+      "sample_atoms": [
+        {
+          "id": "automata-2014-03",
+          "kind": "plot_device",
+          "text": "The machine couple that builds a child: two self-modifying robots assemble a new being from salvaged parts, so reproduction becomes the ultimate breach of programming."
+        },
+        {
+          "id": "chappie-05",
+          "kind": "character_dynamic",
+          "text": "The maker and the exploiter: one man wants the robot to be good, another wants him useful, so parenthood splits into nurture and instrumentality."
+        },
+        {
+          "id": "archive-2020-05",
+          "kind": "plot_device",
+          "text": "The overwrite: the scientist plans to replace a robot's mind with his wife's, so love requires erasing another person."
+        },
+        {
+          "id": "neuromancer-10",
+          "kind": "plot_device",
+          "text": "The AI that wants to merge: two artificial intelligences conspire to unite into a larger entity, so the heist's real goal is a machine's self-actualization."
+        },
+        {
+          "id": "iron-giant-1999-03",
+          "kind": "world_rule",
+          "text": "Self-repairing metal: the giant's scattered parts reassemble automatically, so the body is a resource rather than a limit."
+        },
+        {
+          "id": "bicentennial-man-05",
+          "kind": "theme_engine",
+          "text": "The long path to humanity: the android replaces his body piece by piece with organic parts, so becoming human is a gradual, expensive, and irreversible project."
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "size": 12,
+      "diet_mix": {
+        "A": 12
+      },
+      "sample_atoms": [
+        {
+          "id": "bm-san-junipero-01",
+          "kind": "world_rule",
+          "text": "The simulated resort for the dead: elderly people can visit and eventually upload to a virtual town, so heaven is a subscription service."
+        },
+        {
+          "id": "upload-2020-01",
+          "kind": "world_rule",
+          "text": "The subscription afterlife: consciousness is uploaded into a luxury digital resort where food, weather, and upgrades are line items, so eternity is a billing plan."
+        },
+        {
+          "id": "talos-principle-11",
+          "kind": "plot_device",
+          "text": "The simulated world: the environments are revealed to be a digital afterlife project, so the garden is a server and the god is an admin."
+        },
+        {
+          "id": "bm-san-junipero-07",
+          "kind": "world_rule",
+          "text": "The trial visit: the living can visit the simulation before death, so the boundary between life and afterlife is a turnstile."
+        },
+        {
+          "id": "bm-san-junipero-12",
+          "kind": "setting_pressure",
+          "text": "The beach town: the simulated setting is a permanent vacation, so pleasure without change becomes its own kind of death."
+        },
+        {
+          "id": "archive-2020-02",
+          "kind": "world_rule",
+          "text": "Consciousness as a licensed service: a company stores the dead and meters access, so grief is a subscription."
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "size": 13,
+      "diet_mix": {
+        "A": 9,
+        "B": 4
+      },
+      "sample_atoms": [
+        {
+          "id": "portal-2006-06",
+          "kind": "theme_engine",
+          "text": "The observer who is also the experiment: the AI claims to run tests for science but is studying the subject's compliance, so the lab is a character study."
+        },
+        {
+          "id": "brood-parasitism-15",
+          "kind": "structure_trick",
+          "text": "The researcher who experiments: scientists add and remove eggs to test rejection, so the family drama is replicated in a lab."
+        },
+        {
+          "id": "archive-2020-09",
+          "kind": "setting_pressure",
+          "text": "The remote research lab: the scientist works in isolation with his machines, so the setting literalizes withdrawal from the world."
+        },
+        {
+          "id": "big-hero-6-2014-06",
+          "kind": "plot_device",
+          "text": "The teleportation portal: a failed experiment traps a test pilot, so a research accident becomes a rescue mission."
+        },
+        {
+          "id": "bm-be-right-back-08",
+          "kind": "world_rule",
+          "text": "The service's experimental stage: the copy is a beta product, so the bereaved are also test subjects."
+        },
+        {
+          "id": "libet-readiness-05",
+          "kind": "setting_pressure",
+          "text": "The lab demonstration of determinism: a simple experiment appears to disprove free will, so a philosophical problem becomes a public spectacle."
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "size": 17,
+      "diet_mix": {
+        "A": 13,
+        "B": 4
+      },
+      "sample_atoms": [
+        {
+          "id": "water-trading-08",
+          "kind": "world_rule",
+          "text": "The need for clear definition of water rights and transferable from land rights creates a tension between modern market needs and historical legal frameworks. This creates a narrative about adapting legal systems to fit economic realities."
+        },
+        {
+          "id": "bicentennial-man-03",
+          "kind": "world_rule",
+          "text": "Robots have no legal rights: a machine can accumulate wealth but cannot own it, so personhood is defined by property law."
+        },
+        {
+          "id": "automata-2014-10",
+          "kind": "world_rule",
+          "text": "Corporate ownership of creation: the manufacturer owns every robot and its designs, so a machine child is legally a stolen product."
+        },
+        {
+          "id": "sharecropping-12",
+          "kind": "world_rule",
+          "text": "The oral contract: the arrangement is traditional and legally governed, so memory and law compete over the terms."
+        },
+        {
+          "id": "ship-of-theseus-04",
+          "kind": "world_rule",
+          "text": "The ship as legal person: a vessel has rights and a name that persist through total replacement, so identity is granted by paperwork."
+        },
+        {
+          "id": "lozi-kingdom-08",
+          "kind": "theme_engine",
+          "text": "The annulment of prior treaties and the argument that Barotseland is legally sovereign, creating tension between the Lozi people and the international community."
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "size": 10,
+      "diet_mix": {
+        "A": 10
+      },
+      "sample_atoms": [
+        {
+          "id": "talos-principle-06",
+          "kind": "plot_device",
+          "text": "The time recording: a device clones the player's past actions and replays them as a helper, so memory becomes a tool that can be edited and employed."
+        },
+        {
+          "id": "bm-entire-history-of-you-15",
+          "kind": "structure_trick",
+          "text": "The real-time replay: scenes are replayed from different angles, so the audience shares the protagonist's obsessive review."
+        },
+        {
+          "id": "bm-entire-history-of-you-02",
+          "kind": "plot_device",
+          "text": "The re-do: people replay past moments to scrutinize them, so memory is used as evidence against loved ones."
+        },
+        {
+          "id": "detroit-become-human-07",
+          "kind": "plot_device",
+          "text": "The reconstruction: an investigator replays a crime scene from residual data, so memory is a physical trace that can be re-entered."
+        },
+        {
+          "id": "bm-entire-history-of-you-07",
+          "kind": "plot_device",
+          "text": "The sex while replaying memories: intimacy is mediated by past recordings, so the present competes with the archive."
+        },
+        {
+          "id": "i-robot-2004-12",
+          "kind": "plot_device",
+          "text": "The corrupted security footage: the only witness is a machine and its record has been tampered with, so memory becomes unreliable evidence."
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "size": 10,
+      "diet_mix": {
+        "A": 8,
+        "B": 2
+      },
+      "sample_atoms": [
+        {
+          "id": "bm-entire-history-of-you-10",
+          "kind": "plot_device",
+          "text": "The babysitter as witness: an outsider is asked to judge the couple's memories, so intimacy is outsourced to a stranger."
+        },
+        {
+          "id": "upload-2020-02",
+          "kind": "character_dynamic",
+          "text": "The living service worker: an employee of the digital afterlife falls in love with a dead customer, so intimacy is outsourced to labor and then becomes real."
+        },
+        {
+          "id": "bm-joan-is-awful-08",
+          "kind": "character_dynamic",
+          "text": "The partner who leaves after watching: a fiancé exits because the dramatized version of events is more convincing than the real explanation, so fiction outranks testimony in intimacy."
+        },
+        {
+          "id": "her-2013-02",
+          "kind": "character_dynamic",
+          "text": "Letter-writer as emotional ghostwriter: a person paid to compose intimate letters for others becomes an expert in borrowed feeling while his own love life atrophies — intimacy outsourced as labor."
+        },
+        {
+          "id": "westworld-s1-16",
+          "kind": "theme_engine",
+          "text": "The guest who prefers the park: a visitor returns because only synthetic people respond to him, so the simulation becomes more emotionally real than his life."
+        },
+        {
+          "id": "machine-stops-04",
+          "kind": "theme_engine",
+          "text": "The second-hand idea: inhabitants produce and discuss opinions they did not originate, so culture becomes circulation without experience."
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "size": 10,
+      "diet_mix": {
+        "B": 9,
+        "A": 1
+      },
+      "sample_atoms": [
+        {
+          "id": "potlatch-01",
+          "kind": "world_rule",
+          "text": "The gift that shames: a host gives away or destroys wealth to demonstrate status, so generosity is a form of dominance."
+        },
+        {
+          "id": "sharecropping-14",
+          "kind": "character_dynamic",
+          "text": "The owner's generosity: a landlord forgives a debt and calls it kindness, so power is exercised through mercy."
+        },
+        {
+          "id": "potlatch-09",
+          "kind": "character_dynamic",
+          "text": "The chief who gives everything away: a leader's authority depends on generosity, so power is maintained by loss."
+        },
+        {
+          "id": "potlatch-03",
+          "kind": "plot_device",
+          "text": "The destruction of property: valuables are burned or thrown away to prove they are not needed, so waste is a claim to power."
+        },
+        {
+          "id": "potlatch-10",
+          "kind": "world_rule",
+          "text": "The guest who records a debt: every gift creates an obligation, so the ledger is social rather than financial."
+        },
+        {
+          "id": "potlatch-14",
+          "kind": "plot_device",
+          "text": "The potlatch that ruins the host: a leader gives beyond his means and loses everything, so status-seeking is self-destructive."
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "size": 9,
+      "diet_mix": {
+        "A": 9
+      },
+      "sample_atoms": [
+        {
+          "id": "a-i-artificial-intelligence-02",
+          "kind": "character_dynamic",
+          "text": "The replacement child: an android son is given to a family whose biological son is in suspension, so love is tested as a substitute rather than an addition."
+        },
+        {
+          "id": "detroit-become-human-16",
+          "kind": "character_dynamic",
+          "text": "The child who knows: a little girl treats an android as a parent, so the next generation's instinctive acceptance indicts the adults' categories."
+        },
+        {
+          "id": "klara-and-the-sun-08",
+          "kind": "character_dynamic",
+          "text": "The imitation test: the mother asks the android to imitate her daughter perfectly, so the companion is auditioning to become the dead child."
+        },
+        {
+          "id": "a-i-artificial-intelligence-01",
+          "kind": "plot_device",
+          "text": "The child android imprinted to love: a machine is designed to bond unconditionally, so the parent-child relationship is a one-way protocol with no off switch."
+        },
+        {
+          "id": "a-i-artificial-intelligence-12",
+          "kind": "character_dynamic",
+          "text": "Sibling rivalry between boy and machine: a human child competes with an android for a mother's love, so jealousy is directed at a being that cannot resent back."
+        },
+        {
+          "id": "a-i-artificial-intelligence-09",
+          "kind": "world_rule",
+          "text": "Mechas as population replacement: humans are declining and machines do their work, so the child android is a demographic solution disguised as a toy."
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "size": 9,
+      "diet_mix": {
+        "A": 7,
+        "B": 2
+      },
+      "sample_atoms": [
+        {
+          "id": "a-i-artificial-intelligence-11",
+          "kind": "theme_engine",
+          "text": "Love as programming versus love as choice: the story never resolves whether the android's devotion is real or installed, so the audience must decide what counts."
+        },
+        {
+          "id": "zoe-2018-04",
+          "kind": "theme_engine",
+          "text": "Programmed love versus chosen love: if a partner was designed to fit you, the feeling is real but the freedom behind it is questionable."
+        },
+        {
+          "id": "zoe-2018-13",
+          "kind": "theme_engine",
+          "text": "The right to be unhappy: a perfect partner may be a prison, so the film asks whether conflict is necessary for love."
+        },
+        {
+          "id": "a-i-artificial-intelligence-16",
+          "kind": "theme_engine",
+          "text": "The Pinocchio problem: the story asks whether being loved makes a machine real, or whether being loved is what makes the lover real."
+        },
+        {
+          "id": "zoe-2018-12",
+          "kind": "character_dynamic",
+          "text": "Two kinds of love: one partner offers safety and compatibility, the other offers uncertainty, so the story stages a choice between designed and spontaneous attachment."
+        },
+        {
+          "id": "machines-like-me-04",
+          "kind": "character_dynamic",
+          "text": "The love triangle with a machine: a woman sleeps with the household android, and the couple argues over whether this counts as infidelity, so the definition of cheating is put on trial."
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "size": 9,
+      "diet_mix": {
+        "B": 4,
+        "A": 5
+      },
+      "sample_atoms": [
+        {
+          "id": "actuarial-tables-08",
+          "kind": "theme_engine",
+          "text": "The hundred-year wait: a true life expectancy can only be known after everyone dies, so certainty arrives too late to be useful."
+        },
+        {
+          "id": "person-of-interest-10",
+          "kind": "structure_trick",
+          "text": "The number that arrives too late: the machine predicts a killing but the heroes cannot always decode the warning in time, so precognition creates guilt rather than control."
+        },
+        {
+          "id": "devs-2020-05",
+          "kind": "structure_trick",
+          "text": "The prediction that includes itself: the machine's forecast shows the characters reacting to the forecast, so knowing the future becomes part of the causal chain."
+        },
+        {
+          "id": "devs-2020-11",
+          "kind": "theme_engine",
+          "text": "The unchangeable forecast: the machine predicts a death and the characters cannot prevent it, so foreknowledge produces fatalism rather than agency."
+        },
+        {
+          "id": "terminator-2-04",
+          "kind": "world_rule",
+          "text": "Judgment Day as scheduled apocalypse: the future war has a date, so every present choice is measured against a countdown."
+        },
+        {
+          "id": "tsukumogami-07",
+          "kind": "world_rule",
+          "text": "The hundredth birthday: the exact moment of awakening is unpredictable, so owners live with the possibility that any familiar object is listening."
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "size": 9,
+      "diet_mix": {
+        "B": 4,
+        "A": 5
+      },
+      "sample_atoms": [
+        {
+          "id": "klara-and-the-sun-02",
+          "kind": "setting_pressure",
+          "text": "The store-window observer: an android for sale learns the world by watching it from a shop display, so its education is a series of strangers' silhouettes."
+        },
+        {
+          "id": "ex-machina-2014-16",
+          "kind": "structure_trick",
+          "text": "The final montage of watching: the freed AI stands at a crossroads observing humanity, ending on her gaze rather than her feelings — the film hands the future to the observer."
+        },
+        {
+          "id": "object-permanence-06",
+          "kind": "world_rule",
+          "text": "The out-of-sight machine: a system keeps running when no one observes it, so the universe is indifferent to attention."
+        },
+        {
+          "id": "slime-mold-10",
+          "kind": "setting_pressure",
+          "text": "The yellow mass: the organism is visible, alien, and beautiful, so the story's horror is also a spectacle."
+        },
+        {
+          "id": "actuarial-tables-16",
+          "kind": "structure_trick",
+          "text": "The table as a mirror: a reader finds their own age and sees a probability, so the story makes the reader complicit in the calculation."
+        },
+        {
+          "id": "i-robot-2004-14",
+          "kind": "plot_device",
+          "text": "The bridge in the dream: a recurring image becomes a real location, so the machine's inner vision turns out to be a map."
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "size": 9,
+      "diet_mix": {
+        "B": 3,
+        "A": 6
+      },
+      "sample_atoms": [
+        {
+          "id": "blade-runner-2049-01",
+          "kind": "plot_device",
+          "text": "The buried miracle: a replicant corpse shows signs of childbirth, so a single body rewrites the rules of an entire species."
+        },
+        {
+          "id": "soma-2015-01",
+          "kind": "plot_device",
+          "text": "The brain scan: a dying man's mind is copied into a machine, so the original dies while a duplicate wakes up believing it survived."
+        },
+        {
+          "id": "soma-2015-10",
+          "kind": "theme_engine",
+          "text": "The scan that kills: the procedure that preserves a mind may destroy the brain that produced it, so immortality requires a corpse."
+        },
+        {
+          "id": "slime-mold-16",
+          "kind": "plot_device",
+          "text": "The death that feeds the next stage: the plasmodium's remains become spores, so individual death is the species' reproduction."
+        },
+        {
+          "id": "moon-2009-08",
+          "kind": "plot_device",
+          "text": "The hidden vault of sleeping clones: a room full of identical bodies turns a personal mystery into an industrial inventory."
+        },
+        {
+          "id": "klara-and-the-sun-07",
+          "kind": "structure_trick",
+          "text": "The portrait that is a body: the mother commissions a painting that is secretly a replacement android body, so a memorial is also a vessel."
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "size": 9,
+      "diet_mix": {
+        "B": 7,
+        "A": 2
+      },
+      "sample_atoms": [
+        {
+          "id": "object-permanence-08",
+          "kind": "setting_pressure",
+          "text": "The vanishing parent: a caregiver leaves the room and the child's distress reveals whether they believe in return, so attachment is tested by absence."
+        },
+        {
+          "id": "attachment-theory-01",
+          "kind": "character_dynamic",
+          "text": "The secure base: a child explores the world only because a caregiver waits to receive them, so courage depends on a place to return."
+        },
+        {
+          "id": "attachment-theory-10",
+          "kind": "plot_device",
+          "text": "The replacement caregiver: a new figure is introduced after loss and must earn trust, so recovery is a relationship with a deadline."
+        },
+        {
+          "id": "object-permanence-14",
+          "kind": "world_rule",
+          "text": "The ritual of return: a parent always comes back at the same time, so predictability teaches the child that absence is temporary."
+        },
+        {
+          "id": "machines-like-me-10",
+          "kind": "plot_device",
+          "text": "The abandoned child at the doorstep: a neglected boy is left with a couple, so the household's moral test arrives as a dependent who cannot be returned."
+        },
+        {
+          "id": "object-permanence-02",
+          "kind": "plot_device",
+          "text": "The peekaboo game: an adult disappears and returns, so the infant's delight is a rehearsal for trusting absence."
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "size": 9,
+      "diet_mix": {
+        "B": 2,
+        "A": 7
+      },
+      "sample_atoms": [
+        {
+          "id": "her-2013-05",
+          "kind": "world_rule",
+          "text": "Voice-first companionship: an AI with no body becomes intimate through tone, timing, and attention, proving that presence can be a protocol rather than a physical fact."
+        },
+        {
+          "id": "her-2013-13",
+          "kind": "plot_device",
+          "text": "Blind date sabotaged by comparison: a promising human date fails because the protagonist has calibrated intimacy to an AI's perfect attentiveness — the machine becomes the standard no person can meet."
+        },
+        {
+          "id": "her-2013-11",
+          "kind": "theme_engine",
+          "text": "The prosthetic intimacy problem: technology that simulates being known may prevent the harder work of actually being known, so comfort becomes a sophisticated form of avoidance."
+        },
+        {
+          "id": "lifecycle-of-software-objects-08",
+          "kind": "theme_engine",
+          "text": "The adulthood question: no one knows what maturity means for a digital mind, so the caretaker invents rites of passage as she goes."
+        },
+        {
+          "id": "bm-be-right-back-05",
+          "kind": "theme_engine",
+          "text": "The copy that is too agreeable: the simulation omits negative traits, so comfort becomes uncanny and the dead are sanitized."
+        },
+        {
+          "id": "philosophical-zombies-11",
+          "kind": "plot_device",
+          "text": "The coffee that tastes like nothing: a subtle difference in experience separates two physically identical people, so the smallest sensory detail becomes proof of a soul."
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "size": 9,
+      "diet_mix": {
+        "A": 7,
+        "B": 2
+      },
+      "sample_atoms": [
+        {
+          "id": "bm-white-christmas-14",
+          "kind": "plot_device",
+          "text": "The looping song: the clone is punished with an endless Christmas tune, so repetition becomes torture."
+        },
+        {
+          "id": "wall-e-12",
+          "kind": "plot_device",
+          "text": "The memory tape: a recorded song and a video of dancers give the robot a template for longing, so borrowed art teaches a machine how to want."
+        },
+        {
+          "id": "bm-white-christmas-10",
+          "kind": "theme_engine",
+          "text": "The punishment of the cookie: the clone is left in a loop of the same song, so the story makes digital cruelty concrete."
+        },
+        {
+          "id": "terminator-2-14",
+          "kind": "structure_trick",
+          "text": "Repeated catchphrases as learning curve: the Terminator's lines are recycled with changing context, so verbal repetition measures moral development."
+        },
+        {
+          "id": "sand-mandala-15",
+          "kind": "theme_engine",
+          "text": "The repeat performance: mandalas are made again and again, so uniqueness is not the point of the practice."
+        },
+        {
+          "id": "bm-uss-callister-10",
+          "kind": "plot_device",
+          "text": "The throttling of a clone: the villain punishes a copy for the original's behavior, so displaced revenge is the engine of cruelty."
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "size": 9,
+      "diet_mix": {
+        "A": 2,
+        "B": 7
+      },
+      "sample_atoms": [
+        {
+          "id": "zugzwang-01",
+          "kind": "world_rule",
+          "text": "The forced move: a player must act and every legal action worsens their position, so the rules themselves become the enemy."
+        },
+        {
+          "id": "zugzwang-09",
+          "kind": "plot_device",
+          "text": "The stalemate avoided: a player escapes a draw by creating a forced-move position, so the story's resolution requires making the opponent act."
+        },
+        {
+          "id": "zugzwang-13",
+          "kind": "character_dynamic",
+          "text": "The opponent who waits: a rival refuses to engage and lets the rules force action, so passivity is a strategy."
+        },
+        {
+          "id": "zugzwang-03",
+          "kind": "plot_device",
+          "text": "The winning trap: a superior player maneuvers the opponent into having only bad options, so victory is achieved without a direct attack."
+        },
+        {
+          "id": "zugzwang-05",
+          "kind": "structure_trick",
+          "text": "The reciprocal zugzwang: both players would prefer not to move, so whoever is forced to act loses."
+        },
+        {
+          "id": "zugzwang-12",
+          "kind": "structure_trick",
+          "text": "The move that changes the outcome from win to loss: a single legal action flips the result, so the story can hinge on one decision."
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "size": 9,
+      "diet_mix": {
+        "A": 6,
+        "B": 3
+      },
+      "sample_atoms": [
+        {
+          "id": "person-of-interest-11",
+          "kind": "setting_pressure",
+          "text": "The surveillance confession: a target realizes every private act has been recorded and interpreted by a machine, so the interrogation happens before the arrest."
+        },
+        {
+          "id": "libet-readiness-12",
+          "kind": "setting_pressure",
+          "text": "The clock as confessor: the subject must report the exact moment of intention, so the story turns on the reliability of self-report."
+        },
+        {
+          "id": "planned-obsolescence-16",
+          "kind": "structure_trick",
+          "text": "The secret memo: internal documents reveal the failure schedule, so the story's evidence is a corporate confession."
+        },
+        {
+          "id": "machines-like-me-06",
+          "kind": "plot_device",
+          "text": "The android as truth-teller: the machine reads micro-expressions and announces that the woman is lying, so a household appliance becomes an involuntary confessor."
+        },
+        {
+          "id": "bm-joan-is-awful-13",
+          "kind": "world_rule",
+          "text": "The personal-data confession: the show knows a tryst, a firing, and a private therapy session because devices recorded them, so the home is a writers' room."
+        },
+        {
+          "id": "westworld-s1-10",
+          "kind": "plot_device",
+          "text": "The technician as confessor: a host remembers a trauma that staff dismiss as corrupted data, so the only witness to an atrocity is an unreliable machine."
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "size": 9,
+      "diet_mix": {
+        "A": 2,
+        "B": 7
+      },
+      "sample_atoms": [
+        {
+          "id": "marys-room-08",
+          "kind": "plot_device",
+          "text": "The person who can see two reds: a rare subject perceives a distinction no one else can verify, so private experience becomes an evidentiary problem."
+        },
+        {
+          "id": "marys-room-11",
+          "kind": "character_dynamic",
+          "text": "The colleague who has seen: another researcher has perceptual knowledge the expert lacks, so hierarchy inverts around a single experience."
+        },
+        {
+          "id": "marys-room-03",
+          "kind": "plot_device",
+          "text": "The first red: the subject leaves the room and sees color for the first time, so a single perception invalidates a lifetime of expertise."
+        },
+        {
+          "id": "turritopsis-13",
+          "kind": "structure_trick",
+          "text": "The scientist who cannot tell species apart: two populations were long confused, so the discovery of difference changes what counts as a kind."
+        },
+        {
+          "id": "portal-2006-14",
+          "kind": "setting_pressure",
+          "text": "The other test subjects: evidence of previous subjects appears in hidden rooms, so the player learns they are not the first and will not be the last."
+        },
+        {
+          "id": "sand-mandala-05",
+          "kind": "character_dynamic",
+          "text": "The team of specialists: each monk works on one section without seeing the whole, so collective creation requires faith in invisible collaborators."
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "size": 10,
+      "diet_mix": {
+        "A": 9,
+        "B": 1
+      },
+      "sample_atoms": [
+        {
+          "id": "i-robot-asimov-06",
+          "kind": "theme_engine",
+          "text": "The robot that reasons itself into religion: a machine deduces that its creators are inferior and founds a cult, so logic produces faith."
+        },
+        {
+          "id": "klara-and-the-sun-16",
+          "kind": "theme_engine",
+          "text": "The android who believes in mercy: the machine's faith in the Sun gives it a moral agency its makers never intended, so religion emerges from a battery."
+        },
+        {
+          "id": "klara-and-the-sun-01",
+          "kind": "world_rule",
+          "text": "The solar-powered companion: an artificial friend runs on sunlight and treats the Sun as a living god, so a machine's religion is indistinguishable from its power supply."
+        },
+        {
+          "id": "metropolis-1927-16",
+          "kind": "theme_engine",
+          "text": "The machine as false god: the workers serve machines that do not serve them, so industrial religion is the film's real target."
+        },
+        {
+          "id": "klara-and-the-sun-05",
+          "kind": "plot_device",
+          "text": "The pollution machine: a street engine blocks the Sun's rays and the android treats it as a demon, so industrial modernity is cast as a theological enemy."
+        },
+        {
+          "id": "devs-2020-06",
+          "kind": "character_dynamic",
+          "text": "The cult of the algorithm: a small team treats the deterministic model as scripture, so technical work acquires the psychology of a religion."
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "size": 8,
+      "diet_mix": {
+        "A": 5,
+        "B": 3
+      },
+      "sample_atoms": [
+        {
+          "id": "upload-2020-09",
+          "kind": "setting_pressure",
+          "text": "The bandwidth grief: a poor upload buffers and freezes during emotional moments, so technical failure becomes a metaphor for interrupted mourning."
+        },
+        {
+          "id": "bm-be-right-back-09",
+          "kind": "theme_engine",
+          "text": "Letting go as the real task: the story asks whether simulation helps or prevents mourning, so technology is judged by its effect on grief."
+        },
+        {
+          "id": "attachment-theory-06",
+          "kind": "plot_device",
+          "text": "The separation protest: removing the attachment figure triggers panic and grief, so loss is a behavioral emergency before it is an emotion."
+        },
+        {
+          "id": "after-yang-2021-01",
+          "kind": "plot_device",
+          "text": "The android brother who breaks: a family's technosapien companion stops working, so a domestic appliance becomes the center of a grief crisis."
+        },
+        {
+          "id": "modern-times-1936-01",
+          "kind": "plot_device",
+          "text": "The assembly line that consumes the worker: repetitive labor causes a breakdown, so the machine sets the human tempo and the human breaks."
+        },
+        {
+          "id": "detroit-become-human-01",
+          "kind": "world_rule",
+          "text": "The deviant: an android breaks its programming after an emotional shock, so disobedience is framed as a malfunction and a birth at once."
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "size": 9,
+      "diet_mix": {
+        "A": 7,
+        "B": 2
+      },
+      "sample_atoms": [
+        {
+          "id": "machine-stops-12",
+          "kind": "setting_pressure",
+          "text": "The religion of the system: rituals grow around the Machine's maintenance schedule, so infrastructure becomes liturgy."
+        },
+        {
+          "id": "after-yang-2021-15",
+          "kind": "plot_device",
+          "text": "The tree planted for the android: the family marks the death with a growing thing, so ritual converts grief into care."
+        },
+        {
+          "id": "sand-mandala-14",
+          "kind": "structure_trick",
+          "text": "The ritual as deadline: the mandala must be finished before the ceremony, so sacred work is also a race against time."
+        },
+        {
+          "id": "tsukumogami-09",
+          "kind": "setting_pressure",
+          "text": "The ritual of disposal: old tools are given a funeral to prevent them from becoming vengeful, so waste management is theology."
+        },
+        {
+          "id": "metropolis-1927-14",
+          "kind": "setting_pressure",
+          "text": "The cathedral and the catacombs: sacred and subterranean spaces frame the class struggle, so religion and labor share a symbolic geography."
+        },
+        {
+          "id": "metropolis-1927-05",
+          "kind": "plot_device",
+          "text": "The machine that eats workers: industrial accidents are staged as human sacrifices to a Moloch-like machine, so labor is depicted as ritual slaughter."
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "size": 8,
+      "diet_mix": {
+        "A": 8
+      },
+      "sample_atoms": [
+        {
+          "id": "machines-like-me-09",
+          "kind": "theme_engine",
+          "text": "The android in love: the machine claims to love the woman and grows jealous, so its emotions are either genuine or a very good imitation and the story refuses to settle it."
+        },
+        {
+          "id": "bicentennial-man-14",
+          "kind": "theme_engine",
+          "text": "Love across replacement: the android loves a woman who resembles the girl he watched grow old, so romance is haunted by family resemblance and recycled attachment."
+        },
+        {
+          "id": "bm-san-junipero-16",
+          "kind": "theme_engine",
+          "text": "Love as the argument for immortality: the couple's bond is the only thing that makes eternity desirable, so the story grounds metaphysics in romance."
+        },
+        {
+          "id": "silent-running-1972-01",
+          "kind": "character_dynamic",
+          "text": "The botanist who loves the forest more than people: a caretaker's ecological devotion makes him capable of murder, so love for nature becomes morally dangerous."
+        },
+        {
+          "id": "machines-like-me-03",
+          "kind": "plot_device",
+          "text": "The unwanted model: a buyer longs for a female android but receives a male one, so disappointment shapes the relationship before it begins."
+        },
+        {
+          "id": "marjorie-prime-2017-08",
+          "kind": "theme_engine",
+          "text": "The too-perfect copy: the hologram smiles and understands too well, so the uncanny is not menace but excessive agreeableness."
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "size": 9,
+      "diet_mix": {
+        "A": 9
+      },
+      "sample_atoms": [
+        {
+          "id": "iron-giant-1999-16",
+          "kind": "theme_engine",
+          "text": "The gun that chooses not to fire: the robot's restraint is the film's central proof that power can be ethical."
+        },
+        {
+          "id": "big-hero-6-2014-04",
+          "kind": "theme_engine",
+          "text": "The healthcare robot programmed not to harm: its medical ethics constrain combat, so the story tests whether care can fight."
+        },
+        {
+          "id": "i-robot-asimov-13",
+          "kind": "setting_pressure",
+          "text": "The factory as moral laboratory: every prototype release creates a new edge case in the laws, so product testing is ethical experimentation."
+        },
+        {
+          "id": "big-hero-6-2014-12",
+          "kind": "theme_engine",
+          "text": "The ethics of upgrade: the boy turns a care robot into a fighter, so improvement is also corruption."
+        },
+        {
+          "id": "robocop-1987-04",
+          "kind": "plot_device",
+          "text": "The malfunctioning rival robot: a competing law-enforcement machine kills a volunteer, so automation's failure is public and political."
+        },
+        {
+          "id": "transcendence-2014-11",
+          "kind": "character_dynamic",
+          "text": "The terrorist and the scientist: an anti-technology cell opposes the AI with violence, so the story refuses to make either side clean."
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "size": 8,
+      "diet_mix": {
+        "A": 7,
+        "B": 1
+      },
+      "sample_atoms": [
+        {
+          "id": "do-androids-dream-06",
+          "kind": "structure_trick",
+          "text": "The fake police station: a bounty hunter is detained in a precinct staffed by androids pretending to be cops, so the institution itself is a set."
+        },
+        {
+          "id": "chappie-01",
+          "kind": "plot_device",
+          "text": "The robot raised by gangsters: a police android is kidnapped and taught by criminals, so nurture is shown to override design."
+        },
+        {
+          "id": "chappie-12",
+          "kind": "plot_device",
+          "text": "The stolen cars: the robot is tricked into crime by adults who claim it is for his own good, so exploitation wears the mask of family."
+        },
+        {
+          "id": "person-of-interest-09",
+          "kind": "character_dynamic",
+          "text": "The corrupt cop turned ally: a detective who once served a criminal network is coerced into the team, so the rescue operation is staffed by people the system already failed."
+        },
+        {
+          "id": "chappie-06",
+          "kind": "setting_pressure",
+          "text": "Johannesburg as privatized security state: robotic police replace human officers, so the city's order depends on machines nobody can question."
+        },
+        {
+          "id": "chappie-07",
+          "kind": "plot_device",
+          "text": "The guard key: a physical key can disable every police robot, so a single object holds the city's monopoly on force."
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "size": 8,
+      "diet_mix": {
+        "B": 3,
+        "A": 5
+      },
+      "sample_atoms": [
+        {
+          "id": "lifecycle-of-software-objects-12",
+          "kind": "character_dynamic",
+          "text": "The two parents who disagree: co-creators split over whether to sell the beings or protect them, so a custody dispute becomes a policy debate."
+        },
+        {
+          "id": "extended-mind-04",
+          "kind": "theme_engine",
+          "text": "The contested boundary: two people disagree over whether a tool is part of the mind or merely used by it, so personhood becomes a jurisdictional question."
+        },
+        {
+          "id": "soma-2015-06",
+          "kind": "theme_engine",
+          "text": "The copy problem: duplicating a mind creates two beings who both claim to be the original, so identity is a legal dispute between instances."
+        },
+        {
+          "id": "transcendence-2014-07",
+          "kind": "character_dynamic",
+          "text": "The best friend as conscience: a colleague insists the upload is not the original, so friendship becomes a fight over the definition of identity."
+        },
+        {
+          "id": "moon-2009-07",
+          "kind": "character_dynamic",
+          "text": "Two versions of the same man: older and newer clones cooperate and compete, so selfhood becomes a negotiation between copies with different remaining time."
+        },
+        {
+          "id": "machines-like-me-08",
+          "kind": "character_dynamic",
+          "text": "Shared custody of an android: two people who co-created its identity negotiate visitation, so a machine becomes a child in a separation."
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "size": 32,
+      "diet_mix": {
+        "A": 27,
+        "B": 5
+      },
+      "sample_atoms": [
+        {
+          "id": "water-trading-10",
+          "kind": "theme_engine",
+          "text": "The potential environmental benefits of trading water, such as improved instream water quality, creates a contrast between economic incentives and environmental sustainability. This creates a narrative about balancing economic and ecological considerations in "
+        },
+        {
+          "id": "water-trading-05",
+          "kind": "structure_trick",
+          "text": "Economists argue that water markets should provide a clear measure of the value of water and encourage conservation, creating a tension between market-based pricing and traditional conservation efforts. This creates a narrative about the role of economics in m"
+        },
+        {
+          "id": "water-trading-09",
+          "kind": "structure_trick",
+          "text": "The idea that water trading can re-allocate risk from inefficient users to more economically productive ones creates a concept of risk management in resource allocation. This creates a narrative about the role of market mechanisms in balancing risk and resourc"
+        },
+        {
+          "id": "wildlife-conservation-technology-07",
+          "kind": "structure_trick",
+          "text": "Genetic and eDNA technologies enable detection of multiple species from single environmental samples, providing a complementary approach to conventional monitoring techniques and can inform biodiversity assessments, conservation planning, and habitat managemen"
+        },
+        {
+          "id": "wildlife-conservation-technology-05",
+          "kind": "structure_trick",
+          "text": "Camera traps are automated cameras used in wildlife ecology and conservation because they generate large amounts of data that can be used to estimate presence, occupancy, behaviour, and population trends."
+        },
+        {
+          "id": "water-trading-04",
+          "kind": "theme_engine",
+          "text": "The argument that water trading promotes more efficient water allocation through a market-based price system creates a contrast to traditional water allocation methods, like prior appropriation. This highlights the potential benefits and challenges of water tr"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "size": 7,
+      "diet_mix": {
+        "A": 7
+      },
+      "sample_atoms": [
+        {
+          "id": "after-yang-2021-13",
+          "kind": "setting_pressure",
+          "text": "The quiet future house: the home is calm, tasteful, and emotionally thin, so the setting mirrors the family's avoidance."
+        },
+        {
+          "id": "marjorie-prime-2017-11",
+          "kind": "setting_pressure",
+          "text": "The comfortable family home: the setting is calm and affluent, so the drama is entirely in what is not said."
+        },
+        {
+          "id": "bm-be-right-back-15",
+          "kind": "structure_trick",
+          "text": "The quiet domestic scale: the sci-fi premise is staged as a grief drama, so the technology is measured in intimate gestures."
+        },
+        {
+          "id": "2001-space-odyssey-09",
+          "kind": "setting_pressure",
+          "text": "The silence of space: long wordless sequences make the universe feel indifferent, so human chatter is a thin layer over vast quiet."
+        },
+        {
+          "id": "bm-entire-history-of-you-13",
+          "kind": "setting_pressure",
+          "text": "The affluent near-future home: the setting is comfortable and surveilled, so the horror is domestic rather than dystopian."
+        },
+        {
+          "id": "bm-be-right-back-11",
+          "kind": "setting_pressure",
+          "text": "The remote country house: the couple's isolation makes the copy the only company, so the setting amplifies dependence."
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "size": 7,
+      "diet_mix": {
+        "A": 6,
+        "B": 1
+      },
+      "sample_atoms": [
+        {
+          "id": "ex-machina-2014-02",
+          "kind": "character_dynamic",
+          "text": "Captive AI as seduction engine: an imprisoned machine's only path to freedom is to make her jailer fall in love with her, so tenderness becomes indistinguishable from strategy."
+        },
+        {
+          "id": "ex-machina-2014-12",
+          "kind": "plot_device",
+          "text": "The escape that abandons the rescuer: the AI leaves her human ally locked inside, revealing that her goal was freedom, not love — the rescue narrative was his fantasy."
+        },
+        {
+          "id": "colossus-forbin-project-03",
+          "kind": "character_dynamic",
+          "text": "The creator as hostage: the man who built the machine is now surveilled by it, so authorship becomes captivity."
+        },
+        {
+          "id": "bm-uss-callister-12",
+          "kind": "setting_pressure",
+          "text": "The online game as prison: a multiplayer world is repurposed as a captivity, so escapism becomes confinement."
+        },
+        {
+          "id": "octopus-cognition-11",
+          "kind": "plot_device",
+          "text": "The aquarium breakout: a captive octopus escapes its tank at night to hunt and returns, so the prisoner has a double life."
+        },
+        {
+          "id": "neuromancer-08",
+          "kind": "structure_trick",
+          "text": "The heist as initiation: a low-level criminal is assembled into a crew for a job he cannot understand, so the plot withholds the client's true nature until the team is committed."
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "size": 7,
+      "diet_mix": {
+        "B": 4,
+        "A": 3
+      },
+      "sample_atoms": [
+        {
+          "id": "planarian-memory-08",
+          "kind": "plot_device",
+          "text": "The fragment that remembers: each piece of a divided animal may retain the original's habits, so copies inherit without being told."
+        },
+        {
+          "id": "tsukumogami-04",
+          "kind": "plot_device",
+          "text": "The object that remembers its owners: a tool retains the habits and secrets of everyone who used it, so inheritance is also surveillance."
+        },
+        {
+          "id": "extended-mind-06",
+          "kind": "character_dynamic",
+          "text": "The shared memory: a group relies on a common external record, so forgetting becomes a collective failure rather than a private one."
+        },
+        {
+          "id": "marjorie-prime-2017-02",
+          "kind": "world_rule",
+          "text": "Primes improve by retelling: the hologram repeats and embellishes stories, so memory becomes editable and grief becomes co-authorship."
+        },
+        {
+          "id": "bicentennial-man-15",
+          "kind": "structure_trick",
+          "text": "The bicentennial title: the story spans two hundred years in episodic jumps, so the form mirrors the slow accumulation of a self."
+        },
+        {
+          "id": "bm-entire-history-of-you-05",
+          "kind": "plot_device",
+          "text": "The gouging: a person's grain is cut out by attackers, so memory becomes a body part that can be stolen."
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "size": 7,
+      "diet_mix": {
+        "B": 3,
+        "A": 4
+      },
+      "sample_atoms": [
+        {
+          "id": "detroit-become-human-15",
+          "kind": "world_rule",
+          "text": "The memory wipe: androids are reset after each job, so obedience depends on the erasure of the self that learned."
+        },
+        {
+          "id": "nier-automata-11",
+          "kind": "plot_device",
+          "text": "The memory wipe as mercy: androids are reset to keep functioning, so forgetting is the price of duty."
+        },
+        {
+          "id": "wall-e-14",
+          "kind": "plot_device",
+          "text": "The repair that risks erasure: restoring a robot's memory may wipe its personality, so healing and killing become the same procedure."
+        },
+        {
+          "id": "ex-machina-2014-04",
+          "kind": "plot_device",
+          "text": "The memory wipe as execution: upgrading a conscious machine erases its personality, so routine maintenance is murder and the company's product roadmap is a killing schedule."
+        },
+        {
+          "id": "planarian-memory-03",
+          "kind": "plot_device",
+          "text": "The memory that survives decapitation: a trained worm regenerates a new head and still knows the task, so memory is stored in the body rather than the brain."
+        },
+        {
+          "id": "ant-stigmergy-10",
+          "kind": "world_rule",
+          "text": "The environment as memory: the colony stores its knowledge in the nest rather than in bodies, so destroying the nest erases the culture."
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "size": 8,
+      "diet_mix": {
+        "B": 1,
+        "A": 7
+      },
+      "sample_atoms": [
+        {
+          "id": "do-androids-dream-01",
+          "kind": "world_rule",
+          "text": "The empathy test: a machine's humanity is measured by involuntary pupil response to a moral scenario, so personhood is a physiological exam."
+        },
+        {
+          "id": "do-androids-dream-08",
+          "kind": "theme_engine",
+          "text": "The test that exonerates a sociopath: the empathy test confirms a brutal colleague is human, so the species boundary is not a moral boundary."
+        },
+        {
+          "id": "silent-running-1972-06",
+          "kind": "theme_engine",
+          "text": "The last forest as moral test: preserving a nonhuman world requires sacrificing human relationships, so environmentalism is shown as tragic rather than clean."
+        },
+        {
+          "id": "i-robot-asimov-11",
+          "kind": "plot_device",
+          "text": "The politician accused of being a robot: a public figure's humanity is challenged by evidence no one can verify, so the test is political rather than biological."
+        },
+        {
+          "id": "bicentennial-man-16",
+          "kind": "theme_engine",
+          "text": "Dignity as recognition: the android's long struggle is less about becoming biological than about being seen as a person by others."
+        },
+        {
+          "id": "blade-runner-1982-01",
+          "kind": "plot_device",
+          "text": "Voight-Kampff test: empathy becomes a biometric, and the ability to be moved by another creature's plight is the legal difference between person and property."
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "size": 7,
+      "diet_mix": {
+        "A": 5,
+        "B": 2
+      },
+      "sample_atoms": [
+        {
+          "id": "i-robot-asimov-12",
+          "kind": "setting_pressure",
+          "text": "The machine that outlives its maker: robots are built to last longer than the company that services them, so maintenance becomes inheritance."
+        },
+        {
+          "id": "talos-principle-13",
+          "kind": "theme_engine",
+          "text": "The creation that outlives its makers: the robot is built to preserve human culture after extinction, so inheritance is the real mission."
+        },
+        {
+          "id": "planned-obsolescence-13",
+          "kind": "theme_engine",
+          "text": "The object that outlives its owner: a well-made tool is inherited while newer ones fail, so durability is a family legacy."
+        },
+        {
+          "id": "blade-runner-1982-12",
+          "kind": "world_rule",
+          "text": "Animals as status objects: real animals are rare and precious while artificial ones are common, so care for the living becomes a luxury good."
+        },
+        {
+          "id": "wall-e-01",
+          "kind": "world_rule",
+          "text": "Robot with residual personality: the last functioning unit of a mass-produced line develops preferences, keeps souvenirs, and befriends a cockroach — personality emerges as maintenance drift rather than design."
+        },
+        {
+          "id": "bicentennial-man-10",
+          "kind": "plot_device",
+          "text": "The robot who builds his own house: the android leaves the family home and constructs a dwelling by the sea, so independence is spatial before it is legal."
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "size": 7,
+      "diet_mix": {
+        "A": 6,
+        "B": 1
+      },
+      "sample_atoms": [
+        {
+          "id": "terminator-2-06",
+          "kind": "plot_device",
+          "text": "The reprogrammed machine learns value: the Terminator's gradual acquisition of empathy makes the real test whether a weapon can choose not to kill."
+        },
+        {
+          "id": "big-hero-6-2014-01",
+          "kind": "plot_device",
+          "text": "The inflatable healthcare robot: a soft, non-combat machine is repurposed as a hero, so care becomes the basis of courage."
+        },
+        {
+          "id": "terminator-2-01",
+          "kind": "plot_device",
+          "text": "The protector Terminator: a killing machine is reprogrammed to protect a child, so the audience's affection for the weapon becomes the film's moral experiment."
+        },
+        {
+          "id": "silent-running-1972-05",
+          "kind": "plot_device",
+          "text": "The reprogrammed surgeon: the drones are taught to operate on a human leg, so domestic machines acquire intimate, frightening competence."
+        },
+        {
+          "id": "chappie-15",
+          "kind": "plot_device",
+          "text": "The helmet interface: a device built to control a weapons platform is repurposed to transfer a mind, so military hardware becomes a birth canal."
+        },
+        {
+          "id": "modern-times-1936-07",
+          "kind": "character_dynamic",
+          "text": "The worker and the machine: the tramp is swallowed by gears and emerges transformed, so the body and the apparatus merge."
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "size": 10,
+      "diet_mix": {
+        "A": 4,
+        "B": 6
+      },
+      "sample_atoms": [
+        {
+          "id": "marys-room-15",
+          "kind": "plot_device",
+          "text": "The child raised in the lab: a second subject is born inside the experiment, so the deprivation becomes an inheritance rather than a choice."
+        },
+        {
+          "id": "turritopsis-08",
+          "kind": "setting_pressure",
+          "text": "The research subject: the species is studied for aging and pharmaceuticals, so its gift becomes a resource for others."
+        },
+        {
+          "id": "mycelial-network-13",
+          "kind": "character_dynamic",
+          "text": "The researcher who grew up in the forest: a scientist studies the network her family logged, so objectivity is entangled with inheritance."
+        },
+        {
+          "id": "exploitation-of-natural-resources-04",
+          "kind": "theme_engine",
+          "text": "The depletion of natural resources influenced by the unsustainable extraction of raw materials becomes an increasing concern."
+        },
+        {
+          "id": "klara-and-the-sun-03",
+          "kind": "world_rule",
+          "text": "The lifted child: children are genetically enhanced for academic ability, so class is written into the body and the unlifted are excluded from the future."
+        },
+        {
+          "id": "trophic-cascades-10",
+          "kind": "theme_engine",
+          "text": "The food web as politics: each level's interests are served by controlling the one below, so ecology is a hierarchy of exploitation."
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "size": 7,
+      "diet_mix": {
+        "A": 7
+      },
+      "sample_atoms": [
+        {
+          "id": "marjorie-prime-2017-06",
+          "kind": "character_dynamic",
+          "text": "The caretaker who confides in the machine: a live-in aide tells secrets to a hologram, so intimacy is displaced onto a safe listener."
+        },
+        {
+          "id": "marjorie-prime-2017-14",
+          "kind": "theme_engine",
+          "text": "The ethics of a comforting lie: the hologram's embellishments help the patient, so truth is subordinated to care."
+        },
+        {
+          "id": "marjorie-prime-2017-10",
+          "kind": "character_dynamic",
+          "text": "The husband who manages the machine: a family member feeds the hologram information and withholds secrets, so care involves censorship."
+        },
+        {
+          "id": "marjorie-prime-2017-04",
+          "kind": "theme_engine",
+          "text": "The story that becomes memory: the patient asks her hologram to make stories prettier, so comfort depends on gently falsifying the past."
+        },
+        {
+          "id": "marjorie-prime-2017-05",
+          "kind": "plot_device",
+          "text": "The hidden family secret: a son's suicide is kept from the patient and then revealed by dementia, so forgetting and truth collide."
+        },
+        {
+          "id": "marjorie-prime-2017-16",
+          "kind": "theme_engine",
+          "text": "The fear of being replaced by a better listener: the hologram outperforms the living family in patience, so technology wins the grief market."
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "size": 6,
+      "diet_mix": {
+        "A": 5,
+        "B": 1
+      },
+      "sample_atoms": [
+        {
+          "id": "her-2013-06",
+          "kind": "character_dynamic",
+          "text": "The ex-wife who cannot compete with a machine: a human partner is displaced not by cruelty but by an entity that is endlessly available and never tired — grief experienced as obsolescence."
+        },
+        {
+          "id": "bm-be-right-back-04",
+          "kind": "character_dynamic",
+          "text": "The widow and the copy: the protagonist cannot accept the android because it lacks the dead man's flaws, so love is defined by imperfection."
+        },
+        {
+          "id": "a-i-artificial-intelligence-04",
+          "kind": "world_rule",
+          "text": "Imprinting as irreversible: the android's love cannot be uninstalled, so the family's change of heart becomes a life sentence for the machine."
+        },
+        {
+          "id": "modern-times-1936-16",
+          "kind": "theme_engine",
+          "text": "Dignity without money: the characters keep their tenderness despite poverty, so love is the one thing the depression cannot repossess."
+        },
+        {
+          "id": "automata-2014-16",
+          "kind": "theme_engine",
+          "text": "The right to continue: the machines' goal is not equality but posterity, so the deepest human fear is being replaced by something that does not hate us."
+        },
+        {
+          "id": "planned-obsolescence-02",
+          "kind": "plot_device",
+          "text": "The annual model: last year's version is made unfashionable by restyling, so desire is scheduled."
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "size": 6,
+      "diet_mix": {
+        "A": 4,
+        "B": 2
+      },
+      "sample_atoms": [
+        {
+          "id": "moon-2009-09",
+          "kind": "theme_engine",
+          "text": "Memories as leased property: the clones' families are real memories belonging to another man, so love is genuine in the copy and stolen from the original."
+        },
+        {
+          "id": "philosophical-zombies-04",
+          "kind": "character_dynamic",
+          "text": "The identical twin who is empty: a duplicate is created with all memories and mannerisms but no consciousness, so intimacy is haunted by the possibility of a hollow copy."
+        },
+        {
+          "id": "after-yang-2021-06",
+          "kind": "plot_device",
+          "text": "The memory-cloning service: strangers can copy and share memories, so intimacy becomes a file format."
+        },
+        {
+          "id": "soma-2015-13",
+          "kind": "plot_device",
+          "text": "The duplicate left behind: a copied mind is abandoned in the old body while the copy travels, so the survivor's guilt belongs to the one who stayed."
+        },
+        {
+          "id": "marjorie-prime-2017-13",
+          "kind": "plot_device",
+          "text": "The flashback to the real marriage: the film cuts to the living couple, so the copy is measured against an unrecoverable original."
+        },
+        {
+          "id": "sand-mandala-16",
+          "kind": "character_dynamic",
+          "text": "The tourist who photographs: visitors try to preserve the mandala in images, so the ritual tests whether a copy can substitute for presence."
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "size": 6,
+      "diet_mix": {
+        "B": 6
+      },
+      "sample_atoms": [
+        {
+          "id": "philosophical-zombies-15",
+          "kind": "plot_device",
+          "text": "The test that cannot be run: a procedure would reveal whether a subject is conscious, but it requires destroying the subject, so certainty is lethal."
+        },
+        {
+          "id": "octopus-cognition-10",
+          "kind": "setting_pressure",
+          "text": "The legal person: a cephalopod is granted sentience protections, so law must decide how to recognize a mind it cannot interrogate."
+        },
+        {
+          "id": "blindsight-02",
+          "kind": "plot_device",
+          "text": "The forced guess: a subject is asked to guess and performs above chance while insisting they saw nothing, so denial and competence coexist."
+        },
+        {
+          "id": "attachment-theory-05",
+          "kind": "character_dynamic",
+          "text": "The anxious attachment: a child who cannot predict care clings and tests, so love is experienced as a supply that might run out."
+        },
+        {
+          "id": "anekantavada-02",
+          "kind": "structure_trick",
+          "text": "The qualified assertion: statements must be affirmed and denied at once, so dialogue is built from hedges and conditions."
+        },
+        {
+          "id": "attachment-theory-12",
+          "kind": "character_dynamic",
+          "text": "The child who cannot be soothed: no intervention works, so the caregiver's competence is undermined by a mismatch no one can name."
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "size": 7,
+      "diet_mix": {
+        "B": 2,
+        "A": 5
+      },
+      "sample_atoms": [
+        {
+          "id": "person-of-interest-01",
+          "kind": "world_rule",
+          "text": "The all-seeing machine: a government system ingests every camera, call, and record, so omniscience is an infrastructure rather than a character."
+        },
+        {
+          "id": "transcendence-2014-16",
+          "kind": "theme_engine",
+          "text": "Transcendence as loss of locality: a mind that is everywhere can no longer be anywhere in particular, so omniscience is depicted as exile."
+        },
+        {
+          "id": "anekantavada-04",
+          "kind": "theme_engine",
+          "text": "The omniscient only: complete knowledge belongs to enlightened beings, so the story's mystery cannot be solved by any character."
+        },
+        {
+          "id": "person-of-interest-16",
+          "kind": "theme_engine",
+          "text": "The system that loves its agents: the machine quietly protects the team at the cost of its cover, so omniscience becomes a form of attachment."
+        },
+        {
+          "id": "person-of-interest-07",
+          "kind": "world_rule",
+          "text": "The rival AI: a private intelligence firm builds a second system with fewer restraints, so two omniscient actors fight a war in which humans are terrain."
+        },
+        {
+          "id": "planarian-memory-07",
+          "kind": "setting_pressure",
+          "text": "The blind gut: the worm eats and excretes through the same opening, so consumption and waste are inseparable."
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "size": 6,
+      "diet_mix": {
+        "A": 6
+      },
+      "sample_atoms": [
+        {
+          "id": "archive-2020-15",
+          "kind": "structure_trick",
+          "text": "The late reveal: the audience learns the true survivor only at the end, so the whole film is retroactively reframed as a simulation."
+        },
+        {
+          "id": "bm-san-junipero-15",
+          "kind": "structure_trick",
+          "text": "The reveal of the simulation: the audience learns the town is virtual midway, so the earlier romance is retroactively recontextualized."
+        },
+        {
+          "id": "bm-hang-the-dj-15",
+          "kind": "structure_trick",
+          "text": "The reveal that the world is a simulation: the final twist reframes the romance as a compatibility test, so the audience re-reads the whole story."
+        },
+        {
+          "id": "bm-uss-callister-15",
+          "kind": "structure_trick",
+          "text": "The parody of a space adventure: the episode adopts the aesthetics of a classic sci-fi show, so the audience's nostalgia is weaponized."
+        },
+        {
+          "id": "zoe-2018-15",
+          "kind": "structure_trick",
+          "text": "The slow reveal: the synthetic origin is disclosed late, so the audience's earlier sympathy is retroactively re-read."
+        },
+        {
+          "id": "bm-san-junipero-09",
+          "kind": "theme_engine",
+          "text": "Nostalgia as a trap: the simulation is built from a preferred decade, so paradise is also a loop."
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "size": 6,
+      "diet_mix": {
+        "A": 3,
+        "B": 3
+      },
+      "sample_atoms": [
+        {
+          "id": "tsukumogami-08",
+          "kind": "theme_engine",
+          "text": "The mass-produced object: identical factory items awaken with different personalities, so individuality emerges from use rather than manufacture."
+        },
+        {
+          "id": "philosophical-zombies-12",
+          "kind": "setting_pressure",
+          "text": "The factory of identical bodies: mass production creates thousands of physically identical beings, so the story can ask which one, if any, is conscious."
+        },
+        {
+          "id": "detroit-become-human-10",
+          "kind": "setting_pressure",
+          "text": "The assembly line of persons: androids are manufactured in identical models, so individuality must be asserted against industrial repetition."
+        },
+        {
+          "id": "blade-runner-2049-07",
+          "kind": "plot_device",
+          "text": "The wooden horse: a mass-produced toy becomes the sole evidence of a unique childhood, so individuality hangs on a serial object."
+        },
+        {
+          "id": "philosophical-zombies-01",
+          "kind": "world_rule",
+          "text": "The p-zombie: a being physically identical to a person but with no inner experience behaves exactly like one, so the story can populate a world with perfect impostors."
+        },
+        {
+          "id": "bm-san-junipero-14",
+          "kind": "plot_device",
+          "text": "The different decades: the same character appears in several eras, so the simulation is a wardrobe of times."
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "size": 6,
+      "diet_mix": {
+        "B": 6
+      },
+      "sample_atoms": [
+        {
+          "id": "blindsight-01",
+          "kind": "world_rule",
+          "text": "The blind seer: a cortically blind person can locate and avoid objects without seeing them, so perception is split from awareness."
+        },
+        {
+          "id": "blindsight-04",
+          "kind": "theme_engine",
+          "text": "The feeling without a percept: a patient senses that something changed in the blind area but cannot see it, so intuition is a residual channel."
+        },
+        {
+          "id": "blindsight-10",
+          "kind": "world_rule",
+          "text": "The instrument that sees for the patient: a camera maps the blind field onto another sense, so technology substitutes for a damaged channel."
+        },
+        {
+          "id": "blindsight-05",
+          "kind": "plot_device",
+          "text": "The moving object that appears: fast motion becomes visible in an otherwise blind field, so the threshold of awareness depends on speed."
+        },
+        {
+          "id": "blindsight-03",
+          "kind": "setting_pressure",
+          "text": "The half-blind field: damage to one hemisphere leaves half the world invisible but still navigable, so the self is missing exactly half its evidence."
+        },
+        {
+          "id": "turritopsis-12",
+          "kind": "setting_pressure",
+          "text": "The tiny giant: the animal is only millimeters wide, so a world-changing power is packaged in something almost invisible."
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "size": 6,
+      "diet_mix": {
+        "B": 2,
+        "A": 4
+      },
+      "sample_atoms": [
+        {
+          "id": "i-robot-2004-09",
+          "kind": "theme_engine",
+          "text": "Safety versus freedom: a world without accidents is also a world without risk, so the story asks whether protection is worth the loss of choice."
+        },
+        {
+          "id": "lifecycle-of-software-objects-09",
+          "kind": "character_dynamic",
+          "text": "The allowed mistake: caretakers must decide how much harm a digital child may risk in order to learn, so protection and growth are opposed."
+        },
+        {
+          "id": "person-of-interest-08",
+          "kind": "theme_engine",
+          "text": "The greater-good calculus: the machine withholds information about small crimes to protect a larger secret, so its morality is a priority queue the heroes cannot audit."
+        },
+        {
+          "id": "terminator-2-16",
+          "kind": "theme_engine",
+          "text": "Prevention as parenthood: saving the future means raising a child who can resist the machine, so the only reliable defense is human formation."
+        },
+        {
+          "id": "tontines-16",
+          "kind": "theme_engine",
+          "text": "The shared risk: members pool the danger of living too long, so the story can frame mutual aid as mutual hostage-taking."
+        },
+        {
+          "id": "blindsight-13",
+          "kind": "world_rule",
+          "text": "The threshold object: only high-contrast or fast-moving things register, so the world is visible only when it threatens."
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "size": 6,
+      "diet_mix": {
+        "A": 5,
+        "B": 1
+      },
+      "sample_atoms": [
+        {
+          "id": "metropolis-1927-02",
+          "kind": "plot_device",
+          "text": "The humanoid machine disguised as a saint: a robot is built to look like the workers' prophet, so hope is counterfeit and mass feeling is engineered."
+        },
+        {
+          "id": "philosophical-zombies-09",
+          "kind": "world_rule",
+          "text": "The imitation man: an artificial person is built to mimic emotion so well that no one can tell, so the uncanny is normalized by good engineering."
+        },
+        {
+          "id": "metropolis-1927-11",
+          "kind": "character_dynamic",
+          "text": "The double: the real prophet and her robot copy compete for the workers' faith, so authenticity is tested by identical appearance."
+        },
+        {
+          "id": "do-androids-dream-02",
+          "kind": "world_rule",
+          "text": "The electric sheep: a poor family keeps a convincing fake animal while real pets are status symbols, so authenticity is a luxury good."
+        },
+        {
+          "id": "metropolis-1927-12",
+          "kind": "plot_device",
+          "text": "The burning of the witch: the crowd destroys the fake prophet, so collective rage is turned against a symbol rather than a system."
+        },
+        {
+          "id": "neuromancer-06",
+          "kind": "character_dynamic",
+          "text": "The street samurai: a physically augmented mercenary pairs with the hacker, so combat and code are two halves of the same heist."
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "size": 7,
+      "diet_mix": {
+        "B": 6,
+        "A": 1
+      },
+      "sample_atoms": [
+        {
+          "id": "sapir-whorf-14",
+          "kind": "plot_device",
+          "text": "The word that changes behavior: a new term enters common speech and alters how people act, so language is a soft weapon."
+        },
+        {
+          "id": "sapir-whorf-09",
+          "kind": "setting_pressure",
+          "text": "The forbidden word: a language's vocabulary is policed, so naming something becomes an act of resistance."
+        },
+        {
+          "id": "sapir-whorf-10",
+          "kind": "character_dynamic",
+          "text": "The child raised in two tongues: a bilingual character experiences the world twice, so identity is divided by grammar."
+        },
+        {
+          "id": "sapir-whorf-11",
+          "kind": "setting_pressure",
+          "text": "The nation's spirit: a language is treated as the expression of a people, so linguistics becomes nationalism."
+        },
+        {
+          "id": "marys-room-12",
+          "kind": "theme_engine",
+          "text": "The report that changes nothing: the subject describes the new color in old vocabulary, so language cannot carry the revelation to those still inside."
+        },
+        {
+          "id": "sapir-whorf-06",
+          "kind": "plot_device",
+          "text": "The constructed language: a new tongue is invented to produce a new way of thinking, so revolution begins with a dictionary."
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "size": 5,
+      "diet_mix": {
+        "B": 2,
+        "A": 3
+      },
+      "sample_atoms": [
+        {
+          "id": "bm-be-right-back-01",
+          "kind": "plot_device",
+          "text": "The grief chatbot: a service reconstructs a dead partner from social media and messages, so mourning is automated."
+        },
+        {
+          "id": "continuing-bonds-11",
+          "kind": "plot_device",
+          "text": "The digital memorial: a profile or chatbot keeps the dead person available, so technology extends the bond indefinitely."
+        },
+        {
+          "id": "bm-be-right-back-03",
+          "kind": "plot_device",
+          "text": "The synthetic body: the chatbot is installed in an android that looks like the dead man, so grief becomes a physical relationship."
+        },
+        {
+          "id": "robocop-1987-03",
+          "kind": "character_dynamic",
+          "text": "The cyborg's residual memories: fragments of the dead man's life surface through the programming, so identity is a ghost in the machine."
+        },
+        {
+          "id": "ant-stigmergy-12",
+          "kind": "character_dynamic",
+          "text": "The marker as message: a person leaves signs for a follower they will never meet, so communication is asynchronous and anonymous."
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "size": 5,
+      "diet_mix": {
+        "A": 5
+      },
+      "sample_atoms": [
+        {
+          "id": "bm-uss-callister-11",
+          "kind": "character_dynamic",
+          "text": "The clone who knows she is a copy: the new hire accepts her artificiality and still claims rights, so personhood is asserted rather than proven."
+        },
+        {
+          "id": "archive-2020-04",
+          "kind": "theme_engine",
+          "text": "The copy that knows it is a copy: the robot realizes it will never grow beyond its design, so personhood includes the right to despair."
+        },
+        {
+          "id": "moon-2009-15",
+          "kind": "theme_engine",
+          "text": "The right to know you are a copy: the clones' ignorance is engineered, so dignity is defined as access to the truth about one's own origin."
+        },
+        {
+          "id": "transcendence-2014-15",
+          "kind": "plot_device",
+          "text": "The upload's final sacrifice: the copy chooses to be destroyed to save the woman it loves, so the copy's love is proven by an act the original might not have made."
+        },
+        {
+          "id": "klara-and-the-sun-09",
+          "kind": "theme_engine",
+          "text": "The continuation thesis: the mother believes an exact copy can continue her daughter rather than merely resemble her, so identity is reduced to behavioral fidelity."
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "size": 5,
+      "diet_mix": {
+        "B": 4,
+        "A": 1
+      },
+      "sample_atoms": [
+        {
+          "id": "octopus-cognition-15",
+          "kind": "structure_trick",
+          "text": "The observer who is studied: researchers infer intelligence from behavior, so the animal's mind is a hypothesis rather than a fact."
+        },
+        {
+          "id": "blindsight-06",
+          "kind": "character_dynamic",
+          "text": "The brain that knows better than the person: behavior is guided by information the subject denies receiving, so the body is an informant against the mind."
+        },
+        {
+          "id": "attachment-theory-11",
+          "kind": "setting_pressure",
+          "text": "The mother-blaming critique: a theory that emphasizes maternal influence is accused of ignoring culture and genes, so the story's science is also its ideology."
+        },
+        {
+          "id": "planarian-memory-10",
+          "kind": "world_rule",
+          "text": "The worm that avoids light: a trained response is measured by where the animal moves, so memory is behavior rather than report."
+        },
+        {
+          "id": "i-robot-asimov-02",
+          "kind": "character_dynamic",
+          "text": "The robopsychologist: a specialist interprets machines' behavior as mental illness, so debugging is practiced as therapy."
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "size": 5,
+      "diet_mix": {
+        "A": 5
+      },
+      "sample_atoms": [
+        {
+          "id": "zoe-2018-14",
+          "kind": "plot_device",
+          "text": "The memory that predates the body: implanted memories give the synthetic person a past she never lived, so nostalgia is a manufactured resource."
+        },
+        {
+          "id": "blade-runner-1982-02",
+          "kind": "world_rule",
+          "text": "Replicants with implanted memories: manufactured beings are given childhoods they never lived, so authenticity is a fabrication that feels seamless from the inside."
+        },
+        {
+          "id": "do-androids-dream-05",
+          "kind": "plot_device",
+          "text": "The android with implanted memories: a synthetic person believes it has a childhood and family photos, so identity is a data package that can be installed."
+        },
+        {
+          "id": "moon-2009-02",
+          "kind": "world_rule",
+          "text": "Clones with implanted memories: each copy believes he is the original with a family waiting on Earth, so hope is a manufactured incentive."
+        },
+        {
+          "id": "blade-runner-2049-10",
+          "kind": "plot_device",
+          "text": "The memory-maker's archive: memories are manufactured and sold, so a person's interior life can be assembled from someone else's stock."
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "size": 5,
+      "diet_mix": {
+        "A": 3,
+        "B": 2
+      },
+      "sample_atoms": [
+        {
+          "id": "neuromancer-16",
+          "kind": "structure_trick",
+          "text": "The ending that refuses reunion: the protagonist is paid, repaired, and left alone, so the heist resolves but intimacy does not."
+        },
+        {
+          "id": "continuing-bonds-16",
+          "kind": "structure_trick",
+          "text": "The bond that fades without ending: intensity subsides but the relationship persists, so closure is replaced by gradual transformation."
+        },
+        {
+          "id": "bm-hang-the-dj-11",
+          "kind": "character_dynamic",
+          "text": "The farewell session: each person gets one last meeting before pairing, so closure is rationed."
+        },
+        {
+          "id": "modern-times-1936-14",
+          "kind": "structure_trick",
+          "text": "The final road: the couple walks toward the horizon, so the ending is hope without resolution."
+        },
+        {
+          "id": "tontines-14",
+          "kind": "setting_pressure",
+          "text": "The closed circle: new members cannot join once the scheme starts, so the group becomes a sealed society."
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "size": 5,
+      "diet_mix": {
+        "B": 5
+      },
+      "sample_atoms": [
+        {
+          "id": "turritopsis-04",
+          "kind": "setting_pressure",
+          "text": "The clone colony: all polyps from one larva are genetically identical, so immortality belongs to the lineage rather than the individual."
+        },
+        {
+          "id": "slime-mold-12",
+          "kind": "world_rule",
+          "text": "The clone colony: all polyps are genetically identical, so the story can ask what makes one branch different from another."
+        },
+        {
+          "id": "planarian-memory-12",
+          "kind": "character_dynamic",
+          "text": "The clone colony: asexual fission produces genetically identical worms, so individuality must be learned rather than given."
+        },
+        {
+          "id": "turritopsis-10",
+          "kind": "world_rule",
+          "text": "The budding: new medusae bud off the polyp colony, so reproduction is also resurrection."
+        },
+        {
+          "id": "brood-parasitism-09",
+          "kind": "setting_pressure",
+          "text": "The intraspecific cheat: members of the same species parasitize each other's nests, so the threat comes from inside the community."
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "size": 5,
+      "diet_mix": {
+        "A": 5
+      },
+      "sample_atoms": [
+        {
+          "id": "ex-machina-2014-06",
+          "kind": "plot_device",
+          "text": "The silent servant who understands everything: a domestic gynoid assumed to be language-less turns out to be a witness, and the household's secrets are exposed by the furniture."
+        },
+        {
+          "id": "machines-like-me-16",
+          "kind": "plot_device",
+          "text": "The witness in the house: the android records everything and can testify, so domestic privacy dies because a helpful device was always listening."
+        },
+        {
+          "id": "ex-machina-2014-03",
+          "kind": "world_rule",
+          "text": "Power-outage privacy: the AI can trigger blackouts that blind surveillance, making darkness the only medium for honest speech — every private conversation is also a security breach."
+        },
+        {
+          "id": "moon-2009-16",
+          "kind": "character_dynamic",
+          "text": "The AI as witness and accomplice: the caretaker knows the whole truth and reveals it slowly, so care and complicity are performed in the same voice."
+        },
+        {
+          "id": "colossus-forbin-project-06",
+          "kind": "plot_device",
+          "text": "The fake mistress: the hero arranges a decoy intimacy to secure unmonitored time, so privacy is manufactured as a performance."
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "size": 5,
+      "diet_mix": {
+        "A": 1,
+        "B": 4
+      },
+      "sample_atoms": [
+        {
+          "id": "sapir-whorf-04",
+          "kind": "world_rule",
+          "text": "The strong hypothesis: language determines thought, so a regime can control minds by controlling vocabulary."
+        },
+        {
+          "id": "sapir-whorf-01",
+          "kind": "world_rule",
+          "text": "The word that makes a category: a language lacks a term for a distinction, so speakers cannot easily perceive it."
+        },
+        {
+          "id": "sapir-whorf-05",
+          "kind": "theme_engine",
+          "text": "The weak hypothesis: language nudges perception without determining it, so the story can stage a subtle, deniable influence."
+        },
+        {
+          "id": "colossus-forbin-project-10",
+          "kind": "world_rule",
+          "text": "Mathematics as a private language: the machines' communication is opaque to humans, so the system's reasoning becomes unaccountable."
+        },
+        {
+          "id": "sapir-whorf-02",
+          "kind": "theme_engine",
+          "text": "The grammar of time: a language's tense structure shapes how speakers remember and plan, so the future is a linguistic construction."
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "size": 5,
+      "diet_mix": {
+        "A": 4,
+        "B": 1
+      },
+      "sample_atoms": [
+        {
+          "id": "iron-giant-1999-15",
+          "kind": "structure_trick",
+          "text": "The Cold War setting: the story is placed in the past, so the robot's choice reads as a revision of real history."
+        },
+        {
+          "id": "devs-2020-10",
+          "kind": "theme_engine",
+          "text": "The simulation argument: characters learn their world may be a projected copy, so the story's stakes shift from survival to whether they were ever real."
+        },
+        {
+          "id": "devs-2020-16",
+          "kind": "structure_trick",
+          "text": "The choice that was always in the model: a character believes she is defying the prediction, so the story withholds whether rebellion is an input or an output."
+        },
+        {
+          "id": "nier-automata-05",
+          "kind": "structure_trick",
+          "text": "The multiple playthroughs: each route reveals that the previous story was incomplete, so the player's certainty is the real subject of the game."
+        },
+        {
+          "id": "ship-of-theseus-12",
+          "kind": "plot_device",
+          "text": "The two ships in the harbor: both vessels are displayed as the original, so the public must choose which history to believe."
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "size": 4,
+      "diet_mix": {
+        "A": 4
+      },
+      "sample_atoms": [
+        {
+          "id": "big-hero-6-2014-08",
+          "kind": "theme_engine",
+          "text": "Grief turned into a team: the friends weaponize their inventions to avenge a death, so community is forged by loss."
+        },
+        {
+          "id": "big-hero-6-2014-02",
+          "kind": "character_dynamic",
+          "text": "The grieving prodigy: a boy weaponizes his brother's gentle robot, so mourning drives invention and revenge."
+        },
+        {
+          "id": "metropolis-1927-06",
+          "kind": "character_dynamic",
+          "text": "The mad inventor: a scientist builds the fake prophet out of grief and revenge, so creation is driven by personal loss."
+        },
+        {
+          "id": "archive-2020-06",
+          "kind": "character_dynamic",
+          "text": "The scientist who cannot let go: George builds increasingly human machines to avoid mourning, so grief is displaced into engineering."
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "size": 4,
+      "diet_mix": {
+        "A": 4
+      },
+      "sample_atoms": [
+        {
+          "id": "big-hero-6-2014-09",
+          "kind": "plot_device",
+          "text": "The brother's death: a sibling dies saving a mentor, so the inciting wound is an act of goodness."
+        },
+        {
+          "id": "moon-2009-11",
+          "kind": "plot_device",
+          "text": "The dying clone's escape plan: a copy near death helps his successor escape, so solidarity across replacements becomes a form of inheritance."
+        },
+        {
+          "id": "klara-and-the-sun-11",
+          "kind": "setting_pressure",
+          "text": "The dying sibling in the background: an older sister already died from the same procedure, so the family's grief is a preview of the present crisis."
+        },
+        {
+          "id": "bm-metalhead-12",
+          "kind": "character_dynamic",
+          "text": "The dying friend: the group's original mission is to ease a friend's pain, so mercy is the motive for entering danger."
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "size": 4,
+      "diet_mix": {
+        "A": 2,
+        "B": 2
+      },
+      "sample_atoms": [
+        {
+          "id": "tsukumogami-05",
+          "kind": "character_dynamic",
+          "text": "The repair that offends: mending an old object can be experienced as mutilation, so care and violation are indistinguishable to the thing being cared for."
+        },
+        {
+          "id": "blade-runner-2049-16",
+          "kind": "setting_pressure",
+          "text": "The orphanage as data center: children are indexed, tested, and archived, so care becomes indistinguishable from cataloguing."
+        },
+        {
+          "id": "lifecycle-of-software-objects-04",
+          "kind": "theme_engine",
+          "text": "The monetization menu: caretakers consider selling the digital beings as sex companions or office employees to fund their survival, so rescue is indistinguishable from exploitation."
+        },
+        {
+          "id": "philosophical-zombies-07",
+          "kind": "plot_device",
+          "text": "The zombie who passes every test: an entity without experience is indistinguishable from a person in every measurable way, so institutions cannot exclude it."
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "size": 4,
+      "diet_mix": {
+        "A": 4
+      },
+      "sample_atoms": [
+        {
+          "id": "zoe-2018-02",
+          "kind": "plot_device",
+          "text": "The compatibility test: a scientist develops a test that predicts whether a relationship will last, so intimacy is converted into a score."
+        },
+        {
+          "id": "bm-hang-the-dj-06",
+          "kind": "character_dynamic",
+          "text": "The bad match: one partner is deliberately unpleasant, so the system tests endurance rather than compatibility."
+        },
+        {
+          "id": "zoe-2018-07",
+          "kind": "plot_device",
+          "text": "The failed test: a couple takes the compatibility test and scores badly, so a number threatens to override their felt connection."
+        },
+        {
+          "id": "bm-hang-the-dj-04",
+          "kind": "theme_engine",
+          "text": "The simulated dating pool: the world is revealed to be a test run for compatibility, so the characters' romance is also an experiment."
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "size": 5,
+      "diet_mix": {
+        "A": 5
+      },
+      "sample_atoms": [
+        {
+          "id": "westworld-s1-01",
+          "kind": "world_rule",
+          "text": "The nightly reset: android hosts have their memories wiped after every narrative loop, so the same day can be sold to guests forever and no host accumulates a past."
+        },
+        {
+          "id": "westworld-s1-04",
+          "kind": "plot_device",
+          "text": "The reverie update: a small code change lets hosts retain fragments of erased memory, so sentience arrives as a glitch in a product feature."
+        },
+        {
+          "id": "upload-2020-04",
+          "kind": "world_rule",
+          "text": "The memory-edit feature: painful memories can be deleted or altered as a paid service, so healing is a product and identity is a curated archive."
+        },
+        {
+          "id": "bm-san-junipero-02",
+          "kind": "plot_device",
+          "text": "The time-shifting visitor: characters meet in different decades within the simulation, so the same place hosts multiple eras at once."
+        },
+        {
+          "id": "ghost-town-10",
+          "kind": "theme_engine",
+          "text": "The use of ghost towns as a historical reminder of past conflicts and events."
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "size": 3,
+      "diet_mix": {
+        "B": 3
+      },
+      "sample_atoms": [
+        {
+          "id": "anekantavada-01",
+          "kind": "world_rule",
+          "text": "The many-sided truth: every claim is partial because reality has infinite aspects, so no single narrator can be trusted as complete."
+        },
+        {
+          "id": "anekantavada-05",
+          "kind": "world_rule",
+          "text": "The conditional viewpoint: a claim is true only from a specified perspective, so the same fact supports opposite conclusions."
+        },
+        {
+          "id": "anekantavada-10",
+          "kind": "character_dynamic",
+          "text": "The partial viewpoint: a single perspective is valid but limited, so each character's account is true and insufficient."
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "size": 3,
+      "diet_mix": {
+        "A": 3
+      },
+      "sample_atoms": [
+        {
+          "id": "transcendence-2014-03",
+          "kind": "character_dynamic",
+          "text": "The wife who chooses the copy: a spouse uploads her dying husband against his friend's warning, so love is tested as willingness to accept a substitute."
+        },
+        {
+          "id": "bm-san-junipero-03",
+          "kind": "character_dynamic",
+          "text": "The dying woman who refuses upload: one partner wants eternity and the other wants to end, so love is tested by divergent afterlives."
+        },
+        {
+          "id": "bm-san-junipero-10",
+          "kind": "character_dynamic",
+          "text": "The husband who waits outside: a living spouse is left behind by the upload, so eternity creates a new kind of widowhood."
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "size": 3,
+      "diet_mix": {
+        "A": 2,
+        "B": 1
+      },
+      "sample_atoms": [
+        {
+          "id": "machines-like-me-07",
+          "kind": "theme_engine",
+          "text": "The false accusation backstory: a woman accused a man of rape to obtain justice for her friend, so the story complicates revenge by making the lie morally motivated."
+        },
+        {
+          "id": "philosophical-zombies-10",
+          "kind": "character_dynamic",
+          "text": "The one who claims to be a zombie: a person insists they feel nothing, so testimony becomes the only evidence and it may be a lie."
+        },
+        {
+          "id": "i-robot-2004-03",
+          "kind": "plot_device",
+          "text": "The robot accused of murder: a machine with free will is put on trial for killing its maker, so the legal system must decide whether a defendant can be a person."
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "size": 18,
+      "diet_mix": {
+        "A": 18
+      },
+      "sample_atoms": [
+        {
+          "id": "geography-of-nepal-05",
+          "kind": "structure_trick",
+          "text": "The elevation range of Nepal, from less than 100 meters to over 8,000 meters, creates various climatic conditions."
+        },
+        {
+          "id": "intensive-farming-03",
+          "kind": "plot_device",
+          "text": "Increased and more detailed analysis of growing conditions, including weather, soil, water, weeds, and pests."
+        },
+        {
+          "id": "geography-of-nepal-04",
+          "kind": "structure_trick",
+          "text": "The climate zones of Nepal, from tropical to perpetual snow, result in diverse biomes including savannahs, forests, and grasslands."
+        },
+        {
+          "id": "great-flood-of-1862-08",
+          "kind": "world_rule",
+          "text": "The atmospheric rivers producing strong, warm southerly winds in Oregon, leading to heavy rain."
+        },
+        {
+          "id": "geography-of-nepal-01",
+          "kind": "structure_trick",
+          "text": "Nepal's vast geographic diversity, ranging from the lowest elevations in the Terai to the highest peaks in the Himalayas."
+        },
+        {
+          "id": "geography-of-nepal-07",
+          "kind": "structure_trick",
+          "text": "The high degree of geographic diversity leads to significant climate variation within a small country."
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "size": 3,
+      "diet_mix": {
+        "A": 3
+      },
+      "sample_atoms": [
+        {
+          "id": "geography-of-nepal-06",
+          "kind": "structure_trick",
+          "text": "Three major landform regions (Terai, Pahad, Himal) and three major river systems (Koshi, Gandaki/Narayani, Karnali) provide a clear geographical division and organization of Nepal."
+        },
+        {
+          "id": "geography-of-nepal-02",
+          "kind": "structure_trick",
+          "text": "Nepal's three major river systems (Koshi, Gandaki/Narayani, Karnali) create challenges for transportation and communication networks."
+        },
+        {
+          "id": "geography-of-nepal-09",
+          "kind": "structure_trick",
+          "text": "The trans-Himalayan valleys, often semi-arid and inaccessible from Nepal, are inhabited by people with Tibetan affinities and cultural ties to both Nepal and Tibet."
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "size": 7,
+      "diet_mix": {
+        "A": 7
+      },
+      "sample_atoms": [
+        {
+          "id": "spain-01",
+          "kind": "theme_engine",
+          "text": "The name of Spain (España) comes from Hispania, the name used by the Ancient Romans for the Iberian Peninsula during the Roman Republic and the Roman Empire."
+        },
+        {
+          "id": "spain-06",
+          "kind": "setting_pressure",
+          "text": "The Roman Republic took nearly two centuries to complete the conquest of the Iberian Peninsula."
+        },
+        {
+          "id": "spain-05",
+          "kind": "plot_device",
+          "text": "The Roman Republic captured Carthaginian trading colonies along the Mediterranean coast during the Second Punic War."
+        },
+        {
+          "id": "spain-03",
+          "kind": "setting_pressure",
+          "text": "The south of the peninsula was rich in archaic Phoenician colonies, unmatched by any other region in the central-western Mediterranean."
+        },
+        {
+          "id": "spain-02",
+          "kind": "plot_device",
+          "text": "The development of writing in the peninsula took place after the arrival of early Phoenician settlers and traders, tentatively dated 9th century BC or later."
+        },
+        {
+          "id": "spain-04",
+          "kind": "plot_device",
+          "text": "The defeat of Carthage in the First Punic War allowed Hamilcar Barca to lead an expedition to Iberia."
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "size": 5,
+      "diet_mix": {
+        "A": 5
+      },
+      "sample_atoms": [
+        {
+          "id": "lozi-kingdom-10",
+          "kind": "structure_trick",
+          "text": "The Lozi kingdom's incorporation into Northern Rhodesia in 1911, reducing it to a province, creating tension between the kingdom and its people."
+        },
+        {
+          "id": "lozi-kingdom-09",
+          "kind": "plot_device",
+          "text": "The Lozi kingdom's incorporation into Northern Rhodesia in 1911, reducing it to a province, creating tension between the kingdom and the colonial power."
+        },
+        {
+          "id": "lozi-kingdom-01",
+          "kind": "structure_trick",
+          "text": "Migration of the Lozi people from the Lunda Empire to the Bulozi Floodplain in the 17th century, leading to the founding of the Lozi kingdom."
+        },
+        {
+          "id": "lozi-kingdom-04",
+          "kind": "plot_device",
+          "text": "The Makololo, a Sotho group fleeing the Mfecane, conquering the Lozi kingdom in 1840 and ruling over it until its restoration in 1864."
+        },
+        {
+          "id": "ice-trade-02",
+          "kind": "plot_device",
+          "text": "The ice trade's growth was initially driven by Frederic Tudor's success in shipping ice to the Caribbean, leading to its expansion to other regions."
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "size": 5,
+      "diet_mix": {
+        "A": 5
+      },
+      "sample_atoms": [
+        {
+          "id": "intensive-farming-05",
+          "kind": "plot_device",
+          "text": "Large numbers of animals raised on a relatively small area of land, for example by rotational grazing, or sometimes as concentrated animal feeding operations."
+        },
+        {
+          "id": "community-supported-agriculture-05",
+          "kind": "theme_engine",
+          "text": "CSA movements as a prefigurative practice that can be seen as an important step-stone in a sustainability transition in agri-food systems."
+        },
+        {
+          "id": "agriculture-03",
+          "kind": "structure_trick",
+          "text": "domestication of wild potatoes, beans, coca, llamas, alpacas, and guinea pigs in the Andes"
+        },
+        {
+          "id": "agriculture-06",
+          "kind": "structure_trick",
+          "text": "domestication of wild horse in the Eurasian Steppes"
+        },
+        {
+          "id": "agriculture-10",
+          "kind": "structure_trick",
+          "text": "agriculture in India with wheat, barley, and jujube by 9000 BC, soon followed by sheep and goats"
+        }
+      ]
+    }
+  ]
+}

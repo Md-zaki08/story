@@ -1,0 +1,22 @@
+{
+  "source": "ant-stigmergy",
+  "diet": "B",
+  "atoms": [
+    {"id": "ant-stigmergy-01", "text": "The pheromone trail: ants leave chemical marks that guide later ants to food, so coordination happens through the environment rather than conversation.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "ant-stigmergy-02", "text": "The trace that recruits: a mark left by one worker stimulates the next worker to add to it, so work is self-amplifying.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "ant-stigmergy-03", "text": "The colony without a planner: complex structures emerge with no central control, so intelligence is distributed and no one is responsible.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "ant-stigmergy-04", "text": "The evaporating signal: pheromones fade over time, so stale instructions disappear and the system self-corrects.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "ant-stigmergy-05", "text": "The shortest path: repeated reinforcement makes the best route dominant, so the collective discovers efficiency without knowing it.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "ant-stigmergy-06", "text": "The simple agent: each individual follows local rules and has no memory of the whole, so the story's heroes can be interchangeable.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "ant-stigmergy-07", "text": "The false trail: a mark laid by mistake or malice redirects the entire colony, so sabotage requires only a small environmental edit.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "ant-stigmergy-08", "text": "The dead end: ants loop around a circle of their own pheromones until they die, so self-organization can produce a fatal attractor.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "ant-stigmergy-09", "text": "The termite cathedral: blind insects build ventilated towers through local rules, so architecture is an emergent accident.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "ant-stigmergy-10", "text": "The environment as memory: the colony stores its knowledge in the nest rather than in bodies, so destroying the nest erases the culture.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "ant-stigmergy-11", "text": "The swarm that cannot be negotiated with: a collective responds to traces without leaders, so there is no one to bargain or threaten.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "ant-stigmergy-12", "text": "The marker as message: a person leaves signs for a follower they will never meet, so communication is asynchronous and anonymous.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "ant-stigmergy-13", "text": "The overgrown path: too much reinforcement creates a highway that ignores a newly opened shortcut, so the system locks into past success.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "ant-stigmergy-14", "text": "The parasite that mimics the mark: an intruder copies the colony's signals to exploit its labor, so trust in traces is a vulnerability.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "ant-stigmergy-15", "text": "The queen as symbol not ruler: the colony functions without her commands, so authority is a story told about a figurehead.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "ant-stigmergy-16", "text": "The distributed search: many agents fan out and the first success recruits the rest, so discovery is a race with no coordinator.", "kind": "structure_trick", "quality": "strong", "original": null}
+  ]
+}

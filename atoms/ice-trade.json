@@ -1,0 +1,57 @@
+{
+  "source": "ice-trade",
+  "title": "Ice trade",
+  "diet": "A",
+  "atoms": [
+    {
+      "text": "The ice trade, a 19th-century industry catering to summer demand, was driven by the export of harvested ice from polar regions and New England.",
+      "kind": "plot_device",
+      "quality": "medium"
+    },
+    {
+      "text": "The ice trade's growth was initially driven by Frederic Tudor's success in shipping ice to the Caribbean, leading to its expansion to other regions.",
+      "kind": "plot_device",
+      "quality": "medium"
+    },
+    {
+      "text": "The trade's dependence on reliable transportation and its eventual decline with the rise of mechanical refrigeration created a significant shift in the industry.",
+      "kind": "plot_device",
+      "quality": "medium"
+    },
+    {
+      "text": "The use of ice houses for storing harvested ice was a key mechanism for the trade's success, allowing for the preservation and transport of ice over long distances.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "The ice trade's focus on supplying the east coast of the U.S. and growing cities' demands created a demand-driven market that could only flourish in a specific technological and economic context.",
+      "kind": "plot_device",
+      "quality": "medium"
+    },
+    {
+      "text": "The introduction of refrigerated railroad cars enabled the meat packing industry to expand beyond local markets, further driving the ice trade's growth.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "The competition between natural ice and artificially produced plant ice, leading to the eventual decline of the ice trade, highlights the importance of new technologies in disrupting established markets.",
+      "kind": "theme_engine",
+      "quality": "medium"
+    },
+    {
+      "text": "The ice trade's reliance on a network of ice wagons for distribution represented a critical step in the industry's evolution from local to national scale.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "Exporting ice as a luxury good to wealthy members of West Indies and the southern U.S. states.",
+      "kind": "theme_engine",
+      "quality": "medium"
+    },
+    {
+      "text": "The rapid growth of the hot summers and economy in the New York City area led to an increase in ice demand.",
+      "kind": "setting_pressure",
+      "quality": "medium"
+    }
+  ]
+}

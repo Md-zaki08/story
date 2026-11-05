@@ -1,0 +1,22 @@
+{
+  "source": "planarian-memory",
+  "diet": "B",
+  "atoms": [
+    {"id": "planarian-memory-01", "text": "The regenerating worm: a flatworm cut into pieces grows a complete body from each fragment, so death is reversible at the level of the individual.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "planarian-memory-02", "text": "The stem-cell reserve: adult neoblasts can rebuild any tissue, so the body carries its own spare parts.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "planarian-memory-03", "text": "The memory that survives decapitation: a trained worm regenerates a new head and still knows the task, so memory is stored in the body rather than the brain.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "planarian-memory-04", "text": "The cannibal lesson: untrained worms that eat trained worms learn the task, so knowledge is transferable through consumption.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "planarian-memory-05", "text": "The model organism: a simple animal is used to study memory and aging, so its body becomes a stand-in for human questions.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "planarian-memory-06", "text": "The two-headed worm: regeneration can produce duplicated organs, so identity has no fixed body plan.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "planarian-memory-07", "text": "The blind gut: the worm eats and excretes through the same opening, so consumption and waste are inseparable.", "kind": "setting_pressure", "quality": "medium", "original": null},
+    {"id": "planarian-memory-08", "text": "The fragment that remembers: each piece of a divided animal may retain the original's habits, so copies inherit without being told.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "planarian-memory-09", "text": "The experimenter's cut: a scientist decides where to slice the animal, so knowledge is produced by violence.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "planarian-memory-10", "text": "The worm that avoids light: a trained response is measured by where the animal moves, so memory is behavior rather than report.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "planarian-memory-11", "text": "The immortal tissue: the worm's stem cells do not age the way the body does, so the self can outlive its form.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "planarian-memory-12", "text": "The clone colony: asexual fission produces genetically identical worms, so individuality must be learned rather than given.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "planarian-memory-13", "text": "The memory as chemistry: the transfer of knowledge by ingestion implies memory has a physical substrate that can be eaten.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "planarian-memory-14", "text": "The regeneration race: a worm regrows a lost head in days, so injury is a temporary state and trauma has a deadline.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "planarian-memory-15", "text": "The creature that cannot drown: it absorbs oxygen through its skin and survives in water, so the usual methods of control fail.", "kind": "setting_pressure", "quality": "medium", "original": null},
+    {"id": "planarian-memory-16", "text": "The specimen jar: a regenerating animal is kept for study, so captivity is also a kind of immortality.", "kind": "structure_trick", "quality": "medium", "original": null}
+  ]
+}

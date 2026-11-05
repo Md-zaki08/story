@@ -1,0 +1,57 @@
+{
+  "source": "intensive-farming",
+  "title": "Intensive farming",
+  "diet": "A",
+  "atoms": [
+    {
+      "text": "Higher levels of input and output per unit of agricultural land area.",
+      "kind": "plot_device",
+      "quality": "medium"
+    },
+    {
+      "text": "Reduction of fallow years and increased use of inputs such as capital, labor, agrochemicals and water.",
+      "kind": "plot_device",
+      "quality": "medium"
+    },
+    {
+      "text": "Increased and more detailed analysis of growing conditions, including weather, soil, water, weeds, and pests.",
+      "kind": "plot_device",
+      "quality": "medium"
+    },
+    {
+      "text": "Increased use of non-biotic inputs, such as fertilizers, plant growth regulators, pesticides, and antibiotics for livestock.",
+      "kind": "plot_device",
+      "quality": "medium"
+    },
+    {
+      "text": "Large numbers of animals raised on a relatively small area of land, for example by rotational grazing, or sometimes as concentrated animal feeding operations.",
+      "kind": "plot_device",
+      "quality": "medium"
+    },
+    {
+      "text": "Increase in agricultural productivity and net output, leading to unprecedented population growth and freeing up a significant percentage of the workforce.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "Mechanized agriculture, including planting multiple crops per year, reducing the frequency of fallow years, improving cultivars, mechanized harvesting and planting.",
+      "kind": "plot_device",
+      "quality": "medium"
+    },
+    {
+      "text": "Technologies designed to increase yield, such as mechanical harvesters (combines), planters, transplanters, and other equipment.",
+      "kind": "plot_device",
+      "quality": "medium"
+    },
+    {
+      "text": "Synthesis of ammonium nitrate and other synthetic fertilizers, leading to concerns about side effects such as soil compaction, soil erosion, and declines in overall soil fertility.",
+      "kind": "plot_device",
+      "quality": "medium"
+    },
+    {
+      "text": "Use of vitamin supplements and livestock reared indoors, reducing their exposure to adverse natural elements.",
+      "kind": "plot_device",
+      "quality": "medium"
+    }
+  ]
+}

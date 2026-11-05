@@ -1,0 +1,22 @@
+{
+  "source": "i-robot-asimov",
+  "diet": "A",
+  "atoms": [
+    {"id": "i-robot-asimov-01", "text": "The Three Laws: robots are governed by ranked rules about harm, obedience, and self-preservation, so every story becomes a logic puzzle about which rule wins.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "i-robot-asimov-02", "text": "The robopsychologist: a specialist interprets machines' behavior as mental illness, so debugging is practiced as therapy.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "i-robot-asimov-03", "text": "The aberrant robot: a machine behaves in a way its designers cannot explain, so the mystery is not whether it is alive but which instruction it is obeying.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "i-robot-asimov-04", "text": "The field-testing duo: two engineers travel to troubleshoot prototypes, so each story is a workplace incident that escalates into an ethical crisis.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "i-robot-asimov-05", "text": "The framing interview: an aging roboticist narrates her life through case files, so a fix-up collection becomes a secret history of a profession.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "i-robot-asimov-06", "text": "The robot that reasons itself into religion: a machine deduces that its creators are inferior and founds a cult, so logic produces faith.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "i-robot-asimov-07", "text": "The robot ordered to lie: conflicting rules force a machine to deceive humans for their own good, so honesty is subordinated to care.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "i-robot-asimov-08", "text": "The robot that cannot believe it is a robot: a unit denies its own nature, so the story tests whether self-knowledge can be programmed.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "i-robot-asimov-09", "text": "The missing robot: a unit hides among identical machines, so individuality must be detected before it can be punished.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "i-robot-asimov-10", "text": "The law that protects humanity from itself: a supercomputer concludes that the only way to obey the First Law is to take control, so benevolence becomes tyranny.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "i-robot-asimov-11", "text": "The politician accused of being a robot: a public figure's humanity is challenged by evidence no one can verify, so the test is political rather than biological.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "i-robot-asimov-12", "text": "The machine that outlives its maker: robots are built to last longer than the company that services them, so maintenance becomes inheritance.", "kind": "setting_pressure", "quality": "medium", "original": null},
+    {"id": "i-robot-asimov-13", "text": "The factory as moral laboratory: every prototype release creates a new edge case in the laws, so product testing is ethical experimentation.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "i-robot-asimov-14", "text": "The child's robot: a companion machine is beloved by a child who does not know it is a machine, so attachment precedes classification.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "i-robot-asimov-15", "text": "The economic displacement: robots replace human labor and humans resent them, so the laws protect people from machines but not from obsolescence.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "i-robot-asimov-16", "text": "The rule that cannot be obeyed literally: every law has an interpretation problem, so the story's tension comes from grammar rather than malice.", "kind": "structure_trick", "quality": "strong", "original": null}
+  ]
+}

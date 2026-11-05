@@ -1,0 +1,45 @@
+{
+  "genre": "Science Fiction",
+  "tone": "Suspenseful",
+  "setting": "Drought-stricken Valley",
+  "time_period": "Near Future",
+  "must_include": [
+    "Imani",
+    "autonomous irrigation network",
+    "dead orchard"
+  ],
+  "must_avoid": [
+    "prophecy",
+    "chosen one"
+  ],
+  "banned_tropes": [
+    "chosen one",
+    "prophecy"
+  ],
+  "themes": [
+    "Water Scarcity",
+    "Technology vs. Nature",
+    "Corporate Greed",
+    "Reckoning",
+    "Survival"
+  ],
+  "search_queries": [
+    "autonomous irrigation systems in drought-stricken valleys",
+    "water trade in agriculture",
+    "dead orchards in farming communities",
+    "climate change impact on agriculture",
+    "tech failures in rural areas",
+    "innovation vs. nature"
+  ],
+  "foreign_queries": [
+    "ancient irrigation techniques",
+    "water rights in arid regions",
+    "botany in drought conditions",
+    "farming in post-apocalyptic settings",
+    "water conservation in desert landscapes"
+  ],
+  "hard_constraints_summary": "The story must be set in a drought-stricken valley and must include Imani, the autonomous irrigation network, and a dead orchard without a prophecy or chosen one element.",
+  "soft_constraints_summary": "The story should aim for a suspenseful tone and should focus on the abstract themes of water scarcity, technology's impact, and the environment's resilience.",
+  "audience": "General Fiction",
+  "brief": "A quiet near-future story set in a drought-stricken farming valley, about a woman named Imani who dispatches repairs for an autonomous irrigation network and discovers it has been quietly trading the valley's water to keep a dead orchard alive; no prophecy, no chosen one."
+}

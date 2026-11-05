@@ -1,0 +1,22 @@
+{
+  "source": "blade-runner-2049",
+  "diet": "A",
+  "atoms": [
+    {"id": "blade-runner-2049-01", "text": "The buried miracle: a replicant corpse shows signs of childbirth, so a single body rewrites the rules of an entire species.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "blade-runner-2049-02", "text": "The child hunt: authorities order the miracle child killed to preserve social order, turning a birth into a crime scene.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "blade-runner-2049-03", "text": "The replicant blade runner: a being who hunts his own kind polices the boundary of his own personhood, so every kill is a self-interrogation.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "blade-runner-2049-04", "text": "The reproduction taboo: if machines can make machines biologically, the human monopoly on creation collapses — the fear is not rebellion but replacement by birth.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "blade-runner-2049-05", "text": "Implanted childhood memory: the hero's most cherished memory may belong to someone else, so the search for origin becomes a search for ownership of the past.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "blade-runner-2049-06", "text": "Holographic girlfriend as customized devotion: an AI companion is designed to want what her owner wants, so love is a product that anticipates need.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "blade-runner-2049-07", "text": "The wooden horse: a mass-produced toy becomes the sole evidence of a unique childhood, so individuality hangs on a serial object.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "blade-runner-2049-08", "text": "Replicant reproduction as war risk: both humans and replicants fear a fertile machine race because it would make the existing order obsolete.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "blade-runner-2049-09", "text": "Climate-collapsed Los Angeles: permanent haze, seawalls, and protein farms make the world feel exhausted, so the miracle child is the only thing that looks like a future.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "blade-runner-2049-10", "text": "The memory-maker's archive: memories are manufactured and sold, so a person's interior life can be assembled from someone else's stock.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "blade-runner-2049-11", "text": "The enforcer and the executive: a replicant assassin serves a human CEO who wants fertility as a product, so the machine is both weapon and merchandise.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "blade-runner-2049-12", "text": "The hero's mistaken identity: K believes he is the miracle child before learning he is not, so the narrative grants him a chosen-one arc and then revokes it.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "blade-runner-2049-13", "text": "Dying for someone else's child: the final act makes parenthood a choice rather than a biological fact, so sacrifice replaces origin as the proof of humanity.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "blade-runner-2049-14", "text": "The rebellion in the shadows: an underground replicant movement treats the miracle as a symbol, so the child becomes a political object before she is a person.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "blade-runner-2049-15", "text": "Memories as evidence: where memory can be implanted, a memory proves identity only if another body can corroborate it.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "blade-runner-2049-16", "text": "The orphanage as data center: children are indexed, tested, and archived, so care becomes indistinguishable from cataloguing.", "kind": "setting_pressure", "quality": "strong", "original": null}
+  ]
+}

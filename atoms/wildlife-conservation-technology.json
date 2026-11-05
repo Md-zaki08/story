@@ -1,0 +1,57 @@
+{
+  "source": "wildlife-conservation-technology",
+  "title": "Wildlife conservation technology",
+  "diet": "A",
+  "atoms": [
+    {
+      "text": "Remote sensing systems, devices that track animal movements, automated camera systems, drones or unmanned aerial vehicles (UAVs), methods that detect environmental DNA (eDNA), geographic information systems (GIS), and software platforms that process large datasets.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "Artificial intelligence (AI) and machine learning (ML) can automate data processing in wildlife conservation and support detection and can classify tasks across large ecological datasets.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "AI is increasingly applied to predict and prevent illegal activities, such as poaching, by analyzing spatial and temporal patterns in wildlife habitats, patrol routes, and historical incident records.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "WildDrone Autonomous Monitoring Project (Kenya) uses artificial intelligence (AI) to support wildlife conservation and emphasizes ethical use of technology.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "Camera traps are automated cameras used in wildlife ecology and conservation because they generate large amounts of data that can be used to estimate presence, occupancy, behaviour, and population trends.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "Drones and aerial monitoring are used to observe landscapes and wildlife from above, allowing researchers to cover broad areas much faster than on foot, gather high-resolution imagery, and monitor habitats that are remote or difficult for ground surveys.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "Genetic and eDNA technologies enable detection of multiple species from single environmental samples, providing a complementary approach to conventional monitoring techniques and can inform biodiversity assessments, conservation planning, and habitat management at regional and global scales.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "Pilot eDNA Metabarcoding Surveys on U.S. National Wildlife Refuges: Provides data for informed decisions about wildlife management.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "WildDrone's expansion into other regions: Creates pressure for innovation and adaptation to new environments.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "eDNA metabarcoding for aquatic biodiversity assessment: Reveals patterns of biodiversity across refuges.",
+      "kind": "plot_device",
+      "quality": "medium"
+    }
+  ]
+}

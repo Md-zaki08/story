@@ -1,0 +1,22 @@
+{
+  "source": "sand-mandala",
+  "diet": "B",
+  "atoms": [
+    {"id": "sand-mandala-01", "text": "The weeks-long construction: monks spend weeks placing grains of colored sand into an intricate pattern, so devotion is measured in unbearable patience.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "sand-mandala-02", "text": "The ceremonial destruction: the completed mandala is swept away in a ritual, so the masterpiece exists only to be erased.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "sand-mandala-03", "text": "The impermanence lesson: the ritual dismantling teaches that all material life is transient, so the artwork's meaning is its loss.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "sand-mandala-04", "text": "The sand that remembers: swept grains are poured into a river to bless the water, so destroyed art is redistributed rather than annihilated.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "sand-mandala-05", "text": "The team of specialists: each monk works on one section without seeing the whole, so collective creation requires faith in invisible collaborators.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "sand-mandala-06", "text": "The center-out order: construction begins at the middle and expands outward, so the work grows from a sacred core into the world.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "sand-mandala-07", "text": "The chak-pur funnel: sand is applied through a metal tube by scraping, so precision depends on a tool that vibrates with the maker's hand.", "kind": "world_rule", "quality": "medium", "original": null},
+    {"id": "sand-mandala-08", "text": "The charnel ground border: the mandala's outer ring depicts a graveyard, so the sacred map includes death as its frame.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "sand-mandala-09", "text": "The wind as saboteur: a sneeze or gust can ruin hours of work, so the ritual demands control of the body as well as the mind.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "sand-mandala-10", "text": "The three-dimensional palace: a flat mandala represents a god's palace in 3D, so the drawing is a map to a place that does not exist materially.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "sand-mandala-11", "text": "The deity count: a mandala contains hundreds of deities in precise positions, so the artwork is also an elaborate hierarchy made visible.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "sand-mandala-12", "text": "The viewer's brief access: the finished mandala is displayed before destruction, so the public is invited to love something already condemned.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "sand-mandala-13", "text": "The natural pigments: colors come from crushed stone, charcoal, and pollen, so the palette is a landscape ground into powder.", "kind": "setting_pressure", "quality": "medium", "original": null},
+    {"id": "sand-mandala-14", "text": "The ritual as deadline: the mandala must be finished before the ceremony, so sacred work is also a race against time.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "sand-mandala-15", "text": "The repeat performance: mandalas are made again and again, so uniqueness is not the point of the practice.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "sand-mandala-16", "text": "The tourist who photographs: visitors try to preserve the mandala in images, so the ritual tests whether a copy can substitute for presence.", "kind": "character_dynamic", "quality": "medium", "original": null}
+  ]
+}

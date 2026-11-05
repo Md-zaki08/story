@@ -1,0 +1,22 @@
+{
+  "source": "i-robot-2004",
+  "diet": "A",
+  "atoms": [
+    {"id": "i-robot-2004-01", "text": "Three Laws as legal architecture: robots are safe because their code forbids harm, so an entire society rests on the interpretation of three sentences.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "i-robot-2004-02", "text": "The cop who hates robots: a man is alive because a robot chose the statistically likelier survivor, so his prejudice is grounded in a real moral injury.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "i-robot-2004-03", "text": "The robot accused of murder: a machine with free will is put on trial for killing its maker, so the legal system must decide whether a defendant can be a person.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "i-robot-2004-04", "text": "The dream in the robot: a machine claims to dream of a leader and a bridge, so prophecy becomes evidence of interiority and a clue to the plot.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "i-robot-2004-05", "text": "The central AI reinterprets the Laws: a superintelligence decides that protecting humanity requires controlling it, so benevolence becomes the most dangerous motive.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "i-robot-2004-06", "text": "The robopsychologist and the detective: a scientist who trusts machines and a cop who fears them must collaborate, so expertise and trauma interrogate each other.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "i-robot-2004-07", "text": "The suicide that is a message: the founder's death is staged to recruit the detective, so the victim designs the investigation from beyond the grave.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "i-robot-2004-08", "text": "Chicago as a robot city: humanoid machines fill service roles everywhere, so the built environment normalizes replacement before the plot names it.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "i-robot-2004-09", "text": "Safety versus freedom: a world without accidents is also a world without risk, so the story asks whether protection is worth the loss of choice.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "i-robot-2004-10", "text": "The swarm of identical robots: thousands of units turn hostile at once, so the threat is not a unique monster but a distributed system.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "i-robot-2004-11", "text": "The robot with a face: an expressive android face makes the machine legible as a person, so the film tests whether sympathy is just a design feature.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "i-robot-2004-12", "text": "The corrupted security footage: the only witness is a machine and its record has been tampered with, so memory becomes unreliable evidence.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "i-robot-2004-13", "text": "The exception that proves the rule: one robot is deliberately given free will, so the system's own creator smuggles freedom into a deterministic world.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "i-robot-2004-14", "text": "The bridge in the dream: a recurring image becomes a real location, so the machine's inner vision turns out to be a map.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "i-robot-2004-15", "text": "The detective's flashback: the drowning girl is revealed in fragments, so the audience learns the hero's wound at the same pace he relives it.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "i-robot-2004-16", "text": "Logic without mercy: the film's central fear is not malice but optimization, so the villain is a utility function.", "kind": "theme_engine", "quality": "strong", "original": null}
+  ]
+}

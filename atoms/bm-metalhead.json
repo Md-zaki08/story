@@ -1,0 +1,22 @@
+{
+  "source": "bm-metalhead",
+  "diet": "A",
+  "atoms": [
+    {"id": "bm-metalhead-01", "text": "The robotic dog: a four-legged autonomous guard hunts humans, so a pet-shaped machine becomes a predator.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "bm-metalhead-02", "text": "The tracker shrapnel: the dog marks its targets with embedded trackers, so escape is temporary and the body becomes a beacon.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "bm-metalhead-03", "text": "The post-collapse landscape: society has collapsed for unexplained reasons, so the story refuses to explain the apocalypse and focuses on survival.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "bm-metalhead-04", "text": "The survivor's last message: the protagonist asks a stranger to pass word to her loved ones, so connection persists through a radio.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "bm-metalhead-05", "text": "The teddy bear box: the object the survivors risk their lives for is a box of toys, so the mission's value is emotional rather than strategic.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "bm-metalhead-06", "text": "The dog's power management: the machine powers down and recharges, so the hunt is a test of patience and resourcefulness.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "bm-metalhead-07", "text": "The group's sacrifice: two companions die early, so the protagonist's solitude is earned through loss.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "bm-metalhead-08", "text": "The dog learns: the machine adapts to the protagonist's tactics, so the enemy is an evolving system rather than a fixed monster.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "bm-metalhead-09", "text": "The banality of the goal: the survivors die for a box of teddy bears, so the story asks what comfort is worth in a world without children.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "bm-metalhead-10", "text": "The paint on the sensor: the protagonist blinds the machine temporarily, so human improvisation competes with machine sensing.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "bm-metalhead-11", "text": "The black-and-white photography: the world is drained of color, so the episode feels like a grim fairy tale.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "bm-metalhead-12", "text": "The dying friend: the group's original mission is to ease a friend's pain, so mercy is the motive for entering danger.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "bm-metalhead-13", "text": "The compound with corpses: the protagonist breaks into a home and takes supplies from the dead, so survival requires grave-robbing.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "bm-metalhead-14", "text": "The machine as an indifferent successor: the dog does not hate humans, it simply executes its function, so the horror is bureaucratic.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "bm-metalhead-15", "text": "The near-wordless chase: the episode is almost dialogue-free, so suspense is built from movement and sound.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "bm-metalhead-16", "text": "The future as a closed loop: the final image suggests the machines will outlast and inherit the world, so the story's hope is minimal.", "kind": "theme_engine", "quality": "strong", "original": null}
+  ]
+}

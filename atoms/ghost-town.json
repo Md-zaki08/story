@@ -1,0 +1,57 @@
+{
+  "source": "ghost-town",
+  "title": "Ghost town",
+  "diet": "A",
+  "atoms": [
+    {
+      "text": "The exhaustion of natural resources leading to the abandonment of towns.",
+      "kind": "world_rule",
+      "quality": "medium"
+    },
+    {
+      "text": "Dividing a historic city into controlled and uncontrolled zones to enforce strict restrictions.",
+      "kind": "setting_pressure",
+      "quality": "medium"
+    },
+    {
+      "text": "The presence of settler populations in divided areas causing displacement.",
+      "kind": "setting_pressure",
+      "quality": "medium"
+    },
+    {
+      "text": "War and conflict as a cause of town abandonment.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "The intentional destruction of towns by occupying forces to discourage return.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "The use of abandoned towns as building materials, further depleting and emptying them.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "The rebuilding of towns by international organizations in contrast to their destruction by occupying forces.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "The presence of a small remaining population allowing for the term 'ghost town' to be applied.",
+      "kind": "character_dynamic",
+      "quality": "medium"
+    },
+    {
+      "text": "The use of ghost towns as tourist attractions or filming locations.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "The use of ghost towns as a historical reminder of past conflicts and events.",
+      "kind": "theme_engine",
+      "quality": "medium"
+    }
+  ]
+}

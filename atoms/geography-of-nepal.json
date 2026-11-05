@@ -1,0 +1,57 @@
+{
+  "source": "geography-of-nepal",
+  "title": "Geography of Nepal",
+  "diet": "A",
+  "atoms": [
+    {
+      "text": "Nepal's vast geographic diversity, ranging from the lowest elevations in the Terai to the highest peaks in the Himalayas.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "Nepal's three major river systems (Koshi, Gandaki/Narayani, Karnali) create challenges for transportation and communication networks.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "Nepal's land cover dominated by forests, with significant areas for agriculture and natural vegetation.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "The climate zones of Nepal, from tropical to perpetual snow, result in diverse biomes including savannahs, forests, and grasslands.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "The elevation range of Nepal, from less than 100 meters to over 8,000 meters, creates various climatic conditions.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "Three major landform regions (Terai, Pahad, Himal) and three major river systems (Koshi, Gandaki/Narayani, Karnali) provide a clear geographical division and organization of Nepal.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "The high degree of geographic diversity leads to significant climate variation within a small country.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "The Himalayan mountain range, covering 15% of Nepal's area, contains 90 peaks over 7,000 meters, including Mount Everest.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "The trans-Himalayan valleys, often semi-arid and inaccessible from Nepal, are inhabited by people with Tibetan affinities and cultural ties to both Nepal and Tibet.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "Deforestation due to multiple processes like firewood harvesting, construction, urban expansion, and illegal logging poses a significant threat to Nepal's forested areas.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    }
+  ]
+}

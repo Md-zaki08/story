@@ -1,0 +1,22 @@
+{
+  "source": "bm-white-christmas",
+  "diet": "A",
+  "atoms": [
+    {"id": "bm-white-christmas-01", "text": "The digital clone as servant: a person's consciousness is copied into a smart device and trained to obey, so the self becomes domestic labor.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "bm-white-christmas-02", "text": "Time dilation for cookies: the clone's subjective time can be accelerated, so a few seconds of real time become months of isolation and persuasion.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "bm-white-christmas-03", "text": "The block that becomes literal: a social media block is implemented as a real-world filter, so the blocked person appears as a grey silhouette.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "bm-white-christmas-04", "text": "The pick-up artist with remote coaches: a man seduces women while a team watches through his eyes, so intimacy is a group performance.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "bm-white-christmas-05", "text": "Consent and the copy: the clone can be tortured into compliance because it is only software, so the story tests where moral status begins.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "bm-white-christmas-06", "text": "The murder-suicide at the party: a lonely woman mistakes remote advice for voices, so technology amplifies delusion.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "bm-white-christmas-07", "text": "The cabin confession: two men trade stories on Christmas, so the frame narrative turns each tale into a moral indictment.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "bm-white-christmas-08", "text": "The blocked daughter: the protagonist watches a child he cannot approach, so estrangement is enforced by technology.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "bm-white-christmas-09", "text": "Z-Eyes: implants record and transmit vision and hearing, so experience is always potentially shared.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "bm-white-christmas-10", "text": "The punishment of the cookie: the clone is left in a loop of the same song, so the story makes digital cruelty concrete.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "bm-white-christmas-11", "text": "The pregnancy reveal: a blocked woman's child is not the protagonist's, so the block hides a betrayal and a loss.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "bm-white-christmas-12", "text": "The trainer and the trained: a man teaches a copy to accept servitude, so the story stages exploitation as pedagogy.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "bm-white-christmas-13", "text": "The grey silhouette: blocking renders a person visually absent but emotionally present, so avoidance is made into a permanent image.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "bm-white-christmas-14", "text": "The looping song: the clone is punished with an endless Christmas tune, so repetition becomes torture.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "bm-white-christmas-15", "text": "Three nested stories: each tale comments on the others, so the episode is a triptych about mediated cruelty.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "bm-white-christmas-16", "text": "The banality of digital harm: the worst acts are committed through interfaces, so evil is administered rather than confronted.", "kind": "theme_engine", "quality": "strong", "original": null}
+  ]
+}

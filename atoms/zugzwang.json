@@ -1,0 +1,22 @@
+{
+  "source": "zugzwang",
+  "diet": "B",
+  "atoms": [
+    {"id": "zugzwang-01", "text": "The forced move: a player must act and every legal action worsens their position, so the rules themselves become the enemy.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "zugzwang-02", "text": "The obligation to move: turn order cannot be passed, so waiting is forbidden and patience is impossible.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "zugzwang-03", "text": "The winning trap: a superior player maneuvers the opponent into having only bad options, so victory is achieved without a direct attack.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "zugzwang-04", "text": "The endgame: zugzwang appears when few pieces remain, so the story's crisis arrives after the world has been stripped down.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "zugzwang-05", "text": "The reciprocal zugzwang: both players would prefer not to move, so whoever is forced to act loses.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "zugzwang-06", "text": "The zugzwang symbol: a position is marked with a special notation, so a narrative can flag the exact moment agency becomes a burden.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "zugzwang-07", "text": "The chess clock: time pressure forces decisions before analysis is complete, so deliberation is a luxury.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "zugzwang-08", "text": "The pawn that must advance: a lowly piece is compelled forward and opens a fatal line, so the weakest actor triggers the collapse.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "zugzwang-09", "text": "The stalemate avoided: a player escapes a draw by creating a forced-move position, so the story's resolution requires making the opponent act.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "zugzwang-10", "text": "The negotiation with no walk-away: both parties must respond and every response concedes something, so the deal is a trap.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "zugzwang-11", "text": "The inherited position: a character is born into a board they did not set up, so responsibility precedes choice.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "zugzwang-12", "text": "The move that changes the outcome from win to loss: a single legal action flips the result, so the story can hinge on one decision.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "zugzwang-13", "text": "The opponent who waits: a rival refuses to engage and lets the rules force action, so passivity is a strategy.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "zugzwang-14", "text": "The ancient endgame study: the position was known for centuries before it was named, so the story can use forgotten knowledge as a weapon.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "zugzwang-15", "text": "The player who sees it coming: an expert recognizes the trap before it closes, so the drama is in the impossibility of avoidance.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "zugzwang-16", "text": "The game that is also a life: a character treats every social interaction as a board position, so paranoia is a system of analysis.", "kind": "structure_trick", "quality": "strong", "original": null}
+  ]
+}

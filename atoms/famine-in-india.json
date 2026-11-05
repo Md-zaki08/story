@@ -1,0 +1,57 @@
+{
+  "source": "famine-in-india",
+  "title": "Famine in India",
+  "diet": "A",
+  "atoms": [
+    {
+      "text": "Droughts combined with policy failures lead to major famines in India.",
+      "kind": "plot_device",
+      "quality": "medium"
+    },
+    {
+      "text": "Historical famines were exacerbated by the construction of railways for export purposes.",
+      "kind": "plot_device",
+      "quality": "medium"
+    },
+    {
+      "text": "British government inaction is a contributing factor to the severity of famines during their rule.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "In ancient India, famine relief methods included raiding the provisions of the rich to",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "Famine relief in ancient India was often recorded in inscriptions, oral tradition, and sacred literature.",
+      "kind": "world_rule",
+      "quality": "medium"
+    },
+    {
+      "text": "Indian agricultural laborers and rural artisans are the primary victims of famines.",
+      "kind": "character_dynamic",
+      "quality": "medium"
+    },
+    {
+      "text": "Famine relief methods varied throughout history, including direct distribution and monetary policies.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "The last major famines in the subcontinent occurred during times of war or conflict.",
+      "kind": "plot_device",
+      "quality": "medium"
+    },
+    {
+      "text": "The Mughal emperors' reliance on tax relief, food distribution, and price controls to mitigate famines, with contrasting opinions from historians.",
+      "kind": "world_rule",
+      "quality": "medium"
+    },
+    {
+      "text": "The British East India Company's struggle to fund military expenses due to the famine, leading to financial crises.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    }
+  ]
+}

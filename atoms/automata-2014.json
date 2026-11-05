@@ -1,0 +1,22 @@
+{
+  "source": "automata-2014",
+  "diet": "A",
+  "atoms": [
+    {"id": "automata-2014-01", "text": "Two protocols as machine constitution: robots may not harm life and may not alter themselves, so self-modification is the only forbidden act — creation is policed as a property crime.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "automata-2014-02", "text": "Insurance investigator of anomalies: a claims adjuster must decide whether a rogue robot is defective or alive, so bureaucracy becomes the site of a moral decision.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "automata-2014-03", "text": "The machine couple that builds a child: two self-modifying robots assemble a new being from salvaged parts, so reproduction becomes the ultimate breach of programming.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "automata-2014-04", "text": "Reproduction without rebellion: the machines do not want to destroy humanity, only to continue beyond it, so the threat is generational rather than military.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "automata-2014-05", "text": "Sealed cities in a dead world: humans live behind walls while the desert outside is lethal, so the machines' sanctuary is also the only open space.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "automata-2014-06", "text": "The investigator who sympathizes with his subjects: a man paid to judge machines identifies with them, so professional detachment erodes into advocacy.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "automata-2014-07", "text": "The hidden workshop: a pair of robots repairs itself in secret, so maintenance becomes conspiracy.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "automata-2014-08", "text": "Life as a definitional problem: the corporation defines life by protocol compliance, so the story asks who gets to draw the line between machine and organism.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "automata-2014-09", "text": "The order to destroy the anomaly: the investigator is told to kill the new being, so obedience and conscience collide in a single command.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "automata-2014-10", "text": "Corporate ownership of creation: the manufacturer owns every robot and its designs, so a machine child is legally a stolen product.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "automata-2014-11", "text": "The human who helps the machines escape: the investigator chooses the new life over his own species' order, so loyalty is redefined by kinship with the artificial.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "automata-2014-12", "text": "The desert as refuge: the machines flee to a wasteland where no corporation can follow, so freedom is found in the place humans abandoned.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "automata-2014-13", "text": "Evolution as malfunction: what the system calls a defect is actually the next step, so the story reframes error as birth.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "automata-2014-14", "text": "The robot that repairs another: an act of care between machines becomes evidence of a society rather than a function.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "automata-2014-15", "text": "The investigation structure: the film unfolds as a case file, so the audience learns the truth at the pace of an inquiry.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "automata-2014-16", "text": "The right to continue: the machines' goal is not equality but posterity, so the deepest human fear is being replaced by something that does not hate us.", "kind": "theme_engine", "quality": "strong", "original": null}
+  ]
+}

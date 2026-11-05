@@ -1,0 +1,57 @@
+{
+  "source": "spain",
+  "title": "Spain",
+  "diet": "A",
+  "atoms": [
+    {
+      "text": "The name of Spain (España) comes from Hispania, the name used by the Ancient Romans for the Iberian Peninsula during the Roman Republic and the Roman Empire.",
+      "kind": "theme_engine",
+      "quality": "medium"
+    },
+    {
+      "text": "The development of writing in the peninsula took place after the arrival of early Phoenician settlers and traders, tentatively dated 9th century BC or later.",
+      "kind": "plot_device",
+      "quality": "medium"
+    },
+    {
+      "text": "The south of the peninsula was rich in archaic Phoenician colonies, unmatched by any other region in the central-western Mediterranean.",
+      "kind": "setting_pressure",
+      "quality": "medium"
+    },
+    {
+      "text": "The defeat of Carthage in the First Punic War allowed Hamilcar Barca to lead an expedition to Iberia.",
+      "kind": "plot_device",
+      "quality": "medium"
+    },
+    {
+      "text": "The Roman Republic captured Carthaginian trading colonies along the Mediterranean coast during the Second Punic War.",
+      "kind": "plot_device",
+      "quality": "medium"
+    },
+    {
+      "text": "The Roman Republic took nearly two centuries to complete the conquest of the Iberian Peninsula.",
+      "kind": "setting_pressure",
+      "quality": "medium"
+    },
+    {
+      "text": "Roman rule was bound together by law, language, and the Roman road.",
+      "kind": "world_rule",
+      "quality": "medium"
+    },
+    {
+      "text": "The cultures of the pre-Roman populations were gradually Romanised (Latinised) at different rates depending on what part of the peninsula they lived in, with local leaders being assimilated.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "The Roman aristocratic class admitting a character into their ranks.",
+      "kind": "character_dynamic",
+      "quality": "medium"
+    },
+    {
+      "text": "Christianity being introduced into Hispania in the 1st century AD.",
+      "kind": "theme_engine",
+      "quality": "medium"
+    }
+  ]
+}

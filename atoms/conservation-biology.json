@@ -1,0 +1,57 @@
+{
+  "source": "conservation-biology",
+  "title": "Conservation biology",
+  "diet": "A",
+  "atoms": [
+    {
+      "text": "The term conservation biology and its conception as a new field originated with the convening of a conference, leading to the formation of a new interdisciplinary field.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "The rapid decline of biological systems around the world leads to the characterization of conservation biology as a 'Discipline with a deadline'.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "Conservation biologists research and educate on biodiversity loss, species extinctions, and the negative effects on human society.",
+      "kind": "theme_engine",
+      "quality": "medium"
+    },
+    {
+      "text": "The Mauryan emperor Ashoka issued edicts restricting animal and bird slaughter, demonstrating early conservation ethics in religious and philosophical traditions.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "The biodiversity crisis is projected to cause up to 50% of species to disappear within the next 50 years, leading to increased urgency in conservation efforts.",
+      "kind": "theme_engine",
+      "quality": "medium"
+    },
+    {
+      "text": "Conservation biologists work in various sectors including government, universities, non-profit organizations, and industry, indicating the interdisciplinary nature of the field.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "Cultural practices such as resource boundaries, rules, and restrictions indicate the long history of conservation ethics in human cultures.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "The 'tragedy of the commons' principle is traced back to conservation biologists, highlighting the social dilemma of resource management.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "The rapid decline of biological systems and biodiversity loss are presented as major concerns for conservation biologists, creating tension around the need for immediate action.",
+      "kind": "setting_pressure",
+      "quality": "medium"
+    },
+    {
+      "text": "Conservation biologists advocate for a global response to the biodiversity crisis based on morals, ethics, and scientific reason, emphasizing the importance of interdisciplinary collaboration.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    }
+  ]
+}

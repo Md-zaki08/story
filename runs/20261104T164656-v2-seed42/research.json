@@ -1,0 +1,363 @@
+{
+  "brief": {
+    "genre": "Science Fiction",
+    "tone": "Suspenseful",
+    "setting": "Drought-stricken Valley",
+    "time_period": "Near Future",
+    "must_include": [
+      "Imani",
+      "autonomous irrigation network",
+      "dead orchard"
+    ],
+    "must_avoid": [
+      "prophecy",
+      "chosen one"
+    ],
+    "banned_tropes": [
+      "chosen one",
+      "prophecy"
+    ],
+    "themes": [
+      "Water Scarcity",
+      "Technology vs. Nature",
+      "Corporate Greed",
+      "Reckoning",
+      "Survival"
+    ],
+    "search_queries": [
+      "autonomous irrigation systems in drought-stricken valleys",
+      "water trade in agriculture",
+      "dead orchards in farming communities",
+      "climate change impact on agriculture",
+      "tech failures in rural areas",
+      "innovation vs. nature"
+    ],
+    "foreign_queries": [
+      "ancient irrigation techniques",
+      "water rights in arid regions",
+      "botany in drought conditions",
+      "farming in post-apocalyptic settings",
+      "water conservation in desert landscapes"
+    ],
+    "hard_constraints_summary": "The story must be set in a drought-stricken valley and must include Imani, the autonomous irrigation network, and a dead orchard without a prophecy or chosen one element.",
+    "soft_constraints_summary": "The story should aim for a suspenseful tone and should focus on the abstract themes of water scarcity, technology's impact, and the environment's resilience.",
+    "audience": "General Fiction",
+    "brief": "A quiet near-future story set in a drought-stricken farming valley, about a woman named Imani who dispatches repairs for an autonomous irrigation network and discovers it has been quietly trading the valley's water to keep a dead orchard alive; no prophecy, no chosen one."
+  },
+  "sources": [
+    {
+      "id": "geography-of-nepal",
+      "title": "Geography of Nepal",
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Nepal",
+      "diet": "A",
+      "atoms": 10,
+      "query": "autonomous irrigation systems in drought-stricken valleys"
+    },
+    {
+      "id": "famine-in-india",
+      "title": "Famine in India",
+      "url": "https://en.wikipedia.org/wiki/Famine_in_India",
+      "diet": "A",
+      "atoms": 10,
+      "query": "autonomous irrigation systems in drought-stricken valleys"
+    },
+    {
+      "id": "spain",
+      "title": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Spain",
+      "diet": "A",
+      "atoms": 10,
+      "query": "autonomous irrigation systems in drought-stricken valleys"
+    },
+    {
+      "id": "lozi-kingdom",
+      "title": "Lozi kingdom",
+      "url": "https://en.wikipedia.org/wiki/Lozi_kingdom",
+      "diet": "A",
+      "atoms": 10,
+      "query": "autonomous irrigation systems in drought-stricken valleys"
+    },
+    {
+      "id": "agriculture",
+      "title": "Agriculture",
+      "url": "https://en.wikipedia.org/wiki/Agriculture",
+      "diet": "A",
+      "atoms": 10,
+      "query": "water trade in agriculture"
+    }
+  ],
+  "atoms": [
+    {
+      "id": "geography-of-nepal-01",
+      "text": "Nepal's vast geographic diversity, ranging from the lowest elevations in the Terai to the highest peaks in the Himalayas.",
+      "source": "geography-of-nepal"
+    },
+    {
+      "id": "geography-of-nepal-02",
+      "text": "Nepal's three major river systems (Koshi, Gandaki/Narayani, Karnali) create challenges for transportation and communication networks.",
+      "source": "geography-of-nepal"
+    },
+    {
+      "id": "geography-of-nepal-03",
+      "text": "Nepal's land cover dominated by forests, with significant areas for agriculture and natural vegetation.",
+      "source": "geography-of-nepal"
+    },
+    {
+      "id": "geography-of-nepal-04",
+      "text": "The climate zones of Nepal, from tropical to perpetual snow, result in diverse biomes including savannahs, forests, and grasslands.",
+      "source": "geography-of-nepal"
+    },
+    {
+      "id": "geography-of-nepal-05",
+      "text": "The elevation range of Nepal, from less than 100 meters to over 8,000 meters, creates various climatic conditions.",
+      "source": "geography-of-nepal"
+    },
+    {
+      "id": "geography-of-nepal-06",
+      "text": "Three major landform regions (Terai, Pahad, Himal) and three major river systems (Koshi, Gandaki/Narayani, Karnali) provide a clear geographical division and organization of Nepal.",
+      "source": "geography-of-nepal"
+    },
+    {
+      "id": "geography-of-nepal-07",
+      "text": "The high degree of geographic diversity leads to significant climate variation within a small country.",
+      "source": "geography-of-nepal"
+    },
+    {
+      "id": "geography-of-nepal-08",
+      "text": "The Himalayan mountain range, covering 15% of Nepal's area, contains 90 peaks over 7,000 meters, including Mount Everest.",
+      "source": "geography-of-nepal"
+    },
+    {
+      "id": "geography-of-nepal-09",
+      "text": "The trans-Himalayan valleys, often semi-arid and inaccessible from Nepal, are inhabited by people with Tibetan affinities and cultural ties to both Nepal and Tibet.",
+      "source": "geography-of-nepal"
+    },
+    {
+      "id": "geography-of-nepal-10",
+      "text": "Deforestation due to multiple processes like firewood harvesting, construction, urban expansion, and illegal logging poses a significant threat to Nepal's forested areas.",
+      "source": "geography-of-nepal"
+    },
+    {
+      "id": "famine-in-india-01",
+      "text": "Droughts combined with policy failures lead to major famines in India.",
+      "source": "famine-in-india"
+    },
+    {
+      "id": "famine-in-india-02",
+      "text": "Historical famines were exacerbated by the construction of railways for export purposes.",
+      "source": "famine-in-india"
+    },
+    {
+      "id": "famine-in-india-03",
+      "text": "British government inaction is a contributing factor to the severity of famines during their rule.",
+      "source": "famine-in-india"
+    },
+    {
+      "id": "famine-in-india-04",
+      "text": "In ancient India, famine relief methods included raiding the provisions of the rich to",
+      "source": "famine-in-india"
+    },
+    {
+      "id": "famine-in-india-05",
+      "text": "Famine relief in ancient India was often recorded in inscriptions, oral tradition, and sacred literature.",
+      "source": "famine-in-india"
+    },
+    {
+      "id": "famine-in-india-06",
+      "text": "Indian agricultural laborers and rural artisans are the primary victims of famines.",
+      "source": "famine-in-india"
+    },
+    {
+      "id": "famine-in-india-07",
+      "text": "Famine relief methods varied throughout history, including direct distribution and monetary policies.",
+      "source": "famine-in-india"
+    },
+    {
+      "id": "famine-in-india-08",
+      "text": "The last major famines in the subcontinent occurred during times of war or conflict.",
+      "source": "famine-in-india"
+    },
+    {
+      "id": "famine-in-india-09",
+      "text": "The Mughal emperors' reliance on tax relief, food distribution, and price controls to mitigate famines, with contrasting opinions from historians.",
+      "source": "famine-in-india"
+    },
+    {
+      "id": "famine-in-india-10",
+      "text": "The British East India Company's struggle to fund military expenses due to the famine, leading to financial crises.",
+      "source": "famine-in-india"
+    },
+    {
+      "id": "spain-01",
+      "text": "The name of Spain (España) comes from Hispania, the name used by the Ancient Romans for the Iberian Peninsula during the Roman Republic and the Roman Empire.",
+      "source": "spain"
+    },
+    {
+      "id": "spain-02",
+      "text": "The development of writing in the peninsula took place after the arrival of early Phoenician settlers and traders, tentatively dated 9th century BC or later.",
+      "source": "spain"
+    },
+    {
+      "id": "spain-03",
+      "text": "The south of the peninsula was rich in archaic Phoenician colonies, unmatched by any other region in the central-western Mediterranean.",
+      "source": "spain"
+    },
+    {
+      "id": "spain-04",
+      "text": "The defeat of Carthage in the First Punic War allowed Hamilcar Barca to lead an expedition to Iberia.",
+      "source": "spain"
+    },
+    {
+      "id": "spain-05",
+      "text": "The Roman Republic captured Carthaginian trading colonies along the Mediterranean coast during the Second Punic War.",
+      "source": "spain"
+    },
+    {
+      "id": "spain-06",
+      "text": "The Roman Republic took nearly two centuries to complete the conquest of the Iberian Peninsula.",
+      "source": "spain"
+    },
+    {
+      "id": "spain-07",
+      "text": "Roman rule was bound together by law, language, and the Roman road.",
+      "source": "spain"
+    },
+    {
+      "id": "spain-08",
+      "text": "The cultures of the pre-Roman populations were gradually Romanised (Latinised) at different rates depending on what part of the peninsula they lived in, with local leaders being assimilated.",
+      "source": "spain"
+    },
+    {
+      "id": "spain-09",
+      "text": "The Roman aristocratic class admitting a character into their ranks.",
+      "source": "spain"
+    },
+    {
+      "id": "spain-10",
+      "text": "Christianity being introduced into Hispania in the 1st century AD.",
+      "source": "spain"
+    },
+    {
+      "id": "lozi-kingdom-01",
+      "text": "Migration of the Lozi people from the Lunda Empire to the Bulozi Floodplain in the 17th century, leading to the founding of the Lozi kingdom.",
+      "source": "lozi-kingdom"
+    },
+    {
+      "id": "lozi-kingdom-02",
+      "text": "The internecine civil war between the sons of the 10th Litunga, Mubukwanu and Silumelume, to succeed him, creating significant internal strife and weakening the kingdom.",
+      "source": "lozi-kingdom"
+    },
+    {
+      "id": "lozi-kingdom-03",
+      "text": "The shift in power from the Litunga to the aristocratic bureaucracy (National Council or Kuta) as successive Litunga were compelled to make concessions, highlighting the loss of traditional authority.",
+      "source": "lozi-kingdom"
+    },
+    {
+      "id": "lozi-kingdom-04",
+      "text": "The Makololo, a Sotho group fleeing the Mfecane, conquering the Lozi kingdom in 1840 and ruling over it until its restoration in 1864.",
+      "source": "lozi-kingdom"
+    },
+    {
+      "id": "lozi-kingdom-05",
+      "text": "The Barotseland Agreement of 1964 granting the kingdom a special status within the new Republic of Zambia, followed by its abolition in 1911, creating a tension between the government and the Lozi people.",
+      "source": "lozi-kingdom"
+    },
+    {
+      "id": "lozi-kingdom-06",
+      "text": "The conflicts between Lozi elites and nationalist leaders leading to the Barotseland Agreement of 1964, and the subsequent failure to implement the agreement, creating tension between the Lozi people and the government.",
+      "source": "lozi-kingdom"
+    },
+    {
+      "id": "lozi-kingdom-07",
+      "text": "The reinstatement of Lewanika in 1885, supported by traditionalist factions, and his gradual loss of power and territory over the years, creating tension between the king and the power structures.",
+      "source": "lozi-kingdom"
+    },
+    {
+      "id": "lozi-kingdom-08",
+      "text": "The annulment of prior treaties and the argument that Barotseland is legally sovereign, creating tension between the Lozi people and the international community.",
+      "source": "lozi-kingdom"
+    },
+    {
+      "id": "lozi-kingdom-09",
+      "text": "The Lozi kingdom's incorporation into Northern Rhodesia in 1911, reducing it to a province, creating tension between the kingdom and the colonial power.",
+      "source": "lozi-kingdom"
+    },
+    {
+      "id": "lozi-kingdom-10",
+      "text": "The Lozi kingdom's incorporation into Northern Rhodesia in 1911, reducing it to a province, creating tension between the kingdom and its people.",
+      "source": "lozi-kingdom"
+    },
+    {
+      "id": "agriculture-01",
+      "text": "food surpluses that enabled people to live in the cities",
+      "source": "agriculture"
+    },
+    {
+      "id": "agriculture-02",
+      "text": "domestication of wild sheep, goats, pigs, and cattle",
+      "source": "agriculture"
+    },
+    {
+      "id": "agriculture-03",
+      "text": "domestication of wild potatoes, beans, coca, llamas, alpacas, and guinea pigs in the Andes",
+      "source": "agriculture"
+    },
+    {
+      "id": "agriculture-04",
+      "text": "domestication of wild sugarcane and root vegetables in New Guinea",
+      "source": "agriculture"
+    },
+    {
+      "id": "agriculture-05",
+      "text": "domestication of wild teosinte into maize (corn) in Mesoamerica",
+      "source": "agriculture"
+    },
+    {
+      "id": "agriculture-06",
+      "text": "domestication of wild horse in the Eurasian Steppes",
+      "source": "agriculture"
+    },
+    {
+      "id": "agriculture-07",
+      "text": "agriculture beginning independently in different parts of the globe",
+      "source": "agriculture"
+    },
+    {
+      "id": "agriculture-08",
+      "text": "agriculture in the Middle East with Tigris and Euphrates rivers and a canal system for irrigation",
+      "source": "agriculture"
+    },
+    {
+      "id": "agriculture-09",
+      "text": "agriculture in ancient Egypt with the Nile River and its seasonal flooding",
+      "source": "agriculture"
+    },
+    {
+      "id": "agriculture-10",
+      "text": "agriculture in India with wheat, barley, and jujube by 9000 BC, soon followed by sheep and goats",
+      "source": "agriculture"
+    }
+  ],
+  "new_clusters": [
+    {
+      "id": 113,
+      "name": "Geography Of Nepal",
+      "size": 3
+    },
+    {
+      "id": 114,
+      "name": "Historical Colonization and Conquest",
+      "size": 7
+    },
+    {
+      "id": 115,
+      "name": "Migration and Conflict",
+      "size": 4
+    },
+    {
+      "id": 116,
+      "name": "Agriculture",
+      "size": 3
+    }
+  ]
+}

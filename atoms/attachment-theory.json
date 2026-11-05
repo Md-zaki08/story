@@ -1,0 +1,22 @@
+{
+  "source": "attachment-theory",
+  "diet": "B",
+  "atoms": [
+    {"id": "attachment-theory-01", "text": "The secure base: a child explores the world only because a caregiver waits to receive them, so courage depends on a place to return.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "attachment-theory-02", "text": "The responsiveness test: an infant's attachment style is shaped by how reliably an adult answers distress, so love is measured in latency.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "attachment-theory-03", "text": "The internal working model: early care becomes a template for adult relationships, so the past is a script the present keeps performing.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "attachment-theory-04", "text": "The avoidant child: a neglected infant learns not to signal need, so self-sufficiency is a scar rather than a virtue.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "attachment-theory-05", "text": "The anxious attachment: a child who cannot predict care clings and tests, so love is experienced as a supply that might run out.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "attachment-theory-06", "text": "The separation protest: removing the attachment figure triggers panic and grief, so loss is a behavioral emergency before it is an emotion.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "attachment-theory-07", "text": "The disorganized child: a caregiver is both refuge and threat, so the child has no strategy for safety.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "attachment-theory-08", "text": "The stranger situation: a controlled separation experiment reveals attachment style, so a laboratory stages the smallest possible abandonment.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "attachment-theory-09", "text": "The adult attachment: romantic partners reproduce infant patterns, so a lover is treated like a parent and resents it.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "attachment-theory-10", "text": "The replacement caregiver: a new figure is introduced after loss and must earn trust, so recovery is a relationship with a deadline.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "attachment-theory-11", "text": "The mother-blaming critique: a theory that emphasizes maternal influence is accused of ignoring culture and genes, so the story's science is also its ideology.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "attachment-theory-12", "text": "The child who cannot be soothed: no intervention works, so the caregiver's competence is undermined by a mismatch no one can name.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "attachment-theory-13", "text": "The institution without a primary figure: an orphanage rotates staff, so children fail to attach to anyone and the system calls it a disorder.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "attachment-theory-14", "text": "The therapy that repairs: a clinician offers a consistent, responsive relationship, so treatment is a second childhood.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "attachment-theory-15", "text": "The pet as attachment figure: a person relies on an animal for comfort, so the theory's logic extends to nonhuman bonds.", "kind": "theme_engine", "quality": "medium", "original": null},
+    {"id": "attachment-theory-16", "text": "The pattern that repeats: a character swears not to repeat their parent's mistakes and does, so the working model is stronger than resolve.", "kind": "structure_trick", "quality": "strong", "original": null}
+  ]
+}

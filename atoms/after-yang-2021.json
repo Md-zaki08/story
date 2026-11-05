@@ -1,0 +1,22 @@
+{
+  "source": "after-yang-2021",
+  "diet": "A",
+  "atoms": [
+    {"id": "after-yang-2021-01", "text": "The android brother who breaks: a family's technosapien companion stops working, so a domestic appliance becomes the center of a grief crisis.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "after-yang-2021-02", "text": "Technosapiens as cultural bridges: androids are purchased to teach adopted children their heritage, so identity work is outsourced to a machine.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "after-yang-2021-03", "text": "Memory extraction after death: the android's core is read after it fails, so biography is recovered from a broken device.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "after-yang-2021-04", "text": "The father who did not know his machine: a man discovers his android had a secret inner life, so grief is compounded by guilt at having looked past a person.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "after-yang-2021-05", "text": "Mourning a being you never recognized: the family must grieve the android as a person after treating him as an appliance, so recognition arrives too late.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "after-yang-2021-06", "text": "The memory-cloning service: strangers can copy and share memories, so intimacy becomes a file format.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "after-yang-2021-07", "text": "The daughter who insists on brotherhood: a child refuses the official category of death, so loyalty challenges the adults' pragmatism.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "after-yang-2021-08", "text": "The technosapien museum: broken androids are archived like artifacts, so care and curation blur in a bureaucratic afterlife.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "after-yang-2021-09", "text": "The repair quest as biography: the search for a fix becomes a tour of the android's hidden life, so maintenance turns into memorial.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "after-yang-2021-10", "text": "Grief as a family system: each member mourns differently and badly, so the story treats bereavement as a household ecology.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "after-yang-2021-11", "text": "The other woman who loved the android: a stranger copied his memories into her home, so two mourners share a dead person's archive.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "after-yang-2021-12", "text": "The strained marriage: the parents orbit each other through the crisis, so the android's death exposes a human relationship already failing.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "after-yang-2021-13", "text": "The quiet future house: the home is calm, tasteful, and emotionally thin, so the setting mirrors the family's avoidance.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "after-yang-2021-14", "text": "Memory as inheritance: the android's memories become a legacy for people who barely knew him, so the dead live on as usable past.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "after-yang-2021-15", "text": "The tree planted for the android: the family marks the death with a growing thing, so ritual converts grief into care.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "after-yang-2021-16", "text": "The film's slow domestic pace: the story refuses action in favor of small discoveries, so mourning is given the time it actually takes.", "kind": "structure_trick", "quality": "strong", "original": null}
+  ]
+}

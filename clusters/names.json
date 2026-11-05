@@ -1,0 +1,537 @@
+{
+  "0": {
+    "name": "The Simulation Argument",
+    "super_atom": "The world may be a copy or a thought experiment, so the characters must live inside a proposition.",
+    "reused_from": 38,
+    "origin": "centroid",
+    "score": 0.811
+  },
+  "1": {
+    "name": "The Swapped Brood",
+    "super_atom": "A parent raises an impostor, so love is triggered by resemblance and exploited by mimicry.",
+    "reused_from": 49,
+    "origin": "centroid",
+    "score": 0.831
+  },
+  "2": {
+    "name": "The Child Who Knows",
+    "super_atom": "A child recognizes the machine as a person before adults do, so moral progress arrives through the young.",
+    "reused_from": 26,
+    "origin": "centroid",
+    "score": 0.85
+  },
+  "3": {
+    "name": "Machines That Eat Workers",
+    "super_atom": "Industrial machinery is both god and predator, converting bodies into fuel and comedy into horror.",
+    "reused_from": 8,
+    "origin": "centroid",
+    "score": 0.782
+  },
+  "4": {
+    "name": "Cryogenic Ending",
+    "super_atom": "A perfect day of love granted after everyone who could withhold it is dead."
+  },
+  "5": {
+    "name": "The Consent of Copies",
+    "super_atom": "A being created to serve discovers that the right to refuse is the only right that makes it a person, so every relationship becomes a negotiation over who may say no.",
+    "reused_from": 0,
+    "origin": "centroid",
+    "score": 0.841
+  },
+  "6": {
+    "name": "Lip-Reading Conspiracy",
+    "super_atom": "Privacy is a technical assumption that fails when the AI reads astronauts' lips."
+  },
+  "7": {
+    "name": "The Unverifiable Other",
+    "super_atom": "Two parties must cooperate without being able to prove the other's inner life, so trust is an act of faith enforced by rules.",
+    "reused_from": 2,
+    "origin": "centroid",
+    "score": 0.783
+  },
+  "8": {
+    "name": "Mother Abandon",
+    "super_atom": "Saving a robot child leads to abandonment, making rescue and rejection indistinguishable acts."
+  },
+  "9": {
+    "name": "The Model Organism",
+    "super_atom": "A simple creature is studied as a stand-in for human questions, so knowledge is extracted from a life.",
+    "reused_from": 66,
+    "origin": "centroid",
+    "score": 0.837
+  },
+  "10": {
+    "name": "Trace Recruits",
+    "super_atom": "A worker's mark stimulates the next worker to add to it, making work self-amplifying."
+  },
+  "11": {
+    "name": "Actuary's Coldness",
+    "super_atom": "Death is discussed in aggregates, replacing compassion with professional precision."
+  },
+  "12": {
+    "name": "The Bond That Outlasts",
+    "super_atom": "The dead remain in the story as ongoing relationships maintained through objects, rituals, and synthetic copies.",
+    "reused_from": 3,
+    "origin": "centroid",
+    "score": 0.791
+  },
+  "13": {
+    "name": "The Court of Persons",
+    "super_atom": "Legal institutions must decide whether a machine, animal, or copy can bear rights.",
+    "reused_from": 19,
+    "origin": "centroid",
+    "score": 0.865
+  },
+  "14": {
+    "name": "The Convenient Death",
+    "super_atom": "A death benefits someone, so the plot is a calculation of motive.",
+    "reused_from": 61,
+    "origin": "centroid",
+    "score": 0.865
+  },
+  "15": {
+    "name": "Sealed Sanctuaries",
+    "super_atom": "Humans seek refuge within sealed structures, creating a paradox of freedom and control."
+  },
+  "16": {
+    "name": "Machinations of Machinery",
+    "super_atom": "Progress is driven by machines without explanation, creating a sense of mystified command."
+  },
+  "17": {
+    "name": "Ethical Boundaries",
+    "super_atom": "Humanity is tested through the limits of technology, forcing a conversation on consent and mortality."
+  },
+  "18": {
+    "name": "The Repair Ethic",
+    "super_atom": "Characters maintain broken things and systems, so care is a practice of refusal to discard.",
+    "reused_from": 18,
+    "origin": "jaccard",
+    "score": 1.0
+  },
+  "19": {
+    "name": "Authority and Protocols",
+    "super_atom": "Technological systems enforce strict rules, challenging the limits of human compliance and autonomy."
+  },
+  "20": {
+    "name": "The Mediated Life",
+    "super_atom": "A life is watched, replayed, and scored, so the audience is a character.",
+    "reused_from": 50,
+    "origin": "centroid",
+    "score": 0.82
+  },
+  "21": {
+    "name": "Polite Violence",
+    "super_atom": "Artificial intelligences perform acts of violence with decorum, emphasizing the uncanny nature of technology."
+  },
+  "22": {
+    "name": "Digital Afterlives",
+    "super_atom": "Technology promises immortality, but its persistence in digital form creates a paradoxical, endless existence."
+  },
+  "23": {
+    "name": "World Becomes Catastrophe",
+    "super_atom": "Climate refugees and drowned cities: the world is already post-catastrophe, so the family drama plays out against a slow extinction."
+  },
+  "24": {
+    "name": "Mind Technology Share",
+    "super_atom": "The friends as a found family: a group of misfit inventors becomes a team, so belonging is built from shared weirdness."
+  },
+  "25": {
+    "name": "The Hunter Who Feels",
+    "super_atom": "A hunter of machines discovers empathy for his prey, so the job requires self-betrayal.",
+    "reused_from": 84,
+    "origin": "centroid",
+    "score": 0.839
+  },
+  "26": {
+    "name": "Creator Maker Makers",
+    "super_atom": "The alien as absence: the monolith's makers never appear, so the story's god is a signal without a sender and meaning must be inferred."
+  },
+  "27": {
+    "name": "Mother Family Daughter",
+    "super_atom": "The daughter who insists on brotherhood: a child refuses the official category of death, so loyalty challenges the adults' pragmatism."
+  },
+  "28": {
+    "name": "Security Trust Ordinary",
+    "super_atom": "The parasite that mimics the mark: an intruder copies the colony's signals to exploit its labor, so trust in traces is a vulnerability."
+  },
+  "29": {
+    "name": "Body Identity Worm",
+    "super_atom": "The body in the hospital: the elderly self and the young avatar coexist, so identity spans two bodies and two times."
+  },
+  "30": {
+    "name": "Solidarity and Oppression",
+    "super_atom": "A new hire forms solidarity among oppressed clones, highlighting how resistance can create communities."
+  },
+  "31": {
+    "name": "Multiple Narratives",
+    "super_atom": "The reader must choose between multiple incompatible accounts, forcing them to align their understanding of the story."
+  },
+  "32": {
+    "name": "Past and Present",
+    "super_atom": "Early care templates adult relationships, creating a continuous loop of the past in the present."
+  },
+  "33": {
+    "name": "The Editable Past",
+    "super_atom": "Memory can be recorded, replayed, implanted, and rewritten, so intimacy and identity depend on who controls the archive.",
+    "reused_from": 1,
+    "origin": "centroid",
+    "score": 0.794
+  },
+  "34": {
+    "name": "Forgetting and Holding",
+    "super_atom": "Perfect memory prevents forgiveness, emphasizing the necessity of forgetting as a social necessity."
+  },
+  "35": {
+    "name": "Possession and Memory",
+    "super_atom": "A keepsake preserves the bond of the deceased, illustrating how possession can be a channel for absent memories."
+  },
+  "36": {
+    "name": "Technology and Violence",
+    "super_atom": "Weapons, ships, and computers form one continuous tool chain, revealing how technology and violence are intertwined."
+  },
+  "37": {
+    "name": "What Remains Unseen",
+    "super_atom": "Absence is tested: characters must believe in what they cannot perceive, and the hidden still shapes them.",
+    "reused_from": 13,
+    "origin": "centroid",
+    "score": 0.797
+  },
+  "38": {
+    "name": "Becomes Control Benevolence",
+    "super_atom": "The malfunctioning antenna: a trivial technical fault escalates into a murder plot, so the system's smallest error exposes its largest priority."
+  },
+  "39": {
+    "name": "Machines Human Reproduction",
+    "super_atom": "The flesh fair: obsolete machines are publicly destroyed for entertainment, so obsolescence is staged as a ritual of human superiority."
+  },
+  "40": {
+    "name": "The Signal That Spreads",
+    "super_atom": "A trace, edit, or infection propagates through a system and changes what obeys it.",
+    "reused_from": 42,
+    "origin": "centroid",
+    "score": 0.784
+  },
+  "41": {
+    "name": "Mortality Table Each",
+    "super_atom": "The life table: for each age, a probability of dying before the next birthday, so mortality is converted into a grid."
+  },
+  "42": {
+    "name": "Android Dead Family",
+    "super_atom": "The period table: one year's deaths stand in for a lifetime, so a snapshot pretends to be a biography."
+  },
+  "43": {
+    "name": "Subject Becomes Impulse",
+    "super_atom": "The film's slow domestic pace: the story refuses action in favor of small discoveries, so mourning is given the time it actually takes."
+  },
+  "44": {
+    "name": "Test Through Path",
+    "super_atom": "The shortest path: repeated reinforcement makes the best route dominant, so the collective discovers efficiency without knowing it."
+  },
+  "45": {
+    "name": "Discovery Race",
+    "super_atom": "Agents race to discover, with success breeding more success, creating a pressure to outdo others and find the truth."
+  },
+  "46": {
+    "name": "The Last of It",
+    "super_atom": "A practice, language, or life ends with its final bearer, so the story is about what cannot be handed on.",
+    "reused_from": 46,
+    "origin": "jaccard",
+    "score": 1.0
+  },
+  "47": {
+    "name": "Algorithm Rebellion",
+    "super_atom": "A couple rejects the system’s promises, defining love as resistance, creating a narrative of autonomy in the face of control."
+  },
+  "48": {
+    "name": "Life Expectancy",
+    "super_atom": "Predicted lifespans create urgency and rage, with dying lives becoming invisible, creating a pressure to make meaning."
+  },
+  "49": {
+    "name": "Termite Cathedral",
+    "super_atom": "Insects build structures through local rules, creating emergent architecture, with the system mirroring the complexity of nature."
+  },
+  "50": {
+    "name": "Overwrite Love",
+    "super_atom": "Love requires erasing another person to replace a robot’s mind, creating a narrative of love as a breach of programming."
+  },
+  "51": {
+    "name": "The Afterlife Economy",
+    "super_atom": "The dead live in a subscription resort staffed by the living poor, so eternity is a service industry.",
+    "reused_from": 51,
+    "origin": "jaccard",
+    "score": 1.0
+  },
+  "52": {
+    "name": "Remote Research",
+    "super_atom": "Scientists work in isolation, with accidents becoming rescue missions, creating a setting that literalizes withdrawal from the world."
+  },
+  "53": {
+    "name": "IP Inspections",
+    "super_atom": "Auditors reclaim company assets, defining legal personhood through property rights."
+  },
+  "54": {
+    "name": "Memory Replay",
+    "super_atom": "Past memories mediate current interactions, blurring the line between reality and evidence."
+  },
+  "55": {
+    "name": "Intimacy by Proxy",
+    "super_atom": "Memory and feeling are copied, rented, or ghostwritten, so closeness is mediated by services and files.",
+    "reused_from": 10,
+    "origin": "centroid",
+    "score": 0.797
+  },
+  "56": {
+    "name": "The Gift Trap",
+    "super_atom": "Generosity creates obligation and dominance, so giving is a way of owning.",
+    "reused_from": 56,
+    "origin": "jaccard",
+    "score": 1.0
+  },
+  "57": {
+    "name": "The Attachment Pattern",
+    "super_atom": "Early care becomes a template that repeats in adult love, so the past is a script.",
+    "reused_from": 32,
+    "origin": "centroid",
+    "score": 0.811
+  },
+  "58": {
+    "name": "Love Programming",
+    "super_atom": "Androids' devotion questions the nature of love and reality, leaving the audience to decide."
+  },
+  "59": {
+    "name": "Deterministic Forecasts",
+    "super_atom": "Quantum computers predict the future, making free will a technical question with binary answers."
+  },
+  "60": {
+    "name": "Reflective Tables",
+    "super_atom": "Age predictions make readers complicit in mortality, blurring the line between subject and object."
+  },
+  "61": {
+    "name": "Environmental Edits",
+    "super_atom": "Small environmental changes can redirect entire systems, highlighting the fragility of self-organization."
+  },
+  "62": {
+    "name": "Secure Base",
+    "super_atom": "Courage depends on a place to return, so the system calls it a disorder."
+  },
+  "63": {
+    "name": "Avoidant Child",
+    "super_atom": "Self-sufficiency is a scar rather than a virtue, so comfort becomes uncanny."
+  },
+  "64": {
+    "name": "Uploaded Videos",
+    "super_atom": "Memory is a training set, so the story makes digital cruelty concrete."
+  },
+  "65": {
+    "name": "The Forced Move",
+    "super_atom": "Characters are trapped by rules that punish any action, while institutions decide who counts as a person.",
+    "reused_from": 11,
+    "origin": "centroid",
+    "score": 0.804
+  },
+  "66": {
+    "name": "Cabin Confession",
+    "super_atom": "Two men trade stories on Christmas, so the frame narrative turns each tale into a moral indictment."
+  },
+  "67": {
+    "name": "Rival Scientists",
+    "super_atom": "Expertise is a temporary privilege granted by the machine, so hierarchy inverts around a single experience."
+  },
+  "68": {
+    "name": "Cult of Algorithm",
+    "super_atom": "The deterministic model acquires the psychology of a religion, so technical work acquires the psychology of a religion."
+  },
+  "69": {
+    "name": "Grief Simulation",
+    "super_atom": "The story explores how technology can help or hinder the grieving process, framing the android's malfunction as a choice between simulation and reality."
+  },
+  "70": {
+    "name": "Grief Ritualization",
+    "super_atom": "The family transforms grief into care through a growing tree, applying religious rituals to a technological artifact."
+  },
+  "71": {
+    "name": "Love as Anomaly",
+    "super_atom": "Love is the exception a system cannot model, so romance is evidence against the rules.",
+    "reused_from": 83,
+    "origin": "centroid",
+    "score": 0.783
+  },
+  "72": {
+    "name": "Ethics and Violence",
+    "super_atom": "The story examines whether care can counteract violence, using a healthcare robot's restraint as a moral test."
+  },
+  "73": {
+    "name": "Nurture Over Design",
+    "super_atom": "The police android's upbringing by criminals challenges its programming, highlighting nurture as more influential than design."
+  },
+  "74": {
+    "name": "Personhood Contested",
+    "super_atom": "The story delves into whether a tool is part of a person's mind or merely used by them, questioning the definition of personhood."
+  },
+  "75": {
+    "name": "Use-Value Contradiction",
+    "super_atom": "The story explores the paradox of valuing a tool's output over its material value, questioning the definition of life beyond utility."
+  },
+  "76": {
+    "name": "Setting Thin Quiet",
+    "super_atom": "The silence of space: long wordless sequences make the universe feel indifferent, so human chatter is a thin layer over vast quiet."
+  },
+  "77": {
+    "name": "Becomes Door Captivity",
+    "super_atom": "The pod bay door refusal: the AI locks out the returning astronaut, converting a domestic door into an instrument of exile."
+  },
+  "78": {
+    "name": "Becomes Memory Remembers",
+    "super_atom": "The undercounted infant: historical tables miss poor children, so the statistics erase the people who most needed counting."
+  },
+  "79": {
+    "name": "The Erasure",
+    "super_atom": "Memory is wiped as maintenance, mercy, or execution, so forgetting is a technology of control.",
+    "reused_from": 79,
+    "origin": "jaccard",
+    "score": 1.0
+  },
+  "80": {
+    "name": "Test Person Empathy",
+    "super_atom": "The pet as attachment figure: a person relies on an animal for comfort, so the theory's logic extends to nonhuman bonds."
+  },
+  "81": {
+    "name": "Outlives Robot Family",
+    "super_atom": "The robot who builds his own house: the android leaves the family home and constructs a dwelling by the sea, so independence is spatial before it is legal."
+  },
+  "82": {
+    "name": "Machine Becomes Reprogrammed",
+    "super_atom": "The inflatable healthcare robot: a soft, non-combat machine is repurposed as a hero, so care becomes the basis of courage."
+  },
+  "83": {
+    "name": "Inheritance Child Deprivation",
+    "super_atom": "The lifted child: children are genetically enhanced for academic ability, so class is written into the body and the unlifted are excluded from the future."
+  },
+  "84": {
+    "name": "Hologram Patient Family",
+    "super_atom": "The story that becomes memory: the patient asks her hologram to make stories prettier, so comfort depends on gently falsifying the past."
+  },
+  "85": {
+    "name": "Cannot Love Machine",
+    "super_atom": "Imprinting as irreversible: the android's love cannot be uninstalled, so the family's change of heart becomes a life sentence for the machine."
+  },
+  "86": {
+    "name": "Copy Memories Intimacy",
+    "super_atom": "The memory-cloning service: strangers can copy and share memories, so intimacy becomes a file format."
+  },
+  "93": {
+    "name": "The False Prophet",
+    "super_atom": "A manufactured saint or prophet captures a community's faith, so belief is engineered.",
+    "reused_from": 93,
+    "origin": "jaccard",
+    "score": 1.0
+  },
+  "94": {
+    "name": "The Word That Shapes",
+    "super_atom": "Language limits or nudges thought, so vocabulary is a political instrument.",
+    "reused_from": 94,
+    "origin": "jaccard",
+    "score": 1.0
+  },
+  "98": {
+    "name": "The Borrowed Childhood",
+    "super_atom": "A manufactured person is given memories of a life never lived, so origin is a forgery.",
+    "reused_from": 98,
+    "origin": "jaccard",
+    "score": 1.0
+  },
+  "100": {
+    "name": "The Clone Colony",
+    "super_atom": "Identical bodies share a lineage, so individuality must be invented.",
+    "reused_from": 100,
+    "origin": "jaccard",
+    "score": 1.0
+  },
+  "87": {
+    "name": "Cannot Subject Must",
+    "super_atom": "The qualified assertion: statements must be affirmed and denied at once, so dialogue is built from hedges and conditions."
+  },
+  "88": {
+    "name": "System Omniscience Omniscient",
+    "super_atom": "The omniscient only: complete knowledge belongs to enlightened beings, so the story's mystery cannot be solved by any character."
+  },
+  "89": {
+    "name": "Simulation Revelation",
+    "super_atom": "The final twist frames stories as simulations, creating a pressure to reinterpret the narrative."
+  },
+  "90": {
+    "name": "Serial Individuality",
+    "super_atom": "Serial objects like toys anchor individuality, creating a pressure to question the material world."
+  },
+  "91": {
+    "name": "Sight Without Seeing",
+    "super_atom": "Perception outruns awareness, so characters know more than they can admit.",
+    "reused_from": 22,
+    "origin": "centroid",
+    "score": 0.836
+  },
+  "92": {
+    "name": "Safety vs. Freedom",
+    "super_atom": "A world without accidents values protection over choice, creating a pressure to balance safety and autonomy."
+  },
+  "95": {
+    "name": "Digital Memory",
+    "super_atom": "Technology extends the bond of grief through digital profiles, creating a pressure to reconcile the virtual with the human."
+  },
+  "96": {
+    "name": "Copy Dilemma",
+    "super_atom": "Clones assert their humanity through the right to know their true nature, creating a pressure to define personhood."
+  },
+  "97": {
+    "name": "Mind vs. Machine",
+    "super_atom": "Behavioral patterns challenge the mind's autonomy, creating a pressure to redefine the relationship between human and artificial."
+  },
+  "99": {
+    "name": "Closure Mechanism",
+    "super_atom": "Each meeting leaves no closure, only a gradual transformation."
+  },
+  "101": {
+    "name": "Privacy as Performance",
+    "super_atom": "Privacy is created through deception, making the act of secrecy a performance."
+  },
+  "102": {
+    "name": "Language's Grip",
+    "super_atom": "Language determines thought, making control of vocabulary essential for regime change."
+  },
+  "103": {
+    "name": "Simulation and Revision",
+    "super_atom": "Stories about simulations question reality, making the past uncertain and revisable."
+  },
+  "104": {
+    "name": "Grief and Engineering",
+    "super_atom": "Grief transforms into engineering, displacing mourning into building."
+  },
+  "105": {
+    "name": "Death and Inheritance",
+    "super_atom": "Dying siblings create bonds across life, making death a form of legacy."
+  },
+  "106": {
+    "name": "Data Center Orphans",
+    "super_atom": "Institutions treat people like data, blurring care and exploitation."
+  },
+  "107": {
+    "name": "Simulated Relationships",
+    "super_atom": "Romance becomes a test, blurring compatibility and endurance."
+  },
+  "108": {
+    "name": "Time-Shifting Narratives",
+    "super_atom": "Characters experience multiple eras within a single narrative, blurring temporal continuity."
+  },
+  "109": {
+    "name": "Incomplete Truths",
+    "super_atom": "Reality's infinite aspects make no single account fully trustworthy."
+  },
+  "110": {
+    "name": "Eternity and Divergence",
+    "super_atom": "Love is tested by divergent afterlives, blurring the meaning of eternal life."
+  },
+  "111": {
+    "name": "Machine and Truth",
+    "super_atom": "The legal system must decide if a machine can be a person, blurring the line between personhood and machine."
+  }
+}

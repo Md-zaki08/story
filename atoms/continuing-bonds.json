@@ -1,0 +1,22 @@
+{
+  "source": "continuing-bonds",
+  "diet": "B",
+  "atoms": [
+    {"id": "continuing-bonds-01", "text": "The ongoing relationship with the dead: a mourner keeps talking to the deceased, so grief is maintenance rather than closure.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "continuing-bonds-02", "text": "The object that holds the dead: a keepsake becomes the medium of a continuing bond, so possession is a channel to the absent.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "continuing-bonds-03", "text": "The sensed presence: a survivor feels the deceased in the room, so the story can treat haunting as normal bereavement.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "continuing-bonds-04", "text": "The inherited mannerism: a mourner adopts the dead person's gestures and phrases, so identity is a form of possession.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "continuing-bonds-05", "text": "The ritual offering: a family feeds or honors the dead on schedule, so the relationship continues through hospitality.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "continuing-bonds-06", "text": "The therapist who demands closure: a professional insists the mourner must let go, so the story's conflict is between models of grief.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "continuing-bonds-07", "text": "The dead who influences decisions: a survivor consults the deceased before major choices, so the bond has practical authority.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "continuing-bonds-08", "text": "The photograph as conversation: a mourner speaks to a portrait, so image replaces presence.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "continuing-bonds-09", "text": "The bond that turns pathological: a survivor refuses all new relationships, so the story asks when continuity becomes captivity.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "continuing-bonds-10", "text": "The group identity: a community defines itself through its dead, so mourning is also politics.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "continuing-bonds-11", "text": "The digital memorial: a profile or chatbot keeps the dead person available, so technology extends the bond indefinitely.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "continuing-bonds-12", "text": "The anniversary: a date forces the mourner to renegotiate the bond each year, so time is marked by relationship maintenance.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "continuing-bonds-13", "text": "The child who never knew the dead: a descendant inherits a relationship with someone they never met, so the bond crosses generations.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "continuing-bonds-14", "text": "The denial of reality: severing all ties is framed as a denial of the relationship's persistence, so the story argues against forgetting.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "continuing-bonds-15", "text": "The shared grave: two survivors maintain competing bonds to the same dead person, so grief becomes a custody dispute.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "continuing-bonds-16", "text": "The bond that fades without ending: intensity subsides but the relationship persists, so closure is replaced by gradual transformation.", "kind": "structure_trick", "quality": "strong", "original": null}
+  ]
+}

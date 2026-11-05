@@ -1,0 +1,57 @@
+{
+  "source": "great-flood-of-1862",
+  "title": "Great Flood of 1862",
+  "diet": "A",
+  "atoms": [
+    {
+      "text": "A series of atmospheric rivers causing an intense, warm storm that melts heavy snow load and causes flooding.",
+      "kind": "world_rule",
+      "quality": "medium"
+    },
+    {
+      "text": "A longwave trough that remained in Oregon for nearly 40 days, causing precipitation in the state.",
+      "kind": "setting_pressure",
+      "quality": "medium"
+    },
+    {
+      "text": "The polar jet stream being to the north, resulting in a mild rainy pattern in the Pacific Northwest.",
+      "kind": "world_rule",
+      "quality": "medium"
+    },
+    {
+      "text": "The warm rains from atmospheric rivers causing flooding in California and other regions.",
+      "kind": "plot_device",
+      "quality": "medium"
+    },
+    {
+      "text": "The Willamette River and other streams in the Cascades experiencing increased flooding due to snow accumulation.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "The flooding in Oregon causing destruction of mills, houses, and towns, and displacement of people.",
+      "kind": "setting_pressure",
+      "quality": "medium"
+    },
+    {
+      "text": "The flooding in Oregon City resulting in the destruction of mills and the need for people to evacuate.",
+      "kind": "character_dynamic",
+      "quality": "medium"
+    },
+    {
+      "text": "The atmospheric rivers producing strong, warm southerly winds in Oregon, leading to heavy rain.",
+      "kind": "world_rule",
+      "quality": "medium"
+    },
+    {
+      "text": "The flooding in Oregon leading to the destruction of historic towns like Champoeg and Orleans.",
+      "kind": "theme_engine",
+      "quality": "medium"
+    },
+    {
+      "text": "Rivers serving as main travel routes and commercial hubs.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    }
+  ]
+}

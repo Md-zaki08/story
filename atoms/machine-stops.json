@@ -1,0 +1,22 @@
+{
+  "source": "machine-stops",
+  "diet": "A",
+  "atoms": [
+    {"id": "machine-stops-01", "text": "The underground room: each person lives alone in a standardized cell with every need met, so comfort is the architecture of isolation.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "machine-stops-02", "text": "The omnipotent Machine: a global system provides food, air, and entertainment, so the infrastructure is also the government and the god.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "machine-stops-03", "text": "The instant messenger: people communicate only through screens and avoid physical presence, so social life is mediated and touch becomes taboo.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "machine-stops-04", "text": "The second-hand idea: inhabitants produce and discuss opinions they did not originate, so culture becomes circulation without experience.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "machine-stops-05", "text": "The surface as forbidden truth: travel outside is legal but discouraged, so the real world becomes a rumor the Machine cannot control.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "machine-stops-06", "text": "The respirator ban: after an escape attempt, the system removes the equipment needed to leave, so freedom is revoked through logistics.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "machine-stops-07", "text": "Homelessness as execution: expulsion from the Machine's rooms is a death sentence, so housing is the only form of citizenship.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "machine-stops-08", "text": "The son who saw the sky: a rebel describes the surface to his mother, so revelation arrives as a family argument rather than a public event.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "machine-stops-09", "text": "The mother who prefers the cell: a parent chooses comfort over her child's truth, so the story's conflict is generational and intimate.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "machine-stops-10", "text": "The book of the Machine: operating instructions become scripture, so technical documentation is worshipped and no one remembers how it works.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "machine-stops-11", "text": "The repair that no one can perform: the system's parts fail and the inhabitants have lost the knowledge to fix them, so dependency culminates in helplessness.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "machine-stops-12", "text": "The religion of the system: rituals grow around the Machine's maintenance schedule, so infrastructure becomes liturgy.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "machine-stops-13", "text": "The lecture as social currency: status comes from delivering ideas to remote audiences, so intellectual life is a performance without risk.", "kind": "theme_engine", "quality": "medium", "original": null},
+    {"id": "machine-stops-14", "text": "The slow failure: the Machine stops gradually rather than catastrophically, so collapse is experienced as a series of canceled services.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "machine-stops-15", "text": "The reunited family at the end: mother and son meet again as the system dies, so catastrophe restores the physical intimacy the world forbade.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "machine-stops-16", "text": "The toxic air: the environment outside is genuinely lethal, so the dystopia is not a lie; the Machine is both prison and life support.", "kind": "setting_pressure", "quality": "strong", "original": null}
+  ]
+}

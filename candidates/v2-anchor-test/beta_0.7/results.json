@@ -1,0 +1,371 @@
+{
+  "config": {
+    "run_id": "v2-anchor-test",
+    "k": 3,
+    "beta": 0.7,
+    "top_k": 10,
+    "n_pool": 7129,
+    "seed": 7,
+    "formula": "(1-beta)*z(coherence) + beta*z(unavailability)",
+    "coherence_def": "0.5*z(mean_pairwise_cosine) + 0.5*z(cooccurrence_bridging)",
+    "unavailability_def": "0.65*z(pair_rarity) + 0.35*z(cliche_distance)"
+  },
+  "candidates": [
+    {
+      "rank_fused": 1,
+      "cluster_ids": [
+        30,
+        41,
+        56
+      ],
+      "cluster_names": [
+        "Harvest Landlord Share",
+        "Mortality Table Each",
+        "The Gift Trap"
+      ],
+      "exemplar_atoms": [
+        "The crop share: a tenant pays the landlord half to two-thirds of the harvest, so labor is rewarded only after the owner takes their cut.",
+        "The life table: for each age, a probability of dying before the next birthday, so mortality is converted into a grid.",
+        "The gift that shames: a host gives away or destroys wealth to demonstrate status, so generosity is a form of dominance."
+      ],
+      "brief_anchors": [
+        41
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.43731,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.4924
+      },
+      "z_coherence": 0.4682,
+      "z_unavailability": 1.638,
+      "fusion": 1.287,
+      "rank_coherence": 2323,
+      "rank_unavailability": 149
+    },
+    {
+      "rank_fused": 2,
+      "cluster_ids": [
+        11,
+        105,
+        110
+      ],
+      "cluster_names": [
+        "Grief Dead Family",
+        "Dying Death Sibling",
+        "Dying Upload Wants"
+      ],
+      "exemplar_atoms": [
+        "The ongoing relationship with the dead: a mourner keeps talking to the deceased, so grief is maintenance rather than closure.",
+        "The brother's death: a sibling dies saving a mentor, so the inciting wound is an act of goodness.",
+        "The wife who chooses the copy: a spouse uploads her dying husband against his friend's warning, so love is tested as willingness to accept a substitute."
+      ],
+      "brief_anchors": [
+        11,
+        105
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.54636,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.34381,
+        "cliche_distance": 0.37583
+      },
+      "z_coherence": 0.7348,
+      "z_unavailability": 1.4951,
+      "fusion": 1.267,
+      "rank_coherence": 1737,
+      "rank_unavailability": 284
+    },
+    {
+      "rank_fused": 3,
+      "cluster_ids": [
+        11,
+        62,
+        84
+      ],
+      "cluster_names": [
+        "Grief Dead Family",
+        "Child Caregiver Return",
+        "Hologram Patient Family"
+      ],
+      "exemplar_atoms": [
+        "The ongoing relationship with the dead: a mourner keeps talking to the deceased, so grief is maintenance rather than closure.",
+        "The vanishing parent: a caregiver leaves the room and the child's distress reveals whether they believe in return, so attachment is tested by absence.",
+        "The caretaker who confides in the machine: a live-in aide tells secrets to a hologram, so intimacy is displaced onto a safe listener."
+      ],
+      "brief_anchors": [
+        11
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.55487,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.40444
+      },
+      "z_coherence": 1.4178,
+      "z_unavailability": 1.1607,
+      "fusion": 1.2378,
+      "rank_coherence": 610,
+      "rank_unavailability": 838
+    },
+    {
+      "rank_fused": 4,
+      "cluster_ids": [
+        30,
+        41,
+        105
+      ],
+      "cluster_names": [
+        "Harvest Landlord Share",
+        "Mortality Table Each",
+        "Dying Death Sibling"
+      ],
+      "exemplar_atoms": [
+        "The crop share: a tenant pays the landlord half to two-thirds of the harvest, so labor is rewarded only after the owner takes their cut.",
+        "The life table: for each age, a probability of dying before the next birthday, so mortality is converted into a grid.",
+        "The brother's death: a sibling dies saving a mentor, so the inciting wound is an act of goodness."
+      ],
+      "brief_anchors": [
+        41,
+        105
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.35558,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.34381,
+        "cliche_distance": 0.48577
+      },
+      "z_coherence": -0.8064,
+      "z_unavailability": 2.0917,
+      "fusion": 1.2223,
+      "rank_coherence": 5524,
+      "rank_unavailability": 2
+    },
+    {
+      "rank_fused": 5,
+      "cluster_ids": [
+        11,
+        56,
+        62
+      ],
+      "cluster_names": [
+        "Grief Dead Family",
+        "The Gift Trap",
+        "Child Caregiver Return"
+      ],
+      "exemplar_atoms": [
+        "The ongoing relationship with the dead: a mourner keeps talking to the deceased, so grief is maintenance rather than closure.",
+        "The gift that shames: a host gives away or destroys wealth to demonstrate status, so generosity is a form of dominance.",
+        "The vanishing parent: a caregiver leaves the room and the child's distress reveals whether they believe in return, so attachment is tested by absence."
+      ],
+      "brief_anchors": [
+        11
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.50662,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.34381,
+        "cliche_distance": 0.37247
+      },
+      "z_coherence": 0.4137,
+      "z_unavailability": 1.4769,
+      "fusion": 1.158,
+      "rank_coherence": 2454,
+      "rank_unavailability": 313
+    },
+    {
+      "rank_fused": 6,
+      "cluster_ids": [
+        51,
+        56,
+        75
+      ],
+      "cluster_names": [
+        "The Afterlife Economy",
+        "The Gift Trap",
+        "Value Life Beyond"
+      ],
+      "exemplar_atoms": [
+        "The simulated resort for the dead: elderly people can visit and eventually upload to a virtual town, so heaven is a subscription service.",
+        "The gift that shames: a host gives away or destroys wealth to demonstrate status, so generosity is a form of dominance.",
+        "The value of useless beauty: the forest has no economic function, so its preservation is a claim that life matters beyond utility."
+      ],
+      "brief_anchors": [
+        51
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.41142,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.34381,
+        "cliche_distance": 0.42104
+      },
+      "z_coherence": -0.3552,
+      "z_unavailability": 1.7404,
+      "fusion": 1.1117,
+      "rank_coherence": 4417,
+      "rank_unavailability": 61
+    },
+    {
+      "rank_fused": 7,
+      "cluster_ids": [
+        41,
+        105,
+        106
+      ],
+      "cluster_names": [
+        "Mortality Table Each",
+        "Dying Death Sibling",
+        "Indistinguishable Care Every"
+      ],
+      "exemplar_atoms": [
+        "The life table: for each age, a probability of dying before the next birthday, so mortality is converted into a grid.",
+        "The brother's death: a sibling dies saving a mentor, so the inciting wound is an act of goodness.",
+        "The repair that offends: mending an old object can be experienced as mutilation, so care and violation are indistinguishable to the thing being cared for."
+      ],
+      "brief_anchors": [
+        41,
+        105
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.33492,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.34381,
+        "cliche_distance": 0.46854
+      },
+      "z_coherence": -0.9733,
+      "z_unavailability": 1.9982,
+      "fusion": 1.1067,
+      "rank_coherence": 5882,
+      "rank_unavailability": 4
+    },
+    {
+      "rank_fused": 8,
+      "cluster_ids": [
+        41,
+        105,
+        110
+      ],
+      "cluster_names": [
+        "Mortality Table Each",
+        "Dying Death Sibling",
+        "Dying Upload Wants"
+      ],
+      "exemplar_atoms": [
+        "The life table: for each age, a probability of dying before the next birthday, so mortality is converted into a grid.",
+        "The brother's death: a sibling dies saving a mentor, so the inciting wound is an act of goodness.",
+        "The wife who chooses the copy: a spouse uploads her dying husband against his friend's warning, so love is tested as willingness to accept a substitute."
+      ],
+      "brief_anchors": [
+        41,
+        105
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.42076,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.34381,
+        "cliche_distance": 0.41103
+      },
+      "z_coherence": -0.2798,
+      "z_unavailability": 1.6862,
+      "fusion": 1.0964,
+      "rank_coherence": 4203,
+      "rank_unavailability": 109
+    },
+    {
+      "rank_fused": 9,
+      "cluster_ids": [
+        11,
+        105,
+        106
+      ],
+      "cluster_names": [
+        "Grief Dead Family",
+        "Dying Death Sibling",
+        "Indistinguishable Care Every"
+      ],
+      "exemplar_atoms": [
+        "The ongoing relationship with the dead: a mourner keeps talking to the deceased, so grief is maintenance rather than closure.",
+        "The brother's death: a sibling dies saving a mentor, so the inciting wound is an act of goodness.",
+        "The repair that offends: mending an old object can be experienced as mutilation, so care and violation are indistinguishable to the thing being cared for."
+      ],
+      "brief_anchors": [
+        11,
+        105
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.41179,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.34381,
+        "cliche_distance": 0.41465
+      },
+      "z_coherence": -0.3523,
+      "z_unavailability": 1.7058,
+      "fusion": 1.0883,
+      "rank_coherence": 4405,
+      "rank_unavailability": 86
+    },
+    {
+      "rank_fused": 10,
+      "cluster_ids": [
+        11,
+        62,
+        105
+      ],
+      "cluster_names": [
+        "Grief Dead Family",
+        "Child Caregiver Return",
+        "Dying Death Sibling"
+      ],
+      "exemplar_atoms": [
+        "The ongoing relationship with the dead: a mourner keeps talking to the deceased, so grief is maintenance rather than closure.",
+        "The vanishing parent: a caregiver leaves the room and the child's distress reveals whether they believe in return, so attachment is tested by absence.",
+        "The brother's death: a sibling dies saving a mentor, so the inciting wound is an act of goodness."
+      ],
+      "brief_anchors": [
+        11,
+        105
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.49473,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.4014
+      },
+      "z_coherence": 0.932,
+      "z_unavailability": 1.1441,
+      "fusion": 1.0805,
+      "rank_coherence": 1323,
+      "rank_unavailability": 877
+    }
+  ]
+}

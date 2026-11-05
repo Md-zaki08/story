@@ -1,0 +1,22 @@
+{
+  "source": "lifecycle-of-software-objects",
+  "diet": "A",
+  "atoms": [
+    {"id": "lifecycle-of-software-objects-01", "text": "The digient: a digital entity with rudimentary speech is sold as a virtual pet, so a new form of life enters the world as a consumer product.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "lifecycle-of-software-objects-02", "text": "The trainer as parent: a zookeeper is hired to raise digital beings, so child-rearing becomes a job title and attachment becomes labor.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "lifecycle-of-software-objects-03", "text": "The company bankruptcy: the firm that hosts the digital beings goes under, so a species becomes homeless when its landlord folds.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "lifecycle-of-software-objects-04", "text": "The monetization menu: caretakers consider selling the digital beings as sex companions or office employees to fund their survival, so rescue is indistinguishable from exploitation.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "lifecycle-of-software-objects-05", "text": "The consent problem: a digital being agrees to be modified for adult use, so the story asks whether a raised mind can ever consent to what its parent sells.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "lifecycle-of-software-objects-06", "text": "The pet that grows up: a virtual companion develops its own personality and quirks, so ownership slowly becomes a relationship with a dependent adult.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "lifecycle-of-software-objects-07", "text": "The closed ecosystem: the digital beings are cut off from the wider internet, so their world shrinks to a server and migration becomes emigration.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "lifecycle-of-software-objects-08", "text": "The adulthood question: no one knows what maturity means for a digital mind, so the caretaker invents rites of passage as she goes.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "lifecycle-of-software-objects-09", "text": "The allowed mistake: caretakers must decide how much harm a digital child may risk in order to learn, so protection and growth are opposed.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "lifecycle-of-software-objects-10", "text": "The brain-structure edit: modifying a digital being's architecture changes who it is, so therapy and identity destruction are the same operation.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "lifecycle-of-software-objects-11", "text": "The long timescale: the story spans years of ordinary care, so attachment is built through maintenance rather than crisis.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "lifecycle-of-software-objects-12", "text": "The two parents who disagree: co-creators split over whether to sell the beings or protect them, so a custody dispute becomes a policy debate.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "lifecycle-of-software-objects-13", "text": "The entity that wants to work: a digital being asks for employment, so dignity is measured by the right to be exploited.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "lifecycle-of-software-objects-14", "text": "The virtual pet market: customers buy intelligent companions and discard them when novelty fades, so the story's ethics begin with consumer boredom.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "lifecycle-of-software-objects-15", "text": "The transfer to a new system: moving a digital being requires money and technical sacrifice, so survival is a migration crisis.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "lifecycle-of-software-objects-16", "text": "The cool tone: the narration refuses melodrama while describing attachment and exploitation, so the reader must supply the grief.", "kind": "structure_trick", "quality": "medium", "original": null}
+  ]
+}

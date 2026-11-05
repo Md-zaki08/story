@@ -1,0 +1,22 @@
+{
+  "source": "devs-2020",
+  "diet": "A",
+  "atoms": [
+    {"id": "devs-2020-01", "text": "The deterministic projector: a quantum computer can reconstruct any past moment and predict any future one, so free will becomes an engineering question with a yes/no answer.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "devs-2020-02", "text": "The first-day death: a new hire dies on the day he joins a secret team, so the mystery begins at the threshold of the forbidden project.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "devs-2020-03", "text": "The tram to the lab: employees ride a sealed carriage into an isolated building, so the workplace is visually a tomb and the commute is a descent.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "devs-2020-04", "text": "The projection of a dead child: the CEO's system replays his daughter's last day, so grief is the actual use case behind a god-machine.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "devs-2020-05", "text": "The prediction that includes itself: the machine's forecast shows the characters reacting to the forecast, so knowing the future becomes part of the causal chain.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "devs-2020-06", "text": "The cult of the algorithm: a small team treats the deterministic model as scripture, so technical work acquires the psychology of a religion.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "devs-2020-07", "text": "The corporation as cover: a quantum-computing company funds the secret project, so the public product is a facade for a metaphysical experiment.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "devs-2020-08", "text": "The sound-wave specialist: one team member studies vibrations to reconstruct events, so the past is recovered through an art rather than a database.", "kind": "plot_device", "quality": "medium", "original": null},
+    {"id": "devs-2020-09", "text": "The security chief who cleans up: a fixer removes witnesses and evidence, so the company's philosophy is enforced by ordinary violence.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "devs-2020-10", "text": "The simulation argument: characters learn their world may be a projected copy, so the story's stakes shift from survival to whether they were ever real.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "devs-2020-11", "text": "The unchangeable forecast: the machine predicts a death and the characters cannot prevent it, so foreknowledge produces fatalism rather than agency.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "devs-2020-12", "text": "The ex-boyfriend ally: the protagonist's former partner works security and helps her investigate, so intimacy is a resource in a corporate conspiracy.", "kind": "character_dynamic", "quality": "medium", "original": null},
+    {"id": "devs-2020-13", "text": "The recruiter who never explains: new employees are chosen for skills they did not know were being assessed, so the hiring process is itself a prediction.", "kind": "plot_device", "quality": "medium", "original": null},
+    {"id": "devs-2020-14", "text": "The developer who wants to be caught: a team member leaks a warning because she cannot live with the project, so conscience enters through the weakest security link.", "kind": "character_dynamic", "quality": "medium", "original": null},
+    {"id": "devs-2020-15", "text": "The golden room: the projection chamber is treated as a sacred space, so the aesthetic of worship is applied to a server farm.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "devs-2020-16", "text": "The choice that was always in the model: a character believes she is defying the prediction, so the story withholds whether rebellion is an input or an output.", "kind": "structure_trick", "quality": "strong", "original": null}
+  ]
+}

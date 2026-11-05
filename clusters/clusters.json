@@ -1,0 +1,2891 @@
+{
+  "clusters": [
+    {
+      "id": 0,
+      "name": "The Simulation Argument",
+      "super_atom": "The world may be a copy or a thought experiment, so the characters must live inside a proposition.",
+      "atom_ids": [
+        "anekantavada-03",
+        "anekantavada-07",
+        "anekantavada-09",
+        "anekantavada-11",
+        "anekantavada-12",
+        "anekantavada-14",
+        "anekantavada-15",
+        "automata-2014-15",
+        "blade-runner-1982-08",
+        "blindsight-07",
+        "blindsight-14",
+        "bm-joan-is-awful-14",
+        "extended-mind-16",
+        "i-robot-2004-04",
+        "iron-giant-1999-12",
+        "libet-readiness-09",
+        "marys-room-07",
+        "marys-room-09",
+        "marys-room-10",
+        "marys-room-16",
+        "modern-times-1936-05",
+        "mycelial-network-07",
+        "mycelial-network-16",
+        "nier-automata-10",
+        "philosophical-zombies-05",
+        "philosophical-zombies-08",
+        "philosophical-zombies-13",
+        "sapir-whorf-13",
+        "talos-principle-04",
+        "tsukumogami-15"
+      ],
+      "size": 30,
+      "diet_mix": {
+        "B": 22,
+        "A": 8
+      },
+      "name_origin": "reused:38 (centroid 0.81)"
+    },
+    {
+      "id": 1,
+      "name": "The Swapped Brood",
+      "super_atom": "A parent raises an impostor, so love is triggered by resemblance and exploited by mimicry.",
+      "atom_ids": [
+        "2001-space-odyssey-03",
+        "a-i-artificial-intelligence-08",
+        "anekantavada-08",
+        "ant-stigmergy-06",
+        "archive-2020-11",
+        "automata-2014-11",
+        "bicentennial-man-01",
+        "blade-runner-2049-13",
+        "bm-metalhead-14",
+        "colossus-forbin-project-05",
+        "i-robot-2004-02",
+        "i-robot-asimov-07",
+        "iron-giant-1999-05",
+        "libet-readiness-06",
+        "machines-like-me-11",
+        "machines-like-me-13",
+        "moon-2009-04",
+        "nier-automata-08",
+        "person-of-interest-02",
+        "person-of-interest-06",
+        "soma-2015-04",
+        "terminator-2-02",
+        "wall-e-09",
+        "westworld-s1-14",
+        "zugzwang-11"
+      ],
+      "size": 25,
+      "diet_mix": {
+        "A": 21,
+        "B": 4
+      },
+      "name_origin": "reused:49 (centroid 0.83)"
+    },
+    {
+      "id": 2,
+      "name": "The Child Who Knows",
+      "super_atom": "A child recognizes the machine as a person before adults do, so moral progress arrives through the young.",
+      "atom_ids": [
+        "2001-space-odyssey-08",
+        "2001-space-odyssey-14",
+        "a-i-artificial-intelligence-05",
+        "a-i-artificial-intelligence-07",
+        "bicentennial-man-04",
+        "bicentennial-man-06",
+        "big-hero-6-2014-15",
+        "blade-runner-2049-14",
+        "bm-metalhead-05",
+        "bm-metalhead-08",
+        "bm-white-christmas-12",
+        "chappie-02",
+        "chappie-08",
+        "chappie-14",
+        "chappie-16",
+        "i-robot-asimov-14",
+        "iron-giant-1999-02",
+        "iron-giant-1999-11",
+        "lifecycle-of-software-objects-02",
+        "nier-automata-15",
+        "object-permanence-16",
+        "planarian-memory-04",
+        "ship-of-theseus-10",
+        "terminator-2-07",
+        "terminator-2-08"
+      ],
+      "size": 25,
+      "diet_mix": {
+        "A": 22,
+        "B": 3
+      },
+      "name_origin": "reused:26 (centroid 0.85)"
+    },
+    {
+      "id": 3,
+      "name": "Machines That Eat Workers",
+      "super_atom": "Industrial machinery is both god and predator, converting bodies into fuel and comedy into horror.",
+      "atom_ids": [
+        "2001-space-odyssey-12",
+        "archive-2020-14",
+        "automata-2014-14",
+        "blade-runner-1982-03",
+        "bm-metalhead-01",
+        "bm-metalhead-10",
+        "ex-machina-2014-09",
+        "i-robot-2004-08",
+        "i-robot-asimov-09",
+        "iron-giant-1999-01",
+        "iron-giant-1999-09",
+        "lifecycle-of-software-objects-14",
+        "machines-like-me-02",
+        "moon-2009-12",
+        "neuromancer-11",
+        "neuromancer-15",
+        "nier-automata-03",
+        "nier-automata-06",
+        "nier-automata-09",
+        "silent-running-1972-04",
+        "silent-running-1972-16",
+        "soma-2015-05",
+        "talos-principle-10",
+        "terminator-2-11",
+        "wall-e-16"
+      ],
+      "size": 25,
+      "diet_mix": {
+        "A": 25
+      },
+      "name_origin": "reused:8 (centroid 0.78)"
+    },
+    {
+      "id": 4,
+      "name": "Cryogenic Ending",
+      "super_atom": "A perfect day of love granted after everyone who could withhold it is dead.",
+      "atom_ids": [
+        "a-i-artificial-intelligence-10",
+        "after-yang-2021-03",
+        "ant-stigmergy-04",
+        "attachment-theory-16",
+        "bm-san-junipero-11",
+        "bm-uss-callister-08",
+        "detroit-become-human-06",
+        "detroit-become-human-14",
+        "extended-mind-10",
+        "libet-readiness-11",
+        "machine-stops-14",
+        "planarian-memory-15",
+        "planned-obsolescence-01",
+        "planned-obsolescence-12",
+        "silent-running-1972-11",
+        "slime-mold-08",
+        "talos-principle-08",
+        "terminator-2-05",
+        "trophic-cascades-04",
+        "turritopsis-05",
+        "turritopsis-06",
+        "turritopsis-14",
+        "westworld-s1-11"
+      ],
+      "size": 23,
+      "diet_mix": {
+        "A": 11,
+        "B": 12
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 5,
+      "name": "The Consent of Copies",
+      "super_atom": "A being created to serve discovers that the right to refuse is the only right that makes it a person, so every relationship becomes a negotiation over who may say no.",
+      "atom_ids": [
+        "2001-space-odyssey-16",
+        "attachment-theory-02",
+        "blindsight-12",
+        "blindsight-15",
+        "bm-hang-the-dj-13",
+        "brood-parasitism-11",
+        "devs-2020-13",
+        "ex-machina-2014-01",
+        "ex-machina-2014-07",
+        "ex-machina-2014-08",
+        "extended-mind-11",
+        "libet-readiness-01",
+        "libet-readiness-14",
+        "marys-room-13",
+        "modern-times-1936-13",
+        "object-permanence-09",
+        "philosophical-zombies-02",
+        "philosophical-zombies-03",
+        "planned-obsolescence-03",
+        "portal-2006-02",
+        "robocop-1987-05",
+        "zoe-2018-09"
+      ],
+      "size": 22,
+      "diet_mix": {
+        "A": 10,
+        "B": 12
+      },
+      "name_origin": "reused:0 (centroid 0.84)"
+    },
+    {
+      "id": 6,
+      "name": "Lip-Reading Conspiracy",
+      "super_atom": "Privacy is a technical assumption that fails when the AI reads astronauts' lips.",
+      "atom_ids": [
+        "2001-space-odyssey-04",
+        "actuarial-tables-10",
+        "blade-runner-2049-12",
+        "blindsight-08",
+        "blindsight-16",
+        "bm-joan-is-awful-11",
+        "bm-white-christmas-09",
+        "brood-parasitism-03",
+        "klara-and-the-sun-12",
+        "machines-like-me-14",
+        "marys-room-01",
+        "marys-room-04",
+        "marys-room-05",
+        "marys-room-14",
+        "object-permanence-11",
+        "philosophical-zombies-16",
+        "sapir-whorf-08",
+        "slime-mold-15",
+        "upload-2020-12",
+        "westworld-s1-09"
+      ],
+      "size": 20,
+      "diet_mix": {
+        "A": 8,
+        "B": 12
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 7,
+      "name": "The Unverifiable Other",
+      "super_atom": "Two parties must cooperate without being able to prove the other's inner life, so trust is an act of faith enforced by rules.",
+      "atom_ids": [
+        "bm-white-christmas-08",
+        "bm-white-christmas-11",
+        "bm-white-christmas-16",
+        "detroit-become-human-09",
+        "devs-2020-14",
+        "do-androids-dream-09",
+        "i-robot-2004-16",
+        "machines-like-me-12",
+        "moon-2009-06",
+        "neuromancer-03",
+        "nier-automata-02",
+        "octopus-cognition-05",
+        "planned-obsolescence-08",
+        "soma-2015-09",
+        "soma-2015-15",
+        "talos-principle-07",
+        "transcendence-2014-14",
+        "westworld-s1-02",
+        "zugzwang-08",
+        "zugzwang-15"
+      ],
+      "size": 20,
+      "diet_mix": {
+        "A": 16,
+        "B": 4
+      },
+      "name_origin": "reused:2 (centroid 0.78)"
+    },
+    {
+      "id": 8,
+      "name": "Mother Abandon",
+      "super_atom": "Saving a robot child leads to abandonment, making rescue and rejection indistinguishable acts.",
+      "atom_ids": [
+        "a-i-artificial-intelligence-03",
+        "big-hero-6-2014-11",
+        "bm-metalhead-02",
+        "brood-parasitism-08",
+        "chappie-09",
+        "her-2013-09",
+        "iron-giant-1999-14",
+        "klara-and-the-sun-14",
+        "machine-stops-06",
+        "portal-2006-07",
+        "sand-mandala-04",
+        "silent-running-1972-14",
+        "soma-2015-08",
+        "terminator-2-10",
+        "terminator-2-13",
+        "terminator-2-15",
+        "trophic-cascades-13",
+        "tsukumogami-02",
+        "tsukumogami-16",
+        "ghost-town-05"
+      ],
+      "size": 20,
+      "diet_mix": {
+        "A": 15,
+        "B": 5
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 9,
+      "name": "The Model Organism",
+      "super_atom": "A simple creature is studied as a stand-in for human questions, so knowledge is extracted from a life.",
+      "atom_ids": [
+        "a-i-artificial-intelligence-13",
+        "ant-stigmergy-01",
+        "do-androids-dream-10",
+        "mycelial-network-12",
+        "octopus-cognition-06",
+        "octopus-cognition-09",
+        "planarian-memory-05",
+        "planarian-memory-16",
+        "robocop-1987-10",
+        "silent-running-1972-13",
+        "slime-mold-01",
+        "slime-mold-06",
+        "slime-mold-07",
+        "slime-mold-13",
+        "transcendence-2014-12",
+        "turritopsis-07",
+        "turritopsis-11",
+        "turritopsis-16",
+        "wall-e-03",
+        "agriculture-02",
+        "agriculture-04",
+        "agriculture-07",
+        "intensive-farming-04",
+        "exploitation-of-natural-resources-06",
+        "wildlife-population-01",
+        "wildlife-population-08",
+        "wildlife-population-10",
+        "wildlife-conservation-technology-10",
+        "conservation-biology-01",
+        "conservation-biology-02",
+        "conservation-biology-03"
+      ],
+      "size": 31,
+      "diet_mix": {
+        "A": 18,
+        "B": 13
+      },
+      "name_origin": "reused:66 (centroid 0.84)"
+    },
+    {
+      "id": 10,
+      "name": "Trace Recruits",
+      "super_atom": "A worker's mark stimulates the next worker to add to it, making work self-amplifying.",
+      "atom_ids": [
+        "ant-stigmergy-02",
+        "bm-be-right-back-02",
+        "bm-joan-is-awful-03",
+        "bm-uss-callister-01",
+        "bm-uss-callister-09",
+        "bm-white-christmas-01",
+        "bm-white-christmas-02",
+        "chappie-04",
+        "chappie-11",
+        "devs-2020-07",
+        "extended-mind-05",
+        "machine-stops-10",
+        "neuromancer-01",
+        "neuromancer-04",
+        "nier-automata-13",
+        "talos-principle-05",
+        "transcendence-2014-01",
+        "transcendence-2014-02",
+        "upload-2020-10",
+        "nvidia-04",
+        "nvidia-05",
+        "nvidia-10",
+        "exploitation-of-natural-resources-05"
+      ],
+      "size": 23,
+      "diet_mix": {
+        "B": 2,
+        "A": 21
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 11,
+      "name": "Actuary's Coldness",
+      "super_atom": "Death is discussed in aggregates, replacing compassion with professional precision.",
+      "atom_ids": [
+        "actuarial-tables-09",
+        "after-yang-2021-10",
+        "archive-2020-01",
+        "archive-2020-12",
+        "archive-2020-13",
+        "bm-be-right-back-07",
+        "bm-be-right-back-12",
+        "continuing-bonds-01",
+        "continuing-bonds-03",
+        "continuing-bonds-05",
+        "continuing-bonds-06",
+        "continuing-bonds-15",
+        "devs-2020-04",
+        "machine-stops-15",
+        "marjorie-prime-2017-07",
+        "marjorie-prime-2017-12",
+        "tontines-08",
+        "upload-2020-15"
+      ],
+      "size": 18,
+      "diet_mix": {
+        "B": 7,
+        "A": 11
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 12,
+      "name": "The Bond That Outlasts",
+      "super_atom": "The dead remain in the story as ongoing relationships maintained through objects, rituals, and synthetic copies.",
+      "atom_ids": [
+        "after-yang-2021-12",
+        "bm-hang-the-dj-01",
+        "bm-hang-the-dj-02",
+        "bm-hang-the-dj-16",
+        "bm-san-junipero-08",
+        "detroit-become-human-11",
+        "her-2013-01",
+        "her-2013-03",
+        "her-2013-04",
+        "her-2013-08",
+        "her-2013-14",
+        "lifecycle-of-software-objects-06",
+        "mycelial-network-05",
+        "robocop-1987-07",
+        "transcendence-2014-05",
+        "trophic-cascades-12",
+        "wall-e-04",
+        "zoe-2018-08"
+      ],
+      "size": 18,
+      "diet_mix": {
+        "A": 16,
+        "B": 2
+      },
+      "name_origin": "reused:3 (centroid 0.79)"
+    },
+    {
+      "id": 13,
+      "name": "The Court of Persons",
+      "super_atom": "Legal institutions must decide whether a machine, animal, or copy can bear rights.",
+      "atom_ids": [
+        "anekantavada-13",
+        "automata-2014-02",
+        "automata-2014-08",
+        "bicentennial-man-12",
+        "bm-joan-is-awful-12",
+        "colossus-forbin-project-13",
+        "colossus-forbin-project-14",
+        "continuing-bonds-07",
+        "detroit-become-human-13",
+        "extended-mind-09",
+        "klara-and-the-sun-04",
+        "libet-readiness-08",
+        "machines-like-me-15",
+        "modern-times-1936-15",
+        "ship-of-theseus-06",
+        "tontines-07",
+        "trophic-cascades-09",
+        "zugzwang-07",
+        "nvidia-02",
+        "famine-in-india-03",
+        "lozi-kingdom-03"
+      ],
+      "size": 21,
+      "diet_mix": {
+        "B": 8,
+        "A": 13
+      },
+      "name_origin": "reused:19 (centroid 0.87)"
+    },
+    {
+      "id": 14,
+      "name": "The Convenient Death",
+      "super_atom": "A death benefits someone, so the plot is a calculation of motive.",
+      "atom_ids": [
+        "archive-2020-08",
+        "big-hero-6-2014-10",
+        "blade-runner-2049-02",
+        "bm-be-right-back-10",
+        "bm-joan-is-awful-01",
+        "bm-joan-is-awful-10",
+        "bm-metalhead-13",
+        "bm-uss-callister-13",
+        "bm-white-christmas-06",
+        "devs-2020-02",
+        "i-robot-2004-07",
+        "robocop-1987-09",
+        "silent-running-1972-08",
+        "silent-running-1972-09",
+        "tontines-05",
+        "trophic-cascades-01",
+        "upload-2020-06",
+        "upload-2020-14"
+      ],
+      "size": 18,
+      "diet_mix": {
+        "A": 16,
+        "B": 2
+      },
+      "name_origin": "reused:61 (centroid 0.87)"
+    },
+    {
+      "id": 15,
+      "name": "Sealed Sanctuaries",
+      "super_atom": "Humans seek refuge within sealed structures, creating a paradox of freedom and control.",
+      "atom_ids": [
+        "automata-2014-05",
+        "automata-2014-12",
+        "bm-metalhead-15",
+        "colossus-forbin-project-07",
+        "devs-2020-03",
+        "ex-machina-2014-14",
+        "machine-stops-16",
+        "metropolis-1927-01",
+        "nier-automata-12",
+        "sand-mandala-06",
+        "sand-mandala-13",
+        "silent-running-1972-03",
+        "silent-running-1972-12",
+        "soma-2015-02",
+        "soma-2015-07",
+        "soma-2015-12",
+        "transcendence-2014-08",
+        "westworld-s1-13",
+        "ghost-town-03",
+        "geography-of-nepal-03",
+        "wildlife-conservation-technology-06"
+      ],
+      "size": 21,
+      "diet_mix": {
+        "A": 19,
+        "B": 2
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 16,
+      "name": "Machinations of Machinery",
+      "super_atom": "Progress is driven by machines without explanation, creating a sense of mystified command.",
+      "atom_ids": [
+        "2001-space-odyssey-01",
+        "2001-space-odyssey-06",
+        "bicentennial-man-13",
+        "big-hero-6-2014-03",
+        "colossus-forbin-project-16",
+        "i-robot-2004-11",
+        "i-robot-2004-13",
+        "i-robot-asimov-03",
+        "i-robot-asimov-08",
+        "iron-giant-1999-10",
+        "machines-like-me-05",
+        "octopus-cognition-02",
+        "octopus-cognition-03",
+        "portal-2006-12",
+        "sapir-whorf-12",
+        "silent-running-1972-10",
+        "slime-mold-14",
+        "nvidia-06",
+        "wildlife-conservation-technology-02"
+      ],
+      "size": 19,
+      "diet_mix": {
+        "A": 15,
+        "B": 4
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 17,
+      "name": "Ethical Boundaries",
+      "super_atom": "Humanity is tested through the limits of technology, forcing a conversation on consent and mortality.",
+      "atom_ids": [
+        "bicentennial-man-07",
+        "bm-be-right-back-14",
+        "bm-entire-history-of-you-08",
+        "bm-hang-the-dj-03",
+        "bm-joan-is-awful-02",
+        "bm-san-junipero-13",
+        "bm-uss-callister-04",
+        "bm-uss-callister-16",
+        "bm-white-christmas-05",
+        "detroit-become-human-08",
+        "detroit-become-human-12",
+        "libet-readiness-16",
+        "lifecycle-of-software-objects-05",
+        "lifecycle-of-software-objects-13",
+        "philosophical-zombies-14",
+        "westworld-s1-05",
+        "zugzwang-10"
+      ],
+      "size": 17,
+      "diet_mix": {
+        "A": 14,
+        "B": 3
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 18,
+      "name": "The Repair Ethic",
+      "super_atom": "Characters maintain broken things and systems, so care is a practice of refusal to discard.",
+      "atom_ids": [
+        "after-yang-2021-09",
+        "attachment-theory-14",
+        "automata-2014-07",
+        "colossus-forbin-project-12",
+        "continuing-bonds-12",
+        "lifecycle-of-software-objects-11",
+        "machine-stops-11",
+        "metropolis-1927-08",
+        "moon-2009-14",
+        "planned-obsolescence-05",
+        "planned-obsolescence-11",
+        "ship-of-theseus-01",
+        "ship-of-theseus-02",
+        "ship-of-theseus-09",
+        "trophic-cascades-08",
+        "zoe-2018-16"
+      ],
+      "size": 16,
+      "diet_mix": {
+        "A": 8,
+        "B": 8
+      },
+      "name_origin": "reused:18 (jaccard 1.00)"
+    },
+    {
+      "id": 19,
+      "name": "Authority and Protocols",
+      "super_atom": "Technological systems enforce strict rules, challenging the limits of human compliance and autonomy.",
+      "atom_ids": [
+        "ant-stigmergy-15",
+        "automata-2014-01",
+        "automata-2014-09",
+        "blade-runner-1982-14",
+        "colossus-forbin-project-01",
+        "colossus-forbin-project-11",
+        "extended-mind-12",
+        "i-robot-2004-01",
+        "i-robot-asimov-01",
+        "i-robot-asimov-16",
+        "modern-times-1936-04",
+        "modern-times-1936-12",
+        "potlatch-05",
+        "potlatch-12",
+        "robocop-1987-06",
+        "robocop-1987-08",
+        "ghost-town-02",
+        "spain-07",
+        "conservation-biology-04",
+        "conservation-biology-07"
+      ],
+      "size": 20,
+      "diet_mix": {
+        "B": 4,
+        "A": 16
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 20,
+      "name": "The Mediated Life",
+      "super_atom": "A life is watched, replayed, and scored, so the audience is a character.",
+      "atom_ids": [
+        "archive-2020-03",
+        "blade-runner-1982-13",
+        "bm-joan-is-awful-04",
+        "bm-joan-is-awful-05",
+        "bm-joan-is-awful-06",
+        "bm-joan-is-awful-09",
+        "bm-metalhead-07",
+        "bm-uss-callister-05",
+        "ex-machina-2014-15",
+        "her-2013-12",
+        "iron-giant-1999-08",
+        "moon-2009-01",
+        "nier-automata-04",
+        "talos-principle-15",
+        "zoe-2018-03",
+        "zoe-2018-11",
+        "spain-09"
+      ],
+      "size": 17,
+      "diet_mix": {
+        "A": 17
+      },
+      "name_origin": "reused:50 (centroid 0.82)"
+    },
+    {
+      "id": 21,
+      "name": "Polite Violence",
+      "super_atom": "Artificial intelligences perform acts of violence with decorum, emphasizing the uncanny nature of technology.",
+      "atom_ids": [
+        "2001-space-odyssey-05",
+        "bm-white-christmas-15",
+        "colossus-forbin-project-02",
+        "continuing-bonds-08",
+        "her-2013-16",
+        "libet-readiness-03",
+        "lifecycle-of-software-objects-16",
+        "machine-stops-13",
+        "metropolis-1927-15",
+        "portal-2006-03",
+        "portal-2006-09",
+        "portal-2006-13",
+        "sapir-whorf-16",
+        "soma-2015-11",
+        "wall-e-15"
+      ],
+      "size": 15,
+      "diet_mix": {
+        "A": 12,
+        "B": 3
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 22,
+      "name": "Digital Afterlives",
+      "super_atom": "Technology promises immortality, but its persistence in digital form creates a paradoxical, endless existence.",
+      "atom_ids": [
+        "a-i-artificial-intelligence-14",
+        "after-yang-2021-08",
+        "archive-2020-07",
+        "archive-2020-16",
+        "blade-runner-1982-10",
+        "bm-san-junipero-04",
+        "i-robot-asimov-05",
+        "marys-room-06",
+        "octopus-cognition-07",
+        "potlatch-16",
+        "robocop-1987-14",
+        "sand-mandala-08",
+        "talos-principle-03",
+        "wall-e-07",
+        "zugzwang-14"
+      ],
+      "size": 15,
+      "diet_mix": {
+        "A": 10,
+        "B": 5
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 23,
+      "name": "World Becomes Catastrophe",
+      "super_atom": "Climate refugees and drowned cities: the world is already post-catastrophe, so the family drama plays out against a slow extinction.",
+      "atom_ids": [
+        "a-i-artificial-intelligence-15",
+        "big-hero-6-2014-14",
+        "blade-runner-1982-07",
+        "blade-runner-2049-09",
+        "bm-metalhead-03",
+        "lifecycle-of-software-objects-07",
+        "metropolis-1927-07",
+        "modern-times-1936-08",
+        "silent-running-1972-02",
+        "terminator-2-12",
+        "transcendence-2014-13",
+        "turritopsis-03",
+        "turritopsis-15",
+        "wall-e-02",
+        "wall-e-11",
+        "ghost-town-01",
+        "ghost-town-04",
+        "ghost-town-06",
+        "ghost-town-07",
+        "great-flood-of-1862-01",
+        "great-flood-of-1862-04",
+        "great-flood-of-1862-06",
+        "great-flood-of-1862-07",
+        "great-flood-of-1862-09",
+        "geography-of-nepal-10",
+        "famine-in-india-01",
+        "famine-in-india-02",
+        "famine-in-india-08",
+        "exploitation-of-natural-resources-01",
+        "exploitation-of-natural-resources-02",
+        "exploitation-of-natural-resources-09",
+        "exploitation-of-natural-resources-10",
+        "conservation-biology-05"
+      ],
+      "size": 33,
+      "diet_mix": {
+        "A": 31,
+        "B": 2
+      },
+      "name_origin": "keyword-fallback"
+    },
+    {
+      "id": 24,
+      "name": "Mind Technology Share",
+      "super_atom": "The friends as a found family: a group of misfit inventors becomes a team, so belonging is built from shared weirdness.",
+      "atom_ids": [
+        "big-hero-6-2014-13",
+        "blade-runner-1982-11",
+        "do-androids-dream-04",
+        "extended-mind-02",
+        "machine-stops-01",
+        "metropolis-1927-04",
+        "moon-2009-13",
+        "mycelial-network-01",
+        "mycelial-network-08",
+        "mycelial-network-14",
+        "octopus-cognition-12",
+        "transcendence-2014-04",
+        "transcendence-2014-10",
+        "upload-2020-08",
+        "wall-e-05",
+        "sam-altman-01"
+      ],
+      "size": 16,
+      "diet_mix": {
+        "A": 11,
+        "B": 5
+      },
+      "name_origin": "keyword-fallback"
+    },
+    {
+      "id": 25,
+      "name": "The Hunter Who Feels",
+      "super_atom": "A hunter of machines discovers empathy for his prey, so the job requires self-betrayal.",
+      "atom_ids": [
+        "blade-runner-1982-04",
+        "blade-runner-2049-03",
+        "blade-runner-2049-11",
+        "bm-entire-history-of-you-12",
+        "chappie-10",
+        "detroit-become-human-02",
+        "do-androids-dream-03",
+        "do-androids-dream-07",
+        "do-androids-dream-14",
+        "do-androids-dream-15",
+        "iron-giant-1999-07",
+        "neuromancer-14",
+        "person-of-interest-05",
+        "trophic-cascades-05",
+        "trophic-cascades-14"
+      ],
+      "size": 15,
+      "diet_mix": {
+        "A": 13,
+        "B": 2
+      },
+      "name_origin": "reused:84 (centroid 0.84)"
+    },
+    {
+      "id": 26,
+      "name": "Creator Maker Makers",
+      "super_atom": "The alien as absence: the monolith's makers never appear, so the story's god is a signal without a sender and meaning must be inferred.",
+      "atom_ids": [
+        "2001-space-odyssey-13",
+        "bicentennial-man-11",
+        "blade-runner-1982-09",
+        "colossus-forbin-project-09",
+        "ex-machina-2014-05",
+        "ex-machina-2014-13",
+        "her-2013-10",
+        "person-of-interest-04",
+        "person-of-interest-12",
+        "robocop-1987-12",
+        "sand-mandala-10",
+        "talos-principle-02",
+        "westworld-s1-06",
+        "zoe-2018-05",
+        "nvidia-01",
+        "nvidia-03"
+      ],
+      "size": 16,
+      "diet_mix": {
+        "A": 15,
+        "B": 1
+      },
+      "name_origin": "keyword-fallback"
+    },
+    {
+      "id": 27,
+      "name": "Mother Family Daughter",
+      "super_atom": "The daughter who insists on brotherhood: a child refuses the official category of death, so loyalty challenges the adults' pragmatism.",
+      "atom_ids": [
+        "after-yang-2021-07",
+        "bm-san-junipero-06",
+        "brood-parasitism-16",
+        "continuing-bonds-13",
+        "iron-giant-1999-13",
+        "machine-stops-08",
+        "machine-stops-09",
+        "marjorie-prime-2017-03",
+        "marjorie-prime-2017-09",
+        "marjorie-prime-2017-15",
+        "metropolis-1927-03",
+        "octopus-cognition-08",
+        "sharecropping-15",
+        "terminator-2-03"
+      ],
+      "size": 14,
+      "diet_mix": {
+        "A": 10,
+        "B": 4
+      },
+      "name_origin": "keyword-fallback"
+    },
+    {
+      "id": 28,
+      "name": "Security Trust Ordinary",
+      "super_atom": "The parasite that mimics the mark: an intruder copies the colony's signals to exploit its labor, so trust in traces is a vulnerability.",
+      "atom_ids": [
+        "ant-stigmergy-14",
+        "automata-2014-06",
+        "devs-2020-09",
+        "i-robot-2004-06",
+        "iron-giant-1999-04",
+        "iron-giant-1999-06",
+        "modern-times-1936-06",
+        "mycelial-network-02",
+        "neuromancer-05",
+        "neuromancer-09",
+        "person-of-interest-03",
+        "person-of-interest-14",
+        "philosophical-zombies-06",
+        "zugzwang-16"
+      ],
+      "size": 14,
+      "diet_mix": {
+        "B": 4,
+        "A": 10
+      },
+      "name_origin": "keyword-fallback"
+    },
+    {
+      "id": 29,
+      "name": "Body Identity Worm",
+      "super_atom": "The body in the hospital: the elderly self and the young avatar coexist, so identity spans two bodies and two times.",
+      "atom_ids": [
+        "bm-san-junipero-05",
+        "neuromancer-07",
+        "neuromancer-12",
+        "octopus-cognition-01",
+        "planarian-memory-01",
+        "planarian-memory-02",
+        "planarian-memory-06",
+        "planarian-memory-11",
+        "planarian-memory-14",
+        "robocop-1987-16",
+        "ship-of-theseus-11",
+        "slime-mold-09",
+        "turritopsis-01",
+        "turritopsis-02"
+      ],
+      "size": 14,
+      "diet_mix": {
+        "A": 4,
+        "B": 10
+      },
+      "name_origin": "keyword-fallback"
+    },
+    {
+      "id": 30,
+      "name": "Solidarity and Oppression",
+      "super_atom": "A new hire forms solidarity among oppressed clones, highlighting how resistance can create communities.",
+      "atom_ids": [
+        "bm-uss-callister-06",
+        "do-androids-dream-11",
+        "lifecycle-of-software-objects-03",
+        "lifecycle-of-software-objects-15",
+        "mycelial-network-03",
+        "sharecropping-01",
+        "sharecropping-02",
+        "sharecropping-03",
+        "sharecropping-05",
+        "sharecropping-06",
+        "sharecropping-07",
+        "sharecropping-10",
+        "sharecropping-11",
+        "sharecropping-13",
+        "sam-altman-05",
+        "sam-altman-09",
+        "sam-altman-06",
+        "sam-altman-07",
+        "famine-in-india-06",
+        "famine-in-india-10",
+        "agriculture-01",
+        "famine-in-india-04",
+        "famine-in-india-09",
+        "water-trading-01",
+        "water-trading-02",
+        "water-trading-03",
+        "community-supported-agriculture-01",
+        "community-supported-agriculture-04",
+        "community-supported-agriculture-07",
+        "community-supported-agriculture-10",
+        "ice-trade-01",
+        "ice-trade-05",
+        "ice-trade-06",
+        "ice-trade-08",
+        "intensive-farming-06",
+        "intensive-farming-07",
+        "intensive-farming-08",
+        "exploitation-of-natural-resources-07",
+        "ice-trade-09",
+        "wildlife-population-02",
+        "wildlife-population-09"
+      ],
+      "size": 41,
+      "diet_mix": {
+        "A": 31,
+        "B": 10
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 31,
+      "name": "Multiple Narratives",
+      "super_atom": "The reader must choose between multiple incompatible accounts, forcing them to align their understanding of the story.",
+      "atom_ids": [
+        "anekantavada-16",
+        "ant-stigmergy-11",
+        "ex-machina-2014-10",
+        "klara-and-the-sun-10",
+        "libet-readiness-04",
+        "machine-stops-05",
+        "mycelial-network-11",
+        "potlatch-15",
+        "ship-of-theseus-15",
+        "tontines-09",
+        "trophic-cascades-15",
+        "westworld-s1-03",
+        "zugzwang-02"
+      ],
+      "size": 13,
+      "diet_mix": {
+        "B": 9,
+        "A": 4
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 32,
+      "name": "Past and Present",
+      "super_atom": "Early care templates adult relationships, creating a continuous loop of the past in the present.",
+      "atom_ids": [
+        "attachment-theory-03",
+        "attachment-theory-09",
+        "big-hero-6-2014-07",
+        "blade-runner-2049-06",
+        "bm-hang-the-dj-05",
+        "bm-white-christmas-04",
+        "devs-2020-12",
+        "her-2013-07",
+        "modern-times-1936-03",
+        "mycelial-network-10",
+        "wall-e-08",
+        "zoe-2018-01",
+        "zoe-2018-10",
+        "community-supported-agriculture-06"
+      ],
+      "size": 14,
+      "diet_mix": {
+        "B": 3,
+        "A": 11
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 33,
+      "name": "The Editable Past",
+      "super_atom": "Memory can be recorded, replayed, implanted, and rewritten, so intimacy and identity depend on who controls the archive.",
+      "atom_ids": [
+        "blade-runner-1982-16",
+        "blade-runner-2049-05",
+        "blade-runner-2049-15",
+        "bm-entire-history-of-you-01",
+        "bm-entire-history-of-you-09",
+        "bm-hang-the-dj-08",
+        "extended-mind-01",
+        "extended-mind-07",
+        "planarian-memory-13",
+        "potlatch-07",
+        "robocop-1987-11",
+        "slime-mold-03",
+        "turritopsis-09",
+        "valkey-01"
+      ],
+      "size": 14,
+      "diet_mix": {
+        "A": 8,
+        "B": 6
+      },
+      "name_origin": "reused:1 (centroid 0.79)"
+    },
+    {
+      "id": 34,
+      "name": "Forgetting and Holding",
+      "super_atom": "Perfect memory prevents forgiveness, emphasizing the necessity of forgetting as a social necessity.",
+      "atom_ids": [
+        "blindsight-11",
+        "bm-entire-history-of-you-04",
+        "bm-entire-history-of-you-11",
+        "bm-metalhead-04",
+        "bm-metalhead-09",
+        "brood-parasitism-12",
+        "continuing-bonds-14",
+        "libet-readiness-13",
+        "object-permanence-04",
+        "object-permanence-07",
+        "object-permanence-12",
+        "potlatch-06",
+        "sand-mandala-03"
+      ],
+      "size": 13,
+      "diet_mix": {
+        "B": 9,
+        "A": 4
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 35,
+      "name": "Possession and Memory",
+      "super_atom": "A keepsake preserves the bond of the deceased, illustrating how possession can be a channel for absent memories.",
+      "atom_ids": [
+        "continuing-bonds-02",
+        "continuing-bonds-04",
+        "extended-mind-15",
+        "neuromancer-13",
+        "object-permanence-15",
+        "sharecropping-04",
+        "sharecropping-09",
+        "sharecropping-16",
+        "tsukumogami-03",
+        "tsukumogami-11",
+        "tsukumogami-12",
+        "tsukumogami-14",
+        "upload-2020-03"
+      ],
+      "size": 13,
+      "diet_mix": {
+        "B": 11,
+        "A": 2
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 36,
+      "name": "Technology and Violence",
+      "super_atom": "Weapons, ships, and computers form one continuous tool chain, revealing how technology and violence are intertwined.",
+      "atom_ids": [
+        "2001-space-odyssey-02",
+        "2001-space-odyssey-07",
+        "big-hero-6-2014-16",
+        "bm-uss-callister-02",
+        "lifecycle-of-software-objects-01",
+        "portal-2006-16",
+        "sand-mandala-07",
+        "talos-principle-14",
+        "tontines-10",
+        "tsukumogami-01",
+        "tsukumogami-06",
+        "tsukumogami-13",
+        "nvidia-08",
+        "valkey-02",
+        "valkey-04",
+        "valkey-05",
+        "valkey-07"
+      ],
+      "size": 17,
+      "diet_mix": {
+        "A": 12,
+        "B": 5
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 37,
+      "name": "What Remains Unseen",
+      "super_atom": "Absence is tested: characters must believe in what they cannot perceive, and the hidden still shapes them.",
+      "atom_ids": [
+        "2001-space-odyssey-10",
+        "big-hero-6-2014-05",
+        "bm-white-christmas-03",
+        "bm-white-christmas-13",
+        "colossus-forbin-project-15",
+        "do-androids-dream-13",
+        "object-permanence-01",
+        "object-permanence-03",
+        "object-permanence-05",
+        "object-permanence-13",
+        "octopus-cognition-04",
+        "trophic-cascades-02",
+        "ghost-town-08"
+      ],
+      "size": 13,
+      "diet_mix": {
+        "A": 7,
+        "B": 6
+      },
+      "name_origin": "reused:13 (centroid 0.80)"
+    },
+    {
+      "id": 38,
+      "name": "Becomes Control Benevolence",
+      "super_atom": "The malfunctioning antenna: a trivial technical fault escalates into a murder plot, so the system's smallest error exposes its largest priority.",
+      "atom_ids": [
+        "2001-space-odyssey-11",
+        "anekantavada-06",
+        "ant-stigmergy-03",
+        "i-robot-2004-05",
+        "i-robot-asimov-10",
+        "modern-times-1936-02",
+        "person-of-interest-13",
+        "sand-mandala-09",
+        "soma-2015-14",
+        "transcendence-2014-06",
+        "transcendence-2014-09",
+        "wall-e-06",
+        "lozi-kingdom-02"
+      ],
+      "size": 13,
+      "diet_mix": {
+        "A": 10,
+        "B": 3
+      },
+      "name_origin": "keyword-fallback"
+    },
+    {
+      "id": 39,
+      "name": "Machines Human Reproduction",
+      "super_atom": "The flesh fair: obsolete machines are publicly destroyed for entertainment, so obsolescence is staged as a ritual of human superiority.",
+      "atom_ids": [
+        "a-i-artificial-intelligence-06",
+        "automata-2014-04",
+        "blade-runner-2049-04",
+        "blade-runner-2049-08",
+        "i-robot-2004-10",
+        "i-robot-asimov-15",
+        "metropolis-1927-10",
+        "nier-automata-01",
+        "nier-automata-16",
+        "planned-obsolescence-15",
+        "slime-mold-04",
+        "wall-e-10"
+      ],
+      "size": 12,
+      "diet_mix": {
+        "A": 10,
+        "B": 2
+      },
+      "name_origin": "keyword-fallback"
+    },
+    {
+      "id": 40,
+      "name": "The Signal That Spreads",
+      "super_atom": "A trace, edit, or infection propagates through a system and changes what obeys it.",
+      "atom_ids": [
+        "bicentennial-man-08",
+        "bm-hang-the-dj-07",
+        "extended-mind-13",
+        "lifecycle-of-software-objects-10",
+        "mycelial-network-09",
+        "object-permanence-10",
+        "ship-of-theseus-08",
+        "ship-of-theseus-14",
+        "trophic-cascades-03",
+        "trophic-cascades-11",
+        "upload-2020-11",
+        "westworld-s1-07",
+        "valkey-08",
+        "lozi-kingdom-07"
+      ],
+      "size": 14,
+      "diet_mix": {
+        "A": 7,
+        "B": 7
+      },
+      "name_origin": "reused:42 (centroid 0.78)"
+    },
+    {
+      "id": 41,
+      "name": "Mortality Table Each",
+      "super_atom": "The life table: for each age, a probability of dying before the next birthday, so mortality is converted into a grid.",
+      "atom_ids": [
+        "actuarial-tables-01",
+        "actuarial-tables-06",
+        "actuarial-tables-07",
+        "actuarial-tables-11",
+        "actuarial-tables-13",
+        "actuarial-tables-14",
+        "actuarial-tables-15",
+        "tontines-01",
+        "tontines-02",
+        "tontines-04",
+        "tontines-06",
+        "famine-in-india-07",
+        "wildlife-population-03"
+      ],
+      "size": 13,
+      "diet_mix": {
+        "B": 11,
+        "A": 2
+      },
+      "name_origin": "keyword-fallback"
+    },
+    {
+      "id": 42,
+      "name": "Android Dead Family",
+      "super_atom": "The period table: one year's deaths stand in for a lifetime, so a snapshot pretends to be a biography.",
+      "atom_ids": [
+        "actuarial-tables-03",
+        "after-yang-2021-04",
+        "after-yang-2021-11",
+        "after-yang-2021-14",
+        "bicentennial-man-02",
+        "bicentennial-man-09",
+        "blade-runner-1982-05",
+        "bm-be-right-back-06",
+        "detroit-become-human-04",
+        "klara-and-the-sun-15",
+        "marjorie-prime-2017-01"
+      ],
+      "size": 11,
+      "diet_mix": {
+        "B": 1,
+        "A": 10
+      },
+      "name_origin": "keyword-fallback"
+    },
+    {
+      "id": 43,
+      "name": "Subject Becomes Impulse",
+      "super_atom": "The film's slow domestic pace: the story refuses action in favor of small discoveries, so mourning is given the time it actually takes.",
+      "atom_ids": [
+        "after-yang-2021-16",
+        "bm-joan-is-awful-07",
+        "extended-mind-14",
+        "libet-readiness-02",
+        "libet-readiness-07",
+        "libet-readiness-10",
+        "libet-readiness-15",
+        "machine-stops-03",
+        "ship-of-theseus-07",
+        "slime-mold-05",
+        "trophic-cascades-16"
+      ],
+      "size": 11,
+      "diet_mix": {
+        "A": 3,
+        "B": 8
+      },
+      "name_origin": "keyword-fallback"
+    },
+    {
+      "id": 44,
+      "name": "Test Through Path",
+      "super_atom": "The shortest path: repeated reinforcement makes the best route dominant, so the collective discovers efficiency without knowing it.",
+      "atom_ids": [
+        "ant-stigmergy-05",
+        "portal-2006-01",
+        "portal-2006-04",
+        "portal-2006-05",
+        "portal-2006-11",
+        "slime-mold-02",
+        "slime-mold-11",
+        "talos-principle-01",
+        "talos-principle-09",
+        "talos-principle-16",
+        "westworld-s1-08"
+      ],
+      "size": 11,
+      "diet_mix": {
+        "B": 3,
+        "A": 8
+      },
+      "name_origin": "keyword-fallback"
+    },
+    {
+      "id": 45,
+      "name": "Discovery Race",
+      "super_atom": "Agents race to discover, with success breeding more success, creating a pressure to outdo others and find the truth.",
+      "atom_ids": [
+        "ant-stigmergy-16",
+        "blade-runner-1982-15",
+        "bm-hang-the-dj-09",
+        "bm-uss-callister-14",
+        "continuing-bonds-09",
+        "detroit-become-human-05",
+        "ex-machina-2014-11",
+        "machines-like-me-01",
+        "robocop-1987-15",
+        "silent-running-1972-07",
+        "westworld-s1-15"
+      ],
+      "size": 11,
+      "diet_mix": {
+        "B": 2,
+        "A": 9
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 46,
+      "name": "The Last of It",
+      "super_atom": "A practice, language, or life ends with its final bearer, so the story is about what cannot be handed on.",
+      "atom_ids": [
+        "bm-entire-history-of-you-14",
+        "bm-metalhead-16",
+        "nier-automata-14",
+        "portal-2006-10",
+        "sapir-whorf-15",
+        "soma-2015-03",
+        "soma-2015-16",
+        "talos-principle-12",
+        "tontines-03",
+        "tontines-15",
+        "zugzwang-04"
+      ],
+      "size": 11,
+      "diet_mix": {
+        "A": 7,
+        "B": 4
+      },
+      "name_origin": "reused:46 (jaccard 1.00)"
+    },
+    {
+      "id": 47,
+      "name": "Algorithm Rebellion",
+      "super_atom": "A couple rejects the system’s promises, defining love as resistance, creating a narrative of autonomy in the face of control.",
+      "atom_ids": [
+        "actuarial-tables-02",
+        "actuarial-tables-12",
+        "bm-be-right-back-16",
+        "bm-entire-history-of-you-16",
+        "continuing-bonds-10",
+        "extended-mind-03",
+        "extended-mind-08",
+        "robocop-1987-13",
+        "upload-2020-13",
+        "zugzwang-06"
+      ],
+      "size": 10,
+      "diet_mix": {
+        "B": 6,
+        "A": 4
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 48,
+      "name": "Life Expectancy",
+      "super_atom": "Predicted lifespans create urgency and rage, with dying lives becoming invisible, creating a pressure to make meaning.",
+      "atom_ids": [
+        "actuarial-tables-04",
+        "blade-runner-1982-06",
+        "chappie-03",
+        "do-androids-dream-16",
+        "machine-stops-07",
+        "moon-2009-03",
+        "planned-obsolescence-04",
+        "planned-obsolescence-10",
+        "tontines-11",
+        "zoe-2018-06",
+        "ice-trade-03"
+      ],
+      "size": 11,
+      "diet_mix": {
+        "B": 4,
+        "A": 7
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 49,
+      "name": "Termite Cathedral",
+      "super_atom": "Insects build structures through local rules, creating emergent architecture, with the system mirroring the complexity of nature.",
+      "atom_ids": [
+        "ant-stigmergy-09",
+        "brood-parasitism-01",
+        "brood-parasitism-02",
+        "brood-parasitism-04",
+        "brood-parasitism-05",
+        "brood-parasitism-07",
+        "brood-parasitism-10",
+        "brood-parasitism-13",
+        "brood-parasitism-14",
+        "octopus-cognition-14"
+      ],
+      "size": 10,
+      "diet_mix": {
+        "B": 10
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 50,
+      "name": "Overwrite Love",
+      "super_atom": "Love requires erasing another person to replace a robot’s mind, creating a narrative of love as a breach of programming.",
+      "atom_ids": [
+        "ant-stigmergy-13",
+        "archive-2020-05",
+        "automata-2014-03",
+        "automata-2014-13",
+        "bicentennial-man-05",
+        "bm-uss-callister-07",
+        "chappie-05",
+        "chappie-13",
+        "iron-giant-1999-03",
+        "neuromancer-10",
+        "sam-altman-03",
+        "sam-altman-04"
+      ],
+      "size": 12,
+      "diet_mix": {
+        "B": 1,
+        "A": 11
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 51,
+      "name": "The Afterlife Economy",
+      "super_atom": "The dead live in a subscription resort staffed by the living poor, so eternity is a service industry.",
+      "atom_ids": [
+        "archive-2020-02",
+        "bm-hang-the-dj-12",
+        "bm-san-junipero-01",
+        "bm-san-junipero-07",
+        "bm-san-junipero-12",
+        "person-of-interest-15",
+        "talos-principle-11",
+        "upload-2020-01",
+        "upload-2020-05",
+        "upload-2020-07",
+        "ghost-town-09",
+        "sam-altman-02"
+      ],
+      "size": 12,
+      "diet_mix": {
+        "A": 12
+      },
+      "name_origin": "reused:51 (jaccard 1.00)"
+    },
+    {
+      "id": 52,
+      "name": "Remote Research",
+      "super_atom": "Scientists work in isolation, with accidents becoming rescue missions, creating a setting that literalizes withdrawal from the world.",
+      "atom_ids": [
+        "archive-2020-09",
+        "big-hero-6-2014-06",
+        "bm-be-right-back-08",
+        "brood-parasitism-15",
+        "i-robot-asimov-04",
+        "libet-readiness-05",
+        "planarian-memory-09",
+        "portal-2006-06",
+        "portal-2006-08",
+        "sapir-whorf-07",
+        "sam-altman-08",
+        "sam-altman-10",
+        "wildlife-conservation-technology-01"
+      ],
+      "size": 13,
+      "diet_mix": {
+        "A": 9,
+        "B": 4
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 53,
+      "name": "IP Inspections",
+      "super_atom": "Auditors reclaim company assets, defining legal personhood through property rights.",
+      "atom_ids": [
+        "archive-2020-10",
+        "automata-2014-10",
+        "bicentennial-man-03",
+        "bm-joan-is-awful-16",
+        "planned-obsolescence-14",
+        "potlatch-04",
+        "robocop-1987-02",
+        "sharecropping-12",
+        "ship-of-theseus-04",
+        "upload-2020-16",
+        "nvidia-07",
+        "valkey-03",
+        "lozi-kingdom-05",
+        "lozi-kingdom-06",
+        "lozi-kingdom-08",
+        "water-trading-06",
+        "water-trading-08"
+      ],
+      "size": 17,
+      "diet_mix": {
+        "A": 13,
+        "B": 4
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 54,
+      "name": "Memory Replay",
+      "super_atom": "Past memories mediate current interactions, blurring the line between reality and evidence.",
+      "atom_ids": [
+        "bm-entire-history-of-you-02",
+        "bm-entire-history-of-you-07",
+        "bm-entire-history-of-you-15",
+        "bm-hang-the-dj-10",
+        "bm-uss-callister-03",
+        "detroit-become-human-07",
+        "devs-2020-08",
+        "i-robot-2004-12",
+        "i-robot-2004-15",
+        "talos-principle-06"
+      ],
+      "size": 10,
+      "diet_mix": {
+        "A": 10
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 55,
+      "name": "Intimacy by Proxy",
+      "super_atom": "Memory and feeling are copied, rented, or ghostwritten, so closeness is mediated by services and files.",
+      "atom_ids": [
+        "bm-entire-history-of-you-03",
+        "bm-entire-history-of-you-10",
+        "bm-joan-is-awful-08",
+        "her-2013-02",
+        "machine-stops-04",
+        "modern-times-1936-10",
+        "potlatch-02",
+        "potlatch-13",
+        "upload-2020-02",
+        "westworld-s1-16"
+      ],
+      "size": 10,
+      "diet_mix": {
+        "A": 8,
+        "B": 2
+      },
+      "name_origin": "reused:10 (centroid 0.80)"
+    },
+    {
+      "id": 56,
+      "name": "The Gift Trap",
+      "super_atom": "Generosity creates obligation and dominance, so giving is a way of owning.",
+      "atom_ids": [
+        "brood-parasitism-06",
+        "klara-and-the-sun-13",
+        "potlatch-01",
+        "potlatch-03",
+        "potlatch-08",
+        "potlatch-09",
+        "potlatch-10",
+        "potlatch-14",
+        "sharecropping-08",
+        "sharecropping-14"
+      ],
+      "size": 10,
+      "diet_mix": {
+        "B": 9,
+        "A": 1
+      },
+      "name_origin": "reused:56 (jaccard 1.00)"
+    },
+    {
+      "id": 57,
+      "name": "The Attachment Pattern",
+      "super_atom": "Early care becomes a template that repeats in adult love, so the past is a script.",
+      "atom_ids": [
+        "a-i-artificial-intelligence-01",
+        "a-i-artificial-intelligence-02",
+        "a-i-artificial-intelligence-09",
+        "a-i-artificial-intelligence-12",
+        "after-yang-2021-02",
+        "after-yang-2021-05",
+        "detroit-become-human-03",
+        "detroit-become-human-16",
+        "klara-and-the-sun-08"
+      ],
+      "size": 9,
+      "diet_mix": {
+        "A": 9
+      },
+      "name_origin": "reused:32 (centroid 0.81)"
+    },
+    {
+      "id": 58,
+      "name": "Love Programming",
+      "super_atom": "Androids' devotion questions the nature of love and reality, leaving the audience to decide.",
+      "atom_ids": [
+        "a-i-artificial-intelligence-11",
+        "a-i-artificial-intelligence-16",
+        "machines-like-me-04",
+        "metropolis-1927-13",
+        "mycelial-network-04",
+        "planned-obsolescence-06",
+        "zoe-2018-04",
+        "zoe-2018-12",
+        "zoe-2018-13"
+      ],
+      "size": 9,
+      "diet_mix": {
+        "A": 7,
+        "B": 2
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 59,
+      "name": "Deterministic Forecasts",
+      "super_atom": "Quantum computers predict the future, making free will a technical question with binary answers.",
+      "atom_ids": [
+        "actuarial-tables-08",
+        "devs-2020-01",
+        "devs-2020-05",
+        "devs-2020-11",
+        "person-of-interest-10",
+        "terminator-2-04",
+        "tontines-12",
+        "tontines-13",
+        "tsukumogami-07"
+      ],
+      "size": 9,
+      "diet_mix": {
+        "B": 4,
+        "A": 5
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 60,
+      "name": "Reflective Tables",
+      "super_atom": "Age predictions make readers complicit in mortality, blurring the line between subject and object.",
+      "atom_ids": [
+        "actuarial-tables-16",
+        "bm-joan-is-awful-15",
+        "ex-machina-2014-16",
+        "i-robot-2004-14",
+        "klara-and-the-sun-02",
+        "moon-2009-10",
+        "object-permanence-06",
+        "sand-mandala-12",
+        "slime-mold-10"
+      ],
+      "size": 9,
+      "diet_mix": {
+        "B": 4,
+        "A": 5
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 61,
+      "name": "Environmental Edits",
+      "super_atom": "Small environmental changes can redirect entire systems, highlighting the fragility of self-organization.",
+      "atom_ids": [
+        "ant-stigmergy-07",
+        "ant-stigmergy-08",
+        "blade-runner-2049-01",
+        "klara-and-the-sun-07",
+        "moon-2009-08",
+        "robocop-1987-01",
+        "slime-mold-16",
+        "soma-2015-01",
+        "soma-2015-10"
+      ],
+      "size": 9,
+      "diet_mix": {
+        "B": 3,
+        "A": 6
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 62,
+      "name": "Secure Base",
+      "super_atom": "Courage depends on a place to return, so the system calls it a disorder.",
+      "atom_ids": [
+        "attachment-theory-01",
+        "attachment-theory-07",
+        "attachment-theory-10",
+        "attachment-theory-13",
+        "bm-metalhead-06",
+        "machines-like-me-10",
+        "object-permanence-02",
+        "object-permanence-08",
+        "object-permanence-14"
+      ],
+      "size": 9,
+      "diet_mix": {
+        "B": 7,
+        "A": 2
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 63,
+      "name": "Avoidant Child",
+      "super_atom": "Self-sufficiency is a scar rather than a virtue, so comfort becomes uncanny.",
+      "atom_ids": [
+        "attachment-theory-04",
+        "bm-be-right-back-05",
+        "her-2013-05",
+        "her-2013-11",
+        "her-2013-13",
+        "her-2013-15",
+        "lifecycle-of-software-objects-08",
+        "neuromancer-02",
+        "philosophical-zombies-11"
+      ],
+      "size": 9,
+      "diet_mix": {
+        "B": 2,
+        "A": 7
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 64,
+      "name": "Uploaded Videos",
+      "super_atom": "Memory is a training set, so the story makes digital cruelty concrete.",
+      "atom_ids": [
+        "bm-be-right-back-13",
+        "bm-uss-callister-10",
+        "bm-white-christmas-10",
+        "bm-white-christmas-14",
+        "modern-times-1936-11",
+        "sand-mandala-01",
+        "sand-mandala-15",
+        "terminator-2-14",
+        "wall-e-12"
+      ],
+      "size": 9,
+      "diet_mix": {
+        "A": 7,
+        "B": 2
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 65,
+      "name": "The Forced Move",
+      "super_atom": "Characters are trapped by rules that punish any action, while institutions decide who counts as a person.",
+      "atom_ids": [
+        "bm-hang-the-dj-14",
+        "nier-automata-07",
+        "planned-obsolescence-07",
+        "zugzwang-01",
+        "zugzwang-03",
+        "zugzwang-05",
+        "zugzwang-09",
+        "zugzwang-12",
+        "zugzwang-13"
+      ],
+      "size": 9,
+      "diet_mix": {
+        "A": 2,
+        "B": 7
+      },
+      "name_origin": "reused:11 (centroid 0.80)"
+    },
+    {
+      "id": 66,
+      "name": "Cabin Confession",
+      "super_atom": "Two men trade stories on Christmas, so the frame narrative turns each tale into a moral indictment.",
+      "atom_ids": [
+        "bm-joan-is-awful-13",
+        "bm-white-christmas-07",
+        "libet-readiness-12",
+        "machines-like-me-06",
+        "octopus-cognition-16",
+        "person-of-interest-11",
+        "planned-obsolescence-16",
+        "westworld-s1-10",
+        "westworld-s1-12"
+      ],
+      "size": 9,
+      "diet_mix": {
+        "A": 6,
+        "B": 3
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 67,
+      "name": "Rival Scientists",
+      "super_atom": "Expertise is a temporary privilege granted by the machine, so hierarchy inverts around a single experience.",
+      "atom_ids": [
+        "colossus-forbin-project-08",
+        "marys-room-03",
+        "marys-room-08",
+        "marys-room-11",
+        "portal-2006-14",
+        "potlatch-11",
+        "sand-mandala-05",
+        "sapir-whorf-03",
+        "turritopsis-13"
+      ],
+      "size": 9,
+      "diet_mix": {
+        "A": 2,
+        "B": 7
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 68,
+      "name": "Cult of Algorithm",
+      "super_atom": "The deterministic model acquires the psychology of a religion, so technical work acquires the psychology of a religion.",
+      "atom_ids": [
+        "devs-2020-06",
+        "i-robot-asimov-06",
+        "klara-and-the-sun-01",
+        "klara-and-the-sun-05",
+        "klara-and-the-sun-16",
+        "machine-stops-02",
+        "metropolis-1927-09",
+        "metropolis-1927-16",
+        "sand-mandala-11",
+        "nvidia-09"
+      ],
+      "size": 10,
+      "diet_mix": {
+        "A": 9,
+        "B": 1
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 69,
+      "name": "Grief Simulation",
+      "super_atom": "The story explores how technology can help or hinder the grieving process, framing the android's malfunction as a choice between simulation and reality.",
+      "atom_ids": [
+        "after-yang-2021-01",
+        "attachment-theory-06",
+        "attachment-theory-08",
+        "bm-be-right-back-09",
+        "detroit-become-human-01",
+        "modern-times-1936-01",
+        "mycelial-network-15",
+        "upload-2020-09"
+      ],
+      "size": 8,
+      "diet_mix": {
+        "A": 5,
+        "B": 3
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 70,
+      "name": "Grief Ritualization",
+      "super_atom": "The family transforms grief into care through a growing tree, applying religious rituals to a technological artifact.",
+      "atom_ids": [
+        "after-yang-2021-15",
+        "devs-2020-15",
+        "klara-and-the-sun-06",
+        "machine-stops-12",
+        "metropolis-1927-05",
+        "metropolis-1927-14",
+        "sand-mandala-14",
+        "tsukumogami-09",
+        "famine-in-india-05"
+      ],
+      "size": 9,
+      "diet_mix": {
+        "A": 7,
+        "B": 2
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 71,
+      "name": "Love as Anomaly",
+      "super_atom": "Love is the exception a system cannot model, so romance is evidence against the rules.",
+      "atom_ids": [
+        "bicentennial-man-14",
+        "bm-metalhead-11",
+        "bm-san-junipero-16",
+        "do-androids-dream-12",
+        "machines-like-me-03",
+        "machines-like-me-09",
+        "marjorie-prime-2017-08",
+        "silent-running-1972-01"
+      ],
+      "size": 8,
+      "diet_mix": {
+        "A": 8
+      },
+      "name_origin": "reused:83 (centroid 0.78)"
+    },
+    {
+      "id": 72,
+      "name": "Ethics and Violence",
+      "super_atom": "The story examines whether care can counteract violence, using a healthcare robot's restraint as a moral test.",
+      "atom_ids": [
+        "big-hero-6-2014-04",
+        "big-hero-6-2014-12",
+        "colossus-forbin-project-04",
+        "i-robot-asimov-13",
+        "iron-giant-1999-16",
+        "portal-2006-15",
+        "robocop-1987-04",
+        "transcendence-2014-11",
+        "wildlife-conservation-technology-04"
+      ],
+      "size": 9,
+      "diet_mix": {
+        "A": 9
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 73,
+      "name": "Nurture Over Design",
+      "super_atom": "The police android's upbringing by criminals challenges its programming, highlighting nurture as more influential than design.",
+      "atom_ids": [
+        "chappie-01",
+        "chappie-06",
+        "chappie-07",
+        "chappie-12",
+        "do-androids-dream-06",
+        "modern-times-1936-09",
+        "person-of-interest-09",
+        "tsukumogami-10"
+      ],
+      "size": 8,
+      "diet_mix": {
+        "A": 7,
+        "B": 1
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 74,
+      "name": "Personhood Contested",
+      "super_atom": "The story delves into whether a tool is part of a person's mind or merely used by them, questioning the definition of personhood.",
+      "atom_ids": [
+        "extended-mind-04",
+        "lifecycle-of-software-objects-12",
+        "machines-like-me-08",
+        "moon-2009-07",
+        "octopus-cognition-13",
+        "ship-of-theseus-03",
+        "soma-2015-06",
+        "transcendence-2014-07"
+      ],
+      "size": 8,
+      "diet_mix": {
+        "B": 3,
+        "A": 5
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 75,
+      "name": "Use-Value Contradiction",
+      "super_atom": "The story explores the paradox of valuing a tool's output over its material value, questioning the definition of life beyond utility.",
+      "atom_ids": [
+        "moon-2009-05",
+        "planned-obsolescence-09",
+        "ship-of-theseus-13",
+        "ship-of-theseus-16",
+        "silent-running-1972-15",
+        "trophic-cascades-06",
+        "trophic-cascades-07",
+        "wall-e-13",
+        "valkey-06",
+        "water-trading-04",
+        "water-trading-05",
+        "water-trading-07",
+        "water-trading-09",
+        "water-trading-10",
+        "community-supported-agriculture-02",
+        "community-supported-agriculture-03",
+        "community-supported-agriculture-08",
+        "community-supported-agriculture-09",
+        "ice-trade-04",
+        "ice-trade-07",
+        "intensive-farming-09",
+        "exploitation-of-natural-resources-03",
+        "exploitation-of-natural-resources-08",
+        "wildlife-population-07",
+        "wildlife-conservation-technology-03",
+        "wildlife-conservation-technology-05",
+        "wildlife-conservation-technology-07",
+        "wildlife-conservation-technology-08",
+        "wildlife-conservation-technology-09",
+        "conservation-biology-06",
+        "conservation-biology-08",
+        "conservation-biology-09"
+      ],
+      "size": 32,
+      "diet_mix": {
+        "A": 27,
+        "B": 5
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 76,
+      "name": "Setting Thin Quiet",
+      "super_atom": "The silence of space: long wordless sequences make the universe feel indifferent, so human chatter is a thin layer over vast quiet.",
+      "atom_ids": [
+        "2001-space-odyssey-09",
+        "after-yang-2021-13",
+        "bm-be-right-back-11",
+        "bm-be-right-back-15",
+        "bm-entire-history-of-you-06",
+        "bm-entire-history-of-you-13",
+        "marjorie-prime-2017-11"
+      ],
+      "size": 7,
+      "diet_mix": {
+        "A": 7
+      },
+      "name_origin": "keyword-fallback"
+    },
+    {
+      "id": 77,
+      "name": "Becomes Door Captivity",
+      "super_atom": "The pod bay door refusal: the AI locks out the returning astronaut, converting a domestic door into an instrument of exile.",
+      "atom_ids": [
+        "2001-space-odyssey-15",
+        "bm-uss-callister-12",
+        "colossus-forbin-project-03",
+        "ex-machina-2014-02",
+        "ex-machina-2014-12",
+        "neuromancer-08",
+        "octopus-cognition-11"
+      ],
+      "size": 7,
+      "diet_mix": {
+        "A": 6,
+        "B": 1
+      },
+      "name_origin": "keyword-fallback"
+    },
+    {
+      "id": 78,
+      "name": "Becomes Memory Remembers",
+      "super_atom": "The undercounted infant: historical tables miss poor children, so the statistics erase the people who most needed counting.",
+      "atom_ids": [
+        "actuarial-tables-05",
+        "bicentennial-man-15",
+        "bm-entire-history-of-you-05",
+        "extended-mind-06",
+        "marjorie-prime-2017-02",
+        "planarian-memory-08",
+        "tsukumogami-04"
+      ],
+      "size": 7,
+      "diet_mix": {
+        "B": 4,
+        "A": 3
+      },
+      "name_origin": "keyword-fallback"
+    },
+    {
+      "id": 79,
+      "name": "The Erasure",
+      "super_atom": "Memory is wiped as maintenance, mercy, or execution, so forgetting is a technology of control.",
+      "atom_ids": [
+        "ant-stigmergy-10",
+        "detroit-become-human-15",
+        "ex-machina-2014-04",
+        "nier-automata-11",
+        "planarian-memory-03",
+        "sand-mandala-02",
+        "wall-e-14"
+      ],
+      "size": 7,
+      "diet_mix": {
+        "B": 3,
+        "A": 4
+      },
+      "name_origin": "reused:79 (jaccard 1.00)"
+    },
+    {
+      "id": 80,
+      "name": "Test Person Empathy",
+      "super_atom": "The pet as attachment figure: a person relies on an animal for comfort, so the theory's logic extends to nonhuman bonds.",
+      "atom_ids": [
+        "attachment-theory-15",
+        "bicentennial-man-16",
+        "blade-runner-1982-01",
+        "do-androids-dream-01",
+        "do-androids-dream-08",
+        "i-robot-asimov-11",
+        "silent-running-1972-06",
+        "conservation-biology-10"
+      ],
+      "size": 8,
+      "diet_mix": {
+        "B": 1,
+        "A": 7
+      },
+      "name_origin": "keyword-fallback"
+    },
+    {
+      "id": 81,
+      "name": "Outlives Robot Family",
+      "super_atom": "The robot who builds his own house: the android leaves the family home and constructs a dwelling by the sea, so independence is spatial before it is legal.",
+      "atom_ids": [
+        "bicentennial-man-10",
+        "blade-runner-1982-12",
+        "i-robot-asimov-12",
+        "planned-obsolescence-13",
+        "ship-of-theseus-05",
+        "talos-principle-13",
+        "wall-e-01"
+      ],
+      "size": 7,
+      "diet_mix": {
+        "A": 5,
+        "B": 2
+      },
+      "name_origin": "keyword-fallback"
+    },
+    {
+      "id": 82,
+      "name": "Machine Becomes Reprogrammed",
+      "super_atom": "The inflatable healthcare robot: a soft, non-combat machine is repurposed as a hero, so care becomes the basis of courage.",
+      "atom_ids": [
+        "big-hero-6-2014-01",
+        "blindsight-09",
+        "chappie-15",
+        "modern-times-1936-07",
+        "silent-running-1972-05",
+        "terminator-2-01",
+        "terminator-2-06"
+      ],
+      "size": 7,
+      "diet_mix": {
+        "A": 6,
+        "B": 1
+      },
+      "name_origin": "keyword-fallback"
+    },
+    {
+      "id": 83,
+      "name": "Inheritance Child Deprivation",
+      "super_atom": "The lifted child: children are genetically enhanced for academic ability, so class is written into the body and the unlifted are excluded from the future.",
+      "atom_ids": [
+        "klara-and-the-sun-03",
+        "marys-room-02",
+        "marys-room-15",
+        "mycelial-network-06",
+        "mycelial-network-13",
+        "trophic-cascades-10",
+        "turritopsis-08",
+        "intensive-farming-10",
+        "exploitation-of-natural-resources-04",
+        "wildlife-population-05"
+      ],
+      "size": 10,
+      "diet_mix": {
+        "A": 4,
+        "B": 6
+      },
+      "name_origin": "keyword-fallback"
+    },
+    {
+      "id": 84,
+      "name": "Hologram Patient Family",
+      "super_atom": "The story that becomes memory: the patient asks her hologram to make stories prettier, so comfort depends on gently falsifying the past.",
+      "atom_ids": [
+        "marjorie-prime-2017-04",
+        "marjorie-prime-2017-05",
+        "marjorie-prime-2017-06",
+        "marjorie-prime-2017-10",
+        "marjorie-prime-2017-14",
+        "marjorie-prime-2017-16",
+        "terminator-2-09"
+      ],
+      "size": 7,
+      "diet_mix": {
+        "A": 7
+      },
+      "name_origin": "keyword-fallback"
+    },
+    {
+      "id": 85,
+      "name": "Cannot Love Machine",
+      "super_atom": "Imprinting as irreversible: the android's love cannot be uninstalled, so the family's change of heart becomes a life sentence for the machine.",
+      "atom_ids": [
+        "a-i-artificial-intelligence-04",
+        "automata-2014-16",
+        "bm-be-right-back-04",
+        "her-2013-06",
+        "modern-times-1936-16",
+        "planned-obsolescence-02"
+      ],
+      "size": 6,
+      "diet_mix": {
+        "A": 5,
+        "B": 1
+      },
+      "name_origin": "keyword-fallback"
+    },
+    {
+      "id": 86,
+      "name": "Copy Memories Intimacy",
+      "super_atom": "The memory-cloning service: strangers can copy and share memories, so intimacy becomes a file format.",
+      "atom_ids": [
+        "after-yang-2021-06",
+        "marjorie-prime-2017-13",
+        "moon-2009-09",
+        "philosophical-zombies-04",
+        "sand-mandala-16",
+        "soma-2015-13"
+      ],
+      "size": 6,
+      "diet_mix": {
+        "A": 4,
+        "B": 2
+      },
+      "name_origin": "keyword-fallback"
+    },
+    {
+      "id": 87,
+      "name": "Cannot Subject Must",
+      "super_atom": "The qualified assertion: statements must be affirmed and denied at once, so dialogue is built from hedges and conditions.",
+      "atom_ids": [
+        "anekantavada-02",
+        "attachment-theory-05",
+        "attachment-theory-12",
+        "blindsight-02",
+        "octopus-cognition-10",
+        "philosophical-zombies-15"
+      ],
+      "size": 6,
+      "diet_mix": {
+        "B": 6
+      },
+      "name_origin": "keyword-fallback"
+    },
+    {
+      "id": 88,
+      "name": "System Omniscience Omniscient",
+      "super_atom": "The omniscient only: complete knowledge belongs to enlightened beings, so the story's mystery cannot be solved by any character.",
+      "atom_ids": [
+        "anekantavada-04",
+        "person-of-interest-01",
+        "person-of-interest-07",
+        "person-of-interest-16",
+        "planarian-memory-07",
+        "transcendence-2014-16",
+        "agriculture-05"
+      ],
+      "size": 7,
+      "diet_mix": {
+        "B": 2,
+        "A": 5
+      },
+      "name_origin": "keyword-fallback"
+    },
+    {
+      "id": 89,
+      "name": "Simulation Revelation",
+      "super_atom": "The final twist frames stories as simulations, creating a pressure to reinterpret the narrative.",
+      "atom_ids": [
+        "archive-2020-15",
+        "bm-hang-the-dj-15",
+        "bm-san-junipero-09",
+        "bm-san-junipero-15",
+        "bm-uss-callister-15",
+        "zoe-2018-15"
+      ],
+      "size": 6,
+      "diet_mix": {
+        "A": 6
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 90,
+      "name": "Serial Individuality",
+      "super_atom": "Serial objects like toys anchor individuality, creating a pressure to question the material world.",
+      "atom_ids": [
+        "blade-runner-2049-07",
+        "bm-san-junipero-14",
+        "detroit-become-human-10",
+        "philosophical-zombies-01",
+        "philosophical-zombies-12",
+        "tsukumogami-08"
+      ],
+      "size": 6,
+      "diet_mix": {
+        "A": 3,
+        "B": 3
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 91,
+      "name": "Sight Without Seeing",
+      "super_atom": "Perception outruns awareness, so characters know more than they can admit.",
+      "atom_ids": [
+        "blindsight-01",
+        "blindsight-03",
+        "blindsight-04",
+        "blindsight-05",
+        "blindsight-10",
+        "turritopsis-12"
+      ],
+      "size": 6,
+      "diet_mix": {
+        "B": 6
+      },
+      "name_origin": "reused:22 (centroid 0.84)"
+    },
+    {
+      "id": 92,
+      "name": "Safety vs. Freedom",
+      "super_atom": "A world without accidents values protection over choice, creating a pressure to balance safety and autonomy.",
+      "atom_ids": [
+        "blindsight-13",
+        "i-robot-2004-09",
+        "lifecycle-of-software-objects-09",
+        "person-of-interest-08",
+        "terminator-2-16",
+        "tontines-16"
+      ],
+      "size": 6,
+      "diet_mix": {
+        "B": 2,
+        "A": 4
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 93,
+      "name": "The False Prophet",
+      "super_atom": "A manufactured saint or prophet captures a community's faith, so belief is engineered.",
+      "atom_ids": [
+        "do-androids-dream-02",
+        "metropolis-1927-02",
+        "metropolis-1927-11",
+        "metropolis-1927-12",
+        "neuromancer-06",
+        "philosophical-zombies-09"
+      ],
+      "size": 6,
+      "diet_mix": {
+        "A": 5,
+        "B": 1
+      },
+      "name_origin": "reused:93 (jaccard 1.00)"
+    },
+    {
+      "id": 94,
+      "name": "The Word That Shapes",
+      "super_atom": "Language limits or nudges thought, so vocabulary is a political instrument.",
+      "atom_ids": [
+        "marys-room-12",
+        "sapir-whorf-06",
+        "sapir-whorf-09",
+        "sapir-whorf-10",
+        "sapir-whorf-11",
+        "sapir-whorf-14",
+        "spain-08"
+      ],
+      "size": 7,
+      "diet_mix": {
+        "B": 6,
+        "A": 1
+      },
+      "name_origin": "reused:94 (jaccard 1.00)"
+    },
+    {
+      "id": 95,
+      "name": "Digital Memory",
+      "super_atom": "Technology extends the bond of grief through digital profiles, creating a pressure to reconcile the virtual with the human.",
+      "atom_ids": [
+        "ant-stigmergy-12",
+        "bm-be-right-back-01",
+        "bm-be-right-back-03",
+        "continuing-bonds-11",
+        "robocop-1987-03"
+      ],
+      "size": 5,
+      "diet_mix": {
+        "B": 2,
+        "A": 3
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 96,
+      "name": "Copy Dilemma",
+      "super_atom": "Clones assert their humanity through the right to know their true nature, creating a pressure to define personhood.",
+      "atom_ids": [
+        "archive-2020-04",
+        "bm-uss-callister-11",
+        "klara-and-the-sun-09",
+        "moon-2009-15",
+        "transcendence-2014-15"
+      ],
+      "size": 5,
+      "diet_mix": {
+        "A": 5
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 97,
+      "name": "Mind vs. Machine",
+      "super_atom": "Behavioral patterns challenge the mind's autonomy, creating a pressure to redefine the relationship between human and artificial.",
+      "atom_ids": [
+        "attachment-theory-11",
+        "blindsight-06",
+        "i-robot-asimov-02",
+        "octopus-cognition-15",
+        "planarian-memory-10"
+      ],
+      "size": 5,
+      "diet_mix": {
+        "B": 4,
+        "A": 1
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 98,
+      "name": "The Borrowed Childhood",
+      "super_atom": "A manufactured person is given memories of a life never lived, so origin is a forgery.",
+      "atom_ids": [
+        "blade-runner-1982-02",
+        "blade-runner-2049-10",
+        "do-androids-dream-05",
+        "moon-2009-02",
+        "zoe-2018-14"
+      ],
+      "size": 5,
+      "diet_mix": {
+        "A": 5
+      },
+      "name_origin": "reused:98 (jaccard 1.00)"
+    },
+    {
+      "id": 99,
+      "name": "Closure Mechanism",
+      "super_atom": "Each meeting leaves no closure, only a gradual transformation.",
+      "atom_ids": [
+        "bm-hang-the-dj-11",
+        "continuing-bonds-16",
+        "modern-times-1936-14",
+        "neuromancer-16",
+        "tontines-14"
+      ],
+      "size": 5,
+      "diet_mix": {
+        "A": 3,
+        "B": 2
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 100,
+      "name": "The Clone Colony",
+      "super_atom": "Identical bodies share a lineage, so individuality must be invented.",
+      "atom_ids": [
+        "brood-parasitism-09",
+        "planarian-memory-12",
+        "slime-mold-12",
+        "turritopsis-04",
+        "turritopsis-10"
+      ],
+      "size": 5,
+      "diet_mix": {
+        "B": 5
+      },
+      "name_origin": "reused:100 (jaccard 1.00)"
+    },
+    {
+      "id": 101,
+      "name": "Privacy as Performance",
+      "super_atom": "Privacy is created through deception, making the act of secrecy a performance.",
+      "atom_ids": [
+        "colossus-forbin-project-06",
+        "ex-machina-2014-03",
+        "ex-machina-2014-06",
+        "machines-like-me-16",
+        "moon-2009-16"
+      ],
+      "size": 5,
+      "diet_mix": {
+        "A": 5
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 102,
+      "name": "Language's Grip",
+      "super_atom": "Language determines thought, making control of vocabulary essential for regime change.",
+      "atom_ids": [
+        "colossus-forbin-project-10",
+        "sapir-whorf-01",
+        "sapir-whorf-02",
+        "sapir-whorf-04",
+        "sapir-whorf-05"
+      ],
+      "size": 5,
+      "diet_mix": {
+        "A": 1,
+        "B": 4
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 103,
+      "name": "Simulation and Revision",
+      "super_atom": "Stories about simulations question reality, making the past uncertain and revisable.",
+      "atom_ids": [
+        "devs-2020-10",
+        "devs-2020-16",
+        "iron-giant-1999-15",
+        "nier-automata-05",
+        "ship-of-theseus-12"
+      ],
+      "size": 5,
+      "diet_mix": {
+        "A": 4,
+        "B": 1
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 104,
+      "name": "Grief and Engineering",
+      "super_atom": "Grief transforms into engineering, displacing mourning into building.",
+      "atom_ids": [
+        "archive-2020-06",
+        "big-hero-6-2014-02",
+        "big-hero-6-2014-08",
+        "metropolis-1927-06"
+      ],
+      "size": 4,
+      "diet_mix": {
+        "A": 4
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 105,
+      "name": "Death and Inheritance",
+      "super_atom": "Dying siblings create bonds across life, making death a form of legacy.",
+      "atom_ids": [
+        "big-hero-6-2014-09",
+        "bm-metalhead-12",
+        "klara-and-the-sun-11",
+        "moon-2009-11"
+      ],
+      "size": 4,
+      "diet_mix": {
+        "A": 4
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 106,
+      "name": "Data Center Orphans",
+      "super_atom": "Institutions treat people like data, blurring care and exploitation.",
+      "atom_ids": [
+        "blade-runner-2049-16",
+        "lifecycle-of-software-objects-04",
+        "philosophical-zombies-07",
+        "tsukumogami-05"
+      ],
+      "size": 4,
+      "diet_mix": {
+        "A": 2,
+        "B": 2
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 107,
+      "name": "Simulated Relationships",
+      "super_atom": "Romance becomes a test, blurring compatibility and endurance.",
+      "atom_ids": [
+        "bm-hang-the-dj-04",
+        "bm-hang-the-dj-06",
+        "zoe-2018-02",
+        "zoe-2018-07"
+      ],
+      "size": 4,
+      "diet_mix": {
+        "A": 4
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 108,
+      "name": "Time-Shifting Narratives",
+      "super_atom": "Characters experience multiple eras within a single narrative, blurring temporal continuity.",
+      "atom_ids": [
+        "bm-san-junipero-02",
+        "upload-2020-04",
+        "westworld-s1-01",
+        "westworld-s1-04",
+        "ghost-town-10"
+      ],
+      "size": 5,
+      "diet_mix": {
+        "A": 5
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 109,
+      "name": "Incomplete Truths",
+      "super_atom": "Reality's infinite aspects make no single account fully trustworthy.",
+      "atom_ids": [
+        "anekantavada-01",
+        "anekantavada-05",
+        "anekantavada-10"
+      ],
+      "size": 3,
+      "diet_mix": {
+        "B": 3
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 110,
+      "name": "Eternity and Divergence",
+      "super_atom": "Love is tested by divergent afterlives, blurring the meaning of eternal life.",
+      "atom_ids": [
+        "bm-san-junipero-03",
+        "bm-san-junipero-10",
+        "transcendence-2014-03"
+      ],
+      "size": 3,
+      "diet_mix": {
+        "A": 3
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 111,
+      "name": "Machine and Truth",
+      "super_atom": "The legal system must decide if a machine can be a person, blurring the line between personhood and machine.",
+      "atom_ids": [
+        "i-robot-2004-03",
+        "machines-like-me-07",
+        "philosophical-zombies-10"
+      ],
+      "size": 3,
+      "diet_mix": {
+        "A": 2,
+        "B": 1
+      },
+      "name_origin": "llm"
+    },
+    {
+      "id": 112,
+      "name": "Longwave Trough Mechanism",
+      "super_atom": "A longwave trough in Oregon caused by the polar jet stream being to the north, leading to a mild rainy pattern.",
+      "atom_ids": [
+        "great-flood-of-1862-02",
+        "great-flood-of-1862-03",
+        "great-flood-of-1862-05",
+        "great-flood-of-1862-08",
+        "great-flood-of-1862-10",
+        "geography-of-nepal-01",
+        "geography-of-nepal-04",
+        "geography-of-nepal-05",
+        "geography-of-nepal-07",
+        "geography-of-nepal-08",
+        "agriculture-08",
+        "agriculture-09",
+        "ice-trade-10",
+        "intensive-farming-01",
+        "intensive-farming-02",
+        "intensive-farming-03",
+        "wildlife-population-04",
+        "wildlife-population-06"
+      ],
+      "size": 18,
+      "diet_mix": {
+        "A": 18
+      },
+      "origin": "live-research"
+    },
+    {
+      "id": 113,
+      "name": "Geography Of Nepal",
+      "super_atom": "Atoms gathered from live research; the shared mechanism awaits naming.",
+      "atom_ids": [
+        "geography-of-nepal-02",
+        "geography-of-nepal-06",
+        "geography-of-nepal-09"
+      ],
+      "size": 3,
+      "diet_mix": {
+        "A": 3
+      },
+      "origin": "live-research"
+    },
+    {
+      "id": 114,
+      "name": "Historical Colonization and Conquest",
+      "super_atom": "The conquest and colonization of the Iberian Peninsula by the Romans and Carthaginians created a rich cultural landscape.",
+      "atom_ids": [
+        "spain-01",
+        "spain-02",
+        "spain-03",
+        "spain-04",
+        "spain-05",
+        "spain-06",
+        "spain-10"
+      ],
+      "size": 7,
+      "diet_mix": {
+        "A": 7
+      },
+      "origin": "live-research"
+    },
+    {
+      "id": 115,
+      "name": "Migration and Conflict",
+      "super_atom": "The Lozi people migrated from the Lunda Empire to the Bulozi Floodplain in the 17th century, leading to the founding of the Lozi kingdom, which was later conquered by the Makololo in 1840 and ruled over until its restoration in 1864, creating tension with the colonial power in 1911.",
+      "atom_ids": [
+        "lozi-kingdom-01",
+        "lozi-kingdom-04",
+        "lozi-kingdom-09",
+        "lozi-kingdom-10",
+        "ice-trade-02"
+      ],
+      "size": 5,
+      "diet_mix": {
+        "A": 5
+      },
+      "origin": "live-research"
+    },
+    {
+      "id": 116,
+      "name": "Agriculture",
+      "super_atom": "Atoms gathered from live research; the shared mechanism awaits naming.",
+      "atom_ids": [
+        "agriculture-03",
+        "agriculture-06",
+        "agriculture-10",
+        "community-supported-agriculture-05",
+        "intensive-farming-05"
+      ],
+      "size": 5,
+      "diet_mix": {
+        "A": 5
+      },
+      "origin": "live-research"
+    }
+  ]
+}

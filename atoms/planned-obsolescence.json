@@ -1,0 +1,22 @@
+{
+  "source": "planned-obsolescence",
+  "diet": "B",
+  "atoms": [
+    {"id": "planned-obsolescence-01", "text": "The designed failure: a product is engineered to break after a set period, so reliability is deliberately withheld.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "planned-obsolescence-02", "text": "The annual model: last year's version is made unfashionable by restyling, so desire is scheduled.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "planned-obsolescence-03", "text": "The information asymmetry: the maker knows the product's lifespan and the buyer does not, so every purchase is a rigged bet.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "planned-obsolescence-04", "text": "The replacement cycle: sales depend on shortening how long things last, so the economy requires waste.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "planned-obsolescence-05", "text": "The repair that is impossible: a device is sealed or glued so it cannot be fixed, so ownership excludes maintenance.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "planned-obsolescence-06", "text": "The brand loyalty trap: a customer is expected to replace like with like, so dissatisfaction is captured by the same company.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "planned-obsolescence-07", "text": "The competitor who lasts: a durable foreign product forces domestic makers to build better, so competition can undo the scheme.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "planned-obsolescence-08", "text": "The engineer's integrity: a designer refuses to build in failure and loses market share, so virtue is punished by the system.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "planned-obsolescence-09", "text": "The landfill as product afterlife: discarded goods pile up out of sight, so consumption exports its consequences.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "planned-obsolescence-10", "text": "The software that stops updating: a working device is made useless by dropped support, so obsolescence moves from hardware to code.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "planned-obsolescence-11", "text": "The repair café: a community resists disposal by fixing things together, so maintenance becomes political resistance.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "planned-obsolescence-12", "text": "The warranty that expires: protection ends exactly when failures begin, so the contract is timed against the customer.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "planned-obsolescence-13", "text": "The object that outlives its owner: a well-made tool is inherited while newer ones fail, so durability is a family legacy.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "planned-obsolescence-14", "text": "The subscription upgrade: ownership is replaced by rental, so the company retains control of the thing you use.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "planned-obsolescence-15", "text": "The planned scarcity: parts are discontinued to force replacement, so supply chains are weapons.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "planned-obsolescence-16", "text": "The secret memo: internal documents reveal the failure schedule, so the story's evidence is a corporate confession.", "kind": "structure_trick", "quality": "strong", "original": null}
+  ]
+}

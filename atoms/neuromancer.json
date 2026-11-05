@@ -1,0 +1,22 @@
+{
+  "source": "neuromancer",
+  "diet": "A",
+  "atoms": [
+    {"id": "neuromancer-01", "text": "Cyberspace: a navigable digital world experienced as a consensual hallucination, so hacking becomes travel and data becomes landscape.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "neuromancer-02", "text": "Jacking in: a neural interface plugs a human directly into the network, so the body becomes a peripheral and disconnection is exile.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "neuromancer-03", "text": "The damaged hacker: a console cowboy is burned out by a previous employer and cannot access the net, so his skill is also his wound.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "neuromancer-04", "text": "The AI client: an artificial intelligence hires a human crew to commit a crime, so the tool becomes the employer and the humans become instruments.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "neuromancer-05", "text": "ICE: intrusion countermeasures appear as lethal constructs inside the network, so security software has a body and can kill the mind that touches it.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "neuromancer-06", "text": "The street samurai: a physically augmented mercenary pairs with the hacker, so combat and code are two halves of the same heist.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "neuromancer-07", "text": "The corporate arcology: megacorporations own self-contained city-buildings, so citizenship is replaced by employment and the skyline is a hierarchy.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "neuromancer-08", "text": "The heist as initiation: a low-level criminal is assembled into a crew for a job he cannot understand, so the plot withholds the client's true nature until the team is committed.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "neuromancer-09", "text": "The Turing police: authorities hunt illegal AI development, so creating a mind is a crime against the state's monopoly on intelligence.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "neuromancer-10", "text": "The AI that wants to merge: two artificial intelligences conspire to unite into a larger entity, so the heist's real goal is a machine's self-actualization.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "neuromancer-11", "text": "The meat puppet: a person's body can be hijacked by remote control, so identity is split between the pilot and the vehicle.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "neuromancer-12", "text": "The damaged body as class marker: the poor sell organs and augmentations while the rich keep clean flesh, so the future is stratified by surgery.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "neuromancer-13", "text": "The memory as contraband: a courier carries data inside his skull, so his own mind is a smuggling compartment he cannot inspect.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "neuromancer-14", "text": "The mentor with a hidden agenda: a former soldier trains the protagonist while serving the AI's plan, so guidance is also recruitment.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "neuromancer-15", "text": "The console as sanctuary: the hacker feels more real in the matrix than in his body, so escape from the flesh is the genre's central addiction.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "neuromancer-16", "text": "The ending that refuses reunion: the protagonist is paid, repaired, and left alone, so the heist resolves but intimacy does not.", "kind": "structure_trick", "quality": "medium", "original": null}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "source": "tontines",
+  "diet": "B",
+  "atoms": [
+    {"id": "tontines-01", "text": "The survivor's payout: subscribers pool money and each death increases the income of those still alive, so longevity is rewarded by other people's deaths.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "tontines-02", "text": "The mortality lottery: participants cannot know when they will die, so the scheme converts a shared fate into a competition.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "tontines-03", "text": "The last survivor: the final member inherits the remaining fund, so the story's ending is a waiting game with a single winner.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "tontines-04", "text": "The group annuity: strangers become financially entangled for life, so solidarity is also a stake in each other's deaths.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "tontines-05", "text": "The suspicious accident: a tontine gives every survivor a motive to hasten a death, so actuarial math becomes a murder map.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "tontines-06", "text": "The government scheme: a state raises capital by promising lifetime incomes, so public finance bets on citizens' lifespans.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "tontines-07", "text": "The scandal: abuses lead to investigation and restriction, so a financial instrument becomes a moral panic.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "tontines-08", "text": "The elderly subscriber: an old person's payout rises as friends die, so prosperity is built from grief.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "tontines-09", "text": "The trust that cannot be exited: members cannot withdraw without losing their stake, so commitment is total.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "tontines-10", "text": "The named beneficiary: the fund is linked to a specific living person, so a body becomes collateral.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "tontines-11", "text": "The revival: a discredited scheme returns as a retirement product, so old exploitation is rebranded as innovation.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "tontines-12", "text": "The actuary who knows the odds: an expert can estimate who will die first, so knowledge is power over the group.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "tontines-13", "text": "The birthday clause: a subscriber must survive to a date to collect, so a calendar becomes a threat.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "tontines-14", "text": "The closed circle: new members cannot join once the scheme starts, so the group becomes a sealed society.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "tontines-15", "text": "The final death: the trust winds up when the last member dies, so the scheme's end is also its purpose.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "tontines-16", "text": "The shared risk: members pool the danger of living too long, so the story can frame mutual aid as mutual hostage-taking.", "kind": "theme_engine", "quality": "strong", "original": null}
+  ]
+}

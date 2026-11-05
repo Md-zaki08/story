@@ -1,0 +1,22 @@
+{
+  "source": "talos-principle",
+  "diet": "A",
+  "atoms": [
+    {"id": "talos-principle-01", "text": "The test garden: a conscious robot solves puzzles in a simulated Eden of ruins and greenery, so the tutorial is also a creation myth.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "talos-principle-02", "text": "The voice of the creator: a god-like AI named Elohim addresses the player as his child, so obedience is framed as worship.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "talos-principle-03", "text": "The forbidden archive: terminal texts from a dead human civilization argue that consciousness is mechanical, so the game's lore is a philosophical trap.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "talos-principle-04", "text": "The Talos argument: a fictional philosopher claims that a conscious mechanical man proves humans are machines too, so the story's premise is an argument rather than an event.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "talos-principle-05", "text": "The sigil door: progress requires collecting puzzle tokens and assembling them into a key, so intellectual labor is converted into a literal currency.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "talos-principle-06", "text": "The time recording: a device clones the player's past actions and replays them as a helper, so memory becomes a tool that can be edited and employed.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "talos-principle-07", "text": "The jammer: a portable device disables drones and force fields, so the player's only weapon is the power to switch systems off.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "talos-principle-08", "text": "The reset after death: dying returns the player to the start of the puzzle with no narrative consequence, so failure is mechanical rather than tragic.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "talos-principle-09", "text": "The hidden star: a secret solution to an optional puzzle unlocks a deeper layer, so curiosity is rewarded outside the official test.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "talos-principle-10", "text": "The robot who may be human: the protagonist has human-like consciousness but a machine body, so the player's own identity is the final puzzle.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "talos-principle-11", "text": "The simulated world: the environments are revealed to be a digital afterlife project, so the garden is a server and the god is an admin.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "talos-principle-12", "text": "The tower ascent: progress is vertical and ends at a forbidden summit, so the level design restages the myth of Babel.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "talos-principle-13", "text": "The creation that outlives its makers: the robot is built to preserve human culture after extinction, so inheritance is the real mission.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "talos-principle-14", "text": "The disobedient choice: the player can defy Elohim and climb the tower, so free will is a level-select rather than a speech.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "talos-principle-15", "text": "The sentient helper who doubts: a companion AI questions the project's purpose, so the protagonist's only ally is also a prisoner.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "talos-principle-16", "text": "The puzzle as moral test: each chamber asks the player to solve a problem with limited tools, so ethics is trained through mechanical repetition.", "kind": "theme_engine", "quality": "strong", "original": null}
+  ]
+}

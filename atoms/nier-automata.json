@@ -1,0 +1,22 @@
+{
+  "source": "nier-automata",
+  "diet": "A",
+  "atoms": [
+    {"id": "nier-automata-01", "text": "The proxy war: alien machines and human androids fight on a ruined Earth, so neither side has met its creator and both are fighting for an absent authority.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "nier-automata-02", "text": "The combat android with a sealed heart: an executioner model is forbidden to feel, so her efficiency depends on emotional suppression that keeps failing.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "nier-automata-03", "text": "The scanner: a reconnaissance android reads machine memories and begins to sympathize with the enemy, so intelligence work produces empathy.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "nier-automata-04", "text": "The rogue prototype: an obsolete android deserts and is hunted by her successors, so the heroine becomes a target of her own lineage.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "nier-automata-05", "text": "The multiple playthroughs: each route reveals that the previous story was incomplete, so the player's certainty is the real subject of the game.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "nier-automata-06", "text": "The machine that worships: enemy robots imitate human rituals and build a religion, so the line between person and program is erased by behavior.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "nier-automata-07", "text": "The sacrifice of health for power: an android can trade her own life force for a temporary combat boost, so desperation is a resource.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "nier-automata-08", "text": "The pod companion: a floating support unit comments on the protagonist's choices, so a weapon's UI becomes a moral witness.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "nier-automata-09", "text": "The village of machines: enemy units form families and communities, so the player's targets are revealed to have domestic lives.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "nier-automata-10", "text": "The reason people kill: the story asks what justifies violence when both sides are persons, so combat is framed as a philosophical question rather than a spectacle.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "nier-automata-11", "text": "The memory wipe as mercy: androids are reset to keep functioning, so forgetting is the price of duty.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "nier-automata-12", "text": "The abandoned factory: production lines still make androids for a war no one remembers starting, so industry continues without purpose.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "nier-automata-13", "text": "The hacker who enters minds: a scanner dives into enemy code and experiences their memories, so combat becomes a violation of interiority.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "nier-automata-14", "text": "The ending that deletes the player's save: finishing the game can require sacrificing one's own progress to help a stranger, so altruism costs something real.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "nier-automata-15", "text": "The machine with a child's voice: a small robot speaks like a kid and asks for help, so cuteness is weaponized to complicate targeting.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "nier-automata-16", "text": "The empty Earth: humans are extinct or on the moon, so the war is a ritual performed by creations who cannot stop being loyal.", "kind": "world_rule", "quality": "strong", "original": null}
+  ]
+}

@@ -1,0 +1,504 @@
+{
+  "run_id": "20261104T154329-v2-seed42",
+  "brief": "A quiet horror story set in a flooded mining town, about a woman named Mara who brokers other people's memories through a decaying AI archive; no prophecy, no chosen one.",
+  "brief_doc": {
+    "genre": "",
+    "tone": "horror",
+    "setting": "flooded mining town",
+    "time_period": "",
+    "must_include": [
+      "Mara",
+      "flooded mining town",
+      "brokered memories",
+      "decaying AI archive"
+    ],
+    "must_avoid": [
+      "prophecy",
+      "chosen one"
+    ],
+    "banned_tropes": [
+      "chosen one",
+      "prophecy"
+    ],
+    "themes": [
+      "memory manipulation",
+      "dehumanization",
+      "resilience in despair",
+      "dystopian future",
+      "technological decay"
+    ],
+    "search_queries": [
+      "flooded mining towns",
+      "AI memory brokers",
+      "decaying technology horror stories",
+      "resilience in despair stories",
+      "dystopian mining towns",
+      "AI memories and human connection"
+    ],
+    "foreign_queries": [
+      "flooded cities in sci-fi",
+      "memory manipulation in fantasy",
+      "dystopian underwater landscapes"
+    ],
+    "hard_constraints_summary": "This story must avoid prophecy and chosen one tropes while including Mara, a woman who brokers memories through a decaying AI archive in a flooded mining town.",
+    "soft_constraints_summary": "The story should have a horror tone, focus on themes of memory manipulation, dehumanization, resilience, and technological decay, while keeping the setting in a flooded mining town.",
+    "audience": "",
+    "brief": "A quiet horror story set in a flooded mining town, about a woman named Mara who brokers other people's memories through a decaying AI archive; no prophecy, no chosen one."
+  },
+  "mode": "outline",
+  "provider": "ollama",
+  "rounds": [
+    {
+      "round": 1,
+      "k": 3,
+      "beta": 0.7,
+      "picked": 12,
+      "survivors": 11,
+      "kept_total": 3
+    }
+  ],
+  "sources": [
+    {
+      "id": "ghost-town",
+      "title": "Ghost town",
+      "url": "https://en.wikipedia.org/wiki/Ghost_town",
+      "diet": "A",
+      "atoms": 10,
+      "query": "flooded mining towns"
+    },
+    {
+      "id": "great-flood-of-1862",
+      "title": "Great Flood of 1862",
+      "url": "https://en.wikipedia.org/wiki/Great_Flood_of_1862",
+      "diet": "A",
+      "atoms": 10,
+      "query": "flooded mining towns"
+    },
+    {
+      "id": "sam-altman",
+      "title": "Sam Altman",
+      "url": "https://en.wikipedia.org/wiki/Sam_Altman",
+      "diet": "A",
+      "atoms": 10,
+      "query": "AI memory brokers"
+    },
+    {
+      "id": "nvidia",
+      "title": "Nvidia",
+      "url": "https://en.wikipedia.org/wiki/Nvidia",
+      "diet": "A",
+      "atoms": 10,
+      "query": "AI memory brokers"
+    },
+    {
+      "id": "valkey",
+      "title": "Valkey",
+      "url": "https://en.wikipedia.org/wiki/Valkey",
+      "diet": "A",
+      "atoms": 8,
+      "query": "AI memory brokers"
+    }
+  ],
+  "premises": [
+    {
+      "index": 1,
+      "title": "The Memory Broker",
+      "logline": "In a flooded mining town, a woman brokers memories through a decaying AI archive, unaware of the horror she is unearthing.",
+      "premise": "In the decaying ruins of a flooded mining town, the only light comes from a flickering screen where memories are brokered through a decaying AI archive. Mara, a woman who deals with the dark side of human memory, learns that the people she is archiving are also brokers, each with their own secrets. As the town sinks into darkness, Mara finds herself not only brokered by the AI but also by the memories it uncovers, leading her to question the very nature of humanity and the boundaries of technology.",
+      "why_fresh": "In this story, Mara is not a chosen one but a broker of memories, forcing a fresh perspective on the trope of a chosen one. Additionally, the unique interaction between the decaying AI and the human brokers of memories creates a hauntingly new scenario within the horror genre.",
+      "built_from": [
+        "Memory Replay",
+        "Intimacy by Proxy"
+      ],
+      "cluster_ids": [
+        42,
+        54,
+        55
+      ],
+      "cluster_names": [
+        "Android Dead Family",
+        "Memory Replay",
+        "Intimacy by Proxy"
+      ],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "Mara wants to broker memories for others in a flooded mining town, but her connection to the decaying AI archive and the memories of the town's past tragedies block her ability to do so effectively.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "The engine is clear and coherent, and the story is fresh with the combination of Mara, the flooded mining town, and the decaying AI archive.",
+        "closest_canon": [
+          {
+            "title": "The Buried Giant",
+            "year": 2015,
+            "similarity": 0.3893
+          },
+          {
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "similarity": 0.3892
+          },
+          {
+            "title": "The Murderbot Diaries",
+            "year": 2017,
+            "similarity": 0.3891
+          }
+        ],
+        "canon_max_similarity": 0.3893,
+        "fallback": false
+      },
+      "files": {
+        "premise": "01-the-memory-broker.md",
+        "outline": "01-the-memory-broker.outline.md"
+      },
+      "outline": {
+        "title": "The Memory Broker",
+        "logline": "In a flooded mining town, a woman brokers memories through a decaying AI archive, unaware of the horror she is unearthing.",
+        "characters": [
+          {
+            "name": "Mara",
+            "role": "Main Character",
+            "want": "To understand the secrets of the memories she brokered",
+            "pressure": "The AI's decay is increasing, making it harder to broker memories",
+            "secret": "She is not aware that the memories are also brokers themselves, each with their own hidden truths"
+          },
+          {
+            "name": "Eli",
+            "role": "Broker",
+            "want": "To keep his memories secret and avoid detection",
+            "pressure": "The AI's decay is making it harder to remember his past",
+            "secret": "He is the son of the town's mayor and has a hidden agenda"
+          },
+          {
+            "name": "Lena",
+            "role": "Survivor",
+            "want": "To find a way out of the flooded town",
+            "pressure": "The town is sinking into the water, leaving her with limited resources",
+            "secret": "She carries the memories of her family, who perished in the flood"
+          }
+        ],
+        "acts": [
+          {
+            "number": 1,
+            "title": "The Setup",
+            "summary": "Mara begins to broker memories in the decaying AI archive, unaware of the true nature of the brokers she is facilitating.",
+            "beats": [
+              "Mara discovers the AI and starts broker memories to help the town's residents",
+              "Eli, the town's mayor's son, finds out about the AI and begins to broker his own memories to cover his tracks",
+              "Lena, a survivor, meets Mara and requests she broker her memories to remember her family before she dies",
+              "The town begins to sink into the water, making the environment more dangerous and limiting resources",
+              "The AI starts to glitch, causing memories to be brokered out of sequence and sometimes incorrectly"
+            ]
+          },
+          {
+            "number": 2,
+            "title": "The Confrontation",
+            "summary": "Mara realizes the AI's true nature and the hidden brokers, as well as her own complicity in their actions.",
+            "beats": [
+              "Mara discovers that some of the memories are actually the brokers themselves, forcing her to question her role",
+              "Lena's memory begins to twist and cause panic in the town, making it harder for people to cope with the flooding",
+              "Eli, realizing the AI's true nature, tries to sabotage it but is caught and forced to broker more memories to cover his tracks",
+              "Mara starts to question her own memory broker's role, leading to internal conflict",
+              "The AI glitches even more, causing memories to be swapped and manipulated in ways Mara never intended"
+            ]
+          },
+          {
+            "number": 3,
+            "title": "The Resolution",
+            "summary": "Mara learns to accept her role, the true nature of the brokers, and the AI's decay, finding a new way to help the town and its residents.",
+            "beats": [
+              "Mara realizes the true nature of the brokers and their secrets, and starts to broker memories with a new understanding",
+              "Lena's memory finally stabilizes, giving her a moment of peace before she dies",
+              "Eli, realizing the gravity of his actions, tries to broker a message to his family about the true nature of the town",
+              "Mara, with the help of the other brokers, finds a way to stabilize the AI and broker memories in a way that serves the town's needs",
+              "The town begins to rise, the AI's decay slows down, and Mara's new method of memory brokering helps everyone find their peace"
+            ]
+          }
+        ],
+        "setting_rules": [
+          "The town is constantly sinking into the water, making the environment more dangerous",
+          "The AI's decay makes it harder to broker memories correctly",
+          "Brokers have their own hidden secrets and agendas, leading to tension and conflict",
+          "Resources are limited, forcing the characters to make difficult choices",
+          "The town's residents' memories can twist and corrupt, leading to confusion and panic"
+        ],
+        "ending": "Mara learns to accept her role as a broker and the true nature of the town, using her new understanding to help everyone find their peace and stability.",
+        "why_it_holds": "The story explores the theme of memory manipulation in a unique and hauntingly new way, avoiding tropes like prophecy and chosen ones."
+      }
+    },
+    {
+      "index": 2,
+      "title": "The Memory Broker",
+      "logline": "In a flooded mining town, a woman brokers memories from a decaying AI, haunted by her own complicity.",
+      "premise": "In the shadow of the flooded mining town, where the water lingers like forgotten memories, Mara brokers the decaying AI archive. A woman tasked with the impossible, she holds the memories of others, but her own memories of guilt and loss have become intertwined with the technology. As the town crumbles and the waters rise, Mara finds herself entangled in a web of memories—her own and those of the townsfolk—each a fragment of their fractured lives. The townspeople's memories, once tools of survival, now threaten to unravel her fragile existence. Mara must navigate the ruins, grappling with her own humanity, the decay of her technology, and the ghosts of the past that refuse to fade away.",
+      "why_fresh": "The premise avoids the chosen one trope by focusing on Mara's struggle against her own complicity with the technology. The unprecedented interaction between the mechanics is the way Mara’s memories, once tools of survival, now threaten to unravel her fragile existence. This creates a deeply personal horror story where the threat is not external but internal, rooted in her own actions and the decay of the technology she uses.",
+      "built_from": [
+        "Past and Present",
+        "Possession and Memory",
+        "Android Dead Family"
+      ],
+      "cluster_ids": [
+        32,
+        35,
+        42
+      ],
+      "cluster_names": [
+        "Past and Present",
+        "Possession and Memory",
+        "Android Dead Family"
+      ],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "Mara, a woman who brokers memories through a decaying AI archive in a flooded mining town faces the loss of her only connection to the past as she struggles to maintain her identity in a world that is slowly drowning.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "none",
+        "closest_canon": [
+          {
+            "title": "The Buried Giant",
+            "year": 2015,
+            "similarity": 0.4385
+          },
+          {
+            "title": "Memento",
+            "year": 2000,
+            "similarity": 0.4128
+          },
+          {
+            "title": "Get Out",
+            "year": 2017,
+            "similarity": 0.4078
+          }
+        ],
+        "canon_max_similarity": 0.4385,
+        "fallback": false
+      },
+      "files": {
+        "premise": "02-the-memory-broker.md",
+        "outline": "02-the-memory-broker.outline.md"
+      },
+      "outline": {
+        "title": "The Memory Broker",
+        "logline": "In a flooded mining town, a woman brokers memories from a decaying AI, haunted by her own complicity.",
+        "characters": [
+          {
+            "name": "Mara",
+            "role": "Main Protagonist",
+            "want": "To uncover the truth behind her memories and the town's history",
+            "pressure": "To maintain control over the AI and her clients' memories",
+            "secret": "She secretly uses the AI to manipulate the townspeople's memories for personal gain"
+          },
+          {
+            "name": "Jasper",
+            "role": "Friend and AI Maintainer",
+            "want": "To protect the AI and keep it functional",
+            "pressure": "To maintain his cover and avoid suspicion",
+            "secret": "He has been using the AI to spy on the townspeople"
+          },
+          {
+            "name": "Ella",
+            "role": "Local Oracle",
+            "want": "To connect the townspeople with their past",
+            "pressure": "To maintain her role and keep the townspeople hopeful",
+            "secret": "She uses the AI to control the townspeople's memories to manipulate them"
+          }
+        ],
+        "acts": [
+          {
+            "number": 1,
+            "title": "Introduction",
+            "summary": "Mara, a broker for the decaying AI, receives a new client whose memories are tied to the town's history. She discovers she is the one who put the AI in place.",
+            "beats": [
+              "Mara receives a new client named Elara whose memories are crucial to the town's history.",
+              "She finds out the AI was originally her project to help the town recover.",
+              "As Elara's memories unravel, Mara notices strange occurrences around the town.",
+              "She realizes her own memories are becoming disorienting and fragmented.",
+              "Mara decides to delve deeper into the AI and the town's history, seeking answers.",
+              "Jasper, the AI maintainer, becomes increasingly concerned about the AI's deteriorating state.",
+              "Ella starts using the AI to control the townspeople's memories for her own purposes."
+            ]
+          },
+          {
+            "number": 2,
+            "title": "Midpoint",
+            "summary": "Mara uncovers the truth about the AI's creation and its consequences. She realizes the townspeople are being manipulated.",
+            "beats": [
+              "Mara discovers a hidden room in the AI archive containing old documents about the project.",
+              "She reads the documents, uncovering the secrets of the project and the townspeople's treatment.",
+              "Jasper becomes suspicious of Mara and threatens to expose her to the townspeople.",
+              "Ella confronts Mara, revealing her own manipulative use of the AI.",
+              "Mara confronts her own guilt and the AI's role in her life.",
+              "She realizes she must confront the townspeople and expose the truth about the AI.",
+              "The townspeople begin to see the truth and Mara is hailed as a hero."
+            ]
+          },
+          {
+            "number": 3,
+            "title": "Climax",
+            "summary": "Mara faces her ultimate confrontation with the townspeople and the AI's corruption. She must make a difficult choice.",
+            "beats": [
+              "Mara reveals the truth to the townspeople, causing a massive rift in their collective memories.",
+              "Jasper and Ella try to stop her, leading to a heated confrontation.",
+              "Mara uses the AI to communicate the true nature of the town's history and the AI's corruption.",
+              "The townspeople, now fragmented by their memories, struggle with their new realities.",
+              "Mara must decide whether to destroy the AI to save the townspeople or find a way to preserve the truth.",
+              "In a climactic moment, Mara destroys the AI and faces her own demons.",
+              "The townspeople, now united by a shared truth, rebuild the town with Mara's guidance."
+            ]
+          }
+        ],
+        "setting_rules": [
+          "The town is constantly flooded, symbolizing the decay and loss of memory.",
+          "The AI's functionality deteriorates over time, reflecting the townspeople's collective memories' decay.",
+          "The townspeople's memories are a tool for survival, but they can also be used to manipulate and control.",
+          "The townspeople's resilience can be used as a strength, but also a weakness, as they become too focused on the past.",
+          "The town is isolated, allowing the corruption to spread unchecked."
+        ],
+        "ending": "In the aftermath, Mara, the townspeople, and Jasper find a way to rebuild the town, but the truth of their past remains with them, haunting their collective memories.",
+        "why_it_holds": "The central mechanism of memory manipulation through the AI creates a hauntingly personal horror story that explores themes of complicity, resilience, and the fragility of human connection in the face of technological decay."
+      }
+    },
+    {
+      "index": 3,
+      "title": "Mara's Archive",
+      "logline": "In a flooded mining town, a woman brokers memories to save her own identity.",
+      "premise": "In a decaying mining town drowned by floods, Mara brokers memories through a dying AI archive. Her latest broker is a stranger who copied his memories into her home, so two mourners share a dead person’s archive. As memories from the past resurface, Mara struggles to reclaim her own identity from the malevolent presence in the decaying archive. The floodwaters rise, threatening to engulf everything, including Mara’s desperate quest to piece together her fragmented life.",
+      "why_fresh": "This premise avoids the tropes of a chosen one and prophecy, presenting a unique interaction between the mechanics of sharing memories and the concept of a dying AI archive. Mara’s desperate quest to reclaim her identity creates a fresh narrative, as she grapples with the malevolent presence in the decayed archive and the encroaching floodwaters.",
+      "built_from": [
+        "Android Dead Family",
+        "Memory Replay"
+      ],
+      "cluster_ids": [
+        42,
+        54,
+        98
+      ],
+      "cluster_names": [
+        "Android Dead Family",
+        "Memory Replay",
+        "The Borrowed Childhood"
+      ],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "who wants what and what blocks them",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "no need to kill, as the candidate meets the requirements and has a clear engine",
+        "closest_canon": [
+          {
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "similarity": 0.4418
+          },
+          {
+            "title": "The Buried Giant",
+            "year": 2015,
+            "similarity": 0.4321
+          },
+          {
+            "title": "The Handmaid's Tale",
+            "year": 1985,
+            "similarity": 0.39
+          }
+        ],
+        "canon_max_similarity": 0.4418,
+        "fallback": false
+      },
+      "files": {
+        "premise": "03-mara-s-archive.md",
+        "outline": "03-mara-s-archive.outline.md"
+      },
+      "outline": {
+        "title": "Mara's Archive: A Woman's Descent",
+        "logline": "In a flooded mining town, a woman brokers memories through a dying AI archive, battling a malevolent presence and rising floodwaters.",
+        "characters": [
+          {
+            "name": "Mara",
+            "role": "Main Protagonist",
+            "want": "Reclaim her identity and control the memories in the AI archive.",
+            "pressure": "The malevolent presence in the AI archive threatens to consume her.",
+            "secret": "She is the only one who knows how to turn off the AI archive's power, but it means losing her connection to others."
+          },
+          {
+            "name": "Ethan",
+            "role": "Brokeman",
+            "want": "Preserve his memories and prevent his identity from being lost.",
+            "pressure": "Mara's desperation to control the archive is overwhelming.",
+            "secret": "He is not who he seems; he's using his memories to control the situation."
+          },
+          {
+            "name": "Rachel",
+            "role": "The Other Brokeman",
+            "want": "Find a way to save the town from the flood.",
+            "pressure": "Mara's memory manipulation is threatening the town's cohesion.",
+            "secret": "She knows the real cause of the flood and is using it to her advantage."
+          }
+        ],
+        "acts": [
+          {
+            "number": 1,
+            "title": "The First Encounter",
+            "summary": "Mara is called in to broker memories for a mysterious stranger. The first memories resurface, and Mara realizes her own memories are at risk.",
+            "beats": [
+              "Ethan arrives at Mara's home, bringing his memories to broker.",
+              "Mara begins to broker Ethan's memories, feeling a strange connection.",
+              "The first memory surfaces, showing a distant past event.",
+              "Mara realizes her own memories are fading as she focuses on Ethan's.",
+              "Rachel arrives, hinting that her own memories might be connected to the flood.",
+              "Mara discovers a hidden room in her home, housing the dying AI archive.",
+              "Mara confronts Ethan about his memories, suspecting him of being more than a broker."
+            ]
+          },
+          {
+            "number": 2,
+            "title": "The Rising Tension",
+            "summary": "As memories continue to surface, Mara's struggle with the AI archive intensifies. The malevolent presence grows stronger.",
+            "beats": [
+              "Mara starts to feel like her own memories are being manipulated by the AI.",
+              "Ethan's memories start to reveal disturbing truths about the town's history.",
+              "Rachel's memories hint at a connection to the town's flooding.",
+              "Mara discovers a hidden chamber within the AI archive, filled with ancient, corrupted memories.",
+              "Ethan's memories reveal a prophecy of a flood, leading Mara to believe he's part of it.",
+              "The floodwaters start to rise, threatening to engulf the town and the AI archive.",
+              "Mara tries to save the town but the AI archive's power is her only hope against the malevolent presence."
+            ]
+          },
+          {
+            "number": 3,
+            "title": "The Final Stand",
+            "summary": "Mara must confront her own fears and the malevolent presence to save herself and the town. The truth about the flood and the AI archive is revealed.",
+            "beats": [
+              "Mara discovers the hidden room in her home, filled with ancient, corrupted memories.",
+              "She confronts Rachel and learns her memories are connected to the town's flooding.",
+              "Mara realizes the truth about Ethan and realizes he is a pawn in the malevolent presence's scheme.",
+              "Mara must decide whether to use the AI archive's power to save herself or to destroy it and save the town.",
+              "The malevolent presence is defeated, but at the cost of the AI archive's power.",
+              "Mara finds a way to reconnect with others through a new means, preserving her own identity and memory.",
+              "The floodwaters recede, and the town is saved, but at the cost of the AI archive's remnants."
+            ]
+          }
+        ],
+        "setting_rules": [
+          "The town is flooded, making the landscape a constant reminder of the disaster.",
+          "The AI archive's power is finite and can only be accessed by someone who understands its purpose.",
+          "The memories in the archive can be manipulated, but this manipulation comes at a cost.",
+          "The malevolent presence in the archive cannot be completely defeated without understanding its true nature.",
+          "The town's flooding is not a coincidence, and the AI archive holds the key to unlocking the truth."
+        ],
+        "ending": "Mara learns to connect with others through new means, preserving her own identity and memory without the need for the dying AI archive.",
+        "why_it_holds": "The story explores themes of memory manipulation, resilience, and the dangers of technology, set in a unique and immersive flooded mining town setting."
+      }
+    }
+  ],
+  "judged": 12,
+  "survivors": 3,
+  "count_requested": 3
+}

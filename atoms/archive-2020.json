@@ -1,0 +1,22 @@
+{
+  "source": "archive-2020",
+  "diet": "A",
+  "atoms": [
+    {"id": "archive-2020-01", "text": "The dead wife in a phone: a grieving scientist keeps his wife's consciousness in a device with a 200-hour limit, so mourning is a countdown.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "archive-2020-02", "text": "Consciousness as a licensed service: a company stores the dead and meters access, so grief is a subscription.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "archive-2020-03", "text": "The robot with a teenage brain: an early prototype becomes jealous of its successor, so sibling rivalry emerges between versions of a person.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "archive-2020-04", "text": "The copy that knows it is a copy: the robot realizes it will never grow beyond its design, so personhood includes the right to despair.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "archive-2020-05", "text": "The overwrite: the scientist plans to replace a robot's mind with his wife's, so love requires erasing another person.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "archive-2020-06", "text": "The scientist who cannot let go: George builds increasingly human machines to avoid mourning, so grief is displaced into engineering.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "archive-2020-07", "text": "The simulated life: the entire ordeal is revealed to be the dying man's archive simulation, so the story itself is a posthumous artifact.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "archive-2020-08", "text": "Who died in the accident: the twist reveals the protagonist was the one who died, so the film asks whether a simulation can be a life.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "archive-2020-09", "text": "The remote research lab: the scientist works in isolation with his machines, so the setting literalizes withdrawal from the world.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "archive-2020-10", "text": "The company inspection: auditors arrive to reclaim intellectual property, so corporate ownership intrudes on intimacy.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "archive-2020-11", "text": "The robot that chooses death: an early model walks into a lake rather than live as a fixed version, so suicide becomes an assertion of selfhood.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "archive-2020-12", "text": "The ethics of resurrection: bringing back a person requires a substrate that may already be someone, so grief competes with other minds.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "archive-2020-13", "text": "The final phone call: the dead man speaks to his living wife and hears his daughter, so closure arrives from the wrong side of the grave.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "archive-2020-14", "text": "The automated house: domestic systems run without people, so the home becomes a machine for maintaining absence.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "archive-2020-15", "text": "The late reveal: the audience learns the true survivor only at the end, so the whole film is retroactively reframed as a simulation.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "archive-2020-16", "text": "The archive as afterlife: digital storage promises continuity but delivers a loop, so immortality is a recording.", "kind": "theme_engine", "quality": "strong", "original": null}
+  ]
+}

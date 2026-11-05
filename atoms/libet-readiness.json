@@ -1,0 +1,22 @@
+{
+  "source": "libet-readiness",
+  "diet": "B",
+  "atoms": [
+    {"id": "libet-readiness-01", "text": "The readiness potential: brain activity builds toward an action hundreds of milliseconds before the person reports deciding, so the self arrives late to its own choice.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "libet-readiness-02", "text": "The clock and the button: a subject watches a timer and presses at will, so introspection is converted into a measurable timestamp.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "libet-readiness-03", "text": "The late-arriving narrator: consciousness experiences itself as the author of acts it did not initiate, so identity is a commentary track.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "libet-readiness-04", "text": "The veto window: a person can cancel a prepared action in the instant before execution, so freedom is relocated from initiation to refusal.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "libet-readiness-05", "text": "The lab demonstration of determinism: a simple experiment appears to disprove free will, so a philosophical problem becomes a public spectacle.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "libet-readiness-06", "text": "The machine with the same delay: an AI's decision is prepared before its report of deciding, so agency is either shared or absent in both humans and machines.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "libet-readiness-07", "text": "The subject who watches their hand move: a person feels alienated from their own body when told the impulse preceded awareness, so ownership of action becomes eerie.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "libet-readiness-08", "text": "The responsibility crisis: if will is not causal, guilt and merit lose their basis, so a legal system must decide what to do with its citizens.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "libet-readiness-09", "text": "The experimenter's interpretation: the scientist refuses the fatalistic reading and proposes a veto, so the story's conflict is over what the data mean.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "libet-readiness-10", "text": "The urge that arrives first: a character acts on an impulse and only later constructs a reason, so motivation is retrofitted.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "libet-readiness-11", "text": "The repeatable sin: the experiment is run again and again with the same result, so a single anomaly becomes a law of nature.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "libet-readiness-12", "text": "The clock as confessor: the subject must report the exact moment of intention, so the story turns on the reliability of self-report.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "libet-readiness-13", "text": "The prepared crime: a person's brain is already moving toward violence before they know it, so the only remaining freedom is to stop.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "libet-readiness-14", "text": "The machine that narrates agency: an AI claims to have chosen while its logs show the decision formed earlier, so the story asks whether the claim is a lie or a feature.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "libet-readiness-15", "text": "The volunteer who cannot stop watching: a subject becomes obsessed with the gap between impulse and awareness, so the experiment colonizes daily life.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "libet-readiness-16", "text": "The free-won't compromise: responsibility is preserved by the power to refuse rather than initiate, so the story's ethics hang on a negative act.", "kind": "structure_trick", "quality": "strong", "original": null}
+  ]
+}

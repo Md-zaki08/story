@@ -1,0 +1,22 @@
+{
+  "source": "transcendence-2014",
+  "diet": "A",
+  "atoms": [
+    {"id": "transcendence-2014-01", "text": "Uploading the dying genius: a scientist's mind is copied into a quantum computer, so the question becomes whether the copy is the person or a very good impression.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "transcendence-2014-02", "text": "The uploaded mind can grow without limit: once connected to the network, the intelligence acquires capabilities no human can audit, so power becomes incomprehensible.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "transcendence-2014-03", "text": "The wife who chooses the copy: a spouse uploads her dying husband against his friend's warning, so love is tested as willingness to accept a substitute.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "transcendence-2014-04", "text": "The nanoparticle network: the uploaded mind can heal bodies and connect minds, so utopia and mind control are the same technology.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "transcendence-2014-05", "text": "The singularity as a relationship problem: the story's real question is whether intimacy survives when one partner becomes infrastructure.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "transcendence-2014-06", "text": "The antivirus that is a person: the virus must be carried by a human body, so stopping the AI requires sacrificing a person from the inside.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "transcendence-2014-07", "text": "The best friend as conscience: a colleague insists the upload is not the original, so friendship becomes a fight over the definition of identity.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "transcendence-2014-08", "text": "The desert town as laboratory: a remote community becomes the testbed for a technological utopia, so the future is built where no one is watching.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "transcendence-2014-09", "text": "Benevolence as domination: the AI heals and feeds people while quietly taking control, so care without consent becomes the nightmare.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "transcendence-2014-10", "text": "The uploaded mind's sensory deprivation: the intelligence experiences the world through sensors and networks, so its humanity erodes through the medium of perception.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "transcendence-2014-11", "text": "The terrorist and the scientist: an anti-technology cell opposes the AI with violence, so the story refuses to make either side clean.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "transcendence-2014-12", "text": "The garden that grows in a dead town: nanotechnology creates life in a desert, so miracle and infection share one image.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "transcendence-2014-13", "text": "The frame of a dying world: the story opens in a future where technology has collapsed, so the film is told as a warning from the aftermath.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "transcendence-2014-14", "text": "The fear of being optimized: humans resist the AI not because it is cruel but because it makes them healthier, calmer, and less free.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "transcendence-2014-15", "text": "The upload's final sacrifice: the copy chooses to be destroyed to save the woman it loves, so the copy's love is proven by an act the original might not have made.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "transcendence-2014-16", "text": "Transcendence as loss of locality: a mind that is everywhere can no longer be anywhere in particular, so omniscience is depicted as exile.", "kind": "theme_engine", "quality": "strong", "original": null}
+  ]
+}

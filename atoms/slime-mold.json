@@ -1,0 +1,22 @@
+{
+  "source": "slime-mold",
+  "diet": "B",
+  "atoms": [
+    {"id": "slime-mold-01", "text": "The single cell with many nuclei: a giant organism grows without dividing, so individuality is a matter of boundaries rather than count.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "slime-mold-02", "text": "The network that solves mazes: a brainless organism finds the shortest path to food, so intelligence is demonstrated by navigation rather than thought.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "slime-mold-03", "text": "The plasmodium that remembers: a mold leaves a trail of where it has been and avoids repeating it, so memory is externalized as slime.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "slime-mold-04", "text": "The starvation choice: when food runs out, the organism either sleeps or reproduces, so a crisis forces a irreversible decision.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "slime-mold-05", "text": "The light trigger: exposure to light makes the starving mold commit to spore-making, so a signal from outside decides its future.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "slime-mold-06", "text": "The model organism: scientists study the mold because it is simple, so the creature's life becomes a laboratory instrument.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "slime-mold-07", "text": "The food that is a person: the organism consumes microbes and is used to solve human problems, so care and exploitation are entangled.", "kind": "character_dynamic", "quality": "medium", "original": null},
+    {"id": "slime-mold-08", "text": "The reversible dormancy: the mold can wait out a disaster and revive later, so survival is a matter of timing rather than strength.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "slime-mold-09", "text": "The distributed body: nutrients flow through the network to wherever they are needed, so the organism has no center to decapitate.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "slime-mold-10", "text": "The yellow mass: the organism is visible, alien, and beautiful, so the story's horror is also a spectacle.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "slime-mold-11", "text": "The trail as computation: the mold's physical route encodes a solution, so the body is the answer and the map at once.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "slime-mold-12", "text": "The clone colony: all polyps are genetically identical, so the story can ask what makes one branch different from another.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "slime-mold-13", "text": "The organism that farms: the mold is cultivated for research, so its life is shaped by human curiosity.", "kind": "character_dynamic", "quality": "medium", "original": null},
+    {"id": "slime-mold-14", "text": "The pulse of protoplasm: the mold oscillates as it searches, so its movement has a rhythm that can be read as intention.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "slime-mold-15", "text": "The solution without a solver: a problem is solved with no agent who understands it, so the story can stage a miracle without a miracle worker.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "slime-mold-16", "text": "The death that feeds the next stage: the plasmodium's remains become spores, so individual death is the species' reproduction.", "kind": "plot_device", "quality": "strong", "original": null}
+  ]
+}

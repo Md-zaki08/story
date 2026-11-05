@@ -1,0 +1,22 @@
+{
+  "source": "robocop-1987",
+  "diet": "A",
+  "atoms": [
+    {"id": "robocop-1987-01", "text": "The murdered cop rebuilt as a cyborg: a man is resurrected as corporate property, so resurrection is also enslavement.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "robocop-1987-02", "text": "Corporate ownership of the police: a city privatizes law enforcement, so justice becomes a service with a profit margin.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "robocop-1987-03", "text": "The cyborg's residual memories: fragments of the dead man's life surface through the programming, so identity is a ghost in the machine.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "robocop-1987-04", "text": "The malfunctioning rival robot: a competing law-enforcement machine kills a volunteer, so automation's failure is public and political.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "robocop-1987-05", "text": "The human inside the product: the story asks whether a person survives being turned into a brand, so personhood is tested against property.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "robocop-1987-06", "text": "The prime directive that blocks justice: a corporate directive prevents the cyborg from arresting his own creator, so law and justice diverge.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "robocop-1987-07", "text": "The partner who remembers: a human colleague recognizes the man inside the machine, so memory is sustained by relationship.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "robocop-1987-08", "text": "Dystopian Detroit: crime, decay, and privatization make the city a laboratory for corporate rule.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "robocop-1987-09", "text": "The torture and murder: the hero's death is graphically staged, so the audience's desire for revenge is engineered.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "robocop-1987-10", "text": "Reaganomics as horror: public services become profit centers, so the monster is the business model.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "robocop-1987-11", "text": "The data spike: the cyborg accesses corporate records, so the investigation becomes a fight over information.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "robocop-1987-12", "text": "The executive who builds the cyborg: a middle manager treats a human corpse as a product launch, so ambition is the film's quietest evil.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "robocop-1987-13", "text": "The final memory test: the cyborg must remember his own name to reclaim himself, so naming is the last act of personhood.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "robocop-1987-14", "text": "The media satire: news broadcasts and commercials frame violence as entertainment, so the world's tone is numb.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "robocop-1987-15", "text": "The revenge plot: the story follows a familiar revenge arc but keeps interrupting it with corporate satire, so genre pleasure and critique coexist.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "robocop-1987-16", "text": "The body as brand: the cyborg's armor is a logo, so identity is literally worn as corporate design.", "kind": "theme_engine", "quality": "strong", "original": null}
+  ]
+}

@@ -1,0 +1,884 @@
+{
+  "her-2013": {
+    "title": "Her (2013 film)",
+    "year": 2013,
+    "medium": "film",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Her_(2013_film)",
+    "word_count": 560
+  },
+  "ex-machina-2014": {
+    "title": "Ex Machina (film)",
+    "year": 2014,
+    "medium": "film",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Ex_Machina_(film)",
+    "word_count": 560
+  },
+  "blade-runner-1982": {
+    "title": "Blade Runner",
+    "year": 1982,
+    "medium": "film",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Blade_Runner",
+    "word_count": 560
+  },
+  "blade-runner-2049": {
+    "title": "Blade Runner 2049",
+    "year": 2017,
+    "medium": "film",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Blade_Runner_2049",
+    "word_count": 560
+  },
+  "2001-space-odyssey": {
+    "title": "2001: A Space Odyssey (film)",
+    "year": 1968,
+    "medium": "film",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film)",
+    "word_count": 561
+  },
+  "terminator-2": {
+    "title": "Terminator 2: Judgment Day",
+    "year": 1991,
+    "medium": "film",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Terminator_2:_Judgment_Day",
+    "word_count": 561
+  },
+  "a-i-artificial-intelligence": {
+    "title": "A.I. Artificial Intelligence",
+    "year": 2001,
+    "medium": "film",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/A.I._Artificial_Intelligence",
+    "word_count": 560
+  },
+  "moon-2009": {
+    "title": "Moon (2009 film)",
+    "year": 2009,
+    "medium": "film",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Moon_(2009_film)",
+    "word_count": 561
+  },
+  "wall-e": {
+    "title": "WALL-E",
+    "year": 2008,
+    "medium": "film",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/WALL-E",
+    "word_count": 561
+  },
+  "i-robot-2004": {
+    "title": "I, Robot (film)",
+    "year": 2004,
+    "medium": "film",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/I,_Robot_(film)",
+    "word_count": 561
+  },
+  "bicentennial-man": {
+    "title": "Bicentennial Man (film)",
+    "year": 1999,
+    "medium": "film",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Bicentennial_Man_(film)",
+    "word_count": 560
+  },
+  "transcendence-2014": {
+    "title": "Transcendence (2014 film)",
+    "year": 2014,
+    "medium": "film",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Transcendence_(2014_film)",
+    "word_count": 560
+  },
+  "chappie-2015": {
+    "title": "Chappie (film)",
+    "year": 2015,
+    "medium": "film",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Chappie_(film)",
+    "word_count": 562
+  },
+  "colossus-forbin-project": {
+    "title": "Colossus: The Forbin Project",
+    "year": 1970,
+    "medium": "film",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project",
+    "word_count": 560
+  },
+  "silent-running-1972": {
+    "title": "Silent Running",
+    "year": 1972,
+    "medium": "film",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Silent_Running",
+    "word_count": 561
+  },
+  "iron-giant-1999": {
+    "title": "The Iron Giant",
+    "year": 1999,
+    "medium": "film",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/The_Iron_Giant",
+    "word_count": 560
+  },
+  "robocop-1987": {
+    "title": "RoboCop",
+    "year": 1987,
+    "medium": "film",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/RoboCop",
+    "word_count": 560
+  },
+  "metropolis-1927": {
+    "title": "Metropolis (1927 film)",
+    "year": 1927,
+    "medium": "film",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Metropolis_(1927_film)",
+    "word_count": 560
+  },
+  "archive-2020": {
+    "title": "Archive (film)",
+    "year": 2020,
+    "medium": "film",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Archive_(film)",
+    "word_count": 560
+  },
+  "marjorie-prime-2017": {
+    "title": "Marjorie Prime",
+    "year": 2017,
+    "medium": "film",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Marjorie_Prime",
+    "word_count": 560
+  },
+  "modern-times-1936": {
+    "title": "Modern Times (film)",
+    "year": 1936,
+    "medium": "film",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Modern_Times_(film)",
+    "word_count": 560
+  },
+  "big-hero-6-2014": {
+    "title": "Big Hero 6 (film)",
+    "year": 2014,
+    "medium": "film",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Big_Hero_6_(film)",
+    "word_count": 560
+  },
+  "zoe-2018": {
+    "title": "Zoe (film)",
+    "year": 2018,
+    "medium": "film",
+    "diet": "A",
+    "kind": "synthesized",
+    "source_url": "",
+    "word_count": 372
+  },
+  "bm-be-right-back": {
+    "title": "Be Right Back",
+    "year": 2013,
+    "medium": "tv",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Be_Right_Back",
+    "word_count": 520
+  },
+  "bm-san-junipero": {
+    "title": "San Junipero",
+    "year": 2016,
+    "medium": "tv",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/San_Junipero",
+    "word_count": 521
+  },
+  "bm-white-christmas": {
+    "title": "White Christmas (Black Mirror)",
+    "year": 2014,
+    "medium": "tv",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/White_Christmas_(Black_Mirror)",
+    "word_count": 520
+  },
+  "bm-entire-history-of-you": {
+    "title": "The Entire History of You",
+    "year": 2011,
+    "medium": "tv",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/The_Entire_History_of_You",
+    "word_count": 520
+  },
+  "bm-uss-callister": {
+    "title": "USS Callister",
+    "year": 2017,
+    "medium": "tv",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/USS_Callister",
+    "word_count": 520
+  },
+  "bm-metalhead": {
+    "title": "Metalhead (Black Mirror)",
+    "year": 2017,
+    "medium": "tv",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Metalhead_(Black_Mirror)",
+    "word_count": 520
+  },
+  "bm-hang-the-dj": {
+    "title": "Hang the DJ",
+    "year": 2017,
+    "medium": "tv",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Hang_the_DJ",
+    "word_count": 520
+  },
+  "bm-joan-is-awful": {
+    "title": "Joan Is Awful",
+    "year": 2023,
+    "medium": "tv",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Joan_Is_Awful",
+    "word_count": 521
+  },
+  "westworld-s1": {
+    "title": "Westworld (TV series)",
+    "year": 2016,
+    "medium": "tv",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Westworld_(TV_series)",
+    "word_count": 560
+  },
+  "person-of-interest": {
+    "title": "Person of Interest (TV series)",
+    "year": 2011,
+    "medium": "tv",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Person_of_Interest_(TV_series)",
+    "word_count": 561
+  },
+  "devs-2020": {
+    "title": "Devs (TV series)",
+    "year": 2020,
+    "medium": "tv",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Devs_(TV_series)",
+    "word_count": 560
+  },
+  "machines-like-me": {
+    "title": "Machines Like Me",
+    "year": 2019,
+    "medium": "novel",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Machines_Like_Me",
+    "word_count": 560
+  },
+  "klara-and-the-sun": {
+    "title": "Klara and the Sun",
+    "year": 2021,
+    "medium": "novel",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Klara_and_the_Sun",
+    "word_count": 560
+  },
+  "do-androids-dream": {
+    "title": "Do Androids Dream of Electric Sheep?",
+    "year": 1968,
+    "medium": "novel",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep?",
+    "word_count": 560
+  },
+  "lifecycle-of-software-objects": {
+    "title": "The Lifecycle of Software Objects",
+    "year": 2010,
+    "medium": "story",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/The_Lifecycle_of_Software_Objects",
+    "word_count": 549
+  },
+  "neuromancer": {
+    "title": "Neuromancer",
+    "year": 1984,
+    "medium": "novel",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Neuromancer",
+    "word_count": 560
+  },
+  "i-robot-asimov": {
+    "title": "I, Robot",
+    "year": 1950,
+    "medium": "stories",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/I,_Robot",
+    "word_count": 560
+  },
+  "machine-stops": {
+    "title": "The Machine Stops",
+    "year": 1909,
+    "medium": "story",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/The_Machine_Stops",
+    "word_count": 560
+  },
+  "detroit-become-human": {
+    "title": "Detroit: Become Human",
+    "year": 2018,
+    "medium": "game",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Detroit:_Become_Human",
+    "word_count": 560
+  },
+  "soma-2015": {
+    "title": "SOMA (video game)",
+    "year": 2015,
+    "medium": "game",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/SOMA_(video_game)",
+    "word_count": 562
+  },
+  "nier-automata": {
+    "title": "NieR: Automata",
+    "year": 2017,
+    "medium": "game",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/NieR:_Automata",
+    "word_count": 560
+  },
+  "portal-2006": {
+    "title": "Portal (video game)",
+    "year": 2007,
+    "medium": "game",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Portal_(video_game)",
+    "word_count": 560
+  },
+  "talos-principle": {
+    "title": "The Talos Principle",
+    "year": 2014,
+    "medium": "game",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/The_Talos_Principle",
+    "word_count": 560
+  },
+  "tsukumogami": {
+    "title": "Tsukumogami",
+    "year": 0,
+    "medium": "folklore",
+    "diet": "B",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Tsukumogami",
+    "word_count": 381
+  },
+  "sand-mandala": {
+    "title": "Sand mandala",
+    "year": 0,
+    "medium": "ritual",
+    "diet": "B",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Sand_mandala",
+    "word_count": 380
+  },
+  "extended-mind": {
+    "title": "Extended mind thesis",
+    "year": 1998,
+    "medium": "philosophy",
+    "diet": "B",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Extended_mind_thesis",
+    "word_count": 380
+  },
+  "marys-room": {
+    "title": "Knowledge argument",
+    "year": 1982,
+    "medium": "philosophy",
+    "diet": "B",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Knowledge_argument",
+    "word_count": 380
+  },
+  "philosophical-zombies": {
+    "title": "Philosophical zombie",
+    "year": 1996,
+    "medium": "philosophy",
+    "diet": "B",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Philosophical_zombie",
+    "word_count": 380
+  },
+  "ship-of-theseus": {
+    "title": "Ship of Theseus",
+    "year": 0,
+    "medium": "philosophy",
+    "diet": "B",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Ship_of_Theseus",
+    "word_count": 380
+  },
+  "blindsight": {
+    "title": "Blindsight",
+    "year": 1974,
+    "medium": "neuroscience",
+    "diet": "B",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Blindsight",
+    "word_count": 381
+  },
+  "attachment-theory": {
+    "title": "Attachment theory",
+    "year": 1958,
+    "medium": "psychology",
+    "diet": "B",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Attachment_theory",
+    "word_count": 380
+  },
+  "object-permanence": {
+    "title": "Object permanence",
+    "year": 1936,
+    "medium": "psychology",
+    "diet": "B",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Object_permanence",
+    "word_count": 380
+  },
+  "continuing-bonds": {
+    "title": "Continuing bonds",
+    "year": 1996,
+    "medium": "psychology",
+    "diet": "B",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Continuing_bonds",
+    "word_count": 380
+  },
+  "ant-stigmergy": {
+    "title": "Stigmergy",
+    "year": 1959,
+    "medium": "biology",
+    "diet": "B",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Stigmergy",
+    "word_count": 380
+  },
+  "slime-mold": {
+    "title": "Physarum polycephalum",
+    "year": 0,
+    "medium": "biology",
+    "diet": "B",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Physarum_polycephalum",
+    "word_count": 380
+  },
+  "octopus-cognition": {
+    "title": "Cephalopod intelligence",
+    "year": 0,
+    "medium": "biology",
+    "diet": "B",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Cephalopod_intelligence",
+    "word_count": 382
+  },
+  "planarian-memory": {
+    "title": "Planarian",
+    "year": 0,
+    "medium": "biology",
+    "diet": "B",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Planarian",
+    "word_count": 380
+  },
+  "mycelial-network": {
+    "title": "Mycorrhizal network",
+    "year": 1997,
+    "medium": "biology",
+    "diet": "B",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+    "word_count": 380
+  },
+  "trophic-cascades": {
+    "title": "Trophic cascade",
+    "year": 1960,
+    "medium": "ecology",
+    "diet": "B",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Trophic_cascade",
+    "word_count": 380
+  },
+  "brood-parasitism": {
+    "title": "Brood parasitism",
+    "year": 0,
+    "medium": "biology",
+    "diet": "B",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Brood_parasitism",
+    "word_count": 380
+  },
+  "turritopsis": {
+    "title": "Turritopsis dohrnii",
+    "year": 0,
+    "medium": "biology",
+    "diet": "B",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Turritopsis_dohrnii",
+    "word_count": 380
+  },
+  "tontines": {
+    "title": "Tontine",
+    "year": 1653,
+    "medium": "economics",
+    "diet": "B",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Tontine",
+    "word_count": 381
+  },
+  "sharecropping": {
+    "title": "Sharecropping",
+    "year": 0,
+    "medium": "economics",
+    "diet": "B",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Sharecropping",
+    "word_count": 380
+  },
+  "actuarial-tables": {
+    "title": "Life table",
+    "year": 1693,
+    "medium": "economics",
+    "diet": "B",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Life_table",
+    "word_count": 380
+  },
+  "planned-obsolescence": {
+    "title": "Planned obsolescence",
+    "year": 1924,
+    "medium": "economics",
+    "diet": "B",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Planned_obsolescence",
+    "word_count": 380
+  },
+  "sapir-whorf": {
+    "title": "Linguistic relativity",
+    "year": 1940,
+    "medium": "linguistics",
+    "diet": "B",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Linguistic_relativity",
+    "word_count": 381
+  },
+  "potlatch": {
+    "title": "Potlatch",
+    "year": 0,
+    "medium": "anthropology",
+    "diet": "B",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Potlatch",
+    "word_count": 382
+  },
+  "anekantavada": {
+    "title": "Anekantavada",
+    "year": 0,
+    "medium": "philosophy",
+    "diet": "B",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Anekantavada",
+    "word_count": 380
+  },
+  "zugzwang": {
+    "title": "Zugzwang",
+    "year": 0,
+    "medium": "game-theory",
+    "diet": "B",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Zugzwang",
+    "word_count": 380
+  },
+  "after-yang-2021": {
+    "title": "After Yang",
+    "year": 2021,
+    "medium": "film",
+    "diet": "A",
+    "kind": "synthesized",
+    "source_url": "",
+    "word_count": 374
+  },
+  "automata-2014": {
+    "title": "Automata",
+    "year": 2014,
+    "medium": "film",
+    "diet": "A",
+    "kind": "synthesized",
+    "source_url": "",
+    "word_count": 430
+  },
+  "upload-2020": {
+    "title": "Upload",
+    "year": 2020,
+    "medium": "tv",
+    "diet": "A",
+    "kind": "synthesized",
+    "source_url": "",
+    "word_count": 407
+  },
+  "libet-readiness": {
+    "title": "Libet readiness potential",
+    "year": 1983,
+    "medium": "neuroscience",
+    "diet": "B",
+    "kind": "synthesized",
+    "source_url": "",
+    "word_count": 390
+  },
+  "ghost-town": {
+    "title": "Ghost town",
+    "year": "",
+    "medium": "live-research",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Ghost_town",
+    "word_count": 1554,
+    "fetched_at": "2026-11-04T10:16:56Z",
+    "brief": "A quiet horror story set in a flooded mining town, about a woman named Mara who brokers other people's memories through a decaying AI archive; no prophecy, no c"
+  },
+  "great-flood-of-1862": {
+    "title": "Great Flood of 1862",
+    "year": "",
+    "medium": "live-research",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Great_Flood_of_1862",
+    "word_count": 1699,
+    "fetched_at": "2026-11-04T10:21:04Z",
+    "brief": "A quiet horror story set in a flooded mining town, about a woman named Mara who brokers other people's memories through a decaying AI archive; no prophecy, no c"
+  },
+  "sam-altman": {
+    "title": "Sam Altman",
+    "year": "",
+    "medium": "live-research",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Sam_Altman",
+    "word_count": 1569,
+    "fetched_at": "2026-11-04T10:24:00Z",
+    "brief": "A quiet horror story set in a flooded mining town, about a woman named Mara who brokers other people's memories through a decaying AI archive; no prophecy, no c"
+  },
+  "nvidia": {
+    "title": "Nvidia",
+    "year": "",
+    "medium": "live-research",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Nvidia",
+    "word_count": 1580,
+    "fetched_at": "2026-11-04T10:28:28Z",
+    "brief": "A quiet horror story set in a flooded mining town, about a woman named Mara who brokers other people's memories through a decaying AI archive; no prophecy, no c"
+  },
+  "valkey": {
+    "title": "Valkey",
+    "year": "",
+    "medium": "live-research",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Valkey",
+    "word_count": 346,
+    "fetched_at": "2026-11-04T10:30:34Z",
+    "brief": "A quiet horror story set in a flooded mining town, about a woman named Mara who brokers other people's memories through a decaying AI archive; no prophecy, no c"
+  },
+  "geography-of-nepal": {
+    "title": "Geography of Nepal",
+    "year": "",
+    "medium": "live-research",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Geography_of_Nepal",
+    "word_count": 1547,
+    "fetched_at": "2026-11-04T11:22:08Z",
+    "brief": "A quiet near-future story set in a drought-stricken farming valley, about a woman named Imani who dispatches repairs for an autonomous irrigation network and di"
+  },
+  "famine-in-india": {
+    "title": "Famine in India",
+    "year": "",
+    "medium": "live-research",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Famine_in_India",
+    "word_count": 1657,
+    "fetched_at": "2026-11-04T11:26:16Z",
+    "brief": "A quiet near-future story set in a drought-stricken farming valley, about a woman named Imani who dispatches repairs for an autonomous irrigation network and di"
+  },
+  "spain": {
+    "title": "Spain",
+    "year": "",
+    "medium": "live-research",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Spain",
+    "word_count": 1546,
+    "fetched_at": "2026-11-04T11:30:36Z",
+    "brief": "A quiet near-future story set in a drought-stricken farming valley, about a woman named Imani who dispatches repairs for an autonomous irrigation network and di"
+  },
+  "lozi-kingdom": {
+    "title": "Lozi kingdom",
+    "year": "",
+    "medium": "live-research",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Lozi_kingdom",
+    "word_count": 1559,
+    "fetched_at": "2026-11-04T11:33:51Z",
+    "brief": "A quiet near-future story set in a drought-stricken farming valley, about a woman named Imani who dispatches repairs for an autonomous irrigation network and di"
+  },
+  "agriculture": {
+    "title": "Agriculture",
+    "year": "",
+    "medium": "live-research",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Agriculture",
+    "word_count": 1517,
+    "fetched_at": "2026-11-04T11:37:18Z",
+    "brief": "A quiet near-future story set in a drought-stricken farming valley, about a woman named Imani who dispatches repairs for an autonomous irrigation network and di"
+  },
+  "water-trading": {
+    "title": "Water trading",
+    "year": "",
+    "medium": "live-research",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Water_trading",
+    "word_count": 1580,
+    "fetched_at": "2026-11-04T12:45:07Z",
+    "brief": "A quiet near-future story set in a drought-stricken farming valley, about a woman named Imani who dispatches repairs for an autonomous irrigation network and di"
+  },
+  "community-supported-agriculture": {
+    "title": "Community-supported agriculture",
+    "year": "",
+    "medium": "live-research",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Community-supported_agriculture",
+    "word_count": 1469,
+    "fetched_at": "2026-11-04T12:50:00Z",
+    "brief": "A quiet near-future story set in a drought-stricken farming valley, about a woman named Imani who dispatches repairs for an autonomous irrigation network and di"
+  },
+  "ice-trade": {
+    "title": "Ice trade",
+    "year": "",
+    "medium": "live-research",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Ice_trade",
+    "word_count": 1658,
+    "fetched_at": "2026-11-04T12:54:36Z",
+    "brief": "A quiet near-future story set in a drought-stricken farming valley, about a woman named Imani who dispatches repairs for an autonomous irrigation network and di"
+  },
+  "intensive-farming": {
+    "title": "Intensive farming",
+    "year": "",
+    "medium": "live-research",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Intensive_farming",
+    "word_count": 1426,
+    "fetched_at": "2026-11-04T12:57:03Z",
+    "brief": "A quiet near-future story set in a drought-stricken farming valley, about a woman named Imani who dispatches repairs for an autonomous irrigation network and di"
+  },
+  "exploitation-of-natural-resources": {
+    "title": "Exploitation of natural resources",
+    "year": "",
+    "medium": "live-research",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Exploitation_of_natural_resources",
+    "word_count": 1405,
+    "fetched_at": "2026-11-04T13:01:02Z",
+    "brief": "A quiet near-future story set in a drought-stricken farming valley, about a woman named Imani who dispatches repairs for an autonomous irrigation network and di"
+  },
+  "wildlife-population": {
+    "title": "Wildlife population",
+    "year": "",
+    "medium": "live-research",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Wildlife_population",
+    "word_count": 233,
+    "fetched_at": "2026-11-05T09:16:47Z",
+    "brief": "In a world where outliving a robot family is common, a young programmer discovers a groundbreaking method to predict and prevent the Convenient Death of migrato"
+  },
+  "wildlife-conservation-technology": {
+    "title": "Wildlife conservation technology",
+    "year": "",
+    "medium": "live-research",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Wildlife_conservation_technology",
+    "word_count": 1399,
+    "fetched_at": "2026-11-05T09:20:32Z",
+    "brief": "In a world where outliving a robot family is common, a young programmer discovers a groundbreaking method to predict and prevent the Convenient Death of migrato"
+  },
+  "conservation-biology": {
+    "title": "Conservation biology",
+    "year": "",
+    "medium": "live-research",
+    "diet": "A",
+    "kind": "fetched",
+    "source_url": "https://en.wikipedia.org/wiki/Conservation_biology",
+    "word_count": 1471,
+    "fetched_at": "2026-11-05T09:22:45Z",
+    "brief": "In a world where outliving a robot family is common, a young programmer discovers a groundbreaking method to predict and prevent the Convenient Death of migrato"
+  }
+}

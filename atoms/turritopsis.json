@@ -1,0 +1,22 @@
+{
+  "source": "turritopsis",
+  "diet": "B",
+  "atoms": [
+    {"id": "turritopsis-01", "text": "The immortal jellyfish: under stress, an adult reverts to its juvenile polyp stage, so aging can run backward.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "turritopsis-02", "text": "Transdifferentiation: specialized cells become other cell types, so the body rewrites its own history.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "turritopsis-03", "text": "The stress trigger: injury, illness, or old age causes the reversion, so catastrophe is also an escape hatch.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "turritopsis-04", "text": "The clone colony: all polyps from one larva are genetically identical, so immortality belongs to the lineage rather than the individual.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "turritopsis-05", "text": "Theoretically endless: the cycle can repeat indefinitely, so death is an accident rather than a law.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "turritopsis-06", "text": "The predator that still dies: most individuals are eaten before they can revert, so immortality is conditional on avoiding violence.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "turritopsis-07", "text": "The jellyfish that eats jellyfish: the mature form preys on its relatives, so the immortal stage is also a cannibal.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "turritopsis-08", "text": "The research subject: the species is studied for aging and pharmaceuticals, so its gift becomes a resource for others.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "turritopsis-09", "text": "The reversion that erases: returning to polyp form discards the mature body and its experiences, so immortality costs memory.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "turritopsis-10", "text": "The budding: new medusae bud off the polyp colony, so reproduction is also resurrection.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "turritopsis-11", "text": "The invasive traveler: the jellyfish spreads through ballast water and blooms worldwide, so immortality enables colonization.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "turritopsis-12", "text": "The tiny giant: the animal is only millimeters wide, so a world-changing power is packaged in something almost invisible.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "turritopsis-13", "text": "The scientist who cannot tell species apart: two populations were long confused, so the discovery of difference changes what counts as a kind.", "kind": "structure_trick", "quality": "medium", "original": null},
+    {"id": "turritopsis-14", "text": "The biological immortality that is not personal: the individual can reset, but the self that resets is not the same, so the story asks what survives.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "turritopsis-15", "text": "The polyp that waits: the sedentary stage can outlast a crisis, so patience is a survival strategy.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "turritopsis-16", "text": "The specimen named after a patron: the species carries the name of a benefactor, so even immortality is branded.", "kind": "structure_trick", "quality": "medium", "original": null}
+  ]
+}

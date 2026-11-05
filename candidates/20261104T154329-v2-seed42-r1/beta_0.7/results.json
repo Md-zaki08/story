@@ -1,0 +1,1067 @@
+{
+  "config": {
+    "run_id": "20261104T154329-v2-seed42-r1",
+    "k": 3,
+    "beta": 0.7,
+    "top_k": 30,
+    "n_pool": 4431,
+    "seed": 42,
+    "formula": "(1-beta)*z(coherence) + beta*z(unavailability)",
+    "coherence_def": "0.5*z(mean_pairwise_cosine) + 0.5*z(cooccurrence_bridging)",
+    "unavailability_def": "0.65*z(pair_rarity) + 0.35*z(cliche_distance)"
+  },
+  "candidates": [
+    {
+      "rank_fused": 1,
+      "cluster_ids": [
+        42,
+        89,
+        108
+      ],
+      "cluster_names": [
+        "Android Dead Family",
+        "Simulation Revelation",
+        "Time-Shifting Narratives"
+      ],
+      "exemplar_atoms": [
+        "The other woman who loved the android: a stranger copied his memories into her home, so two mourners share a dead person's archive.",
+        "The late reveal: the audience learns the true survivor only at the end, so the whole film is retroactively reframed as a simulation.",
+        "The nightly reset: android hosts have their memories wiped after every narrative loop, so the same day can be sold to guests forever and no host accumulates a past."
+      ],
+      "brief_anchors": [
+        42
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.42468,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.17971,
+        "cliche_distance": 0.47872
+      },
+      "z_coherence": 0.1478,
+      "z_unavailability": 1.8214,
+      "fusion": 1.3193,
+      "rank_coherence": 2882,
+      "rank_unavailability": 84
+    },
+    {
+      "rank_fused": 2,
+      "cluster_ids": [
+        22,
+        78,
+        108
+      ],
+      "cluster_names": [
+        "Digital Afterlives",
+        "Becomes Memory Remembers",
+        "Time-Shifting Narratives"
+      ],
+      "exemplar_atoms": [
+        "The narrator frame from the far future: the story is told by machines who study humans, so the whole film is an artifact of a post-human archive.",
+        "The fragment that remembers: each piece of a divided animal may retain the original's habits, so copies inherit without being told.",
+        "The nightly reset: android hosts have their memories wiped after every narrative loop, so the same day can be sold to guests forever and no host accumulates a past."
+      ],
+      "brief_anchors": [
+        22
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.48358,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.17971,
+        "cliche_distance": 0.44646
+      },
+      "z_coherence": 0.5745,
+      "z_unavailability": 1.6155,
+      "fusion": 1.3032,
+      "rank_coherence": 1918,
+      "rank_unavailability": 198
+    },
+    {
+      "rank_fused": 3,
+      "cluster_ids": [
+        35,
+        42,
+        108
+      ],
+      "cluster_names": [
+        "Possession and Memory",
+        "Android Dead Family",
+        "Time-Shifting Narratives"
+      ],
+      "exemplar_atoms": [
+        "The collector's guilt: a person hoards old objects and discovers they have been keeping company, so ownership becomes a relationship with dependents.",
+        "The other woman who loved the android: a stranger copied his memories into her home, so two mourners share a dead person's archive.",
+        "The nightly reset: android hosts have their memories wiped after every narrative loop, so the same day can be sold to guests forever and no host accumulates a past."
+      ],
+      "brief_anchors": [
+        42
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.45354,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.17971,
+        "cliche_distance": 0.45575
+      },
+      "z_coherence": 0.3569,
+      "z_unavailability": 1.6748,
+      "fusion": 1.2794,
+      "rank_coherence": 2385,
+      "rank_unavailability": 163
+    },
+    {
+      "rank_fused": 4,
+      "cluster_ids": [
+        32,
+        35,
+        42
+      ],
+      "cluster_names": [
+        "Past and Present",
+        "Possession and Memory",
+        "Android Dead Family"
+      ],
+      "exemplar_atoms": [
+        "The design lab as dating market: researchers prototype companions in a corporate setting, so intimacy is industrialized.",
+        "The collector's guilt: a person hoards old objects and discovers they have been keeping company, so ownership becomes a relationship with dependents.",
+        "The other woman who loved the android: a stranger copied his memories into her home, so two mourners share a dead person's archive."
+      ],
+      "brief_anchors": [
+        42
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.47602,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.40672,
+        "cliche_distance": 0.39983
+      },
+      "z_coherence": -0.1296,
+      "z_unavailability": 1.822,
+      "fusion": 1.2365,
+      "rank_coherence": 3583,
+      "rank_unavailability": 83
+    },
+    {
+      "rank_fused": 5,
+      "cluster_ids": [
+        42,
+        84,
+        108
+      ],
+      "cluster_names": [
+        "Android Dead Family",
+        "Hologram Patient Family",
+        "Time-Shifting Narratives"
+      ],
+      "exemplar_atoms": [
+        "The other woman who loved the android: a stranger copied his memories into her home, so two mourners share a dead person's archive.",
+        "The caretaker who confides in the machine: a live-in aide tells secrets to a hologram, so intimacy is displaced onto a safe listener.",
+        "The nightly reset: android hosts have their memories wiped after every narrative loop, so the same day can be sold to guests forever and no host accumulates a past."
+      ],
+      "brief_anchors": [
+        42
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.43909,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.17971,
+        "cliche_distance": 0.44071
+      },
+      "z_coherence": 0.2522,
+      "z_unavailability": 1.5788,
+      "fusion": 1.1808,
+      "rank_coherence": 2644,
+      "rank_unavailability": 226
+    },
+    {
+      "rank_fused": 6,
+      "cluster_ids": [
+        21,
+        54,
+        103
+      ],
+      "cluster_names": [
+        "Polite Violence",
+        "Memory Replay",
+        "Simulation and Revision"
+      ],
+      "exemplar_atoms": [
+        "Voice-over interiority: the protagonist's spoken letters let the audience hear him composing himself, so the narration is itself the act of learning to feel.",
+        "The time recording: a device clones the player's past actions and replays them as a helper, so memory becomes a tool that can be edited and employed.",
+        "The Cold War setting: the story is placed in the past, so the robot's choice reads as a revision of real history."
+      ],
+      "brief_anchors": [
+        103
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.49504,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.17971,
+        "cliche_distance": 0.40686
+      },
+      "z_coherence": 0.6576,
+      "z_unavailability": 1.3627,
+      "fusion": 1.1512,
+      "rank_coherence": 1736,
+      "rank_unavailability": 457
+    },
+    {
+      "rank_fused": 7,
+      "cluster_ids": [
+        42,
+        54,
+        98
+      ],
+      "cluster_names": [
+        "Android Dead Family",
+        "Memory Replay",
+        "The Borrowed Childhood"
+      ],
+      "exemplar_atoms": [
+        "The other woman who loved the android: a stranger copied his memories into her home, so two mourners share a dead person's archive.",
+        "The time recording: a device clones the player's past actions and replays them as a helper, so memory becomes a tool that can be edited and employed.",
+        "The memory that predates the body: implanted memories give the synthetic person a past she never lived, so nostalgia is a manufactured resource."
+      ],
+      "brief_anchors": [
+        42
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.51045,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.9527,
+        "cliche_distance": 0.43446
+      },
+      "z_coherence": 1.4186,
+      "z_unavailability": 1.0347,
+      "fusion": 1.1499,
+      "rank_coherence": 544,
+      "rank_unavailability": 943
+    },
+    {
+      "rank_fused": 8,
+      "cluster_ids": [
+        54,
+        66,
+        103
+      ],
+      "cluster_names": [
+        "Memory Replay",
+        "Cabin Confession",
+        "Simulation and Revision"
+      ],
+      "exemplar_atoms": [
+        "The time recording: a device clones the player's past actions and replays them as a helper, so memory becomes a tool that can be edited and employed.",
+        "The surveillance confession: a target realizes every private act has been recorded and interpreted by a machine, so the interrogation happens before the arrest.",
+        "The Cold War setting: the story is placed in the past, so the robot's choice reads as a revision of real history."
+      ],
+      "brief_anchors": [
+        103
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.46241,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.17971,
+        "cliche_distance": 0.41458
+      },
+      "z_coherence": 0.4212,
+      "z_unavailability": 1.412,
+      "fusion": 1.1148,
+      "rank_coherence": 2256,
+      "rank_unavailability": 411
+    },
+    {
+      "rank_fused": 9,
+      "cluster_ids": [
+        42,
+        95,
+        108
+      ],
+      "cluster_names": [
+        "Android Dead Family",
+        "Digital Memory",
+        "Time-Shifting Narratives"
+      ],
+      "exemplar_atoms": [
+        "The other woman who loved the android: a stranger copied his memories into her home, so two mourners share a dead person's archive.",
+        "The grief chatbot: a service reconstructs a dead partner from social media and messages, so mourning is automated.",
+        "The nightly reset: android hosts have their memories wiped after every narrative loop, so the same day can be sold to guests forever and no host accumulates a past."
+      ],
+      "brief_anchors": [
+        42
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.47607,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.17971,
+        "cliche_distance": 0.4009
+      },
+      "z_coherence": 0.5202,
+      "z_unavailability": 1.3247,
+      "fusion": 1.0834,
+      "rank_coherence": 2026,
+      "rank_unavailability": 506
+    },
+    {
+      "rank_fused": 10,
+      "cluster_ids": [
+        42,
+        54,
+        55
+      ],
+      "cluster_names": [
+        "Android Dead Family",
+        "Memory Replay",
+        "Intimacy by Proxy"
+      ],
+      "exemplar_atoms": [
+        "The other woman who loved the android: a stranger copied his memories into her home, so two mourners share a dead person's archive.",
+        "The time recording: a device clones the player's past actions and replays them as a helper, so memory becomes a tool that can be edited and employed.",
+        "The babysitter as witness: an outsider is asked to judge the couple's memories, so intimacy is outsourced to a stranger."
+      ],
+      "brief_anchors": [
+        42
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.51695,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.9527,
+        "cliche_distance": 0.4162
+      },
+      "z_coherence": 1.4657,
+      "z_unavailability": 0.9182,
+      "fusion": 1.0825,
+      "rank_coherence": 504,
+      "rank_unavailability": 1193
+    },
+    {
+      "rank_fused": 11,
+      "cluster_ids": [
+        35,
+        42,
+        61
+      ],
+      "cluster_names": [
+        "Possession and Memory",
+        "Android Dead Family",
+        "Environmental Edits"
+      ],
+      "exemplar_atoms": [
+        "The collector's guilt: a person hoards old objects and discovers they have been keeping company, so ownership becomes a relationship with dependents.",
+        "The other woman who loved the android: a stranger copied his memories into her home, so two mourners share a dead person's archive.",
+        "The buried miracle: a replicant corpse shows signs of childbirth, so a single body rewrites the rules of an entire species."
+      ],
+      "brief_anchors": [
+        42
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.48739,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.17971,
+        "cliche_distance": 0.39447
+      },
+      "z_coherence": 0.6022,
+      "z_unavailability": 1.2836,
+      "fusion": 1.0792,
+      "rank_coherence": 1860,
+      "rank_unavailability": 558
+    },
+    {
+      "rank_fused": 12,
+      "cluster_ids": [
+        22,
+        78,
+        103
+      ],
+      "cluster_names": [
+        "Digital Afterlives",
+        "Becomes Memory Remembers",
+        "Simulation and Revision"
+      ],
+      "exemplar_atoms": [
+        "The narrator frame from the far future: the story is told by machines who study humans, so the whole film is an artifact of a post-human archive.",
+        "The fragment that remembers: each piece of a divided animal may retain the original's habits, so copies inherit without being told.",
+        "The Cold War setting: the story is placed in the past, so the robot's choice reads as a revision of real history."
+      ],
+      "brief_anchors": [
+        22,
+        103
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.42579,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.40672,
+        "cliche_distance": 0.38692
+      },
+      "z_coherence": -0.4935,
+      "z_unavailability": 1.7396,
+      "fusion": 1.0697,
+      "rank_coherence": 4415,
+      "rank_unavailability": 127
+    },
+    {
+      "rank_fused": 13,
+      "cluster_ids": [
+        42,
+        105,
+        108
+      ],
+      "cluster_names": [
+        "Android Dead Family",
+        "Death and Inheritance",
+        "Time-Shifting Narratives"
+      ],
+      "exemplar_atoms": [
+        "The other woman who loved the android: a stranger copied his memories into her home, so two mourners share a dead person's archive.",
+        "The brother's death: a sibling dies saving a mentor, so the inciting wound is an act of goodness.",
+        "The nightly reset: android hosts have their memories wiped after every narrative loop, so the same day can be sold to guests forever and no host accumulates a past."
+      ],
+      "brief_anchors": [
+        42
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.38328,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.17971,
+        "cliche_distance": 0.44157
+      },
+      "z_coherence": -0.1522,
+      "z_unavailability": 1.5843,
+      "fusion": 1.0633,
+      "rank_coherence": 3634,
+      "rank_unavailability": 217
+    },
+    {
+      "rank_fused": 14,
+      "cluster_ids": [
+        42,
+        54,
+        86
+      ],
+      "cluster_names": [
+        "Android Dead Family",
+        "Memory Replay",
+        "Copy Memories Intimacy"
+      ],
+      "exemplar_atoms": [
+        "The other woman who loved the android: a stranger copied his memories into her home, so two mourners share a dead person's archive.",
+        "The time recording: a device clones the player's past actions and replays them as a helper, so memory becomes a tool that can be edited and employed.",
+        "Memories as leased property: the clones' families are real memories belonging to another man, so love is genuine in the copy and stolen from the original."
+      ],
+      "brief_anchors": [
+        42
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.54046,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.82154,
+        "cliche_distance": 0.44416
+      },
+      "z_coherence": 1.6361,
+      "z_unavailability": 0.8054,
+      "fusion": 1.0546,
+      "rank_coherence": 351,
+      "rank_unavailability": 1441
+    },
+    {
+      "rank_fused": 15,
+      "cluster_ids": [
+        42,
+        84,
+        104
+      ],
+      "cluster_names": [
+        "Android Dead Family",
+        "Hologram Patient Family",
+        "Grief and Engineering"
+      ],
+      "exemplar_atoms": [
+        "The other woman who loved the android: a stranger copied his memories into her home, so two mourners share a dead person's archive.",
+        "The caretaker who confides in the machine: a live-in aide tells secrets to a hologram, so intimacy is displaced onto a safe listener.",
+        "Grief turned into a team: the friends weaponize their inventions to avenge a death, so community is forged by loss."
+      ],
+      "brief_anchors": [
+        42
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.48131,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.17971,
+        "cliche_distance": 0.38999
+      },
+      "z_coherence": 0.5581,
+      "z_unavailability": 1.2551,
+      "fusion": 1.046,
+      "rank_coherence": 1953,
+      "rank_unavailability": 592
+    },
+    {
+      "rank_fused": 16,
+      "cluster_ids": [
+        47,
+        67,
+        87
+      ],
+      "cluster_names": [
+        "Algorithm Rebellion",
+        "Rival Scientists",
+        "Cannot Subject Must"
+      ],
+      "exemplar_atoms": [
+        "Memory as identity: the grain defines who a person is, so losing it is both liberation and death.",
+        "The person who can see two reds: a rare subject perceives a distinction no one else can verify, so private experience becomes an evidentiary problem.",
+        "The test that cannot be run: a procedure would reveal whether a subject is conscious, but it requires destroying the subject, so certainty is lethal."
+      ],
+      "brief_anchors": [
+        47
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.43114,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.40672,
+        "cliche_distance": 0.37895
+      },
+      "z_coherence": -0.4547,
+      "z_unavailability": 1.6888,
+      "fusion": 1.0457,
+      "rank_coherence": 4334,
+      "rank_unavailability": 155
+    },
+    {
+      "rank_fused": 17,
+      "cluster_ids": [
+        18,
+        22,
+        78
+      ],
+      "cluster_names": [
+        "The Repair Ethic",
+        "Digital Afterlives",
+        "Becomes Memory Remembers"
+      ],
+      "exemplar_atoms": [
+        "The repair café: a community resists disposal by fixing things together, so maintenance becomes political resistance.",
+        "The narrator frame from the far future: the story is told by machines who study humans, so the whole film is an artifact of a post-human archive.",
+        "The fragment that remembers: each piece of a divided animal may retain the original's habits, so copies inherit without being told."
+      ],
+      "brief_anchors": [
+        22
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.45675,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.17971,
+        "cliche_distance": 0.40118
+      },
+      "z_coherence": 0.3802,
+      "z_unavailability": 1.3265,
+      "fusion": 1.0426,
+      "rank_coherence": 2334,
+      "rank_unavailability": 502
+    },
+    {
+      "rank_fused": 18,
+      "cluster_ids": [
+        35,
+        42,
+        105
+      ],
+      "cluster_names": [
+        "Possession and Memory",
+        "Android Dead Family",
+        "Death and Inheritance"
+      ],
+      "exemplar_atoms": [
+        "The collector's guilt: a person hoards old objects and discovers they have been keeping company, so ownership becomes a relationship with dependents.",
+        "The other woman who loved the android: a stranger copied his memories into her home, so two mourners share a dead person's archive.",
+        "The brother's death: a sibling dies saving a mentor, so the inciting wound is an act of goodness."
+      ],
+      "brief_anchors": [
+        42
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.42278,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.17971,
+        "cliche_distance": 0.41717
+      },
+      "z_coherence": 0.1341,
+      "z_unavailability": 1.4285,
+      "fusion": 1.0402,
+      "rank_coherence": 2919,
+      "rank_unavailability": 388
+    },
+    {
+      "rank_fused": 19,
+      "cluster_ids": [
+        6,
+        54,
+        103
+      ],
+      "cluster_names": [
+        "Lip-Reading Conspiracy",
+        "Memory Replay",
+        "Simulation and Revision"
+      ],
+      "exemplar_atoms": [
+        "The narrator who might be hollow: the story is told from inside a mind that cannot prove it has one, so the reader's trust is the final experiment.",
+        "The time recording: a device clones the player's past actions and replays them as a helper, so memory becomes a tool that can be edited and employed.",
+        "The Cold War setting: the story is placed in the past, so the robot's choice reads as a revision of real history."
+      ],
+      "brief_anchors": [
+        103
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.46515,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.17971,
+        "cliche_distance": 0.39655
+      },
+      "z_coherence": 0.441,
+      "z_unavailability": 1.297,
+      "fusion": 1.0402,
+      "rank_coherence": 2210,
+      "rank_unavailability": 540
+    },
+    {
+      "rank_fused": 20,
+      "cluster_ids": [
+        42,
+        66,
+        98
+      ],
+      "cluster_names": [
+        "Android Dead Family",
+        "Cabin Confession",
+        "The Borrowed Childhood"
+      ],
+      "exemplar_atoms": [
+        "The other woman who loved the android: a stranger copied his memories into her home, so two mourners share a dead person's archive.",
+        "The surveillance confession: a target realizes every private act has been recorded and interpreted by a machine, so the interrogation happens before the arrest.",
+        "The memory that predates the body: implanted memories give the synthetic person a past she never lived, so nostalgia is a manufactured resource."
+      ],
+      "brief_anchors": [
+        42
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.44128,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.17971,
+        "cliche_distance": 0.40697
+      },
+      "z_coherence": 0.2681,
+      "z_unavailability": 1.3634,
+      "fusion": 1.0348,
+      "rank_coherence": 2608,
+      "rank_unavailability": 456
+    },
+    {
+      "rank_fused": 21,
+      "cluster_ids": [
+        22,
+        60,
+        91
+      ],
+      "cluster_names": [
+        "Digital Afterlives",
+        "Reflective Tables",
+        "Sight Without Seeing"
+      ],
+      "exemplar_atoms": [
+        "The narrator frame from the far future: the story is told by machines who study humans, so the whole film is an artifact of a post-human archive.",
+        "The store-window observer: an android for sale learns the world by watching it from a shop display, so its education is a series of strangers' silhouettes.",
+        "The blind seer: a cortically blind person can locate and avoid objects without seeing them, so perception is split from awareness."
+      ],
+      "brief_anchors": [
+        22
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.45663,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.17971,
+        "cliche_distance": 0.39734
+      },
+      "z_coherence": 0.3793,
+      "z_unavailability": 1.302,
+      "fusion": 1.0252,
+      "rank_coherence": 2337,
+      "rank_unavailability": 535
+    },
+    {
+      "rank_fused": 22,
+      "cluster_ids": [
+        47,
+        60,
+        91
+      ],
+      "cluster_names": [
+        "Algorithm Rebellion",
+        "Reflective Tables",
+        "Sight Without Seeing"
+      ],
+      "exemplar_atoms": [
+        "Memory as identity: the grain defines who a person is, so losing it is both liberation and death.",
+        "The store-window observer: an android for sale learns the world by watching it from a shop display, so its education is a series of strangers' silhouettes.",
+        "The blind seer: a cortically blind person can locate and avoid objects without seeing them, so perception is split from awareness."
+      ],
+      "brief_anchors": [
+        47
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.44822,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.17971,
+        "cliche_distance": 0.39883
+      },
+      "z_coherence": 0.3184,
+      "z_unavailability": 1.3115,
+      "fusion": 1.0135,
+      "rank_coherence": 2486,
+      "rank_unavailability": 520
+    },
+    {
+      "rank_fused": 23,
+      "cluster_ids": [
+        42,
+        98,
+        103
+      ],
+      "cluster_names": [
+        "Android Dead Family",
+        "The Borrowed Childhood",
+        "Simulation and Revision"
+      ],
+      "exemplar_atoms": [
+        "The other woman who loved the android: a stranger copied his memories into her home, so two mourners share a dead person's archive.",
+        "The memory that predates the body: implanted memories give the synthetic person a past she never lived, so nostalgia is a manufactured resource.",
+        "The Cold War setting: the story is placed in the past, so the robot's choice reads as a revision of real history."
+      ],
+      "brief_anchors": [
+        42,
+        103
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.43164,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.17971,
+        "cliche_distance": 0.40673
+      },
+      "z_coherence": 0.1982,
+      "z_unavailability": 1.3619,
+      "fusion": 1.0128,
+      "rank_coherence": 2762,
+      "rank_unavailability": 459
+    },
+    {
+      "rank_fused": 24,
+      "cluster_ids": [
+        34,
+        42,
+        106
+      ],
+      "cluster_names": [
+        "Forgetting and Holding",
+        "Android Dead Family",
+        "Data Center Orphans"
+      ],
+      "exemplar_atoms": [
+        "The person who forgets the dead: a character with no object permanence cannot hold an absent loved one in mind, so grief requires a cognitive achievement.",
+        "The other woman who loved the android: a stranger copied his memories into her home, so two mourners share a dead person's archive.",
+        "The repair that offends: mending an old object can be experienced as mutilation, so care and violation are indistinguishable to the thing being cared for."
+      ],
+      "brief_anchors": [
+        42
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.45291,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.40672,
+        "cliche_distance": 0.35906
+      },
+      "z_coherence": -0.297,
+      "z_unavailability": 1.5618,
+      "fusion": 1.0042,
+      "rank_coherence": 3965,
+      "rank_unavailability": 242
+    },
+    {
+      "rank_fused": 25,
+      "cluster_ids": [
+        21,
+        47,
+        94
+      ],
+      "cluster_names": [
+        "Polite Violence",
+        "Algorithm Rebellion",
+        "The Word That Shapes"
+      ],
+      "exemplar_atoms": [
+        "Voice-over interiority: the protagonist's spoken letters let the audience hear him composing himself, so the narration is itself the act of learning to feel.",
+        "Memory as identity: the grain defines who a person is, so losing it is both liberation and death.",
+        "The word that changes behavior: a new term enters common speech and alters how people act, so language is a soft weapon."
+      ],
+      "brief_anchors": [
+        47
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.51171,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.9527,
+        "cliche_distance": 0.39916
+      },
+      "z_coherence": 1.4277,
+      "z_unavailability": 0.8095,
+      "fusion": 0.995,
+      "rank_coherence": 536,
+      "rank_unavailability": 1430
+    },
+    {
+      "rank_fused": 26,
+      "cluster_ids": [
+        34,
+        35,
+        42
+      ],
+      "cluster_names": [
+        "Forgetting and Holding",
+        "Possession and Memory",
+        "Android Dead Family"
+      ],
+      "exemplar_atoms": [
+        "The person who forgets the dead: a character with no object permanence cannot hold an absent loved one in mind, so grief requires a cognitive achievement.",
+        "The collector's guilt: a person hoards old objects and discovers they have been keeping company, so ownership becomes a relationship with dependents.",
+        "The other woman who loved the android: a stranger copied his memories into her home, so two mourners share a dead person's archive."
+      ],
+      "brief_anchors": [
+        42
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.56237,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.04855,
+        "cliche_distance": 0.38395
+      },
+      "z_coherence": 1.1455,
+      "z_unavailability": 0.9252,
+      "fusion": 0.9913,
+      "rank_coherence": 885,
+      "rank_unavailability": 1176
+    },
+    {
+      "rank_fused": 27,
+      "cluster_ids": [
+        47,
+        84,
+        101
+      ],
+      "cluster_names": [
+        "Algorithm Rebellion",
+        "Hologram Patient Family",
+        "Privacy as Performance"
+      ],
+      "exemplar_atoms": [
+        "Memory as identity: the grain defines who a person is, so losing it is both liberation and death.",
+        "The caretaker who confides in the machine: a live-in aide tells secrets to a hologram, so intimacy is displaced onto a safe listener.",
+        "The silent servant who understands everything: a domestic gynoid assumed to be language-less turns out to be a witness, and the household's secrets are exposed by the furniture."
+      ],
+      "brief_anchors": [
+        47
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.48277,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.40672,
+        "cliche_distance": 0.34149
+      },
+      "z_coherence": -0.0806,
+      "z_unavailability": 1.4497,
+      "fusion": 0.9906,
+      "rank_coherence": 3448,
+      "rank_unavailability": 364
+    },
+    {
+      "rank_fused": 28,
+      "cluster_ids": [
+        42,
+        46,
+        110
+      ],
+      "cluster_names": [
+        "Android Dead Family",
+        "The Last of It",
+        "Eternity and Divergence"
+      ],
+      "exemplar_atoms": [
+        "The other woman who loved the android: a stranger copied his memories into her home, so two mourners share a dead person's archive.",
+        "The last survivor: the final member inherits the remaining fund, so the story's ending is a waiting game with a single winner.",
+        "The wife who chooses the copy: a spouse uploads her dying husband against his friend's warning, so love is tested as willingness to accept a substitute."
+      ],
+      "brief_anchors": [
+        42
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.43266,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.40672,
+        "cliche_distance": 0.36537
+      },
+      "z_coherence": -0.4437,
+      "z_unavailability": 1.6021,
+      "fusion": 0.9883,
+      "rank_coherence": 4304,
+      "rank_unavailability": 207
+    },
+    {
+      "rank_fused": 29,
+      "cluster_ids": [
+        47,
+        94,
+        99
+      ],
+      "cluster_names": [
+        "Algorithm Rebellion",
+        "The Word That Shapes",
+        "Closure Mechanism"
+      ],
+      "exemplar_atoms": [
+        "Memory as identity: the grain defines who a person is, so losing it is both liberation and death.",
+        "The word that changes behavior: a new term enters common speech and alters how people act, so language is a soft weapon.",
+        "The ending that refuses reunion: the protagonist is paid, repaired, and left alone, so the heist resolves but intimacy does not."
+      ],
+      "brief_anchors": [
+        47
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.33903,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.17971,
+        "cliche_distance": 0.44549
+      },
+      "z_coherence": -0.4727,
+      "z_unavailability": 1.6093,
+      "fusion": 0.9847,
+      "rank_coherence": 4380,
+      "rank_unavailability": 203
+    },
+    {
+      "rank_fused": 30,
+      "cluster_ids": [
+        67,
+        91,
+        103
+      ],
+      "cluster_names": [
+        "Rival Scientists",
+        "Sight Without Seeing",
+        "Simulation and Revision"
+      ],
+      "exemplar_atoms": [
+        "The person who can see two reds: a rare subject perceives a distinction no one else can verify, so private experience becomes an evidentiary problem.",
+        "The blind seer: a cortically blind person can locate and avoid objects without seeing them, so perception is split from awareness.",
+        "The Cold War setting: the story is placed in the past, so the robot's choice reads as a revision of real history."
+      ],
+      "brief_anchors": [
+        103
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.37617,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.17971,
+        "cliche_distance": 0.42566
+      },
+      "z_coherence": -0.2037,
+      "z_unavailability": 1.4827,
+      "fusion": 0.9768,
+      "rank_coherence": 3746,
+      "rank_unavailability": 332
+    }
+  ]
+}

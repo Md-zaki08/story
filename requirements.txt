@@ -1,0 +1,6 @@
+# Tested on Python 3.14.4; Python 3.10+ is required.
+litellm==1.106.6
+model2vec==0.10.0
+numpy>=2.0
+scipy>=1.11
+requests>=2.31

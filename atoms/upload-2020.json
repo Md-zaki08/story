@@ -1,0 +1,22 @@
+{
+  "source": "upload-2020",
+  "diet": "A",
+  "atoms": [
+    {"id": "upload-2020-01", "text": "The subscription afterlife: consciousness is uploaded into a luxury digital resort where food, weather, and upgrades are line items, so eternity is a billing plan.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "upload-2020-02", "text": "The living service worker: an employee of the digital afterlife falls in love with a dead customer, so intimacy is outsourced to labor and then becomes real.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "upload-2020-03", "text": "The possessive uploader: a girlfriend digitizes her dead boyfriend without consent and controls his environment, so grief becomes ownership.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "upload-2020-04", "text": "The memory-edit feature: painful memories can be deleted or altered as a paid service, so healing is a product and identity is a curated archive.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "upload-2020-05", "text": "The class-stratified paradise: rich residents get mansions and private beaches while poor residents see ads and throttled bandwidth, so digital space reproduces material inequality.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "upload-2020-06", "text": "The suspicious crash: the protagonist's death may be a data-harvesting murder disguised as an accident, so the afterlife mystery is also a corporate crime story.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "upload-2020-07", "text": "The angel as gig worker: guides in the digital afterlife are underpaid living people with scripts and quotas, so the sacred role is a call-center job.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "upload-2020-08", "text": "The digital body with appetites: uploaded people eat, have sex, and feel pain in a simulation, so the copy insists on the reality of its sensations.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "upload-2020-09", "text": "The bandwidth grief: a poor upload buffers and freezes during emotional moments, so technical failure becomes a metaphor for interrupted mourning.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "upload-2020-10", "text": "The living double: a living person's digital avatar can be manipulated to influence them, so the copy is a lever on the original.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "upload-2020-11", "text": "The upgrade temptation: residents can buy better bodies and minds, so self-improvement becomes a subscription tier and inequality follows you past death.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "upload-2020-12", "text": "The employee who cannot afford the product: the service worker sells an afterlife she will never be able to buy, so class resentment is built into the romance.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "upload-2020-13", "text": "The incomplete memory: the protagonist's uploaded mind has gaps, so the search for what was removed becomes a murder investigation into himself.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "upload-2020-14", "text": "The data harvest: a corporation may kill customers to acquire their minds, so the business model is literally predation on the dead.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "upload-2020-15", "text": "The two funerals: the living mourn a person who still exists in a server, so grief has no socially recognized endpoint.", "kind": "theme_engine", "quality": "medium", "original": null},
+    {"id": "upload-2020-16", "text": "The digital copy that can be wronged: the story treats a uploaded consciousness as a rights-bearing person, so property law and personhood collide.", "kind": "theme_engine", "quality": "strong", "original": null}
+  ]
+}

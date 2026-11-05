@@ -1,0 +1,47 @@
+{
+  "source": "valkey",
+  "title": "Valkey",
+  "diet": "A",
+  "atoms": [
+    {
+      "text": "Low-latency reads and writes in an in-memory database, making it suitable for use cases requiring fast data access.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "Valkey being a fork of Redis and later being forked again, creating a new project under the Linux Foundation.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "Redis switching from BSD license to dual SSPL and proprietary licensing, leading to a community-based fork.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "Valkey 9.0 introducing new features such as atomic slot migration, hash field expiration, and support for multiple databases, indicating continuous development and improvement.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "The history of Redis and Valkey, including the transition from BSD to SSPL, provides a narrative of community-driven projects and the evolution of database software licenses.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "Redis and Valkey's use by a variety of tech companies, including Alibaba Cloud, AWS, and Google Cloud, suggests a growing ecosystem of open-source database solutions.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "The introduction of Valkey Admin, an open-source visual cluster management tool, indicates a shift towards more user-friendly and modular database management solutions.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "The history of Redis, Valkey, and related projects provides a timeline of database evolution and community engagement, creating a sense of continuity and change in the database industry.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    }
+  ]
+}

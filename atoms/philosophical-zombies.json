@@ -1,0 +1,22 @@
+{
+  "source": "philosophical-zombies",
+  "diet": "B",
+  "atoms": [
+    {"id": "philosophical-zombies-01", "text": "The p-zombie: a being physically identical to a person but with no inner experience behaves exactly like one, so the story can populate a world with perfect impostors.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "philosophical-zombies-02", "text": "The pain that is not felt: a body reacts to injury without suffering, so the observer cannot distinguish agony from performance.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "philosophical-zombies-03", "text": "The behavioral test: every experiment measures response, not experience, so science can never confirm whether anyone is home.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "philosophical-zombies-04", "text": "The identical twin who is empty: a duplicate is created with all memories and mannerisms but no consciousness, so intimacy is haunted by the possibility of a hollow copy.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "philosophical-zombies-05", "text": "The conceivability argument: if a zombie world can be imagined without contradiction, physicalism may be false, so the story's plot turns on what can be conceived.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "philosophical-zombies-06", "text": "The philosopher who suspects everyone: a researcher treats all colleagues as possible zombies, so ordinary trust collapses into an unfalsifiable doubt.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "philosophical-zombies-07", "text": "The zombie who passes every test: an entity without experience is indistinguishable from a person in every measurable way, so institutions cannot exclude it.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "philosophical-zombies-08", "text": "The hard problem: subjective experience resists physical explanation, so the story's central mystery is not a crime but the fact of feeling.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "philosophical-zombies-09", "text": "The imitation man: an artificial person is built to mimic emotion so well that no one can tell, so the uncanny is normalized by good engineering.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "philosophical-zombies-10", "text": "The one who claims to be a zombie: a person insists they feel nothing, so testimony becomes the only evidence and it may be a lie.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "philosophical-zombies-11", "text": "The coffee that tastes like nothing: a subtle difference in experience separates two physically identical people, so the smallest sensory detail becomes proof of a soul.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "philosophical-zombies-12", "text": "The factory of identical bodies: mass production creates thousands of physically identical beings, so the story can ask which one, if any, is conscious.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "philosophical-zombies-13", "text": "The philosopher who says we are all zombies: a thinker argues that consciousness is an illusion, so the characters must defend their own interiority.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "philosophical-zombies-14", "text": "The zombie's rights: a being without experience demands legal protection, so personhood is detached from sentience.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "philosophical-zombies-15", "text": "The test that cannot be run: a procedure would reveal whether a subject is conscious, but it requires destroying the subject, so certainty is lethal.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "philosophical-zombies-16", "text": "The narrator who might be hollow: the story is told from inside a mind that cannot prove it has one, so the reader's trust is the final experiment.", "kind": "structure_trick", "quality": "strong", "original": null}
+  ]
+}

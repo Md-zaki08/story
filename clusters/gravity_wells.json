@@ -1,0 +1,65 @@
+{
+  "method": "top-12 clusters by number of diet-A sources holding member atoms",
+  "wells": [
+    {
+      "cluster_id": 1,
+      "name": "The Swapped Brood",
+      "diet_a_source_count": 19
+    },
+    {
+      "cluster_id": 3,
+      "name": "Machines That Eat Workers",
+      "diet_a_source_count": 19
+    },
+    {
+      "cluster_id": 23,
+      "name": "World Becomes Catastrophe",
+      "diet_a_source_count": 18
+    },
+    {
+      "cluster_id": 15,
+      "name": "Sealed Sanctuaries",
+      "diet_a_source_count": 15
+    },
+    {
+      "cluster_id": 10,
+      "name": "Trace Recruits",
+      "diet_a_source_count": 14
+    },
+    {
+      "cluster_id": 2,
+      "name": "The Child Who Knows",
+      "diet_a_source_count": 13
+    },
+    {
+      "cluster_id": 7,
+      "name": "The Unverifiable Other",
+      "diet_a_source_count": 13
+    },
+    {
+      "cluster_id": 8,
+      "name": "Mother Abandon",
+      "diet_a_source_count": 13
+    },
+    {
+      "cluster_id": 14,
+      "name": "The Convenient Death",
+      "diet_a_source_count": 13
+    },
+    {
+      "cluster_id": 20,
+      "name": "The Mediated Life",
+      "diet_a_source_count": 13
+    },
+    {
+      "cluster_id": 9,
+      "name": "The Model Organism",
+      "diet_a_source_count": 12
+    },
+    {
+      "cluster_id": 16,
+      "name": "Machinations of Machinery",
+      "diet_a_source_count": 12
+    }
+  ]
+}

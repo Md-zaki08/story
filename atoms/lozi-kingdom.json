@@ -1,0 +1,57 @@
+{
+  "source": "lozi-kingdom",
+  "title": "Lozi kingdom",
+  "diet": "A",
+  "atoms": [
+    {
+      "text": "Migration of the Lozi people from the Lunda Empire to the Bulozi Floodplain in the 17th century, leading to the founding of the Lozi kingdom.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "The internecine civil war between the sons of the 10th Litunga, Mubukwanu and Silumelume, to succeed him, creating significant internal strife and weakening the kingdom.",
+      "kind": "theme_engine",
+      "quality": "medium"
+    },
+    {
+      "text": "The shift in power from the Litunga to the aristocratic bureaucracy (National Council or Kuta) as successive Litunga were compelled to make concessions, highlighting the loss of traditional authority.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "The Makololo, a Sotho group fleeing the Mfecane, conquering the Lozi kingdom in 1840 and ruling over it until its restoration in 1864.",
+      "kind": "plot_device",
+      "quality": "medium"
+    },
+    {
+      "text": "The Barotseland Agreement of 1964 granting the kingdom a special status within the new Republic of Zambia, followed by its abolition in 1911, creating a tension between the government and the Lozi people.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "The conflicts between Lozi elites and nationalist leaders leading to the Barotseland Agreement of 1964, and the subsequent failure to implement the agreement, creating tension between the Lozi people and the government.",
+      "kind": "theme_engine",
+      "quality": "medium"
+    },
+    {
+      "text": "The reinstatement of Lewanika in 1885, supported by traditionalist factions, and his gradual loss of power and territory over the years, creating tension between the king and the power structures.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "The annulment of prior treaties and the argument that Barotseland is legally sovereign, creating tension between the Lozi people and the international community.",
+      "kind": "theme_engine",
+      "quality": "medium"
+    },
+    {
+      "text": "The Lozi kingdom's incorporation into Northern Rhodesia in 1911, reducing it to a province, creating tension between the kingdom and the colonial power.",
+      "kind": "plot_device",
+      "quality": "medium"
+    },
+    {
+      "text": "The Lozi kingdom's incorporation into Northern Rhodesia in 1911, reducing it to a province, creating tension between the kingdom and its people.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    }
+  ]
+}

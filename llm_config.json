@@ -1,0 +1,39 @@
+{
+  "provider_order": [
+    "gemini",
+    "anthropic",
+    "openai",
+    "ollama"
+  ],
+  "models": {
+    "gemini": "gemini-2.5-flash",
+    "anthropic": "claude-sonnet-4-5",
+    "openai": "gpt-4.1-mini",
+    "ollama": "qwen2.5:3b"
+  },
+  "stages": {
+    "collector": {
+      "temperature": 0.6,
+      "max_tokens": 2200
+    },
+    "judge": {
+      "temperature": 0.2,
+      "max_tokens": 2500
+    },
+    "writer": {
+      "temperature": 0.85,
+      "max_tokens": 4200
+    }
+  },
+  "ollama": {
+    "host": "http://127.0.0.1:11434",
+    "num_ctx": 4096
+  },
+  "base_urls": {
+    "gemini": "",
+    "anthropic": "",
+    "openai": ""
+  },
+  "request_timeout": 1800,
+  "litellm": true
+}

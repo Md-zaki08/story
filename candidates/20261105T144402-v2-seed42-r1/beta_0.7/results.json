@@ -1,0 +1,1069 @@
+{
+  "config": {
+    "run_id": "20261105T144402-v2-seed42-r1",
+    "k": 3,
+    "beta": 0.7,
+    "top_k": 30,
+    "n_pool": 4372,
+    "seed": 42,
+    "formula": "(1-beta)*z(coherence) + beta*z(unavailability)",
+    "coherence_def": "0.5*z(mean_pairwise_cosine) + 0.5*z(cooccurrence_bridging)",
+    "unavailability_def": "0.65*z(pair_rarity) + 0.35*z(cliche_distance)"
+  },
+  "candidates": [
+    {
+      "rank_fused": 1,
+      "cluster_ids": [
+        41,
+        94,
+        102
+      ],
+      "cluster_names": [
+        "Mortality Table Each",
+        "The Word That Shapes",
+        "Language's Grip"
+      ],
+      "exemplar_atoms": [
+        "The life table: for each age, a probability of dying before the next birthday, so mortality is converted into a grid.",
+        "The word that changes behavior: a new term enters common speech and alters how people act, so language is a soft weapon.",
+        "The strong hypothesis: language determines thought, so a regime can control minds by controlling vocabulary."
+      ],
+      "brief_anchors": [
+        41
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.3833,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.32632,
+        "cliche_distance": 0.51101
+      },
+      "z_coherence": -0.0445,
+      "z_unavailability": 1.5386,
+      "fusion": 1.0637,
+      "rank_coherence": 3279,
+      "rank_unavailability": 226
+    },
+    {
+      "rank_fused": 2,
+      "cluster_ids": [
+        37,
+        47,
+        91
+      ],
+      "cluster_names": [
+        "What Remains Unseen",
+        "Algorithm Rebellion",
+        "Sight Without Seeing"
+      ],
+      "exemplar_atoms": [
+        "The covered toy: an infant who does not search for a hidden object behaves as if it ceased to exist, so presence is equated with visibility.",
+        "Memory as identity: the grain defines who a person is, so losing it is both liberation and death.",
+        "The blind seer: a cortically blind person can locate and avoid objects without seeing them, so perception is split from awareness."
+      ],
+      "brief_anchors": [
+        47
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.46279,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.55388,
+        "cliche_distance": 0.40608
+      },
+      "z_coherence": -0.1607,
+      "z_unavailability": 1.5314,
+      "fusion": 1.0238,
+      "rank_coherence": 3567,
+      "rank_unavailability": 233
+    },
+    {
+      "rank_fused": 3,
+      "cluster_ids": [
+        41,
+        92,
+        102
+      ],
+      "cluster_names": [
+        "Mortality Table Each",
+        "Safety vs. Freedom",
+        "Language's Grip"
+      ],
+      "exemplar_atoms": [
+        "The life table: for each age, a probability of dying before the next birthday, so mortality is converted into a grid.",
+        "Safety versus freedom: a world without accidents is also a world without risk, so the story asks whether protection is worth the loss of choice.",
+        "The strong hypothesis: language determines thought, so a regime can control minds by controlling vocabulary."
+      ],
+      "brief_anchors": [
+        41,
+        92
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.38527,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.32632,
+        "cliche_distance": 0.46267
+      },
+      "z_coherence": -0.0325,
+      "z_unavailability": 1.317,
+      "fusion": 0.9122,
+      "rank_coherence": 3252,
+      "rank_unavailability": 479
+    },
+    {
+      "rank_fused": 4,
+      "cluster_ids": [
+        41,
+        53,
+        92
+      ],
+      "cluster_names": [
+        "Mortality Table Each",
+        "IP Inspections",
+        "Safety vs. Freedom"
+      ],
+      "exemplar_atoms": [
+        "The life table: for each age, a probability of dying before the next birthday, so mortality is converted into a grid.",
+        "The need for clear definition of water rights and transferable from land rights creates a tension between modern market needs and historical legal frameworks. This creates a narrative about adapting legal systems to fit economic realities.",
+        "Safety versus freedom: a world without accidents is also a world without risk, so the story asks whether protection is worth the loss of choice."
+      ],
+      "brief_anchors": [
+        41,
+        92
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.41813,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.32632,
+        "cliche_distance": 0.44196
+      },
+      "z_coherence": 0.1674,
+      "z_unavailability": 1.2221,
+      "fusion": 0.9057,
+      "rank_coherence": 2781,
+      "rank_unavailability": 633
+    },
+    {
+      "rank_fused": 5,
+      "cluster_ids": [
+        41,
+        92,
+        105
+      ],
+      "cluster_names": [
+        "Mortality Table Each",
+        "Safety vs. Freedom",
+        "Death and Inheritance"
+      ],
+      "exemplar_atoms": [
+        "The life table: for each age, a probability of dying before the next birthday, so mortality is converted into a grid.",
+        "Safety versus freedom: a world without accidents is also a world without risk, so the story asks whether protection is worth the loss of choice.",
+        "The brother's death: a sibling dies saving a mentor, so the inciting wound is an act of goodness."
+      ],
+      "brief_anchors": [
+        41,
+        92
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.43427,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.32632,
+        "cliche_distance": 0.42853
+      },
+      "z_coherence": 0.2656,
+      "z_unavailability": 1.1605,
+      "fusion": 0.892,
+      "rank_coherence": 2550,
+      "rank_unavailability": 747
+    },
+    {
+      "rank_fused": 6,
+      "cluster_ids": [
+        47,
+        54,
+        86
+      ],
+      "cluster_names": [
+        "Algorithm Rebellion",
+        "Memory Replay",
+        "Copy Memories Intimacy"
+      ],
+      "exemplar_atoms": [
+        "Memory as identity: the grain defines who a person is, so losing it is both liberation and death.",
+        "The time recording: a device clones the player's past actions and replays them as a helper, so memory becomes a tool that can be edited and employed.",
+        "Memories as leased property: the clones' families are real memories belonging to another man, so love is genuine in the copy and stolen from the original."
+      ],
+      "brief_anchors": [
+        47
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.43636,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.32632,
+        "cliche_distance": 0.42572
+      },
+      "z_coherence": 0.2783,
+      "z_unavailability": 1.1477,
+      "fusion": 0.8868,
+      "rank_coherence": 2526,
+      "rank_unavailability": 768
+    },
+    {
+      "rank_fused": 7,
+      "cluster_ids": [
+        11,
+        61,
+        81
+      ],
+      "cluster_names": [
+        "Actuary's Coldness",
+        "Environmental Edits",
+        "Outlives Robot Family"
+      ],
+      "exemplar_atoms": [
+        "The ongoing relationship with the dead: a mourner keeps talking to the deceased, so grief is maintenance rather than closure.",
+        "The buried miracle: a replicant corpse shows signs of childbirth, so a single body rewrites the rules of an entire species.",
+        "The machine that outlives its maker: robots are built to last longer than the company that services them, so maintenance becomes inheritance."
+      ],
+      "brief_anchors": [
+        81
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.44593,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.55388,
+        "cliche_distance": 0.36852
+      },
+      "z_coherence": -0.2633,
+      "z_unavailability": 1.3592,
+      "fusion": 0.8725,
+      "rank_coherence": 3813,
+      "rank_unavailability": 417
+    },
+    {
+      "rank_fused": 8,
+      "cluster_ids": [
+        41,
+        56,
+        105
+      ],
+      "cluster_names": [
+        "Mortality Table Each",
+        "The Gift Trap",
+        "Death and Inheritance"
+      ],
+      "exemplar_atoms": [
+        "The life table: for each age, a probability of dying before the next birthday, so mortality is converted into a grid.",
+        "The gift that shames: a host gives away or destroys wealth to demonstrate status, so generosity is a form of dominance.",
+        "The brother's death: a sibling dies saving a mentor, so the inciting wound is an act of goodness."
+      ],
+      "brief_anchors": [
+        41
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.36112,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.32632,
+        "cliche_distance": 0.46337
+      },
+      "z_coherence": -0.1793,
+      "z_unavailability": 1.3202,
+      "fusion": 0.8704,
+      "rank_coherence": 3603,
+      "rank_unavailability": 475
+    },
+    {
+      "rank_fused": 9,
+      "cluster_ids": [
+        22,
+        78,
+        92
+      ],
+      "cluster_names": [
+        "Digital Afterlives",
+        "Becomes Memory Remembers",
+        "Safety vs. Freedom"
+      ],
+      "exemplar_atoms": [
+        "The narrator frame from the far future: the story is told by machines who study humans, so the whole film is an artifact of a post-human archive.",
+        "The fragment that remembers: each piece of a divided animal may retain the original's habits, so copies inherit without being told.",
+        "Safety versus freedom: a world without accidents is also a world without risk, so the story asks whether protection is worth the loss of choice."
+      ],
+      "brief_anchors": [
+        92
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.41144,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.55388,
+        "cliche_distance": 0.38638
+      },
+      "z_coherence": -0.4731,
+      "z_unavailability": 1.4411,
+      "fusion": 0.8668,
+      "rank_coherence": 4302,
+      "rank_unavailability": 325
+    },
+    {
+      "rank_fused": 10,
+      "cluster_ids": [
+        35,
+        56,
+        81
+      ],
+      "cluster_names": [
+        "Possession and Memory",
+        "The Gift Trap",
+        "Outlives Robot Family"
+      ],
+      "exemplar_atoms": [
+        "The collector's guilt: a person hoards old objects and discovers they have been keeping company, so ownership becomes a relationship with dependents.",
+        "The gift that shames: a host gives away or destroys wealth to demonstrate status, so generosity is a form of dominance.",
+        "The machine that outlives its maker: robots are built to last longer than the company that services them, so maintenance becomes inheritance."
+      ],
+      "brief_anchors": [
+        81
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.4724,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.32632,
+        "cliche_distance": 0.39836
+      },
+      "z_coherence": 0.4975,
+      "z_unavailability": 1.0222,
+      "fusion": 0.8648,
+      "rank_coherence": 2059,
+      "rank_unavailability": 1013
+    },
+    {
+      "rank_fused": 11,
+      "cluster_ids": [
+        81,
+        90,
+        100
+      ],
+      "cluster_names": [
+        "Outlives Robot Family",
+        "Serial Individuality",
+        "The Clone Colony"
+      ],
+      "exemplar_atoms": [
+        "The machine that outlives its maker: robots are built to last longer than the company that services them, so maintenance becomes inheritance.",
+        "The mass-produced object: identical factory items awaken with different personalities, so individuality emerges from use rather than manufacture.",
+        "The clone colony: all polyps from one larva are genetically identical, so immortality belongs to the lineage rather than the individual."
+      ],
+      "brief_anchors": [
+        81
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.4463,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.55388,
+        "cliche_distance": 0.36408
+      },
+      "z_coherence": -0.2611,
+      "z_unavailability": 1.3389,
+      "fusion": 0.8589,
+      "rank_coherence": 3806,
+      "rank_unavailability": 451
+    },
+    {
+      "rank_fused": 12,
+      "cluster_ids": [
+        41,
+        78,
+        105
+      ],
+      "cluster_names": [
+        "Mortality Table Each",
+        "Becomes Memory Remembers",
+        "Death and Inheritance"
+      ],
+      "exemplar_atoms": [
+        "The life table: for each age, a probability of dying before the next birthday, so mortality is converted into a grid.",
+        "The fragment that remembers: each piece of a divided animal may retain the original's habits, so copies inherit without being told.",
+        "The brother's death: a sibling dies saving a mentor, so the inciting wound is an act of goodness."
+      ],
+      "brief_anchors": [
+        41
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.37478,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.32632,
+        "cliche_distance": 0.45184
+      },
+      "z_coherence": -0.0963,
+      "z_unavailability": 1.2674,
+      "fusion": 0.8583,
+      "rank_coherence": 3400,
+      "rank_unavailability": 553
+    },
+    {
+      "rank_fused": 13,
+      "cluster_ids": [
+        78,
+        81,
+        108
+      ],
+      "cluster_names": [
+        "Becomes Memory Remembers",
+        "Outlives Robot Family",
+        "Time-Shifting Narratives"
+      ],
+      "exemplar_atoms": [
+        "The fragment that remembers: each piece of a divided animal may retain the original's habits, so copies inherit without being told.",
+        "The machine that outlives its maker: robots are built to last longer than the company that services them, so maintenance becomes inheritance.",
+        "The nightly reset: android hosts have their memories wiped after every narrative loop, so the same day can be sold to guests forever and no host accumulates a past."
+      ],
+      "brief_anchors": [
+        81
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.41993,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.32632,
+        "cliche_distance": 0.42516
+      },
+      "z_coherence": 0.1783,
+      "z_unavailability": 1.1451,
+      "fusion": 0.8551,
+      "rank_coherence": 2751,
+      "rank_unavailability": 775
+    },
+    {
+      "rank_fused": 14,
+      "cluster_ids": [
+        47,
+        84,
+        104
+      ],
+      "cluster_names": [
+        "Algorithm Rebellion",
+        "Hologram Patient Family",
+        "Grief and Engineering"
+      ],
+      "exemplar_atoms": [
+        "Memory as identity: the grain defines who a person is, so losing it is both liberation and death.",
+        "The caretaker who confides in the machine: a live-in aide tells secrets to a hologram, so intimacy is displaced onto a safe listener.",
+        "Grief turned into a team: the friends weaponize their inventions to avenge a death, so community is forged by loss."
+      ],
+      "brief_anchors": [
+        47
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.40991,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.55388,
+        "cliche_distance": 0.37995
+      },
+      "z_coherence": -0.4824,
+      "z_unavailability": 1.4116,
+      "fusion": 0.8434,
+      "rank_coherence": 4328,
+      "rank_unavailability": 362
+    },
+    {
+      "rank_fused": 15,
+      "cluster_ids": [
+        62,
+        83,
+        92
+      ],
+      "cluster_names": [
+        "Secure Base",
+        "Inheritance Child Deprivation",
+        "Safety vs. Freedom"
+      ],
+      "exemplar_atoms": [
+        "The vanishing parent: a caregiver leaves the room and the child's distress reveals whether they believe in return, so attachment is tested by absence.",
+        "The child raised in the lab: a second subject is born inside the experiment, so the deprivation becomes an inheritance rather than a choice.",
+        "Safety versus freedom: a world without accidents is also a world without risk, so the story asks whether protection is worth the loss of choice."
+      ],
+      "brief_anchors": [
+        92
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.44693,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.55388,
+        "cliche_distance": 0.3549
+      },
+      "z_coherence": -0.2572,
+      "z_unavailability": 1.2968,
+      "fusion": 0.8306,
+      "rank_coherence": 3796,
+      "rank_unavailability": 502
+    },
+    {
+      "rank_fused": 16,
+      "cluster_ids": [
+        35,
+        46,
+        81
+      ],
+      "cluster_names": [
+        "Possession and Memory",
+        "The Last of It",
+        "Outlives Robot Family"
+      ],
+      "exemplar_atoms": [
+        "The collector's guilt: a person hoards old objects and discovers they have been keeping company, so ownership becomes a relationship with dependents.",
+        "The last survivor: the final member inherits the remaining fund, so the story's ending is a waiting game with a single winner.",
+        "The machine that outlives its maker: robots are built to last longer than the company that services them, so maintenance becomes inheritance."
+      ],
+      "brief_anchors": [
+        81
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.46256,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.32632,
+        "cliche_distance": 0.39232
+      },
+      "z_coherence": 0.4376,
+      "z_unavailability": 0.9946,
+      "fusion": 0.8275,
+      "rank_coherence": 2184,
+      "rank_unavailability": 1086
+    },
+    {
+      "rank_fused": 17,
+      "cluster_ids": [
+        47,
+        86,
+        96
+      ],
+      "cluster_names": [
+        "Algorithm Rebellion",
+        "Copy Memories Intimacy",
+        "Copy Dilemma"
+      ],
+      "exemplar_atoms": [
+        "Memory as identity: the grain defines who a person is, so losing it is both liberation and death.",
+        "Memories as leased property: the clones' families are real memories belonging to another man, so love is genuine in the copy and stolen from the original.",
+        "The clone who knows she is a copy: the new hire accepts her artificiality and still claims rights, so personhood is asserted rather than proven."
+      ],
+      "brief_anchors": [
+        47
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.4628,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.32632,
+        "cliche_distance": 0.39157
+      },
+      "z_coherence": 0.4391,
+      "z_unavailability": 0.9911,
+      "fusion": 0.8255,
+      "rank_coherence": 2179,
+      "rank_unavailability": 1093
+    },
+    {
+      "rank_fused": 18,
+      "cluster_ids": [
+        41,
+        78,
+        94
+      ],
+      "cluster_names": [
+        "Mortality Table Each",
+        "Becomes Memory Remembers",
+        "The Word That Shapes"
+      ],
+      "exemplar_atoms": [
+        "The life table: for each age, a probability of dying before the next birthday, so mortality is converted into a grid.",
+        "The fragment that remembers: each piece of a divided animal may retain the original's habits, so copies inherit without being told.",
+        "The word that changes behavior: a new term enters common speech and alters how people act, so language is a soft weapon."
+      ],
+      "brief_anchors": [
+        41
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.30914,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.32632,
+        "cliche_distance": 0.47261
+      },
+      "z_coherence": -0.4955,
+      "z_unavailability": 1.3626,
+      "fusion": 0.8052,
+      "rank_coherence": 4364,
+      "rank_unavailability": 415
+    },
+    {
+      "rank_fused": 19,
+      "cluster_ids": [
+        47,
+        84,
+        97
+      ],
+      "cluster_names": [
+        "Algorithm Rebellion",
+        "Hologram Patient Family",
+        "Mind vs. Machine"
+      ],
+      "exemplar_atoms": [
+        "Memory as identity: the grain defines who a person is, so losing it is both liberation and death.",
+        "The caretaker who confides in the machine: a live-in aide tells secrets to a hologram, so intimacy is displaced onto a safe listener.",
+        "The observer who is studied: researchers infer intelligence from behavior, so the animal's mind is a hypothesis rather than a fact."
+      ],
+      "brief_anchors": [
+        47
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.41923,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.55388,
+        "cliche_distance": 0.36208
+      },
+      "z_coherence": -0.4257,
+      "z_unavailability": 1.3297,
+      "fusion": 0.8031,
+      "rank_coherence": 4196,
+      "rank_unavailability": 461
+    },
+    {
+      "rank_fused": 20,
+      "cluster_ids": [
+        41,
+        99,
+        110
+      ],
+      "cluster_names": [
+        "Mortality Table Each",
+        "Closure Mechanism",
+        "Eternity and Divergence"
+      ],
+      "exemplar_atoms": [
+        "The life table: for each age, a probability of dying before the next birthday, so mortality is converted into a grid.",
+        "The ending that refuses reunion: the protagonist is paid, repaired, and left alone, so the heist resolves but intimacy does not.",
+        "The wife who chooses the copy: a spouse uploads her dying husband against his friend's warning, so love is tested as willingness to accept a substitute."
+      ],
+      "brief_anchors": [
+        41
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.3358,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.32632,
+        "cliche_distance": 0.45646
+      },
+      "z_coherence": -0.3333,
+      "z_unavailability": 1.2885,
+      "fusion": 0.802,
+      "rank_coherence": 3973,
+      "rank_unavailability": 513
+    },
+    {
+      "rank_fused": 21,
+      "cluster_ids": [
+        47,
+        67,
+        86
+      ],
+      "cluster_names": [
+        "Algorithm Rebellion",
+        "Rival Scientists",
+        "Copy Memories Intimacy"
+      ],
+      "exemplar_atoms": [
+        "Memory as identity: the grain defines who a person is, so losing it is both liberation and death.",
+        "The person who can see two reds: a rare subject perceives a distinction no one else can verify, so private experience becomes an evidentiary problem.",
+        "Memories as leased property: the clones' families are real memories belonging to another man, so love is genuine in the copy and stolen from the original."
+      ],
+      "brief_anchors": [
+        47
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.40881,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.32632,
+        "cliche_distance": 0.41491
+      },
+      "z_coherence": 0.1107,
+      "z_unavailability": 1.0981,
+      "fusion": 0.8019,
+      "rank_coherence": 2921,
+      "rank_unavailability": 864
+    },
+    {
+      "rank_fused": 22,
+      "cluster_ids": [
+        69,
+        78,
+        92
+      ],
+      "cluster_names": [
+        "Grief Simulation",
+        "Becomes Memory Remembers",
+        "Safety vs. Freedom"
+      ],
+      "exemplar_atoms": [
+        "The bandwidth grief: a poor upload buffers and freezes during emotional moments, so technical failure becomes a metaphor for interrupted mourning.",
+        "The fragment that remembers: each piece of a divided animal may retain the original's habits, so copies inherit without being told.",
+        "Safety versus freedom: a world without accidents is also a world without risk, so the story asks whether protection is worth the loss of choice."
+      ],
+      "brief_anchors": [
+        92
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.45304,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.55388,
+        "cliche_distance": 0.34017
+      },
+      "z_coherence": -0.2201,
+      "z_unavailability": 1.2293,
+      "fusion": 0.7945,
+      "rank_coherence": 3711,
+      "rank_unavailability": 617
+    },
+    {
+      "rank_fused": 23,
+      "cluster_ids": [
+        92,
+        105,
+        110
+      ],
+      "cluster_names": [
+        "Safety vs. Freedom",
+        "Death and Inheritance",
+        "Eternity and Divergence"
+      ],
+      "exemplar_atoms": [
+        "Safety versus freedom: a world without accidents is also a world without risk, so the story asks whether protection is worth the loss of choice.",
+        "The brother's death: a sibling dies saving a mentor, so the inciting wound is an act of goodness.",
+        "The wife who chooses the copy: a spouse uploads her dying husband against his friend's warning, so love is tested as willingness to accept a substitute."
+      ],
+      "brief_anchors": [
+        92
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.41151,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.55388,
+        "cliche_distance": 0.36186
+      },
+      "z_coherence": -0.4727,
+      "z_unavailability": 1.3287,
+      "fusion": 0.7883,
+      "rank_coherence": 4301,
+      "rank_unavailability": 463
+    },
+    {
+      "rank_fused": 24,
+      "cluster_ids": [
+        41,
+        112,
+        113
+      ],
+      "cluster_names": [
+        "Mortality Table Each",
+        "Longwave Trough Mechanism",
+        "Geography Of Nepal"
+      ],
+      "exemplar_atoms": [
+        "The life table: for each age, a probability of dying before the next birthday, so mortality is converted into a grid.",
+        "The elevation range of Nepal, from less than 100 meters to over 8,000 meters, creates various climatic conditions.",
+        "Three major landform regions (Terai, Pahad, Himal) and three major river systems (Koshi, Gandaki/Narayani, Karnali) provide a clear geographical division and organization of Nepal."
+      ],
+      "brief_anchors": [
+        41
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.24651,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.09876,
+        "cliche_distance": 0.54987
+      },
+      "z_coherence": -0.2766,
+      "z_unavailability": 1.2429,
+      "fusion": 0.7871,
+      "rank_coherence": 3844,
+      "rank_unavailability": 595
+    },
+    {
+      "rank_fused": 25,
+      "cluster_ids": [
+        72,
+        75,
+        92
+      ],
+      "cluster_names": [
+        "Ethics and Violence",
+        "Use-Value Contradiction",
+        "Safety vs. Freedom"
+      ],
+      "exemplar_atoms": [
+        "The gun that chooses not to fire: the robot's restraint is the film's central proof that power can be ethical.",
+        "The potential environmental benefits of trading water, such as improved instream water quality, creates a contrast between economic incentives and environmental sustainability. This creates a narrative about balancing economic and ecological considerations in resource management.",
+        "Safety versus freedom: a world without accidents is also a world without risk, so the story asks whether protection is worth the loss of choice."
+      ],
+      "brief_anchors": [
+        92
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.48345,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.32632,
+        "cliche_distance": 0.36556
+      },
+      "z_coherence": 0.5647,
+      "z_unavailability": 0.8719,
+      "fusion": 0.7797,
+      "rank_coherence": 1924,
+      "rank_unavailability": 1306
+    },
+    {
+      "rank_fused": 26,
+      "cluster_ids": [
+        11,
+        56,
+        81
+      ],
+      "cluster_names": [
+        "Actuary's Coldness",
+        "The Gift Trap",
+        "Outlives Robot Family"
+      ],
+      "exemplar_atoms": [
+        "The ongoing relationship with the dead: a mourner keeps talking to the deceased, so grief is maintenance rather than closure.",
+        "The gift that shames: a host gives away or destroys wealth to demonstrate status, so generosity is a form of dominance.",
+        "The machine that outlives its maker: robots are built to last longer than the company that services them, so maintenance becomes inheritance."
+      ],
+      "brief_anchors": [
+        81
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.40828,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.55388,
+        "cliche_distance": 0.36063
+      },
+      "z_coherence": -0.4923,
+      "z_unavailability": 1.323,
+      "fusion": 0.7784,
+      "rank_coherence": 4352,
+      "rank_unavailability": 471
+    },
+    {
+      "rank_fused": 27,
+      "cluster_ids": [
+        47,
+        94,
+        99
+      ],
+      "cluster_names": [
+        "Algorithm Rebellion",
+        "The Word That Shapes",
+        "Closure Mechanism"
+      ],
+      "exemplar_atoms": [
+        "Memory as identity: the grain defines who a person is, so losing it is both liberation and death.",
+        "The word that changes behavior: a new term enters common speech and alters how people act, so language is a soft weapon.",
+        "The ending that refuses reunion: the protagonist is paid, repaired, and left alone, so the heist resolves but intimacy does not."
+      ],
+      "brief_anchors": [
+        47
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.33908,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.32632,
+        "cliche_distance": 0.44724
+      },
+      "z_coherence": -0.3134,
+      "z_unavailability": 1.2463,
+      "fusion": 0.7784,
+      "rank_coherence": 3926,
+      "rank_unavailability": 592
+    },
+    {
+      "rank_fused": 28,
+      "cluster_ids": [
+        22,
+        41,
+        92
+      ],
+      "cluster_names": [
+        "Digital Afterlives",
+        "Mortality Table Each",
+        "Safety vs. Freedom"
+      ],
+      "exemplar_atoms": [
+        "The narrator frame from the far future: the story is told by machines who study humans, so the whole film is an artifact of a post-human archive.",
+        "The life table: for each age, a probability of dying before the next birthday, so mortality is converted into a grid.",
+        "Safety versus freedom: a world without accidents is also a world without risk, so the story asks whether protection is worth the loss of choice."
+      ],
+      "brief_anchors": [
+        41,
+        92
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.38735,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.32632,
+        "cliche_distance": 0.41836
+      },
+      "z_coherence": -0.0198,
+      "z_unavailability": 1.1139,
+      "fusion": 0.7738,
+      "rank_coherence": 3227,
+      "rank_unavailability": 839
+    },
+    {
+      "rank_fused": 29,
+      "cluster_ids": [
+        41,
+        42,
+        51
+      ],
+      "cluster_names": [
+        "Mortality Table Each",
+        "Android Dead Family",
+        "The Afterlife Economy"
+      ],
+      "exemplar_atoms": [
+        "The life table: for each age, a probability of dying before the next birthday, so mortality is converted into a grid.",
+        "The other woman who loved the android: a stranger copied his memories into her home, so two mourners share a dead person's archive.",
+        "The simulated resort for the dead: elderly people can visit and eventually upload to a virtual town, so heaven is a subscription service."
+      ],
+      "brief_anchors": [
+        41
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.3664,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.32632,
+        "cliche_distance": 0.42983
+      },
+      "z_coherence": -0.1472,
+      "z_unavailability": 1.1665,
+      "fusion": 0.7724,
+      "rank_coherence": 3541,
+      "rank_unavailability": 732
+    },
+    {
+      "rank_fused": 30,
+      "cluster_ids": [
+        47,
+        84,
+        87
+      ],
+      "cluster_names": [
+        "Algorithm Rebellion",
+        "Hologram Patient Family",
+        "Cannot Subject Must"
+      ],
+      "exemplar_atoms": [
+        "Memory as identity: the grain defines who a person is, so losing it is both liberation and death.",
+        "The caretaker who confides in the machine: a live-in aide tells secrets to a hologram, so intimacy is displaced onto a safe listener.",
+        "The test that cannot be run: a procedure would reveal whether a subject is conscious, but it requires destroying the subject, so certainty is lethal."
+      ],
+      "brief_anchors": [
+        47
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.42519,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.55388,
+        "cliche_distance": 0.34789
+      },
+      "z_coherence": -0.3895,
+      "z_unavailability": 1.2647,
+      "fusion": 0.7684,
+      "rank_coherence": 4103,
+      "rank_unavailability": 562
+    }
+  ]
+}

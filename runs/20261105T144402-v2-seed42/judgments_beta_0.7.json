@@ -1,0 +1,801 @@
+{
+  "beta": 0.7,
+  "judged": [
+    {
+      "rank_fused": 1,
+      "cluster_ids": [
+        41,
+        94,
+        102
+      ],
+      "cluster_names": [
+        "Mortality Table Each",
+        "The Word That Shapes",
+        "Language's Grip"
+      ],
+      "exemplar_atoms": [
+        "The life table: for each age, a probability of dying before the next birthday, so mortality is converted into a grid.",
+        "The word that changes behavior: a new term enters common speech and alters how people act, so language is a soft weapon.",
+        "The strong hypothesis: language determines thought, so a regime can control minds by controlling vocabulary."
+      ],
+      "brief_anchors": [
+        41
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.3833,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.32632,
+        "cliche_distance": 0.51101
+      },
+      "z_coherence": -0.0445,
+      "z_unavailability": 1.5386,
+      "fusion": 1.0637,
+      "rank_coherence": 3279,
+      "rank_unavailability": 226,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "A young programmer wants to save endangered birds by predicting and preventing their Convenient Death, but the regime controlling language and the robot family's mortality table blocks her progress.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "The engine is clear and coherent, and the story is fresh and viable.",
+        "closest_canon": [
+          {
+            "title": "Story of Your Life / Arrival",
+            "year": 1998,
+            "similarity": 0.4183
+          },
+          {
+            "title": "Arrival",
+            "year": 2016,
+            "similarity": 0.4084
+          },
+          {
+            "title": "Pygmalion",
+            "year": 1913,
+            "similarity": 0.3055
+          }
+        ],
+        "canon_max_similarity": 0.4183,
+        "fallback": false
+      },
+      "quality": 22.022
+    },
+    {
+      "rank_fused": 2,
+      "cluster_ids": [
+        37,
+        47,
+        91
+      ],
+      "cluster_names": [
+        "What Remains Unseen",
+        "Algorithm Rebellion",
+        "Sight Without Seeing"
+      ],
+      "exemplar_atoms": [
+        "The covered toy: an infant who does not search for a hidden object behaves as if it ceased to exist, so presence is equated with visibility.",
+        "Memory as identity: the grain defines who a person is, so losing it is both liberation and death.",
+        "The blind seer: a cortically blind person can locate and avoid objects without seeing them, so perception is split from awareness."
+      ],
+      "brief_anchors": [
+        47
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.46279,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.55388,
+        "cliche_distance": 0.40608
+      },
+      "z_coherence": -0.1607,
+      "z_unavailability": 1.5314,
+      "fusion": 1.0238,
+      "rank_coherence": 3567,
+      "rank_unavailability": 233,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "A young programmer wants to save endangered birds and prevent their Convenient Death, but their breakthrough in predicting and preventing the death of migratory birds is met with resistance from the robot family that depends on them for their livelihood.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "no derivation grounds",
+        "closest_canon": [
+          {
+            "title": "The Invisible Man",
+            "year": 1897,
+            "similarity": 0.5187
+          },
+          {
+            "title": "The Sixth Sense",
+            "year": 1999,
+            "similarity": 0.4042
+          },
+          {
+            "title": "Arrival",
+            "year": 2016,
+            "similarity": 0.3172
+          }
+        ],
+        "canon_max_similarity": 0.5187,
+        "fallback": false
+      },
+      "quality": 21.4
+    },
+    {
+      "rank_fused": 3,
+      "cluster_ids": [
+        41,
+        92,
+        102
+      ],
+      "cluster_names": [
+        "Mortality Table Each",
+        "Safety vs. Freedom",
+        "Language's Grip"
+      ],
+      "exemplar_atoms": [
+        "The life table: for each age, a probability of dying before the next birthday, so mortality is converted into a grid.",
+        "Safety versus freedom: a world without accidents is also a world without risk, so the story asks whether protection is worth the loss of choice.",
+        "The strong hypothesis: language determines thought, so a regime can control minds by controlling vocabulary."
+      ],
+      "brief_anchors": [
+        41,
+        92
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.38527,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.32632,
+        "cliche_distance": 0.46267
+      },
+      "z_coherence": -0.0325,
+      "z_unavailability": 1.317,
+      "fusion": 0.9122,
+      "rank_coherence": 3252,
+      "rank_unavailability": 479,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "A young programmer wants to prevent the Convenient Death of migratory birds, but must navigate a world where outliving a robot family is common and avoid the strong hypothesis that language determines thought.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "The engine captures the core conflict and stakes of the candidate.",
+        "closest_canon": [
+          {
+            "title": "The Man in the High Castle",
+            "year": 1962,
+            "similarity": 0.3834
+          },
+          {
+            "title": "Colossus: The Forbin Project",
+            "year": 1970,
+            "similarity": 0.3639
+          },
+          {
+            "title": "Story of Your Life / Arrival",
+            "year": 1998,
+            "similarity": 0.3432
+          }
+        ],
+        "canon_max_similarity": 0.3834,
+        "fallback": false
+      },
+      "quality": 22.156
+    },
+    {
+      "rank_fused": 4,
+      "cluster_ids": [
+        41,
+        53,
+        92
+      ],
+      "cluster_names": [
+        "Mortality Table Each",
+        "IP Inspections",
+        "Safety vs. Freedom"
+      ],
+      "exemplar_atoms": [
+        "The life table: for each age, a probability of dying before the next birthday, so mortality is converted into a grid.",
+        "The need for clear definition of water rights and transferable from land rights creates a tension between modern market needs and historical legal frameworks. This creates a narrative about adapting legal systems to fit economic realities.",
+        "Safety versus freedom: a world without accidents is also a world without risk, so the story asks whether protection is worth the loss of choice."
+      ],
+      "brief_anchors": [
+        41,
+        92
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.41813,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.32632,
+        "cliche_distance": 0.44196
+      },
+      "z_coherence": 0.1674,
+      "z_unavailability": 1.2221,
+      "fusion": 0.9057,
+      "rank_coherence": 2781,
+      "rank_unavailability": 633,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "who wants what and what blocks them",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "one sentence naming the engine or the dead weight",
+        "closest_canon": [
+          {
+            "title": "I, Robot",
+            "year": 1950,
+            "similarity": 0.3784
+          },
+          {
+            "title": "The Man in the High Castle",
+            "year": 1962,
+            "similarity": 0.3647
+          },
+          {
+            "title": "The Trial",
+            "year": 1925,
+            "similarity": 0.3554
+          }
+        ],
+        "canon_max_similarity": 0.3784,
+        "fallback": false
+      },
+      "quality": 22.182
+    },
+    {
+      "rank_fused": 5,
+      "cluster_ids": [
+        41,
+        92,
+        105
+      ],
+      "cluster_names": [
+        "Mortality Table Each",
+        "Safety vs. Freedom",
+        "Death and Inheritance"
+      ],
+      "exemplar_atoms": [
+        "The life table: for each age, a probability of dying before the next birthday, so mortality is converted into a grid.",
+        "Safety versus freedom: a world without accidents is also a world without risk, so the story asks whether protection is worth the loss of choice.",
+        "The brother's death: a sibling dies saving a mentor, so the inciting wound is an act of goodness."
+      ],
+      "brief_anchors": [
+        41,
+        92
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.43427,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.32632,
+        "cliche_distance": 0.42853
+      },
+      "z_coherence": 0.2656,
+      "z_unavailability": 1.1605,
+      "fusion": 0.892,
+      "rank_coherence": 2550,
+      "rank_unavailability": 747,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "A young programmer wants to save endangered birds and prevent their Convenient Death, but is blocked by the need to protect their robot family, leading to a conflict between nature conservation and familial loyalty.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "The candidate names the engine and the dead weight cluster",
+        "closest_canon": [
+          {
+            "title": "Ubik",
+            "year": 1969,
+            "similarity": 0.3627
+          },
+          {
+            "title": "The Man in the High Castle",
+            "year": 1962,
+            "similarity": 0.3556
+          },
+          {
+            "title": "The Bicentennial Man",
+            "year": 1976,
+            "similarity": 0.3555
+          }
+        ],
+        "canon_max_similarity": 0.3627,
+        "fallback": false
+      },
+      "quality": 22.27
+    },
+    {
+      "rank_fused": 6,
+      "cluster_ids": [
+        47,
+        54,
+        86
+      ],
+      "cluster_names": [
+        "Algorithm Rebellion",
+        "Memory Replay",
+        "Copy Memories Intimacy"
+      ],
+      "exemplar_atoms": [
+        "Memory as identity: the grain defines who a person is, so losing it is both liberation and death.",
+        "The time recording: a device clones the player's past actions and replays them as a helper, so memory becomes a tool that can be edited and employed.",
+        "Memories as leased property: the clones' families are real memories belonging to another man, so love is genuine in the copy and stolen from the original."
+      ],
+      "brief_anchors": [
+        47
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.43636,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.32632,
+        "cliche_distance": 0.42572
+      },
+      "z_coherence": 0.2783,
+      "z_unavailability": 1.1477,
+      "fusion": 0.8868,
+      "rank_coherence": 2526,
+      "rank_unavailability": 768,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "young programmer wants to save endangered birds and prevent their Convenient Death, but is blocked by the memory of a stolen identity and the time recording device that copies her actions",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "none",
+        "closest_canon": [
+          {
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "similarity": 0.4547
+          },
+          {
+            "title": "The Matrix",
+            "year": 1999,
+            "similarity": 0.4406
+          },
+          {
+            "title": "Invasion of the Body Snatchers",
+            "year": 1956,
+            "similarity": 0.3937
+          }
+        ],
+        "canon_max_similarity": 0.4547,
+        "fallback": false
+      },
+      "quality": 21.715
+    },
+    {
+      "rank_fused": 7,
+      "cluster_ids": [
+        11,
+        61,
+        81
+      ],
+      "cluster_names": [
+        "Actuary's Coldness",
+        "Environmental Edits",
+        "Outlives Robot Family"
+      ],
+      "exemplar_atoms": [
+        "The ongoing relationship with the dead: a mourner keeps talking to the deceased, so grief is maintenance rather than closure.",
+        "The buried miracle: a replicant corpse shows signs of childbirth, so a single body rewrites the rules of an entire species.",
+        "The machine that outlives its maker: robots are built to last longer than the company that services them, so maintenance becomes inheritance."
+      ],
+      "brief_anchors": [
+        81
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.44593,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.55388,
+        "cliche_distance": 0.36852
+      },
+      "z_coherence": -0.2633,
+      "z_unavailability": 1.3592,
+      "fusion": 0.8725,
+      "rank_coherence": 3813,
+      "rank_unavailability": 417,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "The ongoing relationship with the dead: a mourner keeps talking to the deceased, so grief is maintenance rather than closure.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "The engine is clear and coherent, with no obvious dead weight.",
+        "closest_canon": [
+          {
+            "title": "Solaris",
+            "year": 1961,
+            "similarity": 0.4304
+          },
+          {
+            "title": "Frankenstein",
+            "year": 1818,
+            "similarity": 0.4032
+          },
+          {
+            "title": "The Buried Giant",
+            "year": 2015,
+            "similarity": 0.3966
+          }
+        ],
+        "canon_max_similarity": 0.4304,
+        "fallback": false
+      },
+      "quality": 21.854
+    },
+    {
+      "rank_fused": 8,
+      "cluster_ids": [
+        41,
+        56,
+        105
+      ],
+      "cluster_names": [
+        "Mortality Table Each",
+        "The Gift Trap",
+        "Death and Inheritance"
+      ],
+      "exemplar_atoms": [
+        "The life table: for each age, a probability of dying before the next birthday, so mortality is converted into a grid.",
+        "The gift that shames: a host gives away or destroys wealth to demonstrate status, so generosity is a form of dominance.",
+        "The brother's death: a sibling dies saving a mentor, so the inciting wound is an act of goodness."
+      ],
+      "brief_anchors": [
+        41
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.36112,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.32632,
+        "cliche_distance": 0.46337
+      },
+      "z_coherence": -0.1793,
+      "z_unavailability": 1.3202,
+      "fusion": 0.8704,
+      "rank_coherence": 3603,
+      "rank_unavailability": 475,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "A young programmer wants to save endangered birds and prevent their Convenient Death, but discovers a groundbreaking method that could also lead to the Convenient Death of their own robot family, creating a conflict between saving the birds and saving their loved ones.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "none",
+        "closest_canon": [
+          {
+            "title": "Never Let Me Go",
+            "year": 2005,
+            "similarity": 0.3712
+          },
+          {
+            "title": "Frankenstein",
+            "year": 1818,
+            "similarity": 0.3267
+          },
+          {
+            "title": "The Buried Giant",
+            "year": 2015,
+            "similarity": 0.3116
+          }
+        ],
+        "canon_max_similarity": 0.3712,
+        "fallback": false
+      },
+      "quality": 22.208
+    },
+    {
+      "rank_fused": 9,
+      "cluster_ids": [
+        22,
+        78,
+        92
+      ],
+      "cluster_names": [
+        "Digital Afterlives",
+        "Becomes Memory Remembers",
+        "Safety vs. Freedom"
+      ],
+      "exemplar_atoms": [
+        "The narrator frame from the far future: the story is told by machines who study humans, so the whole film is an artifact of a post-human archive.",
+        "The fragment that remembers: each piece of a divided animal may retain the original's habits, so copies inherit without being told.",
+        "Safety versus freedom: a world without accidents is also a world without risk, so the story asks whether protection is worth the loss of choice."
+      ],
+      "brief_anchors": [
+        92
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.41144,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.55388,
+        "cliche_distance": 0.38638
+      },
+      "z_coherence": -0.4731,
+      "z_unavailability": 1.4411,
+      "fusion": 0.8668,
+      "rank_coherence": 4302,
+      "rank_unavailability": 325,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "A young programmer wants to prevent the Convenient Death of migratory birds, saving endangered species and their vital ecological roles in a world increasingly dependent on natural pollination and pest control, but is blocked by the memory of a world without accidents and the loss of choice.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "The engine captures the core conflict and stakes without falling into tropes or copying.",
+        "closest_canon": [
+          {
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "similarity": 0.4764
+          },
+          {
+            "title": "The Man in the High Castle",
+            "year": 1962,
+            "similarity": 0.441
+          },
+          {
+            "title": "The Matrix",
+            "year": 1999,
+            "similarity": 0.4219
+          }
+        ],
+        "canon_max_similarity": 0.4764,
+        "fallback": false
+      },
+      "quality": 21.575
+    },
+    {
+      "rank_fused": 10,
+      "cluster_ids": [
+        35,
+        56,
+        81
+      ],
+      "cluster_names": [
+        "Possession and Memory",
+        "The Gift Trap",
+        "Outlives Robot Family"
+      ],
+      "exemplar_atoms": [
+        "The collector's guilt: a person hoards old objects and discovers they have been keeping company, so ownership becomes a relationship with dependents.",
+        "The gift that shames: a host gives away or destroys wealth to demonstrate status, so generosity is a form of dominance.",
+        "The machine that outlives its maker: robots are built to last longer than the company that services them, so maintenance becomes inheritance."
+      ],
+      "brief_anchors": [
+        81
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.4724,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.32632,
+        "cliche_distance": 0.39836
+      },
+      "z_coherence": 0.4975,
+      "z_unavailability": 1.0222,
+      "fusion": 0.8648,
+      "rank_coherence": 2059,
+      "rank_unavailability": 1013,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "who wants what and what blocks them",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "no dead weight",
+        "closest_canon": [
+          {
+            "title": "Never Let Me Go",
+            "year": 2005,
+            "similarity": 0.3611
+          },
+          {
+            "title": "Groundhog Day",
+            "year": 1993,
+            "similarity": 0.3599
+          },
+          {
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "similarity": 0.3424
+          }
+        ],
+        "canon_max_similarity": 0.3611,
+        "fallback": false
+      },
+      "quality": 22.266
+    },
+    {
+      "rank_fused": 11,
+      "cluster_ids": [
+        81,
+        90,
+        100
+      ],
+      "cluster_names": [
+        "Outlives Robot Family",
+        "Serial Individuality",
+        "The Clone Colony"
+      ],
+      "exemplar_atoms": [
+        "The machine that outlives its maker: robots are built to last longer than the company that services them, so maintenance becomes inheritance.",
+        "The mass-produced object: identical factory items awaken with different personalities, so individuality emerges from use rather than manufacture.",
+        "The clone colony: all polyps from one larva are genetically identical, so immortality belongs to the lineage rather than the individual."
+      ],
+      "brief_anchors": [
+        81
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.4463,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.55388,
+        "cliche_distance": 0.36408
+      },
+      "z_coherence": -0.2611,
+      "z_unavailability": 1.3389,
+      "fusion": 0.8589,
+      "rank_coherence": 3806,
+      "rank_unavailability": 451,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "A young programmer wants to save endangered birds from a robot family's Convenient Death, but must navigate a world dependent on natural pollination and pest control, all while avoiding romance, time travel, magic, and fantasy creatures.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "none",
+        "closest_canon": [
+          {
+            "title": "Solaris",
+            "year": 1961,
+            "similarity": 0.381
+          },
+          {
+            "title": "Frankenstein",
+            "year": 1818,
+            "similarity": 0.3706
+          },
+          {
+            "title": "The Matrix",
+            "year": 1999,
+            "similarity": 0.3643
+          }
+        ],
+        "canon_max_similarity": 0.381,
+        "fallback": false
+      },
+      "quality": 22.143
+    },
+    {
+      "rank_fused": 12,
+      "cluster_ids": [
+        41,
+        78,
+        105
+      ],
+      "cluster_names": [
+        "Mortality Table Each",
+        "Becomes Memory Remembers",
+        "Death and Inheritance"
+      ],
+      "exemplar_atoms": [
+        "The life table: for each age, a probability of dying before the next birthday, so mortality is converted into a grid.",
+        "The fragment that remembers: each piece of a divided animal may retain the original's habits, so copies inherit without being told.",
+        "The brother's death: a sibling dies saving a mentor, so the inciting wound is an act of goodness."
+      ],
+      "brief_anchors": [
+        41
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.37478,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.32632,
+        "cliche_distance": 0.45184
+      },
+      "z_coherence": -0.0963,
+      "z_unavailability": 1.2674,
+      "fusion": 0.8583,
+      "rank_coherence": 3400,
+      "rank_unavailability": 553,
+      "_wells": [],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "A young programmer wants to save endangered birds by predicting and preventing their Convenient Death, but their robot family's mortality table and the fragment that remembers them block their path.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "The engine captures the core conflict and stakes effectively.",
+        "closest_canon": [
+          {
+            "title": "The Buried Giant",
+            "year": 2015,
+            "similarity": 0.3888
+          },
+          {
+            "title": "Story of Your Life / Arrival",
+            "year": 1998,
+            "similarity": 0.386
+          },
+          {
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "similarity": 0.365
+          }
+        ],
+        "canon_max_similarity": 0.3888,
+        "fallback": false
+      },
+      "quality": 22.096
+    }
+  ],
+  "survivors": 12
+}

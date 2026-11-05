@@ -1,0 +1,22 @@
+{
+  "source": "extended-mind",
+  "diet": "B",
+  "atoms": [
+    {"id": "extended-mind-01", "text": "The notebook memory: a man with Alzheimer's stores directions in a notebook and trusts it as his own memory, so cognition is outsourced to an object.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "extended-mind-02", "text": "The coupled system: mind, body, and environment function as one cognitive unit, so damaging the environment is brain damage.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "extended-mind-03", "text": "The diary as identity: a person's sense of self depends on an external archive, so losing the archive is a kind of death.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "extended-mind-04", "text": "The contested boundary: two people disagree over whether a tool is part of the mind or merely used by it, so personhood becomes a jurisdictional question.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "extended-mind-05", "text": "The prosthetic cognition: a computer extends calculation beyond the skull, so intelligence is distributed and can be confiscated.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "extended-mind-06", "text": "The shared memory: a group relies on a common external record, so forgetting becomes a collective failure rather than a private one.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "extended-mind-07", "text": "The object that disagrees: an external memory returns information the person did not expect, so the extended mind can contradict its owner.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "extended-mind-08", "text": "The search for the self in the environment: a person looks for who they are in their belongings, so identity is an archaeological dig.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "extended-mind-09", "text": "The environment as accomplice: a room is arranged to make a decision inevitable, so architecture is a form of persuasion.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "extended-mind-10", "text": "The lost phone: a person loses access to their calendar and becomes functionally amnesiac, so a device failure is a neurological event.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "extended-mind-11", "text": "The two travelers: one remembers a route internally, the other reads it from a notebook, so the story asks whether the difference matters.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "extended-mind-12", "text": "The externalized taboo: a culture stores its rules in objects and monuments, so morality is inherited as furniture.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "extended-mind-13", "text": "The tool that edits back: an external memory is altered by someone else, so the person's past is revised without their knowledge.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "extended-mind-14", "text": "The mind that spills: a person's thoughts leak into their environment and become readable, so privacy is a property of surfaces.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "extended-mind-15", "text": "The archive that outlives: a notebook survives its owner and is read as a person, so the extended mind can persist after the brain stops.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "extended-mind-16", "text": "The philosophical test: a thought experiment asks where the mind ends, so the story's conflict is a definition that cannot be settled by evidence.", "kind": "structure_trick", "quality": "strong", "original": null}
+  ]
+}

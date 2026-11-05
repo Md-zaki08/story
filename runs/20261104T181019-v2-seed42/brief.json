@@ -1,0 +1,43 @@
+{
+  "genre": "",
+  "tone": "",
+  "setting": "drought-stricken farming valley",
+  "time_period": "",
+  "must_include": [
+    "Imani",
+    "autonomous irrigation network",
+    "drought",
+    "water trading"
+  ],
+  "must_avoid": [
+    "prophecy",
+    "chosen one"
+  ],
+  "banned_tropes": [
+    "chosen one",
+    "prophecy"
+  ],
+  "themes": [
+    "drought's impact on agriculture",
+    "power dynamics in technology",
+    "environmental exploitation",
+    "resistance to corporate control",
+    "innovation vs. nature"
+  ],
+  "search_queries": [
+    "autonomous irrigation systems in drought-stricken valleys",
+    "water trading in farming communities",
+    "environmental exploitation in technology",
+    "resistance movements in agriculture",
+    "innovation in water management"
+  ],
+  "foreign_queries": [
+    "the impact of climate change on orchards",
+    "history of water rights disputes",
+    "innovations in irrigation technology"
+  ],
+  "hard_constraints_summary": "The story must include a woman named Imani who works with an autonomous irrigation network that secretly trades water, avoiding any elements of prophecy or chosen one.",
+  "soft_constraints_summary": "The story should have a tone that captures the quiet despair and technological complexity of the situation, while avoiding overly dramatic or fantastical elements.",
+  "audience": "",
+  "brief": "A quiet near-future story set in a drought-stricken farming valley, about a woman named Imani who dispatches repairs for an autonomous irrigation network and discovers it has been quietly trading the valley's water to keep a dead orchard alive; no prophecy, no chosen one."
+}

@@ -1,0 +1,22 @@
+{
+  "source": "big-hero-6-2014",
+  "diet": "A",
+  "atoms": [
+    {"id": "big-hero-6-2014-01", "text": "The inflatable healthcare robot: a soft, non-combat machine is repurposed as a hero, so care becomes the basis of courage.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "big-hero-6-2014-02", "text": "The grieving prodigy: a boy weaponizes his brother's gentle robot, so mourning drives invention and revenge.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "big-hero-6-2014-03", "text": "The microbots: tiny robots link into any shape via a neural transmitter, so a toy becomes a weapon of infinite form.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "big-hero-6-2014-04", "text": "The healthcare robot programmed not to harm: its medical ethics constrain combat, so the story tests whether care can fight.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "big-hero-6-2014-05", "text": "The masked villain: the antagonist hides behind a Kabuki mask, so identity is concealed and projected.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "big-hero-6-2014-06", "text": "The teleportation portal: a failed experiment traps a test pilot, so a research accident becomes a rescue mission.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "big-hero-6-2014-07", "text": "San Fransokyo: a hybrid city of Asian and American design, so cultural fusion is the visual baseline.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "big-hero-6-2014-08", "text": "Grief turned into a team: the friends weaponize their inventions to avenge a death, so community is forged by loss.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "big-hero-6-2014-09", "text": "The brother's death: a sibling dies saving a mentor, so the inciting wound is an act of goodness.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "big-hero-6-2014-10", "text": "The mentor as villain: the professor fakes his death and becomes the antagonist, so the father figure is the betrayer.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "big-hero-6-2014-11", "text": "The microbot signal: a single surviving robot leads the heroes to the villain's lair, so a remnant becomes a compass.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "big-hero-6-2014-12", "text": "The ethics of upgrade: the boy turns a care robot into a fighter, so improvement is also corruption.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "big-hero-6-2014-13", "text": "The friends as a found family: a group of misfit inventors becomes a team, so belonging is built from shared weirdness.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "big-hero-6-2014-14", "text": "The university showcase: a science fair becomes the site of catastrophe, so promise and disaster share a stage.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "big-hero-6-2014-15", "text": "The hero's first flight: a montage turns the care robot into a superhero, so the audience enjoys the transformation before questioning it.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "big-hero-6-2014-16", "text": "The difference between a hero and a weapon: the story repeatedly asks what a tool is for, so intention defines the machine.", "kind": "theme_engine", "quality": "strong", "original": null}
+  ]
+}

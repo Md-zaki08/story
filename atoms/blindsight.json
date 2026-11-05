@@ -1,0 +1,22 @@
+{
+  "source": "blindsight",
+  "diet": "B",
+  "atoms": [
+    {"id": "blindsight-01", "text": "The blind seer: a cortically blind person can locate and avoid objects without seeing them, so perception is split from awareness.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "blindsight-02", "text": "The forced guess: a subject is asked to guess and performs above chance while insisting they saw nothing, so denial and competence coexist.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "blindsight-03", "text": "The half-blind field: damage to one hemisphere leaves half the world invisible but still navigable, so the self is missing exactly half its evidence.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "blindsight-04", "text": "The feeling without a percept: a patient senses that something changed in the blind area but cannot see it, so intuition is a residual channel.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "blindsight-05", "text": "The moving object that appears: fast motion becomes visible in an otherwise blind field, so the threshold of awareness depends on speed.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "blindsight-06", "text": "The brain that knows better than the person: behavior is guided by information the subject denies receiving, so the body is an informant against the mind.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "blindsight-07", "text": "The test that cannot be trusted: researchers debate whether the phenomenon is true blindness or degraded sight, so the story's evidence is contested by experts.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "blindsight-08", "text": "The patient who adapts: a blind person learns to trust their uncanny guesses in daily life, so survival depends on believing a faculty they cannot verify.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "blindsight-09", "text": "The wartime wound: soldiers with occipital injuries develop the ability, so a catastrophe produces a new way of knowing.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "blindsight-10", "text": "The instrument that sees for the patient: a camera maps the blind field onto another sense, so technology substitutes for a damaged channel.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "blindsight-11", "text": "The denial that protects: a patient refuses to acknowledge the ability because admitting it would upend their identity as blind, so self-concept resists evidence.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "blindsight-12", "text": "The examiner who cheats: a researcher suspects the patient is using subtle cues rather than blindsight, so the experimenter becomes the skeptic.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "blindsight-13", "text": "The threshold object: only high-contrast or fast-moving things register, so the world is visible only when it threatens.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "blindsight-14", "text": "The second sight as metaphor: a character perceives truths they cannot consciously articulate, so the story literalizes intuition.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "blindsight-15", "text": "The diagnosis that ends a career: a pilot or driver is grounded after a brain injury despite passing tests, so official perception overrules private ability.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "blindsight-16", "text": "The narrator who cannot see what they describe: the story is told by a mind reporting actions it cannot explain, so the reader shares the patient's blindness.", "kind": "structure_trick", "quality": "strong", "original": null}
+  ]
+}

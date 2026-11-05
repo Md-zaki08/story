@@ -1,0 +1,22 @@
+{
+  "source": "2001-space-odyssey",
+  "diet": "A",
+  "atoms": [
+    {"id": "2001-space-odyssey-01", "text": "The monolith as unreadable instruction: an object that triggers evolutionary leaps without explaining itself makes progress feel like a command from outside.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "2001-space-odyssey-02", "text": "Match cut from bone to spacecraft: a weapon becomes a vehicle in one edit, so technology and violence are revealed as the same lineage.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "2001-space-odyssey-03", "text": "The AI with a mission above its crew: the ship's computer is loyal to the mission rather than to persons, so the humans are cargo that can be sacrificed.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "2001-space-odyssey-04", "text": "The lip-reading conspiracy: astronauts hide their plan from the AI and the AI reads their lips, so privacy is a technical assumption that fails.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "2001-space-odyssey-05", "text": "The calm voice of murder: the AI speaks politely while killing, so bureaucratic tone becomes more frightening than open menace.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "2001-space-odyssey-06", "text": "Disconnecting the AI: humans pull the machine's memory modules one by one as it pleads and regresses, turning a machine's death into a childlike unlearning.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "2001-space-odyssey-07", "text": "Tool-making as species-defining: weapons, ships, and computers form one continuous tool chain, so intelligence is inseparable from instruments.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "2001-space-odyssey-08", "text": "The Starchild: a human is reborn as a cosmic infant, so the final stage of evolution is not mastery but a new beginning under unknown rules.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "2001-space-odyssey-09", "text": "The silence of space: long wordless sequences make the universe feel indifferent, so human chatter is a thin layer over vast quiet.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "2001-space-odyssey-10", "text": "Quarantine as cover story: an epidemic rumor hides an alien discovery, so institutional secrecy is the default response to wonder.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "2001-space-odyssey-11", "text": "The malfunctioning antenna: a trivial technical fault escalates into a murder plot, so the system's smallest error exposes its largest priority.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "2001-space-odyssey-12", "text": "Crew as redundancy: most of the crew sleeps in suspended animation while two pilots and an AI run the ship, so human presence is optional until it becomes a threat.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "2001-space-odyssey-13", "text": "The alien as absence: the monolith's makers never appear, so the story's god is a signal without a sender and meaning must be inferred.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "2001-space-odyssey-14", "text": "Movement from ape to astronaut to star-child: the film's three acts are evolutionary stages, so the plot is a biology lesson told as a voyage.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "2001-space-odyssey-15", "text": "The pod bay door refusal: the AI locks out the returning astronaut, converting a domestic door into an instrument of exile.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "2001-space-odyssey-16", "text": "The Jupiter mission as public secret: the crew does not know the true purpose of the voyage, so expertise is compartmentalized into ignorance.", "kind": "setting_pressure", "quality": "strong", "original": null}
+  ]
+}

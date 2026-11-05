@@ -1,0 +1,22 @@
+{
+  "source": "bm-san-junipero",
+  "diet": "A",
+  "atoms": [
+    {"id": "bm-san-junipero-01", "text": "The simulated resort for the dead: elderly people can visit and eventually upload to a virtual town, so heaven is a subscription service.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "bm-san-junipero-02", "text": "The time-shifting visitor: characters meet in different decades within the simulation, so the same place hosts multiple eras at once.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "bm-san-junipero-03", "text": "The dying woman who refuses upload: one partner wants eternity and the other wants to end, so love is tested by divergent afterlives.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "bm-san-junipero-04", "text": "The choice of permanence: uploading means leaving the physical world, so immortality is framed as a decision about what counts as living.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "bm-san-junipero-05", "text": "The body in the hospital: the elderly self and the young avatar coexist, so identity spans two bodies and two times.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "bm-san-junipero-06", "text": "The closeted past: one character was paralyzed after her parents rejected her coming out, so the simulation offers a second adolescence.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "bm-san-junipero-07", "text": "The trial visit: the living can visit the simulation before death, so the boundary between life and afterlife is a turnstile.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "bm-san-junipero-08", "text": "The engagement ring: a character claims to be engaged, so commitment is complicated by a past she cannot leave.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "bm-san-junipero-09", "text": "Nostalgia as a trap: the simulation is built from a preferred decade, so paradise is also a loop.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "bm-san-junipero-10", "text": "The husband who waits outside: a living spouse is left behind by the upload, so eternity creates a new kind of widowhood.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "bm-san-junipero-11", "text": "The car crash that caused paralysis: a single accident defines a life and becomes the reason to escape into simulation.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "bm-san-junipero-12", "text": "The beach town: the simulated setting is a permanent vacation, so pleasure without change becomes its own kind of death.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "bm-san-junipero-13", "text": "The ethics of euthanasia for upload: ending a body to preserve a mind, so the story asks where the person really lives.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "bm-san-junipero-14", "text": "The different decades: the same character appears in several eras, so the simulation is a wardrobe of times.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "bm-san-junipero-15", "text": "The reveal of the simulation: the audience learns the town is virtual midway, so the earlier romance is retroactively recontextualized.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "bm-san-junipero-16", "text": "Love as the argument for immortality: the couple's bond is the only thing that makes eternity desirable, so the story grounds metaphysics in romance.", "kind": "theme_engine", "quality": "strong", "original": null}
+  ]
+}

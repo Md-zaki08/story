@@ -1,0 +1,22 @@
+{
+  "source": "metropolis-1927",
+  "diet": "A",
+  "atoms": [
+    {"id": "metropolis-1927-01", "text": "City of two levels: the rich live above in towers while workers live below with the machines, so class is architectural and literal.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "metropolis-1927-02", "text": "The humanoid machine disguised as a saint: a robot is built to look like the workers' prophet, so hope is counterfeit and mass feeling is engineered.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "metropolis-1927-03", "text": "The rich son who descends: the master's heir enters the workers' world and is converted by suffering, so class loyalty is a choice.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "metropolis-1927-04", "text": "The mediator between head and hands: the film's slogan proposes the heart as the only bridge between rulers and workers, so emotion is offered as political technology.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "metropolis-1927-05", "text": "The machine that eats workers: industrial accidents are staged as human sacrifices to a Moloch-like machine, so labor is depicted as ritual slaughter.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "metropolis-1927-06", "text": "The mad inventor: a scientist builds the fake prophet out of grief and revenge, so creation is driven by personal loss.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "metropolis-1927-07", "text": "The flood: the fake prophet incites destruction that nearly drowns the workers' children, so false hope produces real catastrophe.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "metropolis-1927-08", "text": "The eternal machines: the underground power system runs without pause, so the workers' time is owned by infrastructure.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "metropolis-1927-09", "text": "Technology as magic: the city's machines are presented as sorcery, so modernity retains the aura of the occult.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "metropolis-1927-10", "text": "The workers' revolt: the masses rise against the machines, so revolution is depicted as both justified and easily manipulated.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "metropolis-1927-11", "text": "The double: the real prophet and her robot copy compete for the workers' faith, so authenticity is tested by identical appearance.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "metropolis-1927-12", "text": "The burning of the witch: the crowd destroys the fake prophet, so collective rage is turned against a symbol rather than a system.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "metropolis-1927-13", "text": "The heart as mediator: the film's answer to class war is reconciliation through love, so politics is displaced onto sentiment.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "metropolis-1927-14", "text": "The cathedral and the catacombs: sacred and subterranean spaces frame the class struggle, so religion and labor share a symbolic geography.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "metropolis-1927-15", "text": "Expressionist scale: the city's sets dwarf the characters, so the audience feels the system's weight before understanding it.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "metropolis-1927-16", "text": "The machine as false god: the workers serve machines that do not serve them, so industrial religion is the film's real target.", "kind": "theme_engine", "quality": "strong", "original": null}
+  ]
+}

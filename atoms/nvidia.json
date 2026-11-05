@@ -1,0 +1,57 @@
+{
+  "source": "nvidia",
+  "title": "Nvidia",
+  "diet": "A",
+  "atoms": [
+    {
+      "text": "Founding Nvidia by three engineers: Huang, Malachowsky, and Priem, based on compelling visions of 3D graphics in gaming and multimedia, creates a clear plot device that drives the company's initial success and future trajectory.",
+      "kind": "plot_device",
+      "quality": "medium"
+    },
+    {
+      "text": "Huang's decision to leave LSI and become the CEO of the new startup, along with Malachowsky and Priem's decision to resign from their current jobs, creates a dynamic of pressure and urgency that pushes the founders towards a shared vision, adding tension and meaning to the founding story.",
+      "kind": "character_dynamic",
+      "quality": "medium"
+    },
+    {
+      "text": "The struggle to find a name for the company, resulting in the creation of Nvidia, from the Latin word for 'envy', represents a world rule of brand creation and naming, creating an interesting dynamic of the founders' backgrounds and the company's future.",
+      "kind": "world_rule",
+      "quality": "medium"
+    },
+    {
+      "text": "The introduction of onboard T&L in the GeForce 256, making it the first GPU explicitly marketed for gaming, creates a setting pressure of technological innovation in the gaming hardware market.",
+      "kind": "setting_pressure",
+      "quality": "medium"
+    },
+    {
+      "text": "The acquisition of 3dfx's intellectual assets, which had previously been a rival, adds complexity to Nvidia's business strategy and creates a tension with 3dfx's former employees and customers.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "Nvidia's control over more than 80% of the market for GPUs used in training and deploying AI models, as a result of developing CUDA, represents a theme engine of the company's dominance in AI hardware, highlighting the importance of innovation in this field.",
+      "kind": "theme_engine",
+      "quality": "medium"
+    },
+    {
+      "text": "The acquisition of Exluna, an acquisition process finalized in April 2002, adds a layer of complexity to Nvidia's business strategy and creates a tension with the company's current projects and resources.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "The company's expansion into gaming hardware and services, such as the Shield Portable, Shield Tablet, Shield TV, and GeForce Now cloud gaming service, represents a world rule of the gaming industry's evolution and expansion into new territories.",
+      "kind": "world_rule",
+      "quality": "medium"
+    },
+    {
+      "text": "The company's involvement in developing the Tegra line of mobile processors for smartphones, tablets, and automotive infotainment systems, adds complexity to Nvidia's business strategy and creates a tension with its core business of GPUs for high-performance computing and AI.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "The company's success in the AI boom, driven by the soaring demand for its AI data center hardware, creates a theme engine of the importance of AI and data centers in the tech industry's future.",
+      "kind": "theme_engine",
+      "quality": "medium"
+    }
+  ]
+}

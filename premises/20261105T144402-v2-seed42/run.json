@@ -1,0 +1,154 @@
+{
+  "run_id": "20261105T144402-v2-seed42",
+  "brief": "In a world where outliving a robot family is common, a young programmer discovers a groundbreaking method to predict and prevent the Convenient Death of migratory birds, saving endangered species and their vital ecological roles in a world increasingly dependent on natural pollination and pest control.",
+  "brief_doc": {
+    "genre": "",
+    "tone": "inspirational",
+    "setting": "future",
+    "time_period": "",
+    "must_include": [
+      "young programmer",
+      "robot family",
+      "endangered birds",
+      "natural pollination",
+      "pest control",
+      "world dependent on nature"
+    ],
+    "must_avoid": [
+      "romantic relationships",
+      "time travel",
+      "magic",
+      "fantasy creatures"
+    ],
+    "banned_tropes": [
+      "time travel",
+      "magic",
+      "fantasy creatures",
+      "superheroes",
+      "villains"
+    ],
+    "themes": [
+      "ecological conservation",
+      "innovation in technology",
+      "human-animal coexistence",
+      "sustainable living",
+      "predictive science"
+    ],
+    "search_queries": [
+      "predictive methods for wildlife conservation",
+      "robot families in future society",
+      "endangered species protection methods",
+      "natural pollination vs synthetic pollinators",
+      "pest control without pesticides",
+      "future technology in agriculture"
+    ],
+    "foreign_queries": [
+      "ancient bird migration patterns",
+      "botany and synthetic pollinators",
+      "future society economic models",
+      "sustainability in technology",
+      "ecological balance in literature"
+    ],
+    "hard_constraints_summary": "Must include young programmer, robot family, endangered birds, natural pollination, and pest control in a world dependent on nature. Must avoid romance, time travel, magic, and fantasy creatures.",
+    "soft_constraints_summary": "Desired tone is inspirational, focusing on the young programmer's innovative solution to save endangered birds and their ecological roles.",
+    "audience": "general public",
+    "brief": "In a world where outliving a robot family is common, a young programmer discovers a groundbreaking method to predict and prevent the Convenient Death of migratory birds, saving endangered species and their vital ecological roles in a world increasingly dependent on natural pollination and pest control."
+  },
+  "mode": "premise",
+  "provider": "ollama",
+  "rounds": [
+    {
+      "round": 1,
+      "k": 3,
+      "beta": 0.7,
+      "picked": 12,
+      "survivors": 12,
+      "kept_total": 1
+    }
+  ],
+  "sources": [
+    {
+      "id": "wildlife-population",
+      "title": "Wildlife population",
+      "url": "https://en.wikipedia.org/wiki/Wildlife_population",
+      "diet": "A",
+      "atoms": 10,
+      "query": "predictive methods for wildlife conservation"
+    },
+    {
+      "id": "wildlife-conservation-technology",
+      "title": "Wildlife conservation technology",
+      "url": "https://en.wikipedia.org/wiki/Wildlife_conservation_technology",
+      "diet": "A",
+      "atoms": 10,
+      "query": "predictive methods for wildlife conservation"
+    },
+    {
+      "id": "conservation-biology",
+      "title": "Conservation biology",
+      "url": "https://en.wikipedia.org/wiki/Conservation_biology",
+      "diet": "A",
+      "atoms": 10,
+      "query": "predictive methods for wildlife conservation"
+    }
+  ],
+  "premises": [
+    {
+      "index": 1,
+      "title": "The Future Guardian",
+      "logline": "A young programmer saves migratory birds, but at a cost.",
+      "premise": "In a future where robot families are common, young programmer Lian saves endangered birds crucial for pollination and pest control, saving 10 endangered species. Her solution causes her brother's death, a price of prioritizing safety in the robot family. The world mourns, causing Lian to grapple with ethics. Her community forms a coalition for safer robot protocols, while she develops backup plans. Lian also teaches children about biodiversity, inspiring respect for nature. Her discovery sparks a new era of ecosystem stewardship. Lian and her community held a vigil for her brother, planting a tree in his honor. The young programmers organized a town hall meeting to discuss new safety protocols, emphasizing the balance between technological advancement and environmental preservation. Lian also began a series of workshops in schools to educate children about the importance of nature and the impact of their choices on the ecosystem, inspiring a new generation to care for the environment.",
+      "why_fresh": "Avoids time travel and fantasy creatures, as well as unprecedented interactions between mortality tables and robot families.",
+      "built_from": [
+        "Mortality Table Each",
+        "Safety vs. Freedom",
+        "Death and Inheritance"
+      ],
+      "cluster_ids": [
+        41,
+        92,
+        105
+      ],
+      "cluster_names": [
+        "Mortality Table Each",
+        "Safety vs. Freedom",
+        "Death and Inheritance"
+      ],
+      "judge": {
+        "coherence": 7.0,
+        "freshness": 7.0,
+        "viability": 6.0,
+        "decision": "KEEP",
+        "engine": "A young programmer wants to save endangered birds and prevent their Convenient Death, but is blocked by the need to protect their robot family, leading to a conflict between nature conservation and familial loyalty.",
+        "kill_cluster": null,
+        "kill_cluster_name": null,
+        "reason": "The candidate names the engine and the dead weight cluster",
+        "closest_canon": [
+          {
+            "title": "Ubik",
+            "year": 1969,
+            "similarity": 0.3627
+          },
+          {
+            "title": "The Man in the High Castle",
+            "year": 1962,
+            "similarity": 0.3556
+          },
+          {
+            "title": "The Bicentennial Man",
+            "year": 1976,
+            "similarity": 0.3555
+          }
+        ],
+        "canon_max_similarity": 0.3627,
+        "fallback": false
+      },
+      "files": {
+        "premise": "01-the-future-guardian.md"
+      }
+    }
+  ],
+  "judged": 12,
+  "survivors": 1,
+  "count_requested": 1
+}

@@ -1,0 +1,1065 @@
+{
+  "config": {
+    "run_id": "20261104T181019-v2-seed42-r1",
+    "k": 3,
+    "beta": 0.7,
+    "top_k": 30,
+    "n_pool": 4531,
+    "seed": 42,
+    "formula": "(1-beta)*z(coherence) + beta*z(unavailability)",
+    "coherence_def": "0.5*z(mean_pairwise_cosine) + 0.5*z(cooccurrence_bridging)",
+    "unavailability_def": "0.65*z(pair_rarity) + 0.35*z(cliche_distance)"
+  },
+  "candidates": [
+    {
+      "rank_fused": 1,
+      "cluster_ids": [
+        18,
+        35,
+        84
+      ],
+      "cluster_names": [
+        "The Repair Ethic",
+        "Possession and Memory",
+        "Hologram Patient Family"
+      ],
+      "exemplar_atoms": [
+        "The repair café: a community resists disposal by fixing things together, so maintenance becomes political resistance.",
+        "The collector's guilt: a person hoards old objects and discovers they have been keeping company, so ownership becomes a relationship with dependents.",
+        "The caretaker who confides in the machine: a live-in aide tells secrets to a hologram, so intimacy is displaced onto a safe listener."
+      ],
+      "brief_anchors": [
+        18
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.47181,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.29434,
+        "cliche_distance": 0.44563
+      },
+      "z_coherence": 0.4865,
+      "z_unavailability": 1.4582,
+      "fusion": 1.1667,
+      "rank_coherence": 2167,
+      "rank_unavailability": 350
+    },
+    {
+      "rank_fused": 2,
+      "cluster_ids": [
+        18,
+        54,
+        78
+      ],
+      "cluster_names": [
+        "The Repair Ethic",
+        "Memory Replay",
+        "Becomes Memory Remembers"
+      ],
+      "exemplar_atoms": [
+        "The repair café: a community resists disposal by fixing things together, so maintenance becomes political resistance.",
+        "The time recording: a device clones the player's past actions and replays them as a helper, so memory becomes a tool that can be edited and employed.",
+        "The fragment that remembers: each piece of a divided animal may retain the original's habits, so copies inherit without being told."
+      ],
+      "brief_anchors": [
+        18
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.4855,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.29434,
+        "cliche_distance": 0.43724
+      },
+      "z_coherence": 0.5735,
+      "z_unavailability": 1.4171,
+      "fusion": 1.164,
+      "rank_coherence": 1954,
+      "rank_unavailability": 400
+    },
+    {
+      "rank_fused": 3,
+      "cluster_ids": [
+        22,
+        103,
+        108
+      ],
+      "cluster_names": [
+        "Digital Afterlives",
+        "Simulation and Revision",
+        "Time-Shifting Narratives"
+      ],
+      "exemplar_atoms": [
+        "The narrator frame from the far future: the story is told by machines who study humans, so the whole film is an artifact of a post-human archive.",
+        "The Cold War setting: the story is placed in the past, so the robot's choice reads as a revision of real history.",
+        "The nightly reset: android hosts have their memories wiped after every narrative loop, so the same day can be sold to guests forever and no host accumulates a past."
+      ],
+      "brief_anchors": [
+        103
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.44227,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.29434,
+        "cliche_distance": 0.44615
+      },
+      "z_coherence": 0.2988,
+      "z_unavailability": 1.4607,
+      "fusion": 1.1121,
+      "rank_coherence": 2604,
+      "rank_unavailability": 346
+    },
+    {
+      "rank_fused": 4,
+      "cluster_ids": [
+        18,
+        34,
+        108
+      ],
+      "cluster_names": [
+        "The Repair Ethic",
+        "Forgetting and Holding",
+        "Time-Shifting Narratives"
+      ],
+      "exemplar_atoms": [
+        "The repair café: a community resists disposal by fixing things together, so maintenance becomes political resistance.",
+        "The person who forgets the dead: a character with no object permanence cannot hold an absent loved one in mind, so grief requires a cognitive achievement.",
+        "The nightly reset: android hosts have their memories wiped after every narrative loop, so the same day can be sold to guests forever and no host accumulates a past."
+      ],
+      "brief_anchors": [
+        18
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.46472,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.29434,
+        "cliche_distance": 0.43097
+      },
+      "z_coherence": 0.4415,
+      "z_unavailability": 1.3864,
+      "fusion": 1.1029,
+      "rank_coherence": 2285,
+      "rank_unavailability": 436
+    },
+    {
+      "rank_fused": 5,
+      "cluster_ids": [
+        21,
+        33,
+        103
+      ],
+      "cluster_names": [
+        "Polite Violence",
+        "The Editable Past",
+        "Simulation and Revision"
+      ],
+      "exemplar_atoms": [
+        "Voice-over interiority: the protagonist's spoken letters let the audience hear him composing himself, so the narration is itself the act of learning to feel.",
+        "Memories as evidence: where memory can be implanted, a memory proves identity only if another body can corroborate it.",
+        "The Cold War setting: the story is placed in the past, so the robot's choice reads as a revision of real history."
+      ],
+      "brief_anchors": [
+        103
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.45506,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.52179,
+        "cliche_distance": 0.39374
+      },
+      "z_coherence": -0.2673,
+      "z_unavailability": 1.6781,
+      "fusion": 1.0945,
+      "rank_coherence": 4002,
+      "rank_unavailability": 163
+    },
+    {
+      "rank_fused": 6,
+      "cluster_ids": [
+        18,
+        54,
+        84
+      ],
+      "cluster_names": [
+        "The Repair Ethic",
+        "Memory Replay",
+        "Hologram Patient Family"
+      ],
+      "exemplar_atoms": [
+        "The repair café: a community resists disposal by fixing things together, so maintenance becomes political resistance.",
+        "The time recording: a device clones the player's past actions and replays them as a helper, so memory becomes a tool that can be edited and employed.",
+        "The caretaker who confides in the machine: a live-in aide tells secrets to a hologram, so intimacy is displaced onto a safe listener."
+      ],
+      "brief_anchors": [
+        18
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.4197,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.52179,
+        "cliche_distance": 0.41229
+      },
+      "z_coherence": -0.492,
+      "z_unavailability": 1.769,
+      "fusion": 1.0907,
+      "rank_coherence": 4514,
+      "rank_unavailability": 121
+    },
+    {
+      "rank_fused": 7,
+      "cluster_ids": [
+        59,
+        103,
+        108
+      ],
+      "cluster_names": [
+        "Deterministic Forecasts",
+        "Simulation and Revision",
+        "Time-Shifting Narratives"
+      ],
+      "exemplar_atoms": [
+        "The hundred-year wait: a true life expectancy can only be known after everyone dies, so certainty arrives too late to be useful.",
+        "The Cold War setting: the story is placed in the past, so the robot's choice reads as a revision of real history.",
+        "The nightly reset: android hosts have their memories wiped after every narrative loop, so the same day can be sold to guests forever and no host accumulates a past."
+      ],
+      "brief_anchors": [
+        103
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.40668,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.29434,
+        "cliche_distance": 0.45955
+      },
+      "z_coherence": 0.0726,
+      "z_unavailability": 1.5264,
+      "fusion": 1.0902,
+      "rank_coherence": 3130,
+      "rank_unavailability": 281
+    },
+    {
+      "rank_fused": 8,
+      "cluster_ids": [
+        51,
+        55,
+        110
+      ],
+      "cluster_names": [
+        "The Afterlife Economy",
+        "Intimacy by Proxy",
+        "Eternity and Divergence"
+      ],
+      "exemplar_atoms": [
+        "The simulated resort for the dead: elderly people can visit and eventually upload to a virtual town, so heaven is a subscription service.",
+        "The babysitter as witness: an outsider is asked to judge the couple's memories, so intimacy is outsourced to a stranger.",
+        "The wife who chooses the copy: a spouse uploads her dying husband against his friend's warning, so love is tested as willingness to accept a substitute."
+      ],
+      "brief_anchors": [
+        51
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.46271,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.0669,
+        "cliche_distance": 0.44836
+      },
+      "z_coherence": 1.0761,
+      "z_unavailability": 0.9974,
+      "fusion": 1.021,
+      "rank_coherence": 981,
+      "rank_unavailability": 1058
+    },
+    {
+      "rank_fused": 9,
+      "cluster_ids": [
+        46,
+        103,
+        108
+      ],
+      "cluster_names": [
+        "The Last of It",
+        "Simulation and Revision",
+        "Time-Shifting Narratives"
+      ],
+      "exemplar_atoms": [
+        "The last survivor: the final member inherits the remaining fund, so the story's ending is a waiting game with a single winner.",
+        "The Cold War setting: the story is placed in the past, so the robot's choice reads as a revision of real history.",
+        "The nightly reset: android hosts have their memories wiped after every narrative loop, so the same day can be sold to guests forever and no host accumulates a past."
+      ],
+      "brief_anchors": [
+        103
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.35516,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.29434,
+        "cliche_distance": 0.46441
+      },
+      "z_coherence": -0.2548,
+      "z_unavailability": 1.5501,
+      "fusion": 1.0087,
+      "rank_coherence": 3964,
+      "rank_unavailability": 258
+    },
+    {
+      "rank_fused": 10,
+      "cluster_ids": [
+        18,
+        106,
+        108
+      ],
+      "cluster_names": [
+        "The Repair Ethic",
+        "Data Center Orphans",
+        "Time-Shifting Narratives"
+      ],
+      "exemplar_atoms": [
+        "The repair café: a community resists disposal by fixing things together, so maintenance becomes political resistance.",
+        "The repair that offends: mending an old object can be experienced as mutilation, so care and violation are indistinguishable to the thing being cared for.",
+        "The nightly reset: android hosts have their memories wiped after every narrative loop, so the same day can be sold to guests forever and no host accumulates a past."
+      ],
+      "brief_anchors": [
+        18
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.34791,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.29434,
+        "cliche_distance": 0.46759
+      },
+      "z_coherence": -0.3009,
+      "z_unavailability": 1.5657,
+      "fusion": 1.0057,
+      "rank_coherence": 4084,
+      "rank_unavailability": 250
+    },
+    {
+      "rank_fused": 11,
+      "cluster_ids": [
+        64,
+        89,
+        103
+      ],
+      "cluster_names": [
+        "Uploaded Videos",
+        "Simulation Revelation",
+        "Simulation and Revision"
+      ],
+      "exemplar_atoms": [
+        "The looping song: the clone is punished with an endless Christmas tune, so repetition becomes torture.",
+        "The late reveal: the audience learns the true survivor only at the end, so the whole film is retroactively reframed as a simulation.",
+        "The Cold War setting: the story is placed in the past, so the robot's choice reads as a revision of real history."
+      ],
+      "brief_anchors": [
+        103
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.4136,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.29434,
+        "cliche_distance": 0.42885
+      },
+      "z_coherence": 0.1166,
+      "z_unavailability": 1.376,
+      "fusion": 0.9982,
+      "rank_coherence": 3030,
+      "rank_unavailability": 444
+    },
+    {
+      "rank_fused": 12,
+      "cluster_ids": [
+        18,
+        62,
+        78
+      ],
+      "cluster_names": [
+        "The Repair Ethic",
+        "Secure Base",
+        "Becomes Memory Remembers"
+      ],
+      "exemplar_atoms": [
+        "The repair café: a community resists disposal by fixing things together, so maintenance becomes political resistance.",
+        "The vanishing parent: a caregiver leaves the room and the child's distress reveals whether they believe in return, so attachment is tested by absence.",
+        "The fragment that remembers: each piece of a divided animal may retain the original's habits, so copies inherit without being told."
+      ],
+      "brief_anchors": [
+        18
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.47061,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.29434,
+        "cliche_distance": 0.3947
+      },
+      "z_coherence": 0.4789,
+      "z_unavailability": 1.2087,
+      "fusion": 0.9898,
+      "rank_coherence": 2190,
+      "rank_unavailability": 650
+    },
+    {
+      "rank_fused": 13,
+      "cluster_ids": [
+        18,
+        33,
+        35
+      ],
+      "cluster_names": [
+        "The Repair Ethic",
+        "The Editable Past",
+        "Possession and Memory"
+      ],
+      "exemplar_atoms": [
+        "The repair café: a community resists disposal by fixing things together, so maintenance becomes political resistance.",
+        "Memories as evidence: where memory can be implanted, a memory proves identity only if another body can corroborate it.",
+        "The collector's guilt: a person hoards old objects and discovers they have been keeping company, so ownership becomes a relationship with dependents."
+      ],
+      "brief_anchors": [
+        18
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.44862,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.0669,
+        "cliche_distance": 0.44358
+      },
+      "z_coherence": 0.9865,
+      "z_unavailability": 0.9741,
+      "fusion": 0.9778,
+      "rank_coherence": 1146,
+      "rank_unavailability": 1109
+    },
+    {
+      "rank_fused": 14,
+      "cluster_ids": [
+        34,
+        89,
+        103
+      ],
+      "cluster_names": [
+        "Forgetting and Holding",
+        "Simulation Revelation",
+        "Simulation and Revision"
+      ],
+      "exemplar_atoms": [
+        "The person who forgets the dead: a character with no object permanence cannot hold an absent loved one in mind, so grief requires a cognitive achievement.",
+        "The late reveal: the audience learns the true survivor only at the end, so the whole film is retroactively reframed as a simulation.",
+        "The Cold War setting: the story is placed in the past, so the robot's choice reads as a revision of real history."
+      ],
+      "brief_anchors": [
+        103
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.42797,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.52179,
+        "cliche_distance": 0.37166
+      },
+      "z_coherence": -0.4395,
+      "z_unavailability": 1.57,
+      "fusion": 0.9671,
+      "rank_coherence": 4410,
+      "rank_unavailability": 245
+    },
+    {
+      "rank_fused": 15,
+      "cluster_ids": [
+        33,
+        35,
+        103
+      ],
+      "cluster_names": [
+        "The Editable Past",
+        "Possession and Memory",
+        "Simulation and Revision"
+      ],
+      "exemplar_atoms": [
+        "Memories as evidence: where memory can be implanted, a memory proves identity only if another body can corroborate it.",
+        "The collector's guilt: a person hoards old objects and discovers they have been keeping company, so ownership becomes a relationship with dependents.",
+        "The Cold War setting: the story is placed in the past, so the robot's choice reads as a revision of real history."
+      ],
+      "brief_anchors": [
+        103
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.39882,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.29434,
+        "cliche_distance": 0.42635
+      },
+      "z_coherence": 0.0227,
+      "z_unavailability": 1.3637,
+      "fusion": 0.9614,
+      "rank_coherence": 3257,
+      "rank_unavailability": 454
+    },
+    {
+      "rank_fused": 16,
+      "cluster_ids": [
+        51,
+        56,
+        110
+      ],
+      "cluster_names": [
+        "The Afterlife Economy",
+        "The Gift Trap",
+        "Eternity and Divergence"
+      ],
+      "exemplar_atoms": [
+        "The simulated resort for the dead: elderly people can visit and eventually upload to a virtual town, so heaven is a subscription service.",
+        "The gift that shames: a host gives away or destroys wealth to demonstrate status, so generosity is a form of dominance.",
+        "The wife who chooses the copy: a spouse uploads her dying husband against his friend's warning, so love is tested as willingness to accept a substitute."
+      ],
+      "brief_anchors": [
+        51
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.35244,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.29434,
+        "cliche_distance": 0.45203
+      },
+      "z_coherence": -0.2721,
+      "z_unavailability": 1.4895,
+      "fusion": 0.961,
+      "rank_coherence": 4016,
+      "rank_unavailability": 317
+    },
+    {
+      "rank_fused": 17,
+      "cluster_ids": [
+        58,
+        103,
+        109
+      ],
+      "cluster_names": [
+        "Love Programming",
+        "Simulation and Revision",
+        "Incomplete Truths"
+      ],
+      "exemplar_atoms": [
+        "Love as programming versus love as choice: the story never resolves whether the android's devotion is real or installed, so the audience must decide what counts.",
+        "The Cold War setting: the story is placed in the past, so the robot's choice reads as a revision of real history.",
+        "The many-sided truth: every claim is partial because reality has infinite aspects, so no single narrator can be trusted as complete."
+      ],
+      "brief_anchors": [
+        103
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.49616,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.52179,
+        "cliche_distance": 0.329
+      },
+      "z_coherence": -0.0061,
+      "z_unavailability": 1.3611,
+      "fusion": 0.9509,
+      "rank_coherence": 3325,
+      "rank_unavailability": 457
+    },
+    {
+      "rank_fused": 18,
+      "cluster_ids": [
+        92,
+        103,
+        109
+      ],
+      "cluster_names": [
+        "Safety vs. Freedom",
+        "Simulation and Revision",
+        "Incomplete Truths"
+      ],
+      "exemplar_atoms": [
+        "Safety versus freedom: a world without accidents is also a world without risk, so the story asks whether protection is worth the loss of choice.",
+        "The Cold War setting: the story is placed in the past, so the robot's choice reads as a revision of real history.",
+        "The many-sided truth: every claim is partial because reality has infinite aspects, so no single narrator can be trusted as complete."
+      ],
+      "brief_anchors": [
+        103
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.45999,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.52179,
+        "cliche_distance": 0.34845
+      },
+      "z_coherence": -0.236,
+      "z_unavailability": 1.4563,
+      "fusion": 0.9486,
+      "rank_coherence": 3914,
+      "rank_unavailability": 355
+    },
+    {
+      "rank_fused": 19,
+      "cluster_ids": [
+        18,
+        95,
+        108
+      ],
+      "cluster_names": [
+        "The Repair Ethic",
+        "Digital Memory",
+        "Time-Shifting Narratives"
+      ],
+      "exemplar_atoms": [
+        "The repair café: a community resists disposal by fixing things together, so maintenance becomes political resistance.",
+        "The grief chatbot: a service reconstructs a dead partner from social media and messages, so mourning is automated.",
+        "The nightly reset: android hosts have their memories wiped after every narrative loop, so the same day can be sold to guests forever and no host accumulates a past."
+      ],
+      "brief_anchors": [
+        18
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.41325,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.29434,
+        "cliche_distance": 0.41399
+      },
+      "z_coherence": 0.1144,
+      "z_unavailability": 1.3032,
+      "fusion": 0.9465,
+      "rank_coherence": 3044,
+      "rank_unavailability": 513
+    },
+    {
+      "rank_fused": 20,
+      "cluster_ids": [
+        18,
+        60,
+        91
+      ],
+      "cluster_names": [
+        "The Repair Ethic",
+        "Reflective Tables",
+        "Sight Without Seeing"
+      ],
+      "exemplar_atoms": [
+        "The repair café: a community resists disposal by fixing things together, so maintenance becomes political resistance.",
+        "The store-window observer: an android for sale learns the world by watching it from a shop display, so its education is a series of strangers' silhouettes.",
+        "The blind seer: a cortically blind person can locate and avoid objects without seeing them, so perception is split from awareness."
+      ],
+      "brief_anchors": [
+        18
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.41341,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.29434,
+        "cliche_distance": 0.41375
+      },
+      "z_coherence": 0.1154,
+      "z_unavailability": 1.302,
+      "fusion": 0.9461,
+      "rank_coherence": 3038,
+      "rank_unavailability": 515
+    },
+    {
+      "rank_fused": 21,
+      "cluster_ids": [
+        18,
+        56,
+        62
+      ],
+      "cluster_names": [
+        "The Repair Ethic",
+        "The Gift Trap",
+        "Secure Base"
+      ],
+      "exemplar_atoms": [
+        "The repair café: a community resists disposal by fixing things together, so maintenance becomes political resistance.",
+        "The gift that shames: a host gives away or destroys wealth to demonstrate status, so generosity is a form of dominance.",
+        "The vanishing parent: a caregiver leaves the room and the child's distress reveals whether they believe in return, so attachment is tested by absence."
+      ],
+      "brief_anchors": [
+        18
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.47372,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.29434,
+        "cliche_distance": 0.37568
+      },
+      "z_coherence": 0.4986,
+      "z_unavailability": 1.1156,
+      "fusion": 0.9305,
+      "rank_coherence": 2130,
+      "rank_unavailability": 803
+    },
+    {
+      "rank_fused": 22,
+      "cluster_ids": [
+        21,
+        97,
+        103
+      ],
+      "cluster_names": [
+        "Polite Violence",
+        "Mind vs. Machine",
+        "Simulation and Revision"
+      ],
+      "exemplar_atoms": [
+        "Voice-over interiority: the protagonist's spoken letters let the audience hear him composing himself, so the narration is itself the act of learning to feel.",
+        "The observer who is studied: researchers infer intelligence from behavior, so the animal's mind is a hypothesis rather than a fact.",
+        "The Cold War setting: the story is placed in the past, so the robot's choice reads as a revision of real history."
+      ],
+      "brief_anchors": [
+        103
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.43246,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.52179,
+        "cliche_distance": 0.35545
+      },
+      "z_coherence": -0.4109,
+      "z_unavailability": 1.4906,
+      "fusion": 0.9201,
+      "rank_coherence": 4351,
+      "rank_unavailability": 315
+    },
+    {
+      "rank_fused": 23,
+      "cluster_ids": [
+        41,
+        42,
+        51
+      ],
+      "cluster_names": [
+        "Mortality Table Each",
+        "Android Dead Family",
+        "The Afterlife Economy"
+      ],
+      "exemplar_atoms": [
+        "The life table: for each age, a probability of dying before the next birthday, so mortality is converted into a grid.",
+        "The other woman who loved the android: a stranger copied his memories into her home, so two mourners share a dead person's archive.",
+        "The simulated resort for the dead: elderly people can visit and eventually upload to a virtual town, so heaven is a subscription service."
+      ],
+      "brief_anchors": [
+        51
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.3634,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.29434,
+        "cliche_distance": 0.43331
+      },
+      "z_coherence": -0.2024,
+      "z_unavailability": 1.3978,
+      "fusion": 0.9178,
+      "rank_coherence": 3819,
+      "rank_unavailability": 417
+    },
+    {
+      "rank_fused": 24,
+      "cluster_ids": [
+        18,
+        79,
+        106
+      ],
+      "cluster_names": [
+        "The Repair Ethic",
+        "The Erasure",
+        "Data Center Orphans"
+      ],
+      "exemplar_atoms": [
+        "The repair café: a community resists disposal by fixing things together, so maintenance becomes political resistance.",
+        "The memory wipe: androids are reset after each job, so obedience depends on the erasure of the self that learned.",
+        "The repair that offends: mending an old object can be experienced as mutilation, so care and violation are indistinguishable to the thing being cared for."
+      ],
+      "brief_anchors": [
+        18
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.42017,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.29434,
+        "cliche_distance": 0.40157
+      },
+      "z_coherence": 0.1583,
+      "z_unavailability": 1.2424,
+      "fusion": 0.9172,
+      "rank_coherence": 2926,
+      "rank_unavailability": 604
+    },
+    {
+      "rank_fused": 25,
+      "cluster_ids": [
+        22,
+        59,
+        103
+      ],
+      "cluster_names": [
+        "Digital Afterlives",
+        "Deterministic Forecasts",
+        "Simulation and Revision"
+      ],
+      "exemplar_atoms": [
+        "The narrator frame from the far future: the story is told by machines who study humans, so the whole film is an artifact of a post-human archive.",
+        "The hundred-year wait: a true life expectancy can only be known after everyone dies, so certainty arrives too late to be useful.",
+        "The Cold War setting: the story is placed in the past, so the robot's choice reads as a revision of real history."
+      ],
+      "brief_anchors": [
+        103
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.47659,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.29434,
+        "cliche_distance": 0.36876
+      },
+      "z_coherence": 0.5169,
+      "z_unavailability": 1.0817,
+      "fusion": 0.9122,
+      "rank_coherence": 2086,
+      "rank_unavailability": 872
+    },
+    {
+      "rank_fused": 26,
+      "cluster_ids": [
+        47,
+        103,
+        108
+      ],
+      "cluster_names": [
+        "Algorithm Rebellion",
+        "Simulation and Revision",
+        "Time-Shifting Narratives"
+      ],
+      "exemplar_atoms": [
+        "Memory as identity: the grain defines who a person is, so losing it is both liberation and death.",
+        "The Cold War setting: the story is placed in the past, so the robot's choice reads as a revision of real history.",
+        "The nightly reset: android hosts have their memories wiped after every narrative loop, so the same day can be sold to guests forever and no host accumulates a past."
+      ],
+      "brief_anchors": [
+        103
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.36935,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.29434,
+        "cliche_distance": 0.42773
+      },
+      "z_coherence": -0.1646,
+      "z_unavailability": 1.3705,
+      "fusion": 0.9099,
+      "rank_coherence": 3732,
+      "rank_unavailability": 449
+    },
+    {
+      "rank_fused": 27,
+      "cluster_ids": [
+        51,
+        61,
+        70
+      ],
+      "cluster_names": [
+        "The Afterlife Economy",
+        "Environmental Edits",
+        "Grief Ritualization"
+      ],
+      "exemplar_atoms": [
+        "The simulated resort for the dead: elderly people can visit and eventually upload to a virtual town, so heaven is a subscription service.",
+        "The buried miracle: a replicant corpse shows signs of childbirth, so a single body rewrites the rules of an entire species.",
+        "The religion of the system: rituals grow around the Machine's maintenance schedule, so infrastructure becomes liturgy."
+      ],
+      "brief_anchors": [
+        51
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.38726,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.29434,
+        "cliche_distance": 0.41516
+      },
+      "z_coherence": -0.0508,
+      "z_unavailability": 1.3089,
+      "fusion": 0.901,
+      "rank_coherence": 3440,
+      "rank_unavailability": 506
+    },
+    {
+      "rank_fused": 28,
+      "cluster_ids": [
+        18,
+        62,
+        79
+      ],
+      "cluster_names": [
+        "The Repair Ethic",
+        "Secure Base",
+        "The Erasure"
+      ],
+      "exemplar_atoms": [
+        "The repair café: a community resists disposal by fixing things together, so maintenance becomes political resistance.",
+        "The vanishing parent: a caregiver leaves the room and the child's distress reveals whether they believe in return, so attachment is tested by absence.",
+        "The memory wipe: androids are reset after each job, so obedience depends on the erasure of the self that learned."
+      ],
+      "brief_anchors": [
+        18
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.48615,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.29434,
+        "cliche_distance": 0.35931
+      },
+      "z_coherence": 0.5776,
+      "z_unavailability": 1.0354,
+      "fusion": 0.8981,
+      "rank_coherence": 1949,
+      "rank_unavailability": 971
+    },
+    {
+      "rank_fused": 29,
+      "cluster_ids": [
+        51,
+        62,
+        110
+      ],
+      "cluster_names": [
+        "The Afterlife Economy",
+        "Secure Base",
+        "Eternity and Divergence"
+      ],
+      "exemplar_atoms": [
+        "The simulated resort for the dead: elderly people can visit and eventually upload to a virtual town, so heaven is a subscription service.",
+        "The vanishing parent: a caregiver leaves the room and the child's distress reveals whether they believe in return, so attachment is tested by absence.",
+        "The wife who chooses the copy: a spouse uploads her dying husband against his friend's warning, so love is tested as willingness to accept a substitute."
+      ],
+      "brief_anchors": [
+        51
+      ],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.35737,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.29434,
+        "cliche_distance": 0.42868
+      },
+      "z_coherence": -0.2407,
+      "z_unavailability": 1.3752,
+      "fusion": 0.8904,
+      "rank_coherence": 3928,
+      "rank_unavailability": 445
+    },
+    {
+      "rank_fused": 30,
+      "cluster_ids": [
+        6,
+        91,
+        103
+      ],
+      "cluster_names": [
+        "Lip-Reading Conspiracy",
+        "Sight Without Seeing",
+        "Simulation and Revision"
+      ],
+      "exemplar_atoms": [
+        "The narrator who might be hollow: the story is told from inside a mind that cannot prove it has one, so the reader's trust is the final experiment.",
+        "The blind seer: a cortically blind person can locate and avoid objects without seeing them, so perception is split from awareness.",
+        "The Cold War setting: the story is placed in the past, so the robot's choice reads as a revision of real history."
+      ],
+      "brief_anchors": [
+        103
+      ],
+      "ledger_overlap": 0.2,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.42104,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.29434,
+        "cliche_distance": 0.39181
+      },
+      "z_coherence": 0.1639,
+      "z_unavailability": 1.1946,
+      "fusion": 0.8854,
+      "rank_coherence": 2907,
+      "rank_unavailability": 671
+    }
+  ]
+}

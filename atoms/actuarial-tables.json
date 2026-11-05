@@ -1,0 +1,22 @@
+{
+  "source": "actuarial-tables",
+  "diet": "B",
+  "atoms": [
+    {"id": "actuarial-tables-01", "text": "The life table: for each age, a probability of dying before the next birthday, so mortality is converted into a grid.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "actuarial-tables-02", "text": "The cohort table: a generation is followed from birth to death, so a whole population becomes a single character.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "actuarial-tables-03", "text": "The period table: one year's deaths stand in for a lifetime, so a snapshot pretends to be a biography.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "actuarial-tables-04", "text": "The remaining life expectancy: a person can be told how many years they probably have left, so the future is averaged and assigned.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "actuarial-tables-05", "text": "The undercounted infant: historical tables miss poor children, so the statistics erase the people who most needed counting.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "actuarial-tables-06", "text": "The insurance premium: a company prices a life using the table, so a person's death is a business input.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "actuarial-tables-07", "text": "The table that predicts the future: cohort tables anticipate mortality changes, so the story can treat probability as prophecy.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "actuarial-tables-08", "text": "The hundred-year wait: a true life expectancy can only be known after everyone dies, so certainty arrives too late to be useful.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "actuarial-tables-09", "text": "The actuary's coldness: a professional discusses death in aggregates, so compassion is replaced by precision.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "actuarial-tables-10", "text": "The person who beats the table: an individual outlives their predicted span, so the average is embarrassed by a survivor.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "actuarial-tables-11", "text": "The table used to govern: Social Security and public policy rely on mortality data, so statistics become law.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "actuarial-tables-12", "text": "The missing category: a population is excluded from the table, so its deaths are politically invisible.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "actuarial-tables-13", "text": "The birthday as risk: each year increases the probability in the next column, so celebration and danger coincide.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "actuarial-tables-14", "text": "The diagnosis that moves the row: a patient is shifted to a different mortality class, so identity is a spreadsheet entry.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "actuarial-tables-15", "text": "The gamble on longevity: a pension fund bets that people die on schedule, so institutional solvency depends on grief.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "actuarial-tables-16", "text": "The table as a mirror: a reader finds their own age and sees a probability, so the story makes the reader complicit in the calculation.", "kind": "structure_trick", "quality": "strong", "original": null}
+  ]
+}

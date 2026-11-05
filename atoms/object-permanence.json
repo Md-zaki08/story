@@ -1,0 +1,22 @@
+{
+  "source": "object-permanence",
+  "diet": "B",
+  "atoms": [
+    {"id": "object-permanence-01", "text": "The covered toy: an infant who does not search for a hidden object behaves as if it ceased to exist, so presence is equated with visibility.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "object-permanence-02", "text": "The peekaboo game: an adult disappears and returns, so the infant's delight is a rehearsal for trusting absence.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "object-permanence-03", "text": "The A-not-B error: a child reaches for a hidden object where it was found before, so habit overrides current evidence.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "object-permanence-04", "text": "The person who forgets the dead: a character with no object permanence cannot hold an absent loved one in mind, so grief requires a cognitive achievement.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "object-permanence-05", "text": "The hidden object that still matters: an unseen threat or treasure continues to shape behavior, so the story's suspense depends on what is out of sight.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "object-permanence-06", "text": "The out-of-sight machine: a system keeps running when no one observes it, so the universe is indifferent to attention.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "object-permanence-07", "text": "The search as love: a character keeps looking for someone who may no longer exist, so loyalty is defined as refusing the lesson of object permanence.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "object-permanence-08", "text": "The vanishing parent: a caregiver leaves the room and the child's distress reveals whether they believe in return, so attachment is tested by absence.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "object-permanence-09", "text": "The working memory test: finding a hidden object measures the ability to hold a representation, so cognition is assessed by search behavior.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "object-permanence-10", "text": "The object that changes when unobserved: a thing alters its state while hidden, so the story literalizes the child's fear that absence is transformation.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "object-permanence-11", "text": "The adult who never developed it: a person cannot believe in anything they cannot currently perceive, so trust is neurologically impossible.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "object-permanence-12", "text": "The digital disappearance: a file or account vanishes from view and the user panics, so object permanence applies to information.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "object-permanence-13", "text": "The hidden witness: someone observes from concealment and is forgotten by the scene, so the unseen is still a participant.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "object-permanence-14", "text": "The ritual of return: a parent always comes back at the same time, so predictability teaches the child that absence is temporary.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "object-permanence-15", "text": "The object left behind: a possession outlives its owner and carries their presence, so memory is stored in things.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "object-permanence-16", "text": "The child's theory of mind: the infant must learn that others see what they cannot, so perspective-taking begins with a hidden toy.", "kind": "structure_trick", "quality": "strong", "original": null}
+  ]
+}

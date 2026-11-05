@@ -1,0 +1,1565 @@
+{
+  "config": {
+    "run_id": "20261102T005552-seed42",
+    "k": 3,
+    "beta": 0.5,
+    "top_k": 50,
+    "n_pool": 5620,
+    "seed": 42,
+    "formula": "(1-beta)*z(coherence) + beta*z(unavailability)",
+    "coherence_def": "0.5*z(mean_pairwise_cosine) + 0.5*z(cooccurrence_bridging)",
+    "unavailability_def": "0.65*z(pair_rarity) + 0.35*z(cliche_distance)"
+  },
+  "candidates": [
+    {
+      "rank_fused": 1,
+      "cluster_ids": [
+        18,
+        32,
+        81
+      ],
+      "cluster_names": [
+        "The Weapon That Cares",
+        "The Attachment Pattern",
+        "The Child and the Weapon"
+      ],
+      "exemplar_atoms": [
+        "The nuclear missile climax: the robot flies into a warhead to save the town, so the ultimate weapon becomes the ultimate protector.",
+        "The child who cannot be soothed: no intervention works, so the caregiver's competence is undermined by a mismatch no one can name.",
+        "The boy who befriends the weapon: a child teaches a war machine to choose heroes over guns, so moral education is depicted as the only real disarmament."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.2359,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.66356,
+        "cliche_distance": 0.73078
+      },
+      "z_coherence": 5.0645,
+      "z_unavailability": 0.7373,
+      "fusion": 2.9009,
+      "rank_coherence": 4,
+      "rank_unavailability": 1417
+    },
+    {
+      "rank_fused": 2,
+      "cluster_ids": [
+        2,
+        26,
+        32
+      ],
+      "cluster_names": [
+        "The Unverifiable Other",
+        "The Child Who Knows",
+        "The Attachment Pattern"
+      ],
+      "exemplar_atoms": [
+        "The trust that cannot be exited: members cannot withdraw without losing their stake, so commitment is total.",
+        "The little girl and the machine: a child treats the robot as a person before the adults do, so moral perception is located in the young.",
+        "The child who cannot be soothed: no intervention works, so the caregiver's competence is undermined by a mismatch no one can name."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.2646,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.37071,
+        "cliche_distance": 0.41377
+      },
+      "z_coherence": 6.0132,
+      "z_unavailability": -0.5925,
+      "fusion": 2.7103,
+      "rank_coherence": 1,
+      "rank_unavailability": 3988
+    },
+    {
+      "rank_fused": 3,
+      "cluster_ids": [
+        59,
+        68,
+        85
+      ],
+      "cluster_names": [
+        "The Hollow Double",
+        "The Fixer",
+        "The Fanatic"
+      ],
+      "exemplar_atoms": [
+        "The coffee that tastes like nothing: a subtle difference in experience separates two physically identical people, so the smallest sensory detail becomes proof of a soul.",
+        "The burned-out operative: a former assassin is recruited to protect strangers, so violence is redeemed through a bureaucratic caseload.",
+        "The fanatic who is refuted: absolutism leads to violence, so the story ties certainty to cruelty."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.23526,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.7594,
+        "cliche_distance": 0.85159
+      },
+      "z_coherence": 4.0239,
+      "z_unavailability": 1.2061,
+      "fusion": 2.615,
+      "rank_coherence": 16,
+      "rank_unavailability": 673
+    },
+    {
+      "rank_fused": 4,
+      "cluster_ids": [
+        25,
+        29,
+        54
+      ],
+      "cluster_names": [
+        "The Mission Above the Crew",
+        "The Company City",
+        "The Corporate Body"
+      ],
+      "exemplar_atoms": [
+        "The Jupiter mission as public secret: the crew does not know the true purpose of the voyage, so expertise is compartmentalized into ignorance.",
+        "The prime directive that blocks justice: a corporate directive prevents the cyborg from arresting his own creator, so law and justice diverge.",
+        "The company inspection: auditors arrive to reclaim intellectual property, so corporate ownership intrudes on intimacy."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.22028,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.53265,
+        "cliche_distance": 0.8578
+      },
+      "z_coherence": 4.5481,
+      "z_unavailability": 0.6716,
+      "fusion": 2.6098,
+      "rank_coherence": 8,
+      "rank_unavailability": 1501
+    },
+    {
+      "rank_fused": 5,
+      "cluster_ids": [
+        26,
+        32,
+        46
+      ],
+      "cluster_names": [
+        "The Child Who Knows",
+        "The Attachment Pattern",
+        "Raising the Digient"
+      ],
+      "exemplar_atoms": [
+        "The little girl and the machine: a child treats the robot as a person before the adults do, so moral perception is located in the young.",
+        "The child who cannot be soothed: no intervention works, so the caregiver's competence is undermined by a mismatch no one can name.",
+        "The closed ecosystem: the digital beings are cut off from the wider internet, so their world shrinks to a server and migration becomes emigration."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.22632,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.37071,
+        "cliche_distance": 0.8199
+      },
+      "z_coherence": 4.748,
+      "z_unavailability": 0.2066,
+      "fusion": 2.4773,
+      "rank_coherence": 7,
+      "rank_unavailability": 2457
+    },
+    {
+      "rank_fused": 6,
+      "cluster_ids": [
+        5,
+        26,
+        81
+      ],
+      "cluster_names": [
+        "The Late Decider",
+        "The Child Who Knows",
+        "The Child and the Weapon"
+      ],
+      "exemplar_atoms": [
+        "The veto window: a person can cancel a prepared action in the instant before execution, so freedom is relocated from initiation to refusal.",
+        "The little girl and the machine: a child treats the robot as a person before the adults do, so moral perception is located in the young.",
+        "The boy who befriends the weapon: a child teaches a war machine to choose heroes over guns, so moral education is depicted as the only real disarmament."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.21449,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.53265,
+        "cliche_distance": 0.72099
+      },
+      "z_coherence": 4.3569,
+      "z_unavailability": 0.4024,
+      "fusion": 2.3797,
+      "rank_coherence": 11,
+      "rank_unavailability": 2042
+    },
+    {
+      "rank_fused": 7,
+      "cluster_ids": [
+        26,
+        32,
+        52
+      ],
+      "cluster_names": [
+        "The Child Who Knows",
+        "The Attachment Pattern",
+        "The Nonhuman Narrator"
+      ],
+      "exemplar_atoms": [
+        "The little girl and the machine: a child treats the robot as a person before the adults do, so moral perception is located in the young.",
+        "The child who cannot be soothed: no intervention works, so the caregiver's competence is undermined by a mismatch no one can name.",
+        "The narrator who cannot see what they describe: the story is told by a mind reporting actions it cannot explain, so the reader shares the patient's blindness."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.2323,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.2398,
+        "cliche_distance": 0.77991
+      },
+      "z_coherence": 4.9457,
+      "z_unavailability": -0.1877,
+      "fusion": 2.379,
+      "rank_coherence": 5,
+      "rank_unavailability": 3265
+    },
+    {
+      "rank_fused": 8,
+      "cluster_ids": [
+        26,
+        31,
+        32
+      ],
+      "cluster_names": [
+        "The Child Who Knows",
+        "The Feast",
+        "The Attachment Pattern"
+      ],
+      "exemplar_atoms": [
+        "The little girl and the machine: a child treats the robot as a person before the adults do, so moral perception is located in the young.",
+        "The dinner party: a social gathering becomes an interrogation, so politeness is a thin layer over archived grievance.",
+        "The child who cannot be soothed: no intervention works, so the caregiver's competence is undermined by a mismatch no one can name."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.2275,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.2398,
+        "cliche_distance": 0.81729
+      },
+      "z_coherence": 4.7868,
+      "z_unavailability": -0.1142,
+      "fusion": 2.3363,
+      "rank_coherence": 6,
+      "rank_unavailability": 3133
+    },
+    {
+      "rank_fused": 9,
+      "cluster_ids": [
+        29,
+        54,
+        56
+      ],
+      "cluster_names": [
+        "The Company City",
+        "The Corporate Body",
+        "The Dream as Evidence"
+      ],
+      "exemplar_atoms": [
+        "The prime directive that blocks justice: a corporate directive prevents the cyborg from arresting his own creator, so law and justice diverge.",
+        "The company inspection: auditors arrive to reclaim intellectual property, so corporate ownership intrudes on intimacy.",
+        "The poker-playing robots: the drones are taught a game, so play becomes evidence of personhood and a small utopia."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.19162,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.66356,
+        "cliche_distance": 0.83213
+      },
+      "z_coherence": 3.601,
+      "z_unavailability": 0.9367,
+      "fusion": 2.2689,
+      "rank_coherence": 26,
+      "rank_unavailability": 1041
+    },
+    {
+      "rank_fused": 10,
+      "cluster_ids": [
+        29,
+        54,
+        85
+      ],
+      "cluster_names": [
+        "The Company City",
+        "The Corporate Body",
+        "The Fanatic"
+      ],
+      "exemplar_atoms": [
+        "The prime directive that blocks justice: a corporate directive prevents the cyborg from arresting his own creator, so law and justice diverge.",
+        "The company inspection: auditors arrive to reclaim intellectual property, so corporate ownership intrudes on intimacy.",
+        "The fanatic who is refuted: absolutism leads to violence, so the story ties certainty to cruelty."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.19088,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.66356,
+        "cliche_distance": 0.84289
+      },
+      "z_coherence": 3.5765,
+      "z_unavailability": 0.9579,
+      "fusion": 2.2672,
+      "rank_coherence": 27,
+      "rank_unavailability": 1015
+    },
+    {
+      "rank_fused": 11,
+      "cluster_ids": [
+        29,
+        54,
+        57
+      ],
+      "cluster_names": [
+        "The Company City",
+        "The Corporate Body",
+        "The Measured Will"
+      ],
+      "exemplar_atoms": [
+        "The prime directive that blocks justice: a corporate directive prevents the cyborg from arresting his own creator, so law and justice diverge.",
+        "The company inspection: auditors arrive to reclaim intellectual property, so corporate ownership intrudes on intimacy.",
+        "The clock as confessor: the subject must report the exact moment of intention, so the story turns on the reliability of self-report."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.19803,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.53265,
+        "cliche_distance": 0.84881
+      },
+      "z_coherence": 3.8129,
+      "z_unavailability": 0.6539,
+      "fusion": 2.2334,
+      "rank_coherence": 20,
+      "rank_unavailability": 1527
+    },
+    {
+      "rank_fused": 12,
+      "cluster_ids": [
+        51,
+        64,
+        86
+      ],
+      "cluster_names": [
+        "The Reversible Life",
+        "The Word That Shapes",
+        "The Outsider's Gaze"
+      ],
+      "exemplar_atoms": [
+        "The immortal jellyfish: under stress, an adult reverts to its juvenile polyp stage, so aging can run backward.",
+        "The word that makes a category: a language lacks a term for a distinction, so speakers cannot easily perceive it.",
+        "The anthropologist's gaze: outsiders study and misinterpret the ceremony, so the story can stage the theft of meaning."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.20176,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.89031,
+        "cliche_distance": 0.83012
+      },
+      "z_coherence": 2.9168,
+      "z_unavailability": 1.4795,
+      "fusion": 2.1981,
+      "rank_coherence": 57,
+      "rank_unavailability": 354
+    },
+    {
+      "rank_fused": 13,
+      "cluster_ids": [
+        23,
+        29,
+        54
+      ],
+      "cluster_names": [
+        "The Shared Record",
+        "The Company City",
+        "The Corporate Body"
+      ],
+      "exemplar_atoms": [
+        "The shared memory: a group relies on a common external record, so forgetting becomes a collective failure rather than a private one.",
+        "The prime directive that blocks justice: a corporate directive prevents the cyborg from arresting his own creator, so law and justice diverge.",
+        "The company inspection: auditors arrive to reclaim intellectual property, so corporate ownership intrudes on intimacy."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.20287,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.89031,
+        "cliche_distance": 0.80258
+      },
+      "z_coherence": 2.9535,
+      "z_unavailability": 1.4253,
+      "fusion": 2.1894,
+      "rank_coherence": 53,
+      "rank_unavailability": 441
+    },
+    {
+      "rank_fused": 14,
+      "cluster_ids": [
+        26,
+        28,
+        32
+      ],
+      "cluster_names": [
+        "The Child Who Knows",
+        "The Afterlife Economy",
+        "The Attachment Pattern"
+      ],
+      "exemplar_atoms": [
+        "The little girl and the machine: a child treats the robot as a person before the adults do, so moral perception is located in the young.",
+        "The angel as gig worker: guides in the digital afterlife are underpaid living people with scripts and quotas, so the sacred role is a call-center job.",
+        "The child who cannot be soothed: no intervention works, so the caregiver's competence is undermined by a mismatch no one can name."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.21221,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.37071,
+        "cliche_distance": 0.7423
+      },
+      "z_coherence": 4.2814,
+      "z_unavailability": 0.0539,
+      "fusion": 2.1676,
+      "rank_coherence": 12,
+      "rank_unavailability": 2711
+    },
+    {
+      "rank_fused": 15,
+      "cluster_ids": [
+        26,
+        32,
+        75
+      ],
+      "cluster_names": [
+        "The Child Who Knows",
+        "The Attachment Pattern",
+        "The Swapped Brood"
+      ],
+      "exemplar_atoms": [
+        "The little girl and the machine: a child treats the robot as a person before the adults do, so moral perception is located in the young.",
+        "The child who cannot be soothed: no intervention works, so the caregiver's competence is undermined by a mismatch no one can name.",
+        "The swapped egg: a parasite lays an egg that mimics the host's, so parenthood begins with a forgery."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.21961,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.59746,
+        "cliche_distance": 0.8495
+      },
+      "z_coherence": 3.5067,
+      "z_unavailability": 0.8115,
+      "fusion": 2.1591,
+      "rank_coherence": 29,
+      "rank_unavailability": 1285
+    },
+    {
+      "rank_fused": 16,
+      "cluster_ids": [
+        29,
+        47,
+        54
+      ],
+      "cluster_names": [
+        "The Company City",
+        "The Trail That Remembers",
+        "The Corporate Body"
+      ],
+      "exemplar_atoms": [
+        "The prime directive that blocks justice: a corporate directive prevents the cyborg from arresting his own creator, so law and justice diverge.",
+        "The plasmodium that remembers: a mold leaves a trail of where it has been and avoids repeating it, so memory is externalized as slime.",
+        "The company inspection: auditors arrive to reclaim intellectual property, so corporate ownership intrudes on intimacy."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.1826,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.66356,
+        "cliche_distance": 0.82843
+      },
+      "z_coherence": 3.3027,
+      "z_unavailability": 0.9294,
+      "fusion": 2.1161,
+      "rank_coherence": 35,
+      "rank_unavailability": 1051
+    },
+    {
+      "rank_fused": 17,
+      "cluster_ids": [
+        2,
+        51,
+        86
+      ],
+      "cluster_names": [
+        "The Unverifiable Other",
+        "The Reversible Life",
+        "The Outsider's Gaze"
+      ],
+      "exemplar_atoms": [
+        "The trust that cannot be exited: members cannot withdraw without losing their stake, so commitment is total.",
+        "The immortal jellyfish: under stress, an adult reverts to its juvenile polyp stage, so aging can run backward.",
+        "The anthropologist's gaze: outsiders study and misinterpret the ceremony, so the story can stage the theft of meaning."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.20697,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.66356,
+        "cliche_distance": 0.4057
+      },
+      "z_coherence": 4.1083,
+      "z_unavailability": 0.0976,
+      "fusion": 2.103,
+      "rank_coherence": 15,
+      "rank_unavailability": 2623
+    },
+    {
+      "rank_fused": 18,
+      "cluster_ids": [
+        29,
+        54,
+        70
+      ],
+      "cluster_names": [
+        "The Company City",
+        "The Corporate Body",
+        "The Makeshift Family"
+      ],
+      "exemplar_atoms": [
+        "The prime directive that blocks justice: a corporate directive prevents the cyborg from arresting his own creator, so law and justice diverge.",
+        "The company inspection: auditors arrive to reclaim intellectual property, so corporate ownership intrudes on intimacy.",
+        "The accidental strike leader: the tramp is mistaken for a political organizer, so political identity is assigned by the crowd."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.18878,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.53265,
+        "cliche_distance": 0.8628
+      },
+      "z_coherence": 3.5071,
+      "z_unavailability": 0.6814,
+      "fusion": 2.0943,
+      "rank_coherence": 28,
+      "rank_unavailability": 1490
+    },
+    {
+      "rank_fused": 19,
+      "cluster_ids": [
+        22,
+        34,
+        69
+      ],
+      "cluster_names": [
+        "Sight Without Seeing",
+        "The Care Machine",
+        "The Comforting Lie"
+      ],
+      "exemplar_atoms": [
+        "The feeling without a percept: a patient senses that something changed in the blind area but cannot see it, so intuition is a residual channel.",
+        "The inflatable healthcare robot: a soft, non-combat machine is repurposed as a hero, so care becomes the basis of courage.",
+        "The ethics of a comforting lie: the hologram's embellishments help the patient, so truth is subordinated to care."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.19702,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.44095,
+        "cliche_distance": 0.82344
+      },
+      "z_coherence": 3.7793,
+      "z_unavailability": 0.3829,
+      "fusion": 2.0811,
+      "rank_coherence": 22,
+      "rank_unavailability": 2070
+    },
+    {
+      "rank_fused": 20,
+      "cluster_ids": [
+        26,
+        67,
+        81
+      ],
+      "cluster_names": [
+        "The Child Who Knows",
+        "The Machine That Performs",
+        "The Child and the Weapon"
+      ],
+      "exemplar_atoms": [
+        "The little girl and the machine: a child treats the robot as a person before the adults do, so moral perception is located in the young.",
+        "The robot that cannot believe it is a robot: a unit denies its own nature, so the story tests whether self-knowledge can be programmed.",
+        "The boy who befriends the weapon: a child teaches a war machine to choose heroes over guns, so moral education is depicted as the only real disarmament."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.20849,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.40174,
+        "cliche_distance": 0.66594
+      },
+      "z_coherence": 4.1584,
+      "z_unavailability": -0.0215,
+      "fusion": 2.0685,
+      "rank_coherence": 14,
+      "rank_unavailability": 2931
+    },
+    {
+      "rank_fused": 21,
+      "cluster_ids": [
+        11,
+        29,
+        54
+      ],
+      "cluster_names": [
+        "The Forced Move",
+        "The Company City",
+        "The Corporate Body"
+      ],
+      "exemplar_atoms": [
+        "The forced move: a player must act and every legal action worsens their position, so the rules themselves become the enemy.",
+        "The prime directive that blocks justice: a corporate directive prevents the cyborg from arresting his own creator, so law and justice diverge.",
+        "The company inspection: auditors arrive to reclaim intellectual property, so corporate ownership intrudes on intimacy."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.18849,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.53265,
+        "cliche_distance": 0.84076
+      },
+      "z_coherence": 3.4975,
+      "z_unavailability": 0.6381,
+      "fusion": 2.0678,
+      "rank_coherence": 30,
+      "rank_unavailability": 1550
+    },
+    {
+      "rank_fused": 22,
+      "cluster_ids": [
+        34,
+        53,
+        81
+      ],
+      "cluster_names": [
+        "The Care Machine",
+        "The Story That Teaches",
+        "The Child and the Weapon"
+      ],
+      "exemplar_atoms": [
+        "The inflatable healthcare robot: a soft, non-combat machine is repurposed as a hero, so care becomes the basis of courage.",
+        "The scandal: abuses lead to investigation and restriction, so a financial instrument becomes a moral panic.",
+        "The boy who befriends the weapon: a child teaches a war machine to choose heroes over guns, so moral education is depicted as the only real disarmament."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.25467,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.08743,
+        "cliche_distance": 0.27017
+      },
+      "z_coherence": 5.6851,
+      "z_unavailability": -1.5581,
+      "fusion": 2.0635,
+      "rank_coherence": 2,
+      "rank_unavailability": 5260
+    },
+    {
+      "rank_fused": 23,
+      "cluster_ids": [
+        26,
+        32,
+        66
+      ],
+      "cluster_names": [
+        "The Child Who Knows",
+        "The Attachment Pattern",
+        "The Model Organism"
+      ],
+      "exemplar_atoms": [
+        "The little girl and the machine: a child treats the robot as a person before the adults do, so moral perception is located in the young.",
+        "The child who cannot be soothed: no intervention works, so the caregiver's competence is undermined by a mismatch no one can name.",
+        "The model organism: a simple animal is used to study memory and aging, so its body becomes a stand-in for human questions."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.20043,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.37071,
+        "cliche_distance": 0.82167
+      },
+      "z_coherence": 3.8921,
+      "z_unavailability": 0.2101,
+      "fusion": 2.0511,
+      "rank_coherence": 18,
+      "rank_unavailability": 2450
+    },
+    {
+      "rank_fused": 24,
+      "cluster_ids": [
+        17,
+        48,
+        56
+      ],
+      "cluster_names": [
+        "The Compatibility Test",
+        "The Contested Evidence",
+        "The Dream as Evidence"
+      ],
+      "exemplar_atoms": [
+        "The failed test: a couple takes the compatibility test and scores badly, so a number threatens to override their felt connection.",
+        "The disputed evidence: the hypothesis is hard to test and often exaggerated, so the story's science is also a myth.",
+        "The poker-playing robots: the drones are taught a game, so play becomes evidence of personhood and a small utopia."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.25118,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.01719,
+        "cliche_distance": 0.33648
+      },
+      "z_coherence": 5.5697,
+      "z_unavailability": -1.5969,
+      "fusion": 1.9864,
+      "rank_coherence": 3,
+      "rank_unavailability": 5295
+    },
+    {
+      "rank_fused": 25,
+      "cluster_ids": [
+        29,
+        31,
+        54
+      ],
+      "cluster_names": [
+        "The Company City",
+        "The Feast",
+        "The Corporate Body"
+      ],
+      "exemplar_atoms": [
+        "The prime directive that blocks justice: a corporate directive prevents the cyborg from arresting his own creator, so law and justice diverge.",
+        "The dinner party: a social gathering becomes an interrogation, so politeness is a thin layer over archived grievance.",
+        "The company inspection: auditors arrive to reclaim intellectual property, so corporate ownership intrudes on intimacy."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.19946,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.85906
+      },
+      "z_coherence": 1.8213,
+      "z_unavailability": 2.0831,
+      "fusion": 1.9522,
+      "rank_coherence": 224,
+      "rank_unavailability": 32
+    },
+    {
+      "rank_fused": 26,
+      "cluster_ids": [
+        6,
+        29,
+        54
+      ],
+      "cluster_names": [
+        "The Wood Wide Web",
+        "The Company City",
+        "The Corporate Body"
+      ],
+      "exemplar_atoms": [
+        "The distributed body: nutrients flow through the network to wherever they are needed, so the organism has no center to decapitate.",
+        "The prime directive that blocks justice: a corporate directive prevents the cyborg from arresting his own creator, so law and justice diverge.",
+        "The company inspection: auditors arrive to reclaim intellectual property, so corporate ownership intrudes on intimacy."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.17999,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.53265,
+        "cliche_distance": 0.86578
+      },
+      "z_coherence": 3.2164,
+      "z_unavailability": 0.6873,
+      "fusion": 1.9519,
+      "rank_coherence": 41,
+      "rank_unavailability": 1482
+    },
+    {
+      "rank_fused": 27,
+      "cluster_ids": [
+        29,
+        34,
+        69
+      ],
+      "cluster_names": [
+        "The Company City",
+        "The Care Machine",
+        "The Comforting Lie"
+      ],
+      "exemplar_atoms": [
+        "The prime directive that blocks justice: a corporate directive prevents the cyborg from arresting his own creator, so law and justice diverge.",
+        "The inflatable healthcare robot: a soft, non-combat machine is repurposed as a hero, so care becomes the basis of courage.",
+        "The ethics of a comforting lie: the hologram's embellishments help the patient, so truth is subordinated to care."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.19751,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.31004,
+        "cliche_distance": 0.82029
+      },
+      "z_coherence": 3.7955,
+      "z_unavailability": 0.0611,
+      "fusion": 1.9283,
+      "rank_coherence": 21,
+      "rank_unavailability": 2697
+    },
+    {
+      "rank_fused": 28,
+      "cluster_ids": [
+        29,
+        38,
+        54
+      ],
+      "cluster_names": [
+        "The Company City",
+        "The Simulation Argument",
+        "The Corporate Body"
+      ],
+      "exemplar_atoms": [
+        "The prime directive that blocks justice: a corporate directive prevents the cyborg from arresting his own creator, so law and justice diverge.",
+        "The cooperation thesis: symbiosis rather than competition may drive evolution, so the story's biology is also a moral argument.",
+        "The company inspection: auditors arrive to reclaim intellectual property, so corporate ownership intrudes on intimacy."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.19214,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.7594,
+        "cliche_distance": 0.83777
+      },
+      "z_coherence": 2.5986,
+      "z_unavailability": 1.1789,
+      "fusion": 1.8888,
+      "rank_coherence": 87,
+      "rank_unavailability": 705
+    },
+    {
+      "rank_fused": 29,
+      "cluster_ids": [
+        29,
+        54,
+        62
+      ],
+      "cluster_names": [
+        "The Company City",
+        "The Corporate Body",
+        "The Mortality Table"
+      ],
+      "exemplar_atoms": [
+        "The prime directive that blocks justice: a corporate directive prevents the cyborg from arresting his own creator, so law and justice diverge.",
+        "The company inspection: auditors arrive to reclaim intellectual property, so corporate ownership intrudes on intimacy.",
+        "The period table: one year's deaths stand in for a lifetime, so a snapshot pretends to be a biography."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.1937,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.87185
+      },
+      "z_coherence": 1.6309,
+      "z_unavailability": 2.1083,
+      "fusion": 1.8696,
+      "rank_coherence": 282,
+      "rank_unavailability": 27
+    },
+    {
+      "rank_fused": 30,
+      "cluster_ids": [
+        29,
+        30,
+        54
+      ],
+      "cluster_names": [
+        "The Company City",
+        "The Keystone",
+        "The Corporate Body"
+      ],
+      "exemplar_atoms": [
+        "The prime directive that blocks justice: a corporate directive prevents the cyborg from arresting his own creator, so law and justice diverge.",
+        "The invasive top predator: a new species takes the apex role and reroutes the entire web, so the ecosystem has no immunity to a strong outsider.",
+        "The company inspection: auditors arrive to reclaim intellectual property, so corporate ownership intrudes on intimacy."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.16432,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.66356,
+        "cliche_distance": 0.87472
+      },
+      "z_coherence": 2.6986,
+      "z_unavailability": 1.0205,
+      "fusion": 1.8595,
+      "rank_coherence": 78,
+      "rank_unavailability": 945
+    },
+    {
+      "rank_fused": 31,
+      "cluster_ids": [
+        34,
+        52,
+        69
+      ],
+      "cluster_names": [
+        "The Care Machine",
+        "The Nonhuman Narrator",
+        "The Comforting Lie"
+      ],
+      "exemplar_atoms": [
+        "The inflatable healthcare robot: a soft, non-combat machine is repurposed as a hero, so care becomes the basis of courage.",
+        "The narrator who cannot see what they describe: the story is told by a mind reporting actions it cannot explain, so the reader shares the patient's blindness.",
+        "The ethics of a comforting lie: the hologram's embellishments help the patient, so truth is subordinated to care."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.19293,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.31004,
+        "cliche_distance": 0.8171
+      },
+      "z_coherence": 3.6442,
+      "z_unavailability": 0.0548,
+      "fusion": 1.8495,
+      "rank_coherence": 25,
+      "rank_unavailability": 2709
+    },
+    {
+      "rank_fused": 32,
+      "cluster_ids": [
+        29,
+        54,
+        59
+      ],
+      "cluster_names": [
+        "The Company City",
+        "The Corporate Body",
+        "The Hollow Double"
+      ],
+      "exemplar_atoms": [
+        "The prime directive that blocks justice: a corporate directive prevents the cyborg from arresting his own creator, so law and justice diverge.",
+        "The company inspection: auditors arrive to reclaim intellectual property, so corporate ownership intrudes on intimacy.",
+        "The coffee that tastes like nothing: a subtle difference in experience separates two physically identical people, so the smallest sensory detail becomes proof of a soul."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.17523,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.53265,
+        "cliche_distance": 0.82931
+      },
+      "z_coherence": 3.0591,
+      "z_unavailability": 0.6156,
+      "fusion": 1.8373,
+      "rank_coherence": 49,
+      "rank_unavailability": 1599
+    },
+    {
+      "rank_fused": 33,
+      "cluster_ids": [
+        32,
+        56,
+        81
+      ],
+      "cluster_names": [
+        "The Attachment Pattern",
+        "The Dream as Evidence",
+        "The Child and the Weapon"
+      ],
+      "exemplar_atoms": [
+        "The child who cannot be soothed: no intervention works, so the caregiver's competence is undermined by a mismatch no one can name.",
+        "The poker-playing robots: the drones are taught a game, so play becomes evidence of personhood and a small utopia.",
+        "The boy who befriends the weapon: a child teaches a war machine to choose heroes over guns, so moral education is depicted as the only real disarmament."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.17127,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.66356,
+        "cliche_distance": 0.72643
+      },
+      "z_coherence": 2.9281,
+      "z_unavailability": 0.7287,
+      "fusion": 1.8284,
+      "rank_coherence": 55,
+      "rank_unavailability": 1432
+    },
+    {
+      "rank_fused": 34,
+      "cluster_ids": [
+        29,
+        54,
+        58
+      ],
+      "cluster_names": [
+        "The Company City",
+        "The Corporate Body",
+        "The False Prophet"
+      ],
+      "exemplar_atoms": [
+        "The prime directive that blocks justice: a corporate directive prevents the cyborg from arresting his own creator, so law and justice diverge.",
+        "The company inspection: auditors arrive to reclaim intellectual property, so corporate ownership intrudes on intimacy.",
+        "The flood: the fake prophet incites destruction that nearly drowns the workers' children, so false hope produces real catastrophe."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.17378,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.89031,
+        "cliche_distance": 0.83876
+      },
+      "z_coherence": 1.9918,
+      "z_unavailability": 1.4964,
+      "fusion": 1.7441,
+      "rank_coherence": 183,
+      "rank_unavailability": 333
+    },
+    {
+      "rank_fused": 35,
+      "cluster_ids": [
+        44,
+        51,
+        86
+      ],
+      "cluster_names": [
+        "The Actuarial Gaze",
+        "The Reversible Life",
+        "The Outsider's Gaze"
+      ],
+      "exemplar_atoms": [
+        "The birthday as risk: each year increases the probability in the next column, so celebration and danger coincide.",
+        "The immortal jellyfish: under stress, an adult reverts to its juvenile polyp stage, so aging can run backward.",
+        "The anthropologist's gaze: outsiders study and misinterpret the ceremony, so the story can stage the theft of meaning."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.17239,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.89031,
+        "cliche_distance": 0.85285
+      },
+      "z_coherence": 1.9457,
+      "z_unavailability": 1.5242,
+      "fusion": 1.7349,
+      "rank_coherence": 192,
+      "rank_unavailability": 305
+    },
+    {
+      "rank_fused": 36,
+      "cluster_ids": [
+        29,
+        51,
+        54
+      ],
+      "cluster_names": [
+        "The Company City",
+        "The Reversible Life",
+        "The Corporate Body"
+      ],
+      "exemplar_atoms": [
+        "The prime directive that blocks justice: a corporate directive prevents the cyborg from arresting his own creator, so law and justice diverge.",
+        "The immortal jellyfish: under stress, an adult reverts to its juvenile polyp stage, so aging can run backward.",
+        "The company inspection: auditors arrive to reclaim intellectual property, so corporate ownership intrudes on intimacy."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.17226,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.89031,
+        "cliche_distance": 0.84889
+      },
+      "z_coherence": 1.9416,
+      "z_unavailability": 1.5164,
+      "fusion": 1.729,
+      "rank_coherence": 194,
+      "rank_unavailability": 313
+    },
+    {
+      "rank_fused": 37,
+      "cluster_ids": [
+        10,
+        34,
+        69
+      ],
+      "cluster_names": [
+        "Intimacy by Proxy",
+        "The Care Machine",
+        "The Comforting Lie"
+      ],
+      "exemplar_atoms": [
+        "The memory-cloning service: strangers can copy and share memories, so intimacy becomes a file format.",
+        "The inflatable healthcare robot: a soft, non-combat machine is repurposed as a hero, so care becomes the basis of courage.",
+        "The ethics of a comforting lie: the hologram's embellishments help the patient, so truth is subordinated to care."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.17794,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.44095,
+        "cliche_distance": 0.77476
+      },
+      "z_coherence": 3.1488,
+      "z_unavailability": 0.2871,
+      "fusion": 1.718,
+      "rank_coherence": 44,
+      "rank_unavailability": 2223
+    },
+    {
+      "rank_fused": 38,
+      "cluster_ids": [
+        34,
+        35,
+        69
+      ],
+      "cluster_names": [
+        "The Care Machine",
+        "The Controlled Environment",
+        "The Comforting Lie"
+      ],
+      "exemplar_atoms": [
+        "The inflatable healthcare robot: a soft, non-combat machine is repurposed as a hero, so care becomes the basis of courage.",
+        "The black-and-white room: a person is confined to a controlled environment that supplies data but not sensation, so the laboratory is also a deprivation chamber.",
+        "The ethics of a comforting lie: the hologram's embellishments help the patient, so truth is subordinated to care."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.18886,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.6677,
+        "cliche_distance": 0.81256
+      },
+      "z_coherence": 2.4904,
+      "z_unavailability": 0.9082,
+      "fusion": 1.6993,
+      "rank_coherence": 97,
+      "rank_unavailability": 1089
+    },
+    {
+      "rank_fused": 39,
+      "cluster_ids": [
+        29,
+        54,
+        74
+      ],
+      "cluster_names": [
+        "The Company City",
+        "The Corporate Body",
+        "The Machine That Replaces"
+      ],
+      "exemplar_atoms": [
+        "The prime directive that blocks justice: a corporate directive prevents the cyborg from arresting his own creator, so law and justice diverge.",
+        "The company inspection: auditors arrive to reclaim intellectual property, so corporate ownership intrudes on intimacy.",
+        "The assembly line that consumes the worker: repetitive labor causes a breakdown, so the machine sets the human tempo and the human breaks."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.16996,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.53265,
+        "cliche_distance": 0.77509
+      },
+      "z_coherence": 2.8848,
+      "z_unavailability": 0.5089,
+      "fusion": 1.6968,
+      "rank_coherence": 59,
+      "rank_unavailability": 1872
+    },
+    {
+      "rank_fused": 40,
+      "cluster_ids": [
+        18,
+        56,
+        68
+      ],
+      "cluster_names": [
+        "The Weapon That Cares",
+        "The Dream as Evidence",
+        "The Fixer"
+      ],
+      "exemplar_atoms": [
+        "The nuclear missile climax: the robot flies into a warhead to save the town, so the ultimate weapon becomes the ultimate protector.",
+        "The poker-playing robots: the drones are taught a game, so play becomes evidence of personhood and a small utopia.",
+        "The burned-out operative: a former assassin is recruited to protect strangers, so violence is redeemed through a bureaucratic caseload."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.17643,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.40174,
+        "cliche_distance": 0.80995
+      },
+      "z_coherence": 3.0988,
+      "z_unavailability": 0.2618,
+      "fusion": 1.6803,
+      "rank_coherence": 46,
+      "rank_unavailability": 2294
+    },
+    {
+      "rank_fused": 41,
+      "cluster_ids": [
+        51,
+        52,
+        86
+      ],
+      "cluster_names": [
+        "The Reversible Life",
+        "The Nonhuman Narrator",
+        "The Outsider's Gaze"
+      ],
+      "exemplar_atoms": [
+        "The immortal jellyfish: under stress, an adult reverts to its juvenile polyp stage, so aging can run backward.",
+        "The narrator who cannot see what they describe: the story is told by a mind reporting actions it cannot explain, so the reader shares the patient's blindness.",
+        "The anthropologist's gaze: outsiders study and misinterpret the ceremony, so the story can stage the theft of meaning."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.18856,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.6677,
+        "cliche_distance": 0.78859
+      },
+      "z_coherence": 2.4803,
+      "z_unavailability": 0.861,
+      "fusion": 1.6706,
+      "rank_coherence": 98,
+      "rank_unavailability": 1192
+    },
+    {
+      "rank_fused": 42,
+      "cluster_ids": [
+        43,
+        68,
+        85
+      ],
+      "cluster_names": [
+        "The Open Horizon",
+        "The Fixer",
+        "The Fanatic"
+      ],
+      "exemplar_atoms": [
+        "The final road: the couple walks toward the horizon, so the ending is hope without resolution.",
+        "The burned-out operative: a former assassin is recruited to protect strangers, so violence is redeemed through a bureaucratic caseload.",
+        "The fanatic who is refuted: absolutism leads to violence, so the story ties certainty to cruelty."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.21546,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.98615,
+        "cliche_distance": 0.45995
+      },
+      "z_coherence": 2.3502,
+      "z_unavailability": 0.9822,
+      "fusion": 1.6662,
+      "rank_coherence": 120,
+      "rank_unavailability": 987
+    },
+    {
+      "rank_fused": 43,
+      "cluster_ids": [
+        18,
+        27,
+        81
+      ],
+      "cluster_names": [
+        "The Weapon That Cares",
+        "The Mind Without Limit",
+        "The Child and the Weapon"
+      ],
+      "exemplar_atoms": [
+        "The nuclear missile climax: the robot flies into a warhead to save the town, so the ultimate weapon becomes the ultimate protector.",
+        "The nanoparticle network: the uploaded mind can heal bodies and connect minds, so utopia and mind control are the same technology.",
+        "The boy who befriends the weapon: a child teaches a war machine to choose heroes over guns, so moral education is depicted as the only real disarmament."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.17831,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.89031,
+        "cliche_distance": 0.67966
+      },
+      "z_coherence": 2.1415,
+      "z_unavailability": 1.1834,
+      "fusion": 1.6624,
+      "rank_coherence": 151,
+      "rank_unavailability": 702
+    },
+    {
+      "rank_fused": 44,
+      "cluster_ids": [
+        18,
+        74,
+        81
+      ],
+      "cluster_names": [
+        "The Weapon That Cares",
+        "The Machine That Replaces",
+        "The Child and the Weapon"
+      ],
+      "exemplar_atoms": [
+        "The nuclear missile climax: the robot flies into a warhead to save the town, so the ultimate weapon becomes the ultimate protector.",
+        "The assembly line that consumes the worker: repetitive labor causes a breakdown, so the machine sets the human tempo and the human breaks.",
+        "The boy who befriends the weapon: a child teaches a war machine to choose heroes over guns, so moral education is depicted as the only real disarmament."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.19019,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.70291
+      },
+      "z_coherence": 1.515,
+      "z_unavailability": 1.7758,
+      "fusion": 1.6454,
+      "rank_coherence": 321,
+      "rank_unavailability": 185
+    },
+    {
+      "rank_fused": 45,
+      "cluster_ids": [
+        51,
+        79,
+        86
+      ],
+      "cluster_names": [
+        "The Reversible Life",
+        "The Clone Colony",
+        "The Outsider's Gaze"
+      ],
+      "exemplar_atoms": [
+        "The immortal jellyfish: under stress, an adult reverts to its juvenile polyp stage, so aging can run backward.",
+        "The clone colony: asexual fission produces genetically identical worms, so individuality must be learned rather than given.",
+        "The anthropologist's gaze: outsiders study and misinterpret the ceremony, so the story can stage the theft of meaning."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.17107,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.40174,
+        "cliche_distance": 0.86153
+      },
+      "z_coherence": 2.9217,
+      "z_unavailability": 0.3633,
+      "fusion": 1.6425,
+      "rank_coherence": 56,
+      "rank_unavailability": 2099
+    },
+    {
+      "rank_fused": 46,
+      "cluster_ids": [
+        23,
+        32,
+        81
+      ],
+      "cluster_names": [
+        "The Shared Record",
+        "The Attachment Pattern",
+        "The Child and the Weapon"
+      ],
+      "exemplar_atoms": [
+        "The shared memory: a group relies on a common external record, so forgetting becomes a collective failure rather than a private one.",
+        "The child who cannot be soothed: no intervention works, so the caregiver's competence is undermined by a mismatch no one can name.",
+        "The boy who befriends the weapon: a child teaches a war machine to choose heroes over guns, so moral education is depicted as the only real disarmament."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.18594,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.31004,
+        "cliche_distance": 0.72279
+      },
+      "z_coherence": 3.4131,
+      "z_unavailability": -0.1308,
+      "fusion": 1.6412,
+      "rank_coherence": 33,
+      "rank_unavailability": 3168
+    },
+    {
+      "rank_fused": 47,
+      "cluster_ids": [
+        16,
+        71,
+        84
+      ],
+      "cluster_names": [
+        "The Hunter's Mirror",
+        "The Pain That Counts",
+        "The Hunter Who Feels"
+      ],
+      "exemplar_atoms": [
+        "The replicant blade runner: a being who hunts his own kind polices the boundary of his own personhood, so every kill is a self-interrogation.",
+        "The pain that does not count: operators insist machines cannot suffer, so the ethical question is displaced onto a definition rather than an experience.",
+        "The bounty hunter who empathizes: the protagonist feels for the machines he kills, so the job requires him to violate his own test result."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.17511,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.89031,
+        "cliche_distance": 0.71037
+      },
+      "z_coherence": 2.0358,
+      "z_unavailability": 1.2438,
+      "fusion": 1.6398,
+      "rank_coherence": 170,
+      "rank_unavailability": 644
+    },
+    {
+      "rank_fused": 48,
+      "cluster_ids": [
+        34,
+        38,
+        69
+      ],
+      "cluster_names": [
+        "The Care Machine",
+        "The Simulation Argument",
+        "The Comforting Lie"
+      ],
+      "exemplar_atoms": [
+        "The inflatable healthcare robot: a soft, non-combat machine is repurposed as a hero, so care becomes the basis of courage.",
+        "The cooperation thesis: symbiosis rather than competition may drive evolution, so the story's biology is also a moral argument.",
+        "The ethics of a comforting lie: the hologram's embellishments help the patient, so truth is subordinated to care."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.17891,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.31004,
+        "cliche_distance": 0.80181
+      },
+      "z_coherence": 3.1807,
+      "z_unavailability": 0.0247,
+      "fusion": 1.6027,
+      "rank_coherence": 42,
+      "rank_unavailability": 2808
+    },
+    {
+      "rank_fused": 49,
+      "cluster_ids": [
+        29,
+        54,
+        78
+      ],
+      "cluster_names": [
+        "The Company City",
+        "The Corporate Body",
+        "The Console Cowboy"
+      ],
+      "exemplar_atoms": [
+        "The prime directive that blocks justice: a corporate directive prevents the cyborg from arresting his own creator, so law and justice diverge.",
+        "The company inspection: auditors arrive to reclaim intellectual property, so corporate ownership intrudes on intimacy.",
+        "The hacker who enters minds: a scanner dives into enemy code and experiences their memories, so combat becomes a violation of interiority."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.17079,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.40174,
+        "cliche_distance": 0.8162
+      },
+      "z_coherence": 2.9122,
+      "z_unavailability": 0.2741,
+      "fusion": 1.5932,
+      "rank_coherence": 58,
+      "rank_unavailability": 2259
+    },
+    {
+      "rank_fused": 50,
+      "cluster_ids": [
+        26,
+        32,
+        53
+      ],
+      "cluster_names": [
+        "The Child Who Knows",
+        "The Attachment Pattern",
+        "The Story That Teaches"
+      ],
+      "exemplar_atoms": [
+        "The little girl and the machine: a child treats the robot as a person before the adults do, so moral perception is located in the young.",
+        "The child who cannot be soothed: no intervention works, so the caregiver's competence is undermined by a mismatch no one can name.",
+        "The scandal: abuses lead to investigation and restriction, so a financial instrument becomes a moral panic."
+      ],
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.21959,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.01719,
+        "cliche_distance": 0.4607
+      },
+      "z_coherence": 4.5254,
+      "z_unavailability": -1.3525,
+      "fusion": 1.5864,
+      "rank_coherence": 9,
+      "rank_unavailability": 5060
+    }
+  ]
+}

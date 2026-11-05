@@ -1,0 +1,57 @@
+{
+  "source": "sam-altman",
+  "title": "Sam Altman",
+  "diet": "A",
+  "atoms": [
+    {
+      "text": "Dropping out of Stanford University to co-found Loopt, a location-based social networking mobile application.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "Loopt acquiring geolocation data from cellular providers and attempting to create an early social network for users to see where their friends were in real time.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "Loopt's board of directors attempting twice to remove Altman from his role as CEO.",
+      "kind": "plot_device",
+      "quality": "medium"
+    },
+    {
+      "text": "Altman becoming the president of Y Combinator and later expanding YC's scope, aiming to fund 1,000 new companies per year.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "Altman's investments in multiple startups, such as Stripe, Inc.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "Hydrazine Capital's initial $21 million fund including a large part from Peter Thiel, his mentor and main backer in Silicon Valley.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "Hydrazine launching its fourth fund with the University of Michigan endowment as the only outside investor.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "Hydrazine's investments in biotech companies, including Humane, Retro Biosciences, Boom Technology, Cruise, and Helion Energy.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "Altman providing capital to multiple startups during the depositor run on Silicon Valley Bank in mid-March 2023.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "Altman's investments in nuclear energy companies, such as Minicircle, Charter City projects Próspera and Praxis, and Airbnb, Stripe, and Retro Biosciences.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "source": "ship-of-theseus",
+  "diet": "B",
+  "atoms": [
+    {"id": "ship-of-theseus-01", "text": "The replaced plank: an object's parts are swapped one by one until none of the originals remain, so continuity is asserted without a physical basis.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "ship-of-theseus-02", "text": "The preserved relic: a community maintains a sacred object through constant repair, so tradition is a maintenance schedule.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "ship-of-theseus-03", "text": "The rival reconstruction: someone collects the discarded parts and rebuilds a second version, so two claimants exist for one identity.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "ship-of-theseus-04", "text": "The ship as legal person: a vessel has rights and a name that persist through total replacement, so identity is granted by paperwork.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "ship-of-theseus-05", "text": "The crew that replaces itself: sailors retire and are replaced one at a time, so the group's identity outlives every member.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "ship-of-theseus-06", "text": "The museum's dilemma: curators must decide which of two ships is the authentic exhibit, so scholarship becomes a custody battle.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "ship-of-theseus-07", "text": "The gradual upload: a mind is transferred piece by piece into a new substrate, so the subject can never point to the moment they stopped being themselves.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "ship-of-theseus-08", "text": "The ritual of replacement: each new part is installed with ceremony, so change is made visible and deniable at once.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "ship-of-theseus-09", "text": "The original part: one component is secretly never replaced, so the whole claim of continuity rests on a hidden exception.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "ship-of-theseus-10", "text": "The child who asks: a young character points out that the ship is not the same, so an obvious observation undoes adult consensus.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "ship-of-theseus-11", "text": "The body that replaces itself: a person's cells turn over completely over years, so the paradox applies to the reader's own flesh.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "ship-of-theseus-12", "text": "The two ships in the harbor: both vessels are displayed as the original, so the public must choose which history to believe.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "ship-of-theseus-13", "text": "The identity that survives use: a tool is valued for what it has done rather than what it is made of, so function grounds continuity.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "ship-of-theseus-14", "text": "The replacement that changes behavior: each new part subtly alters how the object works, so preservation gradually becomes transformation.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "ship-of-theseus-15", "text": "The heir who refuses the relic: a descendant rejects the maintained object as a fake, so inheritance is refused on metaphysical grounds.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "ship-of-theseus-16", "text": "The paradox as a contract: two parties agree to treat the repaired object as original for practical purposes, so identity is a useful fiction.", "kind": "structure_trick", "quality": "strong", "original": null}
+  ]
+}

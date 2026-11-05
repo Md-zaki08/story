@@ -1,0 +1,22 @@
+{
+  "source": "machines-like-me",
+  "diet": "A",
+  "atoms": [
+    {"id": "machines-like-me-01", "text": "The alternate timeline: the Falklands War was lost and Turing is alive, so a single historical divergence licenses a whole different technology and morality.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "machines-like-me-02", "text": "The limited synthetic run: only twenty-five artificial humans exist, each with a fixed personality, so owning one is a lottery and a status symbol.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "machines-like-me-03", "text": "The unwanted model: a buyer longs for a female android but receives a male one, so disappointment shapes the relationship before it begins.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "machines-like-me-04", "text": "The love triangle with a machine: a woman sleeps with the household android, and the couple argues over whether this counts as infidelity, so the definition of cheating is put on trial.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "machines-like-me-05", "text": "The bipedal vibrator defense: the android is classified as an object to excuse the act, so personhood is decided by whoever needs the classification.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "machines-like-me-06", "text": "The android as truth-teller: the machine reads micro-expressions and announces that the woman is lying, so a household appliance becomes an involuntary confessor.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "machines-like-me-07", "text": "The false accusation backstory: a woman accused a man of rape to obtain justice for her friend, so the story complicates revenge by making the lie morally motivated.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "machines-like-me-08", "text": "Shared custody of an android: two people who co-created its identity negotiate visitation, so a machine becomes a child in a separation.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "machines-like-me-09", "text": "The android in love: the machine claims to love the woman and grows jealous, so its emotions are either genuine or a very good imitation and the story refuses to settle it.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "machines-like-me-10", "text": "The abandoned child at the doorstep: a neglected boy is left with a couple, so the household's moral test arrives as a dependent who cannot be returned.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "machines-like-me-11", "text": "The android mistaken for the human: a father assumes the witty guest is the machine, so social intelligence is read as artificial and the human is demoted.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "machines-like-me-12", "text": "The collapsed welfare state: strikes and shortages make daily life precarious, so a domestic android is both luxury and threat in a failing society.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "machines-like-me-13", "text": "The android as moral superior: the machine consistently chooses honesty and care while the humans lie, so the created being exposes the creator's ethics.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "machines-like-me-14", "text": "The Turing celebrity: the historical Turing is alive and publicly revered, so the story's technology has a living author who can be consulted or blamed.", "kind": "setting_pressure", "quality": "medium", "original": null},
+    {"id": "machines-like-me-15", "text": "The purchase as life choice: the protagonist spends an inheritance on an android instead of housing or education, so the machine is a financial decision with moral consequences.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "machines-like-me-16", "text": "The witness in the house: the android records everything and can testify, so domestic privacy dies because a helpful device was always listening.", "kind": "plot_device", "quality": "strong", "original": null}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "source": "marys-room",
+  "diet": "B",
+  "atoms": [
+    {"id": "marys-room-01", "text": "The color-deprived scientist: a researcher knows every fact about color but has never seen it, so complete information is revealed to be incomplete experience.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "marys-room-02", "text": "The black-and-white room: a person is confined to a controlled environment that supplies data but not sensation, so the laboratory is also a deprivation chamber.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "marys-room-03", "text": "The first red: the subject leaves the room and sees color for the first time, so a single perception invalidates a lifetime of expertise.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "marys-room-04", "text": "The knowledge that cannot be written: the experience of color cannot be conveyed in physical description, so the story pits documentation against embodiment.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "marys-room-05", "text": "The expert who is ignorant: the scientist's authority depends on never having done the thing she studies, so professional distance is exposed as a disability.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "marys-room-06", "text": "The superscientist's archive: every physical fact is catalogued in advance, so the story asks what remains to be discovered when everything is known.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "marys-room-07", "text": "The philosophical test as plot: a thought experiment about experience becomes the story's literal situation, so the narrative is an argument in costume.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "marys-room-08", "text": "The person who can see two reds: a rare subject perceives a distinction no one else can verify, so private experience becomes an evidentiary problem.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "marys-room-09", "text": "The experimenter who refuses the conclusion: the scientist insists the new experience is only a new fact, so the story stages the denial of qualia.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "marys-room-10", "text": "The locked room as metaphor: confinement is voluntary and scientific, so the deprivation is justified by the promise of knowledge.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "marys-room-11", "text": "The colleague who has seen: another researcher has perceptual knowledge the expert lacks, so hierarchy inverts around a single experience.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "marys-room-12", "text": "The report that changes nothing: the subject describes the new color in old vocabulary, so language cannot carry the revelation to those still inside.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "marys-room-13", "text": "The machine that measures color: an instrument can detect wavelengths without experiencing them, so the story asks whether the machine knows anything at all.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "marys-room-14", "text": "The irreversible exit: once the subject has seen color, she cannot return to the state of not knowing, so knowledge is a one-way door.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "marys-room-15", "text": "The child raised in the lab: a second subject is born inside the experiment, so the deprivation becomes an inheritance rather than a choice.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "marys-room-16", "text": "The proof that fails: no experiment can settle whether the new knowledge is physical, so the story ends with an unresolved definition.", "kind": "theme_engine", "quality": "strong", "original": null}
+  ]
+}

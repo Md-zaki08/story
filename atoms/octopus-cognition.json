@@ -1,0 +1,22 @@
+{
+  "source": "octopus-cognition",
+  "diet": "B",
+  "atoms": [
+    {"id": "octopus-cognition-01", "text": "The distributed brain: two-thirds of an octopus's neurons live in its arms, so each limb can act without the central mind.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "octopus-cognition-02", "text": "The arm that acts alone: a severed or autonomous limb solves problems the animal did not consciously direct, so agency is plural.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "octopus-cognition-03", "text": "The alien intelligence: a mind evolved on a completely different branch of life understands the world in an unrecognizable way, so communication is approximate at best.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "octopus-cognition-04", "text": "The camouflage artist: the animal changes color and texture to vanish or signal, so the body is a screen and honesty is optional.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "octopus-cognition-05", "text": "The escape artist: an octopus squeezes through any gap larger than its beak, so containment requires understanding its limits rather than walls.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "octopus-cognition-06", "text": "The predator that plays: an octopus investigates novel objects for no survival reason, so curiosity is a sign of mind.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "octopus-cognition-07", "text": "The short life: an intelligent animal dies after one or two years, so the story's tragedy is a mind with no time to accumulate culture.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "octopus-cognition-08", "text": "The maternal sacrifice: a female octopus guards her eggs and starves, so care is self-destruction timed to the next generation.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "octopus-cognition-09", "text": "The taste of the world: the animal samples chemicals through its arms, so perception is contact and knowledge is ingestion.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "octopus-cognition-10", "text": "The legal person: a cephalopod is granted sentience protections, so law must decide how to recognize a mind it cannot interrogate.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "octopus-cognition-11", "text": "The aquarium breakout: a captive octopus escapes its tank at night to hunt and returns, so the prisoner has a double life.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "octopus-cognition-12", "text": "The convergent mind: intelligence evolved twice on Earth, so the story can populate the universe with minds that share no history with ours.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "octopus-cognition-13", "text": "The body that disagrees: arms compete with each other over prey, so the self is a coalition rather than a command.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "octopus-cognition-14", "text": "The tool user: an octopus carries shells or coconuts for shelter, so technology begins without hands.", "kind": "plot_device", "quality": "medium", "original": null},
+    {"id": "octopus-cognition-15", "text": "The observer who is studied: researchers infer intelligence from behavior, so the animal's mind is a hypothesis rather than a fact.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "octopus-cognition-16", "text": "The ink cloud: a decoy is released to confuse a predator, so deception is a bodily secretion.", "kind": "world_rule", "quality": "medium", "original": null}
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "config": {
+    "run_id": "v2-smoke-sample",
+    "k": 3,
+    "beta": 0.7,
+    "top_k": 8,
+    "n_pool": 4054,
+    "seed": 42,
+    "formula": "(1-beta)*z(coherence) + beta*z(unavailability)",
+    "coherence_def": "0.5*z(mean_pairwise_cosine) + 0.5*z(cooccurrence_bridging)",
+    "unavailability_def": "0.65*z(pair_rarity) + 0.35*z(cliche_distance)"
+  },
+  "candidates": [
+    {
+      "rank_fused": 1,
+      "cluster_ids": [
+        74,
+        90,
+        100
+      ],
+      "cluster_names": [
+        "Becomes Identity People",
+        "Identical Individuality Mass-Produced",
+        "The Clone Colony"
+      ],
+      "exemplar_atoms": [
+        "The two parents who disagree: co-creators split over whether to sell the beings or protect them, so a custody dispute becomes a policy debate.",
+        "The mass-produced object: identical factory items awaken with different personalities, so individuality emerges from use rather than manufacture.",
+        "The clone colony: all polyps from one larva are genetically identical, so immortality belongs to the lineage rather than the individual."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.47182,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.34381,
+        "cliche_distance": 0.404
+      },
+      "z_coherence": -0.2532,
+      "z_unavailability": 2.1402,
+      "fusion": 1.4222,
+      "rank_coherence": 3476,
+      "rank_unavailability": 21
+    },
+    {
+      "rank_fused": 2,
+      "cluster_ids": [
+        35,
+        86,
+        98
+      ],
+      "cluster_names": [
+        "Becomes Owner Object",
+        "Copy Memories Intimacy",
+        "The Borrowed Childhood"
+      ],
+      "exemplar_atoms": [
+        "The collector's guilt: a person hoards old objects and discovers they have been keeping company, so ownership becomes a relationship with dependents.",
+        "Memories as leased property: the clones' families are real memories belonging to another man, so love is genuine in the copy and stolen from the original.",
+        "The memory that predates the body: implanted memories give the synthetic person a past she never lived, so nostalgia is a manufactured resource."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.47617,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.42139
+      },
+      "z_coherence": 0.5394,
+      "z_unavailability": 1.6509,
+      "fusion": 1.3174,
+      "rank_coherence": 1820,
+      "rank_unavailability": 153
+    },
+    {
+      "rank_fused": 3,
+      "cluster_ids": [
+        43,
+        46,
+        99
+      ],
+      "cluster_names": [
+        "Subject Becomes Impulse",
+        "The Last of It",
+        "Ending Closure Without"
+      ],
+      "exemplar_atoms": [
+        "The volunteer who cannot stop watching: a subject becomes obsessed with the gap between impulse and awareness, so the experiment colonizes daily life.",
+        "The last survivor: the final member inherits the remaining fund, so the story's ending is a waiting game with a single winner.",
+        "The ending that refuses reunion: the protagonist is paid, repaired, and left alone, so the heist resolves but intimacy does not."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.49589,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.40712
+      },
+      "z_coherence": 0.7132,
+      "z_unavailability": 1.5617,
+      "fusion": 1.3072,
+      "rank_coherence": 1509,
+      "rank_unavailability": 207
+    },
+    {
+      "rank_fused": 4,
+      "cluster_ids": [
+        21,
+        97,
+        111
+      ],
+      "cluster_names": [
+        "Speaks Voice Audience",
+        "Behavior Mind Rather",
+        "Accused Person Robot"
+      ],
+      "exemplar_atoms": [
+        "Voice-over interiority: the protagonist's spoken letters let the audience hear him composing himself, so the narration is itself the act of learning to feel.",
+        "The observer who is studied: researchers infer intelligence from behavior, so the animal's mind is a hypothesis rather than a fact.",
+        "The false accusation backstory: a woman accused a man of rape to obtain justice for her friend, so the story complicates revenge by making the lie morally motivated."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.45117,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.34381,
+        "cliche_distance": 0.36321
+      },
+      "z_coherence": -0.4352,
+      "z_unavailability": 1.8853,
+      "fusion": 1.1891,
+      "rank_coherence": 3923,
+      "rank_unavailability": 56
+    },
+    {
+      "rank_fused": 5,
+      "cluster_ids": [
+        55,
+        58,
+        107
+      ],
+      "cluster_names": [
+        "Intimacy Becomes Outsourced",
+        "Love Whether Real",
+        "Test Compatibility Simulated"
+      ],
+      "exemplar_atoms": [
+        "The babysitter as witness: an outsider is asked to judge the couple's memories, so intimacy is outsourced to a stranger.",
+        "Love as programming versus love as choice: the story never resolves whether the android's devotion is real or installed, so the audience must decide what counts.",
+        "The compatibility test: a scientist develops a test that predicts whether a relationship will last, so intimacy is converted into a score."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.49803,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.37834
+      },
+      "z_coherence": 0.732,
+      "z_unavailability": 1.3819,
+      "fusion": 1.1869,
+      "rank_coherence": 1471,
+      "rank_unavailability": 360
+    },
+    {
+      "rank_fused": 6,
+      "cluster_ids": [
+        55,
+        67,
+        97
+      ],
+      "cluster_names": [
+        "Intimacy Becomes Outsourced",
+        "First Experience Expertise",
+        "Behavior Mind Rather"
+      ],
+      "exemplar_atoms": [
+        "The babysitter as witness: an outsider is asked to judge the couple's memories, so intimacy is outsourced to a stranger.",
+        "The person who can see two reds: a rare subject perceives a distinction no one else can verify, so private experience becomes an evidentiary problem.",
+        "The observer who is studied: researchers infer intelligence from behavior, so the animal's mind is a hypothesis rather than a fact."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.46421,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.39506
+      },
+      "z_coherence": 0.434,
+      "z_unavailability": 1.4863,
+      "fusion": 1.1706,
+      "rank_coherence": 2020,
+      "rank_unavailability": 266
+    },
+    {
+      "rank_fused": 7,
+      "cluster_ids": [
+        11,
+        71,
+        110
+      ],
+      "cluster_names": [
+        "Grief Dead Family",
+        "Love Android Loves",
+        "Dying Upload Wants"
+      ],
+      "exemplar_atoms": [
+        "The ongoing relationship with the dead: a mourner keeps talking to the deceased, so grief is maintenance rather than closure.",
+        "The android in love: the machine claims to love the woman and grows jealous, so its emotions are either genuine or a very good imitation and the story refuses to settle it.",
+        "The wife who chooses the copy: a spouse uploads her dying husband against his friend's warning, so love is tested as willingness to accept a substitute."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.52451,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.89031,
+        "cliche_distance": 0.40055
+      },
+      "z_coherence": 1.7197,
+      "z_unavailability": 0.9227,
+      "fusion": 1.1618,
+      "rank_coherence": 278,
+      "rank_unavailability": 1124
+    },
+    {
+      "rank_fused": 8,
+      "cluster_ids": [
+        35,
+        42,
+        105
+      ],
+      "cluster_names": [
+        "Becomes Owner Object",
+        "Android Dead Family",
+        "Dying Death Sibling"
+      ],
+      "exemplar_atoms": [
+        "The collector's guilt: a person hoards old objects and discovers they have been keeping company, so ownership becomes a relationship with dependents.",
+        "The other woman who loved the android: a stranger copied his memories into her home, so two mourners share a dead person's archive.",
+        "The brother's death: a sibling dies saving a mentor, so the inciting wound is an act of goodness."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.42278,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.41717
+      },
+      "z_coherence": 0.0687,
+      "z_unavailability": 1.6245,
+      "fusion": 1.1578,
+      "rank_coherence": 2779,
+      "rank_unavailability": 167
+    }
+  ]
+}

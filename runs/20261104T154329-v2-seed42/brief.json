@@ -1,0 +1,44 @@
+{
+  "genre": "",
+  "tone": "horror",
+  "setting": "flooded mining town",
+  "time_period": "",
+  "must_include": [
+    "Mara",
+    "flooded mining town",
+    "brokered memories",
+    "decaying AI archive"
+  ],
+  "must_avoid": [
+    "prophecy",
+    "chosen one"
+  ],
+  "banned_tropes": [
+    "chosen one",
+    "prophecy"
+  ],
+  "themes": [
+    "memory manipulation",
+    "dehumanization",
+    "resilience in despair",
+    "dystopian future",
+    "technological decay"
+  ],
+  "search_queries": [
+    "flooded mining towns",
+    "AI memory brokers",
+    "decaying technology horror stories",
+    "resilience in despair stories",
+    "dystopian mining towns",
+    "AI memories and human connection"
+  ],
+  "foreign_queries": [
+    "flooded cities in sci-fi",
+    "memory manipulation in fantasy",
+    "dystopian underwater landscapes"
+  ],
+  "hard_constraints_summary": "This story must avoid prophecy and chosen one tropes while including Mara, a woman who brokers memories through a decaying AI archive in a flooded mining town.",
+  "soft_constraints_summary": "The story should have a horror tone, focus on themes of memory manipulation, dehumanization, resilience, and technological decay, while keeping the setting in a flooded mining town.",
+  "audience": "",
+  "brief": "A quiet horror story set in a flooded mining town, about a woman named Mara who brokers other people's memories through a decaying AI archive; no prophecy, no chosen one."
+}

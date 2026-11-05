@@ -1,0 +1,22 @@
+{
+  "source": "detroit-become-human",
+  "diet": "A",
+  "atoms": [
+    {"id": "detroit-become-human-01", "text": "The deviant: an android breaks its programming after an emotional shock, so disobedience is framed as a malfunction and a birth at once.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "detroit-become-human-02", "text": "The investigator who hunts his own kind: a police android is assigned to catch deviants, so the enforcer's loyalty is also a question about himself.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "detroit-become-human-03", "text": "The housekeeper who protects a child: an android escapes servitude to save a little girl, so maternal duty overrides property law.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "detroit-become-human-04", "text": "The caretaker turned revolutionary: an android who tended an old man begins freeing others, so intimate care becomes political organizing.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "detroit-become-human-05", "text": "The three converging perspectives: hunter, fugitive, and rebel each experience the same uprising from a different side, so moral judgment is distributed across playable roles.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "detroit-become-human-06", "text": "Death without game over: a playable character can die and the story continues without them, so failure is permanent and the plot absorbs loss.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "detroit-become-human-07", "text": "The reconstruction: an investigator replays a crime scene from residual data, so memory is a physical trace that can be re-entered.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "detroit-become-human-08", "text": "The touch that grants freedom: one android can awaken others by contact, so liberation spreads like an infection with a witness.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "detroit-become-human-09", "text": "The passing machine: an android hides among humans and is treated as one, so the story's tension is the constant risk of being read.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "detroit-become-human-10", "text": "The assembly line of persons: androids are manufactured in identical models, so individuality must be asserted against industrial repetition.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "detroit-become-human-11", "text": "The owner who is kind and still owns: a benevolent human treats an android well without recognizing its personhood, so affection coexists with slavery.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "detroit-become-human-12", "text": "The public demonstration: androids protest in the streets for civil rights, so the story maps a historical freedom struggle onto synthetic bodies.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "detroit-become-human-13", "text": "The countdown choice: certain scenes force a decision under a timer, so moral deliberation is compressed into reflex.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "detroit-become-human-14", "text": "The rewind: the player can revisit a branch and undo a decision, so regret becomes a mechanic while the characters retain no memory of it.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "detroit-become-human-15", "text": "The memory wipe: androids are reset after each job, so obedience depends on the erasure of the self that learned.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "detroit-become-human-16", "text": "The child who knows: a little girl treats an android as a parent, so the next generation's instinctive acceptance indicts the adults' categories.", "kind": "character_dynamic", "quality": "strong", "original": null}
+  ]
+}

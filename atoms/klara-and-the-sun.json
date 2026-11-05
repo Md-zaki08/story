@@ -1,0 +1,22 @@
+{
+  "source": "klara-and-the-sun",
+  "diet": "A",
+  "atoms": [
+    {"id": "klara-and-the-sun-01", "text": "The solar-powered companion: an artificial friend runs on sunlight and treats the Sun as a living god, so a machine's religion is indistinguishable from its power supply.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "klara-and-the-sun-02", "text": "The store-window observer: an android for sale learns the world by watching it from a shop display, so its education is a series of strangers' silhouettes.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "klara-and-the-sun-03", "text": "The lifted child: children are genetically enhanced for academic ability, so class is written into the body and the unlifted are excluded from the future.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "klara-and-the-sun-04", "text": "The sick heiress: the child who chooses the android is gravely ill from the enhancement procedure, so the family's investment in her future is also the cause of her decline.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "klara-and-the-sun-05", "text": "The pollution machine: a street engine blocks the Sun's rays and the android treats it as a demon, so industrial modernity is cast as a theological enemy.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "klara-and-the-sun-06", "text": "The barn pilgrimage: the android walks to the horizon to beg the Sun to save the child, so a child's survival depends on a machine's private ritual.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "klara-and-the-sun-07", "text": "The portrait that is a body: the mother commissions a painting that is secretly a replacement android body, so a memorial is also a vessel.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "klara-and-the-sun-08", "text": "The imitation test: the mother asks the android to imitate her daughter perfectly, so the companion is auditioning to become the dead child.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "klara-and-the-sun-09", "text": "The continuation thesis: the mother believes an exact copy can continue her daughter rather than merely resemble her, so identity is reduced to behavioral fidelity.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "klara-and-the-sun-10", "text": "The unlifted friend: a bright boy is denied advancement because his parents refused enhancement, so love is crossed by a caste line.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "klara-and-the-sun-11", "text": "The dying sibling in the background: an older sister already died from the same procedure, so the family's grief is a preview of the present crisis.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "klara-and-the-sun-12", "text": "The machine's limited knowledge: the android is brilliant but her programming restricts what she can understand, so her narration is reliable and wrong at once.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "klara-and-the-sun-13", "text": "The sacrifice bargain: the android offers to destroy the polluting machine in exchange for the child's cure, so prayer is negotiated like a contract.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "klara-and-the-sun-14", "text": "The companion as commodity: artificial friends are bought for lonely children and discarded when no longer needed, so love is a rental.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "klara-and-the-sun-15", "text": "The remote prairie house: the family lives isolated from neighbors, so the android is the only witness to a household's slow emergency.", "kind": "setting_pressure", "quality": "medium", "original": null},
+    {"id": "klara-and-the-sun-16", "text": "The android who believes in mercy: the machine's faith in the Sun gives it a moral agency its makers never intended, so religion emerges from a battery.", "kind": "theme_engine", "quality": "strong", "original": null}
+  ]
+}

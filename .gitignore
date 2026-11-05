@@ -1,0 +1,28 @@
+# Local runtime and downloaded models
+.venv/
+.ollama/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local state
+ledger.db
+ledger.db-*
+*.log
+.env
+.env.*
+
+# Private working notes and archives
+BUILD_SPEC_ALIEN_STORIES.md
+session-*.md
+story-build.tar.gz
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp

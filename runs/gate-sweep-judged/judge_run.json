@@ -1,0 +1,48 @@
+{
+  "sample": "gate-sweep",
+  "beta": 0.7,
+  "brief": "A fresh, human-centered story in the AI era. Avoid famous works and the chosen-one, prophecy, and generic-dystopia gravity wells.",
+  "brief_doc": {
+    "genre": "",
+    "tone": "",
+    "setting": "",
+    "time_period": "",
+    "must_include": [],
+    "must_avoid": [
+      "famous works",
+      "prophecy",
+      "generic-dystopia"
+    ],
+    "banned_tropes": [
+      "chosen-one",
+      "gravity wells"
+    ],
+    "themes": [
+      "human connection in AI",
+      "innovation's moral implications",
+      "empathy in technology",
+      "reimagining human potential",
+      "collaborative future"
+    ],
+    "search_queries": [
+      "AI and human interaction stories",
+      "innovation's impact on society",
+      "empathy in AI development",
+      "collaborative AI projects",
+      "moral dilemmas in technology",
+      "human-AI symbiosis stories"
+    ],
+    "foreign_queries": [
+      "the impact of AI on rural economies",
+      "AI's role in ancient mythologies",
+      "AI's influence on medieval warfare tactics"
+    ],
+    "hard_constraints_summary": "The story must avoid tropes like 'chosen-one' and 'prophecy', and themes such as 'famous works' and 'generic-dystopia'.",
+    "soft_constraints_summary": "The story should maintain a human-centered approach in the AI era, focusing on innovation's moral implications and the human-AI collaboration.",
+    "audience": "",
+    "brief": "A fresh, human-centered story in the AI era. Avoid famous works and the chosen-one, prophecy, and generic-dystopia gravity wells."
+  },
+  "judged": 50,
+  "survivors": 50,
+  "table": "judgment.md"
+}

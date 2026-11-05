@@ -1,0 +1,22 @@
+{
+  "source": "zoe-2018",
+  "diet": "A",
+  "atoms": [
+    {"id": "zoe-2018-01", "text": "Synthetic companions as consumer products: humans can buy partners designed to be compatible, so love becomes a pre-tested product category.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "zoe-2018-02", "text": "The compatibility test: a scientist develops a test that predicts whether a relationship will last, so intimacy is converted into a score.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "zoe-2018-03", "text": "The woman who is secretly manufactured: the protagonist discovers her own synthetic origin, so her memories and desires become design decisions.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "zoe-2018-04", "text": "Programmed love versus chosen love: if a partner was designed to fit you, the feeling is real but the freedom behind it is questionable.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "zoe-2018-05", "text": "The designer and the designed: a creator falls for the synthetic partner he helped make, so authorship and desire entangle.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "zoe-2018-06", "text": "Synths with a service life: synthetic bodies degrade on a schedule, so romance is shadowed by planned obsolescence.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "zoe-2018-07", "text": "The failed test: a couple takes the compatibility test and scores badly, so a number threatens to override their felt connection.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "zoe-2018-08", "text": "The synthetic ex-partner: a machine grieves a human relationship, so heartbreak is shown to be a learned capacity.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "zoe-2018-09", "text": "The authenticity of manufactured feeling: the story asks whether an emotion is less real if it was engineered, so the audience must choose a criterion.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "zoe-2018-10", "text": "The design lab as dating market: researchers prototype companions in a corporate setting, so intimacy is industrialized.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "zoe-2018-11", "text": "The reveal of the maker: the protagonist learns who built her, so origin becomes a rival for love.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "zoe-2018-12", "text": "Two kinds of love: one partner offers safety and compatibility, the other offers uncertainty, so the story stages a choice between designed and spontaneous attachment.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "zoe-2018-13", "text": "The right to be unhappy: a perfect partner may be a prison, so the film asks whether conflict is necessary for love.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "zoe-2018-14", "text": "The memory that predates the body: implanted memories give the synthetic person a past she never lived, so nostalgia is a manufactured resource.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "zoe-2018-15", "text": "The slow reveal: the synthetic origin is disclosed late, so the audience's earlier sympathy is retroactively re-read.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "zoe-2018-16", "text": "Love as maintenance: relationships require ongoing repair, so the story treats romance as labor rather than magic.", "kind": "theme_engine", "quality": "strong", "original": null}
+  ]
+}

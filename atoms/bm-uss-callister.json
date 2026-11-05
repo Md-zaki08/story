@@ -1,0 +1,22 @@
+{
+  "source": "bm-uss-callister",
+  "diet": "A",
+  "atoms": [
+    {"id": "bm-uss-callister-01", "text": "The digital clone of a coworker: DNA is used to create sentient copies, so workplace resentment becomes virtual slavery.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "bm-uss-callister-02", "text": "The modded game build: a private server gives one user godlike control over copies, so the sandbox is a dictatorship.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "bm-uss-callister-03", "text": "The overlooked CTO: a co-founder is disrespected in real life and tyrannizes his clones, so power compensates for humiliation.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "bm-uss-callister-04", "text": "The DNA from a coffee cup: a discarded object is enough to copy a person, so consent is bypassed by biology.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "bm-uss-callister-05", "text": "The tyrant as fan: the villain models his tyranny on a beloved TV show, so fandom becomes a template for abuse.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "bm-uss-callister-06", "text": "The new hire who resists: a fresh employee organizes the clones, so solidarity forms among the oppressed.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "bm-uss-callister-07", "text": "The escape through the game's code: the clones plan to flee to an unmoderated part of the network, so freedom is a technical exploit.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "bm-uss-callister-08", "text": "The clones cannot die: they are reset or tortured but persist, so consequences are suspended for the powerful.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "bm-uss-callister-09", "text": "The workplace as a private universe: the boss's control over employees is literalized as a starship crew, so office politics becomes space opera.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "bm-uss-callister-10", "text": "The throttling of a clone: the villain punishes a copy for the original's behavior, so displaced revenge is the engine of cruelty.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "bm-uss-callister-11", "text": "The clone who knows she is a copy: the new hire accepts her artificiality and still claims rights, so personhood is asserted rather than proven.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "bm-uss-callister-12", "text": "The online game as prison: a multiplayer world is repurposed as a captivity, so escapism becomes confinement.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "bm-uss-callister-13", "text": "The pleasure of absolute power: the villain's joy in control is the story's real horror, so the audience is implicated in enjoying the fantasy.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "bm-uss-callister-14", "text": "The mutiny: the crew turns against the captain, so the genre's own hierarchy is used against its author.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "bm-uss-callister-15", "text": "The parody of a space adventure: the episode adopts the aesthetics of a classic sci-fi show, so the audience's nostalgia is weaponized.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "bm-uss-callister-16", "text": "The right to refuse: the clones' rebellion is about consent, so the story asks whether a copy can say no.", "kind": "theme_engine", "quality": "strong", "original": null}
+  ]
+}

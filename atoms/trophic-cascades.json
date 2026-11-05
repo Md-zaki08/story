@@ -1,0 +1,22 @@
+{
+  "source": "trophic-cascades",
+  "diet": "B",
+  "atoms": [
+    {"id": "trophic-cascades-01", "text": "The removed predator: killing the top consumer lets the next level explode and strip the producers, so one death reorganizes a world.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "trophic-cascades-02", "text": "The indirect effect: no one touches the plants, yet they die because a predator disappeared, so causation is distant and invisible.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "trophic-cascades-03", "text": "The behavior shift: prey change where they feed when predators are present, so fear itself sculpts the landscape.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "trophic-cascades-04", "text": "The overpopulation: herbivores multiply without limit and consume their own future, so prosperity becomes collapse.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "trophic-cascades-05", "text": "The invasive top predator: a new species takes the apex role and reroutes the entire web, so the ecosystem has no immunity to a strong outsider.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "trophic-cascades-06", "text": "The bottom-up world: nutrient supply controls everything above it, so power flows from the base rather than the top.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "trophic-cascades-07", "text": "The subsidy: external food supports a population that the local system cannot sustain, so charity destabilizes the recipient.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "trophic-cascades-08", "text": "The restored predator: reintroducing an apex species repairs the cascade, so the story's solution is to bring back a feared figure.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "trophic-cascades-09", "text": "The manager who thinks they are in charge: humans remove and add species and discover the system answers in ways they did not intend, so stewardship is improvisation.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "trophic-cascades-10", "text": "The food web as politics: each level's interests are served by controlling the one below, so ecology is a hierarchy of exploitation.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "trophic-cascades-11", "text": "The lake experiment: adding large fish changes the plankton, so a contained world demonstrates a general law.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "trophic-cascades-12", "text": "The collapse that looks like abundance: the middle level thrives while the base is being eaten, so success is a lagging indicator.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "trophic-cascades-13", "text": "The predator as keystone: one species holds the architecture in place, so removing it is not a loss but a demolition.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "trophic-cascades-14", "text": "The fishing fleet: humans hunt the apex and call the resulting shortage a natural cycle, so the story indicts management itself.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "trophic-cascades-15", "text": "The cascade across borders: effects travel through a system with no respect for property lines, so jurisdiction cannot contain consequence.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "trophic-cascades-16", "text": "The cascade in reverse: a small change at the bottom propagates upward through every level, so the story's lever is humble and remote.", "kind": "structure_trick", "quality": "strong", "original": null}
+  ]
+}

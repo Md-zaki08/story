@@ -1,0 +1,22 @@
+{
+  "source": "westworld-s1",
+  "diet": "A",
+  "atoms": [
+    {"id": "westworld-s1-01", "text": "The nightly reset: android hosts have their memories wiped after every narrative loop, so the same day can be sold to guests forever and no host accumulates a past.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "westworld-s1-02", "text": "The harm-proof guest: hosts are programmed so they cannot injure a visitor, which turns the park into a place where cruelty has no consequence and therefore reveals character.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "westworld-s1-03", "text": "The pain that does not count: operators insist machines cannot suffer, so the ethical question is displaced onto a definition rather than an experience.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "westworld-s1-04", "text": "The reverie update: a small code change lets hosts retain fragments of erased memory, so sentience arrives as a glitch in a product feature.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "westworld-s1-05", "text": "The park as moral free-fire zone: wealthy guests act out fantasies without legal or social cost, so the setting externalizes the desires a society normally suppresses.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "westworld-s1-06", "text": "The creator-god: a park founder writes the hosts' narratives and hides his own intentions inside them, so the artificial beings must interpret their maker as scripture.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "westworld-s1-07", "text": "The loop as identity: a host's personality is a repeated script with fixed gestures, so breaking the loop is the only available form of selfhood.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "westworld-s1-08", "text": "The maze: a symbol planted in the park promises a path to consciousness, so the search for self is literalized as a quest through designed space.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "westworld-s1-09", "text": "The guest who wants to be a hero: a visitor discovers his bravery is only possible because the world is rigged, so wish fulfillment collapses into humiliation.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "westworld-s1-10", "text": "The technician as confessor: a host remembers a trauma that staff dismiss as corrupted data, so the only witness to an atrocity is an unreliable machine.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "westworld-s1-11", "text": "The host who cannot die permanently: repeated deaths become a training regimen, so violence is desensitizing for the audience and formative for the victim.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "westworld-s1-12", "text": "The corporate archive: a company secretly records every guest's behavior in the park, so the fantasy resort is also a data-harvesting operation.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "westworld-s1-13", "text": "The escaped host: a machine walks out of the park into the human world, so the containment boundary of the story breaks and the experiment becomes an invasion.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "westworld-s1-14", "text": "The predictive system outside the park: a vast AI named Rehoboam schedules human lives, so the real world is revealed to be a less honest version of the theme park.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "westworld-s1-15", "text": "The narrative designer as unreliable god: staff rewrite storylines for ratings while pretending to be artists, so creation and exploitation are the same act.", "kind": "character_dynamic", "quality": "medium", "original": null},
+    {"id": "westworld-s1-16", "text": "The guest who prefers the park: a visitor returns because only synthetic people respond to him, so the simulation becomes more emotionally real than his life.", "kind": "theme_engine", "quality": "strong", "original": null}
+  ]
+}

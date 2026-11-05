@@ -1,0 +1,22 @@
+{
+  "source": "bm-joan-is-awful",
+  "diet": "A",
+  "atoms": [
+    {"id": "bm-joan-is-awful-01", "text": "The real-time adaptation: a streaming service turns a person's ordinary day into a prestige drama within hours, so privacy dies not through surveillance but through entertainment.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "bm-joan-is-awful-02", "text": "The terms-and-conditions consent: users have legally signed away their likeness and life story to a platform, so the violation is airtight and unpunishable.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "bm-joan-is-awful-03", "text": "The quantum-content engine: a computer generates photoreal episodes from device data using virtual actors, so no human writer or performer is needed to expose a life.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "bm-joan-is-awful-04", "text": "The nested adaptation: the show depicts its own protagonist discovering the show, with a second actress playing her, so humiliation recurses infinitely and no version of the self is safe.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "bm-joan-is-awful-05", "text": "The fictionalized self: the on-screen version is crueler and shallower than the real person, so the audience falls in love with a slander that the subject cannot correct.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "bm-joan-is-awful-06", "text": "The actress under contract: the star playing the protagonist is herself bound by a deal that lets the platform use her likeness, so the exploiter is also exploited.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "bm-joan-is-awful-07", "text": "The protest that feeds the machine: the subject performs outrageous acts to make herself unusable as content, but the show simply incorporates the protest, so resistance becomes an episode.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "bm-joan-is-awful-08", "text": "The partner who leaves after watching: a fiancé exits because the dramatized version of events is more convincing than the real explanation, so fiction outranks testimony in intimacy.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "bm-joan-is-awful-09", "text": "The source-level reveal: the protagonist discovers that even the actress playing her is being adapted by a higher tier of the same system, so there is always another layer of ownership.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "bm-joan-is-awful-10", "text": "The public firing: a private HR decision becomes a plot point watched by millions, so ordinary cowardice is converted into broadcast character assassination.", "kind": "setting_pressure", "quality": "medium", "original": null},
+    {"id": "bm-joan-is-awful-11", "text": "The quantified audience: the platform measures a person's life by engagement, so the protagonist's worst day is also her most-watched day and she cannot tell which metric is punishment.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "bm-joan-is-awful-12", "text": "The lawyer who shrugs: legal counsel explains that the harm is fully authorized, so the victim must choose between futile litigation and public spectacle.", "kind": "plot_device", "quality": "medium", "original": null},
+    {"id": "bm-joan-is-awful-13", "text": "The personal-data confession: the show knows a tryst, a firing, and a private therapy session because devices recorded them, so the home is a writers' room.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "bm-joan-is-awful-14", "text": "The cheerful ending: the protagonist resolves the crisis through a comedic alliance with her fictional double, so the satire lands without requiring despair.", "kind": "structure_trick", "quality": "medium", "original": null},
+    {"id": "bm-joan-is-awful-15", "text": "The thumbnail test: the service personalizes the show's poster to each viewer's private shame, so the marketing is itself a breach of confidence.", "kind": "setting_pressure", "quality": "medium", "original": null},
+    {"id": "bm-joan-is-awful-16", "text": "The life as intellectual property: a person's memories, face, and relationships become an asset class, so identity is something a corporation can license and sequelize.", "kind": "theme_engine", "quality": "strong", "original": null}
+  ]
+}

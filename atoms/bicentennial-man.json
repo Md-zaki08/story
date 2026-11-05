@@ -1,0 +1,22 @@
+{
+  "source": "bicentennial-man",
+  "diet": "A",
+  "atoms": [
+    {"id": "bicentennial-man-01", "text": "The robot who asks for freedom: a servant earns money and buys his own independence, so emancipation is depicted as a purchase rather than a right.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "bicentennial-man-02", "text": "The robot as family witness: an android watches generations of one family age and die, so he becomes the household's memory and its most patient mourner.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "bicentennial-man-03", "text": "Robots have no legal rights: a machine can accumulate wealth but cannot own it, so personhood is defined by property law.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "bicentennial-man-04", "text": "The wooden figurine: the robot carves a replacement for a broken glass ornament, so creativity becomes the first evidence of an inner life.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "bicentennial-man-05", "text": "The long path to humanity: the android replaces his body piece by piece with organic parts, so becoming human is a gradual, expensive, and irreversible project.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "bicentennial-man-06", "text": "The little girl and the machine: a child treats the robot as a person before the adults do, so moral perception is located in the young.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "bicentennial-man-07", "text": "The request for mortality: the android asks to be declared human and allowed to die, so the final proof of humanity is the willingness to end.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "bicentennial-man-08", "text": "Upgrades as identity change: each modification alters the android's capacities and social standing, so self-improvement is also self-replacement.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "bicentennial-man-09", "text": "The two-hundred-year life: longevity makes the android a living archive of a family and a nation, so history is embodied in a single patient observer.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "bicentennial-man-10", "text": "The robot who builds his own house: the android leaves the family home and constructs a dwelling by the sea, so independence is spatial before it is legal.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "bicentennial-man-11", "text": "The inventor and the invention: a roboticist helps the android become human, so the creator's ambition and the creation's longing are entangled.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "bicentennial-man-12", "text": "The court that must decide: the android's legal petition forces institutions to define personhood, so bureaucracy becomes the site of a moral threshold.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "bicentennial-man-13", "text": "A world that treats robots as appliances: domestic machines are ubiquitous and disposable, so the android's singularity is visible only against mass uniformity.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "bicentennial-man-14", "text": "Love across replacement: the android loves a woman who resembles the girl he watched grow old, so romance is haunted by family resemblance and recycled attachment.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "bicentennial-man-15", "text": "The bicentennial title: the story spans two hundred years in episodic jumps, so the form mirrors the slow accumulation of a self.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "bicentennial-man-16", "text": "Dignity as recognition: the android's long struggle is less about becoming biological than about being seen as a person by others.", "kind": "theme_engine", "quality": "strong", "original": null}
+  ]
+}

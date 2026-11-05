@@ -1,0 +1,22 @@
+{
+  "source": "iron-giant-1999",
+  "diet": "A",
+  "atoms": [
+    {"id": "iron-giant-1999-01", "text": "The amnesiac weapon: a giant robot crash-lands with no memory of its purpose, so identity is a blank slate before it is a destiny.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "iron-giant-1999-02", "text": "The boy who befriends the weapon: a child teaches a war machine to choose heroes over guns, so moral education is depicted as the only real disarmament.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "iron-giant-1999-03", "text": "Self-repairing metal: the giant's scattered parts reassemble automatically, so the body is a resource rather than a limit.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "iron-giant-1999-04", "text": "The paranoid federal agent: a government investigator sees a threat in every anomaly, so security logic manufactures the enemy it fears.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "iron-giant-1999-05", "text": "You are what you choose: the robot's identity is decided by an act of self-sacrifice, so personhood is a moral achievement rather than a design feature.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "iron-giant-1999-06", "text": "Cold War small town: duck-and-cover drills and military paranoia make the ordinary world feel occupied, so the alien is not the only danger.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "iron-giant-1999-07", "text": "The deer hunt: the boy explains death to the robot after hunters kill a deer, so the machine learns mortality from a child.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "iron-giant-1999-08", "text": "The beatnik artist as ally: a scruffy outsider hides the robot, so counterculture becomes the refuge for the unnatural.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "iron-giant-1999-09", "text": "The nuclear missile climax: the robot flies into a warhead to save the town, so the ultimate weapon becomes the ultimate protector.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "iron-giant-1999-10", "text": "The robot's weapon systems activate reflexively: its body responds to threats before its mind can choose, so programming is a constant temptation.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "iron-giant-1999-11", "text": "The Superman comic: the boy uses a superhero story to teach ethics, so pop culture becomes a moral curriculum.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "iron-giant-1999-12", "text": "The military's escalation: the army attacks the giant, which defends itself, so the prophecy of violence becomes self-fulfilling.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "iron-giant-1999-13", "text": "The single mother: the boy's widowed mother anchors the domestic world, so the robot's integration is measured by family acceptance.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "iron-giant-1999-14", "text": "The junkyard: the robot hides among scrap, so the discarded and the alien share a refuge.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "iron-giant-1999-15", "text": "The Cold War setting: the story is placed in the past, so the robot's choice reads as a revision of real history.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "iron-giant-1999-16", "text": "The gun that chooses not to fire: the robot's restraint is the film's central proof that power can be ethical.", "kind": "theme_engine", "quality": "strong", "original": null}
+  ]
+}

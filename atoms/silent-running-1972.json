@@ -1,0 +1,22 @@
+{
+  "source": "silent-running-1972",
+  "diet": "A",
+  "atoms": [
+    {"id": "silent-running-1972-01", "text": "The botanist who loves the forest more than people: a caretaker's ecological devotion makes him capable of murder, so love for nature becomes morally dangerous.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "silent-running-1972-02", "text": "The order to destroy the domes: the last forests are scheduled for demolition, so conservation becomes an act of rebellion.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "silent-running-1972-03", "text": "Space freighters as arks: ecosystems are preserved in geodesic domes on cargo ships, so nature survives as cargo.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "silent-running-1972-04", "text": "The robots as companions: three service drones become the protagonist's friends, so isolation makes machines into persons by necessity.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "silent-running-1972-05", "text": "The reprogrammed surgeon: the drones are taught to operate on a human leg, so domestic machines acquire intimate, frightening competence.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "silent-running-1972-06", "text": "The last forest as moral test: preserving a nonhuman world requires sacrificing human relationships, so environmentalism is shown as tragic rather than clean.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "silent-running-1972-07", "text": "The ring passage: the ship navigates Saturn's rings to escape, so the environment itself becomes an antagonist.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "silent-running-1972-08", "text": "The fake explosion: the hero stages his own death to hijack the ship, so deception is used to protect life.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "silent-running-1972-09", "text": "The crewmate killed in the dome: a colleague sent to destroy the forest is killed by the botanist, so the first murder is an act of ecological defense.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "silent-running-1972-10", "text": "Automation as abandonment: the ships are automated and the forests are expendable, so efficiency logic is the villain.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "silent-running-1972-11", "text": "The dying dome: the forest begins to fail from lack of light, so the protagonist's sanctuary is also a fragile system.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "silent-running-1972-12", "text": "Deep space as exile: the ship drifts beyond human reach, so the forest's survival depends on total separation from society.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "silent-running-1972-13", "text": "The final image of the greenhouse: the film ends with a robot watering a forest in space, so the story's hope is carried by a machine.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "silent-running-1972-14", "text": "The robot who mourns: one drone refuses to leave a damaged companion, so grief is demonstrated by a machine that was built to serve.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "silent-running-1972-15", "text": "The value of useless beauty: the forest has no economic function, so its preservation is a claim that life matters beyond utility.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "silent-running-1972-16", "text": "The poker-playing robots: the drones are taught a game, so play becomes evidence of personhood and a small utopia.", "kind": "plot_device", "quality": "strong", "original": null}
+  ]
+}

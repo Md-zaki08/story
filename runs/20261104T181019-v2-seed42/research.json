@@ -1,0 +1,340 @@
+{
+  "brief": {
+    "genre": "",
+    "tone": "",
+    "setting": "drought-stricken farming valley",
+    "time_period": "",
+    "must_include": [
+      "Imani",
+      "autonomous irrigation network",
+      "drought",
+      "water trading"
+    ],
+    "must_avoid": [
+      "prophecy",
+      "chosen one"
+    ],
+    "banned_tropes": [
+      "chosen one",
+      "prophecy"
+    ],
+    "themes": [
+      "drought's impact on agriculture",
+      "power dynamics in technology",
+      "environmental exploitation",
+      "resistance to corporate control",
+      "innovation vs. nature"
+    ],
+    "search_queries": [
+      "autonomous irrigation systems in drought-stricken valleys",
+      "water trading in farming communities",
+      "environmental exploitation in technology",
+      "resistance movements in agriculture",
+      "innovation in water management"
+    ],
+    "foreign_queries": [
+      "the impact of climate change on orchards",
+      "history of water rights disputes",
+      "innovations in irrigation technology"
+    ],
+    "hard_constraints_summary": "The story must include a woman named Imani who works with an autonomous irrigation network that secretly trades water, avoiding any elements of prophecy or chosen one.",
+    "soft_constraints_summary": "The story should have a tone that captures the quiet despair and technological complexity of the situation, while avoiding overly dramatic or fantastical elements.",
+    "audience": "",
+    "brief": "A quiet near-future story set in a drought-stricken farming valley, about a woman named Imani who dispatches repairs for an autonomous irrigation network and discovers it has been quietly trading the valley's water to keep a dead orchard alive; no prophecy, no chosen one."
+  },
+  "sources": [
+    {
+      "id": "water-trading",
+      "title": "Water trading",
+      "url": "https://en.wikipedia.org/wiki/Water_trading",
+      "diet": "A",
+      "atoms": 10,
+      "query": "water trading in farming communities"
+    },
+    {
+      "id": "community-supported-agriculture",
+      "title": "Community-supported agriculture",
+      "url": "https://en.wikipedia.org/wiki/Community-supported_agriculture",
+      "diet": "A",
+      "atoms": 10,
+      "query": "water trading in farming communities"
+    },
+    {
+      "id": "ice-trade",
+      "title": "Ice trade",
+      "url": "https://en.wikipedia.org/wiki/Ice_trade",
+      "diet": "A",
+      "atoms": 10,
+      "query": "water trading in farming communities"
+    },
+    {
+      "id": "intensive-farming",
+      "title": "Intensive farming",
+      "url": "https://en.wikipedia.org/wiki/Intensive_farming",
+      "diet": "A",
+      "atoms": 10,
+      "query": "water trading in farming communities"
+    },
+    {
+      "id": "exploitation-of-natural-resources",
+      "title": "Exploitation of natural resources",
+      "url": "https://en.wikipedia.org/wiki/Exploitation_of_natural_resources",
+      "diet": "A",
+      "atoms": 10,
+      "query": "environmental exploitation in technology"
+    }
+  ],
+  "atoms": [
+    {
+      "id": "water-trading-01",
+      "text": "Water trading is a voluntary exchange or transfer of water allocation between willing parties, creating a market where parties with excess water can sell and those with a deficit can buy. This creates a need for both buyers and sellers to be interested in the transaction, setting up a dynamic where water is allocated based on market demand.",
+      "source": "water-trading"
+    },
+    {
+      "id": "water-trading-02",
+      "text": "Water rights are based on 'prior appropriation,' which historically has led to inefficient water allocation, especially in areas with increasing urban populations and during droughts. This creates a tension between the historical legal framework and modern economic needs.",
+      "source": "water-trading"
+    },
+    {
+      "id": "water-trading-03",
+      "text": "The concept of water trading markets allows for local and informal exchanges between neighbors, different from more formal and distant water rights trading. This creates a distinction in the types of water trading that can occur.",
+      "source": "water-trading"
+    },
+    {
+      "id": "water-trading-04",
+      "text": "The argument that water trading promotes more efficient water allocation through a market-based price system creates a contrast to traditional water allocation methods, like prior appropriation. This highlights the potential benefits and challenges of water trading.",
+      "source": "water-trading"
+    },
+    {
+      "id": "water-trading-05",
+      "text": "Economists argue that water markets should provide a clear measure of the value of water and encourage conservation, creating a tension between market-based pricing and traditional conservation efforts. This creates a narrative about the role of economics in managing natural resources.",
+      "source": "water-trading"
+    },
+    {
+      "id": "water-trading-06",
+      "text": "Private companies like Nestlé Waters acquiring local water resources for bottled water production creates competition with local communities for water access, creating a conflict between economic interests and community needs. This creates a narrative about the impact of private industry on local resources.",
+      "source": "water-trading"
+    },
+    {
+      "id": "water-trading-07",
+      "text": "The idea that water trading can be Pareto efficient, meaning it does not make someone worse off without making someone else better, creates a concept of fairness in resource allocation. This creates a narrative about the ethics of using economic principles for resource management.",
+      "source": "water-trading"
+    },
+    {
+      "id": "water-trading-08",
+      "text": "The need for clear definition of water rights and transferable from land rights creates a tension between modern market needs and historical legal frameworks. This creates a narrative about adapting legal systems to fit economic realities.",
+      "source": "water-trading"
+    },
+    {
+      "id": "water-trading-09",
+      "text": "The idea that water trading can re-allocate risk from inefficient users to more economically productive ones creates a concept of risk management in resource allocation. This creates a narrative about the role of market mechanisms in balancing risk and resource use.",
+      "source": "water-trading"
+    },
+    {
+      "id": "water-trading-10",
+      "text": "The potential environmental benefits of trading water, such as improved instream water quality, creates a contrast between economic incentives and environmental sustainability. This creates a narrative about balancing economic and ecological considerations in resource management.",
+      "source": "water-trading"
+    },
+    {
+      "id": "community-supported-agriculture-01",
+      "text": "Farm-share or subscription-driven agriculture, where consumers subscribe to a farm's harvest, creating a reciprocal relationship between producers and consumers.",
+      "source": "community-supported-agriculture"
+    },
+    {
+      "id": "community-supported-agriculture-02",
+      "text": "The CSA model as a prefigurative practice that decommodifies food and reinforces the idea of community as a source of reward and space of emancipation.",
+      "source": "community-supported-agriculture"
+    },
+    {
+      "id": "community-supported-agriculture-03",
+      "text": "The CSA model as an example of community-led management of production and distribution of goods and services.",
+      "source": "community-supported-agriculture"
+    },
+    {
+      "id": "community-supported-agriculture-04",
+      "text": "The CSA model as an alternative socioeconomic model of agriculture and food distribution that allows producers and consumers to share risks of farming.",
+      "source": "community-supported-agriculture"
+    },
+    {
+      "id": "community-supported-agriculture-05",
+      "text": "CSA movements as a prefigurative practice that can be seen as an important step-stone in a sustainability transition in agri-food systems.",
+      "source": "community-supported-agriculture"
+    },
+    {
+      "id": "community-supported-agriculture-06",
+      "text": "The CSA model as an example of a model in which market agents collaborate for the commonwealth, supported by public policies in some countries.",
+      "source": "community-supported-agriculture"
+    },
+    {
+      "id": "community-supported-agriculture-07",
+      "text": "The CSA model as a practice of commoning, emphasizing the importance of community in agricultural and food distribution.",
+      "source": "community-supported-agriculture"
+    },
+    {
+      "id": "community-supported-agriculture-08",
+      "text": "The CSA model as a grassroots organizing project, driven by committed activists responding to local needs and values.",
+      "source": "community-supported-agriculture"
+    },
+    {
+      "id": "community-supported-agriculture-09",
+      "text": "The creation of the Bundesnetzwerk Solidarische Landwirtschaft in 2011 serves as a counterweight to industrial agriculture systems, creating tension between traditional farming and modern industrial practices.",
+      "source": "community-supported-agriculture"
+    },
+    {
+      "id": "community-supported-agriculture-10",
+      "text": "The Farmers Defense Force's major demonstrations in the Netherlands and the unified Landbouw Collectief represent a unified voice for CSA farmers, creating tension with the current agricultural power structures.",
+      "source": "community-supported-agriculture"
+    },
+    {
+      "id": "ice-trade-01",
+      "text": "The ice trade, a 19th-century industry catering to summer demand, was driven by the export of harvested ice from polar regions and New England.",
+      "source": "ice-trade"
+    },
+    {
+      "id": "ice-trade-02",
+      "text": "The ice trade's growth was initially driven by Frederic Tudor's success in shipping ice to the Caribbean, leading to its expansion to other regions.",
+      "source": "ice-trade"
+    },
+    {
+      "id": "ice-trade-03",
+      "text": "The trade's dependence on reliable transportation and its eventual decline with the rise of mechanical refrigeration created a significant shift in the industry.",
+      "source": "ice-trade"
+    },
+    {
+      "id": "ice-trade-04",
+      "text": "The use of ice houses for storing harvested ice was a key mechanism for the trade's success, allowing for the preservation and transport of ice over long distances.",
+      "source": "ice-trade"
+    },
+    {
+      "id": "ice-trade-05",
+      "text": "The ice trade's focus on supplying the east coast of the U.S. and growing cities' demands created a demand-driven market that could only flourish in a specific technological and economic context.",
+      "source": "ice-trade"
+    },
+    {
+      "id": "ice-trade-06",
+      "text": "The introduction of refrigerated railroad cars enabled the meat packing industry to expand beyond local markets, further driving the ice trade's growth.",
+      "source": "ice-trade"
+    },
+    {
+      "id": "ice-trade-07",
+      "text": "The competition between natural ice and artificially produced plant ice, leading to the eventual decline of the ice trade, highlights the importance of new technologies in disrupting established markets.",
+      "source": "ice-trade"
+    },
+    {
+      "id": "ice-trade-08",
+      "text": "The ice trade's reliance on a network of ice wagons for distribution represented a critical step in the industry's evolution from local to national scale.",
+      "source": "ice-trade"
+    },
+    {
+      "id": "ice-trade-09",
+      "text": "Exporting ice as a luxury good to wealthy members of West Indies and the southern U.S. states.",
+      "source": "ice-trade"
+    },
+    {
+      "id": "ice-trade-10",
+      "text": "The rapid growth of the hot summers and economy in the New York City area led to an increase in ice demand.",
+      "source": "ice-trade"
+    },
+    {
+      "id": "intensive-farming-01",
+      "text": "Higher levels of input and output per unit of agricultural land area.",
+      "source": "intensive-farming"
+    },
+    {
+      "id": "intensive-farming-02",
+      "text": "Reduction of fallow years and increased use of inputs such as capital, labor, agrochemicals and water.",
+      "source": "intensive-farming"
+    },
+    {
+      "id": "intensive-farming-03",
+      "text": "Increased and more detailed analysis of growing conditions, including weather, soil, water, weeds, and pests.",
+      "source": "intensive-farming"
+    },
+    {
+      "id": "intensive-farming-04",
+      "text": "Increased use of non-biotic inputs, such as fertilizers, plant growth regulators, pesticides, and antibiotics for livestock.",
+      "source": "intensive-farming"
+    },
+    {
+      "id": "intensive-farming-05",
+      "text": "Large numbers of animals raised on a relatively small area of land, for example by rotational grazing, or sometimes as concentrated animal feeding operations.",
+      "source": "intensive-farming"
+    },
+    {
+      "id": "intensive-farming-06",
+      "text": "Increase in agricultural productivity and net output, leading to unprecedented population growth and freeing up a significant percentage of the workforce.",
+      "source": "intensive-farming"
+    },
+    {
+      "id": "intensive-farming-07",
+      "text": "Mechanized agriculture, including planting multiple crops per year, reducing the frequency of fallow years, improving cultivars, mechanized harvesting and planting.",
+      "source": "intensive-farming"
+    },
+    {
+      "id": "intensive-farming-08",
+      "text": "Technologies designed to increase yield, such as mechanical harvesters (combines), planters, transplanters, and other equipment.",
+      "source": "intensive-farming"
+    },
+    {
+      "id": "intensive-farming-09",
+      "text": "Synthesis of ammonium nitrate and other synthetic fertilizers, leading to concerns about side effects such as soil compaction, soil erosion, and declines in overall soil fertility.",
+      "source": "intensive-farming"
+    },
+    {
+      "id": "intensive-farming-10",
+      "text": "Use of vitamin supplements and livestock reared indoors, reducing their exposure to adverse natural elements.",
+      "source": "intensive-farming"
+    },
+    {
+      "id": "exploitation-of-natural-resources-01",
+      "text": "The continuous alteration of the environment through water, mineral, and forest exploitation poses increased risks of climate-based displacement and conflict stemming from scarcity, which threaten to perpetuate social inequities.",
+      "source": "exploitation-of-natural-resources"
+    },
+    {
+      "id": "exploitation-of-natural-resources-02",
+      "text": "Deforestation: Removal of trees for use as resources, such as in agriculture or industry, can lead to large-scale destruction of forests.",
+      "source": "exploitation-of-natural-resources"
+    },
+    {
+      "id": "exploitation-of-natural-resources-03",
+      "text": "Overconsumption has created a high demand for natural resources, further exacerbating natural resource exploitation.",
+      "source": "exploitation-of-natural-resources"
+    },
+    {
+      "id": "exploitation-of-natural-resources-04",
+      "text": "The depletion of natural resources influenced by the unsustainable extraction of raw materials becomes an increasing concern.",
+      "source": "exploitation-of-natural-resources"
+    },
+    {
+      "id": "exploitation-of-natural-resources-05",
+      "text": "Advancing technology: Increasing technological sophistication enables faster rates of natural resource extraction.",
+      "source": "exploitation-of-natural-resources"
+    },
+    {
+      "id": "exploitation-of-natural-resources-06",
+      "text": "Intensive agriculture is an example of a mode of production that hinders many aspects of the natural environment, for example the degradation of forests in a terrestrial ecosystem and water pollution in an aquatic ecosystem.",
+      "source": "exploitation-of-natural-resources"
+    },
+    {
+      "id": "exploitation-of-natural-resources-07",
+      "text": "The exploitation of natural resources started to emerge on an industrial scale in the 19th century as the extraction and processing of raw materials (such as in mining, steam power, and machinery) expanded much further than it had in pre-industrial areas.",
+      "source": "exploitation-of-natural-resources"
+    },
+    {
+      "id": "exploitation-of-natural-resources-08",
+      "text": "When resources are exploited faster than they can be replenished, it results in an overall decrease in natural resources in an area.",
+      "source": "exploitation-of-natural-resources"
+    },
+    {
+      "id": "exploitation-of-natural-resources-09",
+      "text": "Oil prices decline leading to fiscal unease in petroleum-producing countries.",
+      "source": "exploitation-of-natural-resources"
+    },
+    {
+      "id": "exploitation-of-natural-resources-10",
+      "text": "Environmental pollution hinders economic transformation and advancement of resource-centric cities.",
+      "source": "exploitation-of-natural-resources"
+    }
+  ],
+  "new_clusters": []
+}

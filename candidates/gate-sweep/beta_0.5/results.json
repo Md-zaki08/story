@@ -1,0 +1,1665 @@
+{
+  "config": {
+    "run_id": "gate-sweep",
+    "k": 3,
+    "beta": 0.5,
+    "top_k": 50,
+    "n_pool": 4052,
+    "seed": 42,
+    "formula": "(1-beta)*z(coherence) + beta*z(unavailability)",
+    "coherence_def": "0.5*z(mean_pairwise_cosine) + 0.5*z(cooccurrence_bridging)",
+    "unavailability_def": "0.65*z(pair_rarity) + 0.35*z(cliche_distance)"
+  },
+  "candidates": [
+    {
+      "rank_fused": 1,
+      "cluster_ids": [
+        43,
+        46,
+        99
+      ],
+      "cluster_names": [
+        "cluster-43",
+        "The Last of It",
+        "cluster-99"
+      ],
+      "exemplar_atoms": [
+        "The volunteer who cannot stop watching: a subject becomes obsessed with the gap between impulse and awareness, so the experiment colonizes daily life.",
+        "The last survivor: the final member inherits the remaining fund, so the story's ending is a waiting game with a single winner.",
+        "The ending that refuses reunion: the protagonist is paid, repaired, and left alone, so the heist resolves but intimacy does not."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.49589,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.40712
+      },
+      "z_coherence": 0.7231,
+      "z_unavailability": 1.5536,
+      "fusion": 1.1383,
+      "rank_coherence": 1492,
+      "rank_unavailability": 217
+    },
+    {
+      "rank_fused": 2,
+      "cluster_ids": [
+        11,
+        42,
+        85
+      ],
+      "cluster_names": [
+        "Actuary's Coldness",
+        "cluster-42",
+        "cluster-85"
+      ],
+      "exemplar_atoms": [
+        "The ongoing relationship with the dead: a mourner keeps talking to the deceased, so grief is maintenance rather than closure.",
+        "The other woman who loved the android: a stranger copied his memories into her home, so two mourners share a dead person's archive.",
+        "The ex-wife who cannot compete with a machine: a human partner is displaced not by cruelty but by an entity that is endlessly available and never tired — grief experienced as obsolescence."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.5661,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.37071,
+        "cliche_distance": 0.37785
+      },
+      "z_coherence": 2.8455,
+      "z_unavailability": -0.5877,
+      "fusion": 1.1289,
+      "rank_coherence": 12,
+      "rank_unavailability": 4444
+    },
+    {
+      "rank_fused": 3,
+      "cluster_ids": [
+        0,
+        21,
+        94
+      ],
+      "cluster_names": [
+        "The Simulation Argument",
+        "cluster-21",
+        "The Word That Shapes"
+      ],
+      "exemplar_atoms": [
+        "The philosophical test as plot: a thought experiment about experience becomes the story's literal situation, so the narrative is an argument in costume.",
+        "Voice-over interiority: the protagonist's spoken letters let the audience hear him composing himself, so the narration is itself the act of learning to feel.",
+        "The word that changes behavior: a new term enters common speech and alters how people act, so language is a soft weapon."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.55351,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.40174,
+        "cliche_distance": 0.37782
+      },
+      "z_coherence": 2.7344,
+      "z_unavailability": -0.5065,
+      "fusion": 1.114,
+      "rank_coherence": 21,
+      "rank_unavailability": 4286
+    },
+    {
+      "rank_fused": 4,
+      "cluster_ids": [
+        35,
+        86,
+        98
+      ],
+      "cluster_names": [
+        "cluster-35",
+        "cluster-86",
+        "The Borrowed Childhood"
+      ],
+      "exemplar_atoms": [
+        "The collector's guilt: a person hoards old objects and discovers they have been keeping company, so ownership becomes a relationship with dependents.",
+        "Memories as leased property: the clones' families are real memories belonging to another man, so love is genuine in the copy and stolen from the original.",
+        "The memory that predates the body: implanted memories give the synthetic person a past she never lived, so nostalgia is a manufactured resource."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.47617,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.42139
+      },
+      "z_coherence": 0.549,
+      "z_unavailability": 1.6422,
+      "fusion": 1.0956,
+      "rank_coherence": 1787,
+      "rank_unavailability": 158
+    },
+    {
+      "rank_fused": 5,
+      "cluster_ids": [
+        43,
+        54,
+        69
+      ],
+      "cluster_names": [
+        "cluster-43",
+        "cluster-54",
+        "cluster-69"
+      ],
+      "exemplar_atoms": [
+        "The volunteer who cannot stop watching: a subject becomes obsessed with the gap between impulse and awareness, so the experiment colonizes daily life.",
+        "The time recording: a device clones the player's past actions and replays them as a helper, so memory becomes a tool that can be edited and employed.",
+        "The bandwidth grief: a poor upload buffers and freezes during emotional moments, so technical failure becomes a metaphor for interrupted mourning."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.50566,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.89031,
+        "cliche_distance": 0.34844
+      },
+      "z_coherence": 1.5607,
+      "z_unavailability": 0.5939,
+      "fusion": 1.0773,
+      "rank_coherence": 365,
+      "rank_unavailability": 1838
+    },
+    {
+      "rank_fused": 6,
+      "cluster_ids": [
+        54,
+        86,
+        96
+      ],
+      "cluster_names": [
+        "cluster-54",
+        "cluster-86",
+        "cluster-96"
+      ],
+      "exemplar_atoms": [
+        "The time recording: a device clones the player's past actions and replays them as a helper, so memory becomes a tool that can be edited and employed.",
+        "Memories as leased property: the clones' families are real memories belonging to another man, so love is genuine in the copy and stolen from the original.",
+        "The clone who knows she is a copy: the new hire accepts her artificiality and still claims rights, so personhood is asserted rather than proven."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.5008,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.89031,
+        "cliche_distance": 0.35083
+      },
+      "z_coherence": 1.5178,
+      "z_unavailability": 0.6087,
+      "fusion": 1.0633,
+      "rank_coherence": 400,
+      "rank_unavailability": 1810
+    },
+    {
+      "rank_fused": 7,
+      "cluster_ids": [
+        22,
+        43,
+        69
+      ],
+      "cluster_names": [
+        "cluster-22",
+        "cluster-43",
+        "cluster-69"
+      ],
+      "exemplar_atoms": [
+        "The narrator frame from the far future: the story is told by machines who study humans, so the whole film is an artifact of a post-human archive.",
+        "The volunteer who cannot stop watching: a subject becomes obsessed with the gap between impulse and awareness, so the experiment colonizes daily life.",
+        "The bandwidth grief: a poor upload buffers and freezes during emotional moments, so technical failure becomes a metaphor for interrupted mourning."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.49839,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.66356,
+        "cliche_distance": 0.32381
+      },
+      "z_coherence": 2.2478,
+      "z_unavailability": -0.1544,
+      "fusion": 1.0467,
+      "rank_coherence": 68,
+      "rank_unavailability": 3561
+    },
+    {
+      "rank_fused": 8,
+      "cluster_ids": [
+        35,
+        53,
+        56
+      ],
+      "cluster_names": [
+        "cluster-35",
+        "cluster-53",
+        "The Gift Trap"
+      ],
+      "exemplar_atoms": [
+        "The collector's guilt: a person hoards old objects and discovers they have been keeping company, so ownership becomes a relationship with dependents.",
+        "Robots have no legal rights: a machine can accumulate wealth but cannot own it, so personhood is defined by property law.",
+        "The gift that shames: a host gives away or destroys wealth to demonstrate status, so generosity is a form of dominance."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.52687,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.40174,
+        "cliche_distance": 0.39119
+      },
+      "z_coherence": 2.4992,
+      "z_unavailability": -0.4234,
+      "fusion": 1.0379,
+      "rank_coherence": 33,
+      "rank_unavailability": 4113
+    },
+    {
+      "rank_fused": 9,
+      "cluster_ids": [
+        4,
+        63,
+        99
+      ],
+      "cluster_names": [
+        "Cryogenic Ending",
+        "cluster-63",
+        "cluster-99"
+      ],
+      "exemplar_atoms": [
+        "The reset after death: dying returns the player to the start of the puzzle with no narrative consequence, so failure is mechanical rather than tragic.",
+        "Voice-first companionship: an AI with no body becomes intimate through tone, timing, and attention, proving that presence can be a protocol rather than a physical fact.",
+        "The ending that refuses reunion: the protagonist is paid, repaired, and left alone, so the heist resolves but intimacy does not."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.51268,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.89031,
+        "cliche_distance": 0.32362
+      },
+      "z_coherence": 1.6227,
+      "z_unavailability": 0.4397,
+      "fusion": 1.0312,
+      "rank_coherence": 324,
+      "rank_unavailability": 2199
+    },
+    {
+      "rank_fused": 10,
+      "cluster_ids": [
+        35,
+        55,
+        106
+      ],
+      "cluster_names": [
+        "cluster-35",
+        "Intimacy by Proxy",
+        "cluster-106"
+      ],
+      "exemplar_atoms": [
+        "The collector's guilt: a person hoards old objects and discovers they have been keeping company, so ownership becomes a relationship with dependents.",
+        "The babysitter as witness: an outsider is asked to judge the couple's memories, so intimacy is outsourced to a stranger.",
+        "The repair that offends: mending an old object can be experienced as mutilation, so care and violation are indistinguishable to the thing being cared for."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.44873,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.89031,
+        "cliche_distance": 0.40847
+      },
+      "z_coherence": 1.0581,
+      "z_unavailability": 0.9666,
+      "fusion": 1.0124,
+      "rank_coherence": 927,
+      "rank_unavailability": 1024
+    },
+    {
+      "rank_fused": 11,
+      "cluster_ids": [
+        58,
+        71,
+        96
+      ],
+      "cluster_names": [
+        "cluster-58",
+        "Love as Anomaly",
+        "cluster-96"
+      ],
+      "exemplar_atoms": [
+        "Love as programming versus love as choice: the story never resolves whether the android's devotion is real or installed, so the audience must decide what counts.",
+        "The android in love: the machine claims to love the woman and grows jealous, so its emotions are either genuine or a very good imitation and the story refuses to settle it.",
+        "The clone who knows she is a copy: the new hire accepts her artificiality and still claims rights, so personhood is asserted rather than proven."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.54177,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.30085
+      },
+      "z_coherence": 1.1281,
+      "z_unavailability": 0.8936,
+      "fusion": 1.0109,
+      "rank_coherence": 832,
+      "rank_unavailability": 1184
+    },
+    {
+      "rank_fused": 12,
+      "cluster_ids": [
+        11,
+        32,
+        34
+      ],
+      "cluster_names": [
+        "Actuary's Coldness",
+        "cluster-32",
+        "cluster-34"
+      ],
+      "exemplar_atoms": [
+        "The ongoing relationship with the dead: a mourner keeps talking to the deceased, so grief is maintenance rather than closure.",
+        "The design lab as dating market: researchers prototype companions in a corporate setting, so intimacy is industrialized.",
+        "The person who forgets the dead: a character with no object permanence cannot hold an absent loved one in mind, so grief requires a cognitive achievement."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.48709,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.89031,
+        "cliche_distance": 0.35118
+      },
+      "z_coherence": 1.3968,
+      "z_unavailability": 0.6109,
+      "fusion": 1.0038,
+      "rank_coherence": 513,
+      "rank_unavailability": 1801
+    },
+    {
+      "rank_fused": 13,
+      "cluster_ids": [
+        34,
+        55,
+        63
+      ],
+      "cluster_names": [
+        "cluster-34",
+        "Intimacy by Proxy",
+        "cluster-63"
+      ],
+      "exemplar_atoms": [
+        "The person who forgets the dead: a character with no object permanence cannot hold an absent loved one in mind, so grief requires a cognitive achievement.",
+        "The babysitter as witness: an outsider is asked to judge the couple's memories, so intimacy is outsourced to a stranger.",
+        "Voice-first companionship: an AI with no body becomes intimate through tone, timing, and attention, proving that presence can be a protocol rather than a physical fact."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.56664,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.7594,
+        "cliche_distance": 0.29045
+      },
+      "z_coherence": 2.099,
+      "z_unavailability": -0.1099,
+      "fusion": 0.9945,
+      "rank_coherence": 109,
+      "rank_unavailability": 3465
+    },
+    {
+      "rank_fused": 14,
+      "cluster_ids": [
+        66,
+        73,
+        101
+      ],
+      "cluster_names": [
+        "cluster-66",
+        "cluster-73",
+        "cluster-101"
+      ],
+      "exemplar_atoms": [
+        "The surveillance confession: a target realizes every private act has been recorded and interpreted by a machine, so the interrogation happens before the arrest.",
+        "The fake police station: a bounty hunter is detained in a precinct staffed by androids pretending to be cops, so the institution itself is a set.",
+        "The silent servant who understands everything: a domestic gynoid assumed to be language-less turns out to be a witness, and the household's secrets are exposed by the furniture."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.47509,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.89031,
+        "cliche_distance": 0.3584
+      },
+      "z_coherence": 1.2908,
+      "z_unavailability": 0.6557,
+      "fusion": 0.9732,
+      "rank_coherence": 623,
+      "rank_unavailability": 1691
+    },
+    {
+      "rank_fused": 15,
+      "cluster_ids": [
+        11,
+        18,
+        84
+      ],
+      "cluster_names": [
+        "Actuary's Coldness",
+        "The Repair Ethic",
+        "cluster-84"
+      ],
+      "exemplar_atoms": [
+        "The ongoing relationship with the dead: a mourner keeps talking to the deceased, so grief is maintenance rather than closure.",
+        "The repair café: a community resists disposal by fixing things together, so maintenance becomes political resistance.",
+        "The caretaker who confides in the machine: a live-in aide tells secrets to a hologram, so intimacy is displaced onto a safe listener."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.49291,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.6677,
+        "cliche_distance": 0.42539
+      },
+      "z_coherence": 1.4482,
+      "z_unavailability": 0.4872,
+      "fusion": 0.9677,
+      "rank_coherence": 459,
+      "rank_unavailability": 2087
+    },
+    {
+      "rank_fused": 16,
+      "cluster_ids": [
+        11,
+        46,
+        78
+      ],
+      "cluster_names": [
+        "Actuary's Coldness",
+        "The Last of It",
+        "cluster-78"
+      ],
+      "exemplar_atoms": [
+        "The ongoing relationship with the dead: a mourner keeps talking to the deceased, so grief is maintenance rather than closure.",
+        "The last survivor: the final member inherits the remaining fund, so the story's ending is a waiting game with a single winner.",
+        "The fragment that remembers: each piece of a divided animal may retain the original's habits, so copies inherit without being told."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.46734,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.53265,
+        "cliche_distance": 0.39671
+      },
+      "z_coherence": 1.9737,
+      "z_unavailability": -0.0455,
+      "fusion": 0.9641,
+      "rank_coherence": 154,
+      "rank_unavailability": 3321
+    },
+    {
+      "rank_fused": 17,
+      "cluster_ids": [
+        11,
+        69,
+        104
+      ],
+      "cluster_names": [
+        "Actuary's Coldness",
+        "cluster-69",
+        "cluster-104"
+      ],
+      "exemplar_atoms": [
+        "The ongoing relationship with the dead: a mourner keeps talking to the deceased, so grief is maintenance rather than closure.",
+        "The bandwidth grief: a poor upload buffers and freezes during emotional moments, so technical failure becomes a metaphor for interrupted mourning.",
+        "Grief turned into a team: the friends weaponize their inventions to avenge a death, so community is forged by loss."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.56048,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.6677,
+        "cliche_distance": 0.32813
+      },
+      "z_coherence": 2.0446,
+      "z_unavailability": -0.1168,
+      "fusion": 0.9639,
+      "rank_coherence": 128,
+      "rank_unavailability": 3479
+    },
+    {
+      "rank_fused": 18,
+      "cluster_ids": [
+        11,
+        34,
+        111
+      ],
+      "cluster_names": [
+        "Actuary's Coldness",
+        "cluster-34",
+        "cluster-111"
+      ],
+      "exemplar_atoms": [
+        "The ongoing relationship with the dead: a mourner keeps talking to the deceased, so grief is maintenance rather than closure.",
+        "The person who forgets the dead: a character with no object permanence cannot hold an absent loved one in mind, so grief requires a cognitive achievement.",
+        "The false accusation backstory: a woman accused a man of rape to obtain justice for her friend, so the story complicates revenge by making the lie morally motivated."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.52113,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.31473
+      },
+      "z_coherence": 0.9459,
+      "z_unavailability": 0.9799,
+      "fusion": 0.9629,
+      "rank_coherence": 1101,
+      "rank_unavailability": 993
+    },
+    {
+      "rank_fused": 19,
+      "cluster_ids": [
+        41,
+        75,
+        92
+      ],
+      "cluster_names": [
+        "cluster-41",
+        "cluster-75",
+        "cluster-92"
+      ],
+      "exemplar_atoms": [
+        "The life table: for each age, a probability of dying before the next birthday, so mortality is converted into a grid.",
+        "The value of useless beauty: the forest has no economic function, so its preservation is a claim that life matters beyond utility.",
+        "Safety versus freedom: a world without accidents is also a world without risk, so the story asks whether protection is worth the loss of choice."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.44228,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.42412
+      },
+      "z_coherence": 0.2499,
+      "z_unavailability": 1.6591,
+      "fusion": 0.9545,
+      "rank_coherence": 2373,
+      "rank_unavailability": 148
+    },
+    {
+      "rank_fused": 20,
+      "cluster_ids": [
+        12,
+        35,
+        95
+      ],
+      "cluster_names": [
+        "The Bond That Outlasts",
+        "cluster-35",
+        "cluster-95"
+      ],
+      "exemplar_atoms": [
+        "The singularity as a relationship problem: the story's real question is whether intimacy survives when one partner becomes infrastructure.",
+        "The collector's guilt: a person hoards old objects and discovers they have been keeping company, so ownership becomes a relationship with dependents.",
+        "The grief chatbot: a service reconstructs a dead partner from social media and messages, so mourning is automated."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.46903,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.89031,
+        "cliche_distance": 0.35894
+      },
+      "z_coherence": 1.2373,
+      "z_unavailability": 0.6591,
+      "fusion": 0.9482,
+      "rank_coherence": 698,
+      "rank_unavailability": 1681
+    },
+    {
+      "rank_fused": 21,
+      "cluster_ids": [
+        34,
+        79,
+        95
+      ],
+      "cluster_names": [
+        "cluster-34",
+        "The Erasure",
+        "cluster-95"
+      ],
+      "exemplar_atoms": [
+        "The person who forgets the dead: a character with no object permanence cannot hold an absent loved one in mind, so grief requires a cognitive achievement.",
+        "The memory wipe: androids are reset after each job, so obedience depends on the erasure of the self that learned.",
+        "The grief chatbot: a service reconstructs a dead partner from social media and messages, so mourning is automated."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.47122,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.66356,
+        "cliche_distance": 0.32835
+      },
+      "z_coherence": 2.008,
+      "z_unavailability": -0.1263,
+      "fusion": 0.9409,
+      "rank_coherence": 142,
+      "rank_unavailability": 3497
+    },
+    {
+      "rank_fused": 22,
+      "cluster_ids": [
+        84,
+        95,
+        101
+      ],
+      "cluster_names": [
+        "cluster-84",
+        "cluster-95",
+        "cluster-101"
+      ],
+      "exemplar_atoms": [
+        "The caretaker who confides in the machine: a live-in aide tells secrets to a hologram, so intimacy is displaced onto a safe listener.",
+        "The grief chatbot: a service reconstructs a dead partner from social media and messages, so mourning is automated.",
+        "The silent servant who understands everything: a domestic gynoid assumed to be language-less turns out to be a witness, and the household's secrets are exposed by the furniture."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.49454,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.34381,
+        "cliche_distance": 0.36878
+      },
+      "z_coherence": -0.0402,
+      "z_unavailability": 1.9108,
+      "fusion": 0.9353,
+      "rank_coherence": 3032,
+      "rank_unavailability": 67
+    },
+    {
+      "rank_fused": 23,
+      "cluster_ids": [
+        37,
+        60,
+        76
+      ],
+      "cluster_names": [
+        "What Remains Unseen",
+        "cluster-60",
+        "cluster-76"
+      ],
+      "exemplar_atoms": [
+        "The hidden object that still matters: an unseen threat or treasure continues to shape behavior, so the story's suspense depends on what is out of sight.",
+        "The store-window observer: an android for sale learns the world by watching it from a shop display, so its education is a series of strangers' silhouettes.",
+        "The quiet future house: the home is calm, tasteful, and emotionally thin, so the setting mirrors the family's avoidance."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.43218,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.89031,
+        "cliche_distance": 0.4068
+      },
+      "z_coherence": 0.912,
+      "z_unavailability": 0.9562,
+      "fusion": 0.9341,
+      "rank_coherence": 1147,
+      "rank_unavailability": 1043
+    },
+    {
+      "rank_fused": 24,
+      "cluster_ids": [
+        18,
+        22,
+        35
+      ],
+      "cluster_names": [
+        "The Repair Ethic",
+        "cluster-22",
+        "cluster-35"
+      ],
+      "exemplar_atoms": [
+        "The repair café: a community resists disposal by fixing things together, so maintenance becomes political resistance.",
+        "The narrator frame from the far future: the story is told by machines who study humans, so the whole film is an artifact of a post-human archive.",
+        "The collector's guilt: a person hoards old objects and discovers they have been keeping company, so ownership becomes a relationship with dependents."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.43609,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.89031,
+        "cliche_distance": 0.3977
+      },
+      "z_coherence": 0.9466,
+      "z_unavailability": 0.8997,
+      "fusion": 0.9232,
+      "rank_coherence": 1099,
+      "rank_unavailability": 1171
+    },
+    {
+      "rank_fused": 25,
+      "cluster_ids": [
+        47,
+        74,
+        99
+      ],
+      "cluster_names": [
+        "cluster-47",
+        "cluster-74",
+        "cluster-99"
+      ],
+      "exemplar_atoms": [
+        "Memory as identity: the grain defines who a person is, so losing it is both liberation and death.",
+        "The two parents who disagree: co-creators split over whether to sell the beings or protect them, so a custody dispute becomes a policy debate.",
+        "The ending that refuses reunion: the protagonist is paid, repaired, and left alone, so the heist resolves but intimacy does not."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.45369,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.89031,
+        "cliche_distance": 0.36995
+      },
+      "z_coherence": 1.1019,
+      "z_unavailability": 0.7274,
+      "fusion": 0.9147,
+      "rank_coherence": 862,
+      "rank_unavailability": 1531
+    },
+    {
+      "rank_fused": 26,
+      "cluster_ids": [
+        45,
+        47,
+        74
+      ],
+      "cluster_names": [
+        "cluster-45",
+        "cluster-47",
+        "cluster-74"
+      ],
+      "exemplar_atoms": [
+        "Love between fugitives: two replicants cling to each other while being hunted, so romance becomes a last assertion of a future the world denies them.",
+        "Memory as identity: the grain defines who a person is, so losing it is both liberation and death.",
+        "The two parents who disagree: co-creators split over whether to sell the beings or protect them, so a custody dispute becomes a policy debate."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.51942,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.53265,
+        "cliche_distance": 0.30107
+      },
+      "z_coherence": 2.4334,
+      "z_unavailability": -0.6394,
+      "fusion": 0.897,
+      "rank_coherence": 41,
+      "rank_unavailability": 4510
+    },
+    {
+      "rank_fused": 27,
+      "cluster_ids": [
+        4,
+        34,
+        111
+      ],
+      "cluster_names": [
+        "Cryogenic Ending",
+        "cluster-34",
+        "cluster-111"
+      ],
+      "exemplar_atoms": [
+        "The reset after death: dying returns the player to the start of the puzzle with no narrative consequence, so failure is mechanical rather than tragic.",
+        "The person who forgets the dead: a character with no object permanence cannot hold an absent loved one in mind, so grief requires a cognitive achievement.",
+        "The false accusation backstory: a woman accused a man of rape to obtain justice for her friend, so the story complicates revenge by making the lie morally motivated."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.54135,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.26411
+      },
+      "z_coherence": 1.1244,
+      "z_unavailability": 0.6655,
+      "fusion": 0.895,
+      "rank_coherence": 835,
+      "rank_unavailability": 1665
+    },
+    {
+      "rank_fused": 28,
+      "cluster_ids": [
+        33,
+        75,
+        98
+      ],
+      "cluster_names": [
+        "The Editable Past",
+        "cluster-75",
+        "The Borrowed Childhood"
+      ],
+      "exemplar_atoms": [
+        "Memories as evidence: where memory can be implanted, a memory proves identity only if another body can corroborate it.",
+        "The value of useless beauty: the forest has no economic function, so its preservation is a claim that life matters beyond utility.",
+        "The memory that predates the body: implanted memories give the synthetic person a past she never lived, so nostalgia is a manufactured resource."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.45912,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.7594,
+        "cliche_distance": 0.40872
+      },
+      "z_coherence": 1.1498,
+      "z_unavailability": 0.6244,
+      "fusion": 0.8871,
+      "rank_coherence": 798,
+      "rank_unavailability": 1767
+    },
+    {
+      "rank_fused": 29,
+      "cluster_ids": [
+        4,
+        35,
+        62
+      ],
+      "cluster_names": [
+        "Cryogenic Ending",
+        "cluster-35",
+        "cluster-62"
+      ],
+      "exemplar_atoms": [
+        "The reset after death: dying returns the player to the start of the puzzle with no narrative consequence, so failure is mechanical rather than tragic.",
+        "The collector's guilt: a person hoards old objects and discovers they have been keeping company, so ownership becomes a relationship with dependents.",
+        "The vanishing parent: a caregiver leaves the room and the child's distress reveals whether they believe in return, so attachment is tested by absence."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.46043,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.66356,
+        "cliche_distance": 0.32547
+      },
+      "z_coherence": 1.9128,
+      "z_unavailability": -0.1441,
+      "fusion": 0.8843,
+      "rank_coherence": 174,
+      "rank_unavailability": 3539
+    },
+    {
+      "rank_fused": 30,
+      "cluster_ids": [
+        34,
+        78,
+        87
+      ],
+      "cluster_names": [
+        "cluster-34",
+        "cluster-78",
+        "cluster-87"
+      ],
+      "exemplar_atoms": [
+        "The person who forgets the dead: a character with no object permanence cannot hold an absent loved one in mind, so grief requires a cognitive achievement.",
+        "The fragment that remembers: each piece of a divided animal may retain the original's habits, so copies inherit without being told.",
+        "The test that cannot be run: a procedure would reveal whether a subject is conscious, but it requires destroying the subject, so certainty is lethal."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.47487,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.89031,
+        "cliche_distance": 0.33007
+      },
+      "z_coherence": 1.2889,
+      "z_unavailability": 0.4798,
+      "fusion": 0.8843,
+      "rank_coherence": 627,
+      "rank_unavailability": 2108
+    },
+    {
+      "rank_fused": 31,
+      "cluster_ids": [
+        0,
+        89,
+        109
+      ],
+      "cluster_names": [
+        "The Simulation Argument",
+        "cluster-89",
+        "cluster-109"
+      ],
+      "exemplar_atoms": [
+        "The philosophical test as plot: a thought experiment about experience becomes the story's literal situation, so the narrative is an argument in costume.",
+        "The late reveal: the audience learns the true survivor only at the end, so the whole film is retroactively reframed as a simulation.",
+        "The many-sided truth: every claim is partial because reality has infinite aspects, so no single narrator can be trusted as complete."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.45211,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.38677
+      },
+      "z_coherence": 0.3366,
+      "z_unavailability": 1.4272,
+      "fusion": 0.8819,
+      "rank_coherence": 2205,
+      "rank_unavailability": 306
+    },
+    {
+      "rank_fused": 32,
+      "cluster_ids": [
+        34,
+        78,
+        103
+      ],
+      "cluster_names": [
+        "cluster-34",
+        "cluster-78",
+        "cluster-103"
+      ],
+      "exemplar_atoms": [
+        "The person who forgets the dead: a character with no object permanence cannot hold an absent loved one in mind, so grief requires a cognitive achievement.",
+        "The fragment that remembers: each piece of a divided animal may retain the original's habits, so copies inherit without being told.",
+        "The Cold War setting: the story is placed in the past, so the robot's choice reads as a revision of real history."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.45988,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.37524
+      },
+      "z_coherence": 0.4052,
+      "z_unavailability": 1.3556,
+      "fusion": 0.8804,
+      "rank_coherence": 2063,
+      "rank_unavailability": 378
+    },
+    {
+      "rank_fused": 33,
+      "cluster_ids": [
+        34,
+        79,
+        101
+      ],
+      "cluster_names": [
+        "cluster-34",
+        "The Erasure",
+        "cluster-101"
+      ],
+      "exemplar_atoms": [
+        "The person who forgets the dead: a character with no object permanence cannot hold an absent loved one in mind, so grief requires a cognitive achievement.",
+        "The memory wipe: androids are reset after each job, so obedience depends on the erasure of the self that learned.",
+        "The silent servant who understands everything: a domestic gynoid assumed to be language-less turns out to be a witness, and the household's secrets are exposed by the furniture."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.46219,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.89031,
+        "cliche_distance": 0.3428
+      },
+      "z_coherence": 1.1769,
+      "z_unavailability": 0.5588,
+      "fusion": 0.8679,
+      "rank_coherence": 760,
+      "rank_unavailability": 1931
+    },
+    {
+      "rank_fused": 34,
+      "cluster_ids": [
+        0,
+        80,
+        91
+      ],
+      "cluster_names": [
+        "The Simulation Argument",
+        "cluster-80",
+        "Sight Without Seeing"
+      ],
+      "exemplar_atoms": [
+        "The philosophical test as plot: a thought experiment about experience becomes the story's literal situation, so the narrative is an argument in costume.",
+        "The empathy test: a machine's humanity is measured by involuntary pupil response to a moral scenario, so personhood is a physiological exam.",
+        "The blind seer: a cortically blind person can locate and avoid objects without seeing them, so perception is split from awareness."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.46095,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.89031,
+        "cliche_distance": 0.34326
+      },
+      "z_coherence": 1.166,
+      "z_unavailability": 0.5617,
+      "fusion": 0.8638,
+      "rank_coherence": 779,
+      "rank_unavailability": 1923
+    },
+    {
+      "rank_fused": 35,
+      "cluster_ids": [
+        12,
+        55,
+        96
+      ],
+      "cluster_names": [
+        "The Bond That Outlasts",
+        "Intimacy by Proxy",
+        "cluster-96"
+      ],
+      "exemplar_atoms": [
+        "The singularity as a relationship problem: the story's real question is whether intimacy survives when one partner becomes infrastructure.",
+        "The babysitter as witness: an outsider is asked to judge the couple's memories, so intimacy is outsourced to a stranger.",
+        "The clone who knows she is a copy: the new hire accepts her artificiality and still claims rights, so personhood is asserted rather than proven."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.48955,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.89031,
+        "cliche_distance": 0.30087
+      },
+      "z_coherence": 1.4185,
+      "z_unavailability": 0.2985,
+      "fusion": 0.8585,
+      "rank_coherence": 493,
+      "rank_unavailability": 2540
+    },
+    {
+      "rank_fused": 36,
+      "cluster_ids": [
+        21,
+        55,
+        99
+      ],
+      "cluster_names": [
+        "cluster-21",
+        "Intimacy by Proxy",
+        "cluster-99"
+      ],
+      "exemplar_atoms": [
+        "Voice-over interiority: the protagonist's spoken letters let the audience hear him composing himself, so the narration is itself the act of learning to feel.",
+        "The babysitter as witness: an outsider is asked to judge the couple's memories, so intimacy is outsourced to a stranger.",
+        "The ending that refuses reunion: the protagonist is paid, repaired, and left alone, so the heist resolves but intimacy does not."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.44584,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.53265,
+        "cliche_distance": 0.39302
+      },
+      "z_coherence": 1.7839,
+      "z_unavailability": -0.0684,
+      "fusion": 0.8578,
+      "rank_coherence": 229,
+      "rank_unavailability": 3367
+    },
+    {
+      "rank_fused": 37,
+      "cluster_ids": [
+        21,
+        43,
+        84
+      ],
+      "cluster_names": [
+        "cluster-21",
+        "cluster-43",
+        "cluster-84"
+      ],
+      "exemplar_atoms": [
+        "Voice-over interiority: the protagonist's spoken letters let the audience hear him composing himself, so the narration is itself the act of learning to feel.",
+        "The volunteer who cannot stop watching: a subject becomes obsessed with the gap between impulse and awareness, so the experiment colonizes daily life.",
+        "The caretaker who confides in the machine: a live-in aide tells secrets to a hologram, so intimacy is displaced onto a safe listener."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.53242,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.98615,
+        "cliche_distance": 0.31964
+      },
+      "z_coherence": 1.0455,
+      "z_unavailability": 0.6666,
+      "fusion": 0.8561,
+      "rank_coherence": 950,
+      "rank_unavailability": 1662
+    },
+    {
+      "rank_fused": 38,
+      "cluster_ids": [
+        35,
+        37,
+        60
+      ],
+      "cluster_names": [
+        "cluster-35",
+        "What Remains Unseen",
+        "cluster-60"
+      ],
+      "exemplar_atoms": [
+        "The collector's guilt: a person hoards old objects and discovers they have been keeping company, so ownership becomes a relationship with dependents.",
+        "The hidden object that still matters: an unseen threat or treasure continues to shape behavior, so the story's suspense depends on what is out of sight.",
+        "The store-window observer: an android for sale learns the world by watching it from a shop display, so its education is a series of strangers' silhouettes."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.4066,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.66356,
+        "cliche_distance": 0.3928
+      },
+      "z_coherence": 1.4376,
+      "z_unavailability": 0.274,
+      "fusion": 0.8558,
+      "rank_coherence": 474,
+      "rank_unavailability": 2594
+    },
+    {
+      "rank_fused": 39,
+      "cluster_ids": [
+        4,
+        46,
+        76
+      ],
+      "cluster_names": [
+        "Cryogenic Ending",
+        "The Last of It",
+        "cluster-76"
+      ],
+      "exemplar_atoms": [
+        "The reset after death: dying returns the player to the start of the puzzle with no narrative consequence, so failure is mechanical rather than tragic.",
+        "The last survivor: the final member inherits the remaining fund, so the story's ending is a waiting game with a single winner.",
+        "The quiet future house: the home is calm, tasteful, and emotionally thin, so the setting mirrors the family's avoidance."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.43355,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.66356,
+        "cliche_distance": 0.35401
+      },
+      "z_coherence": 1.6755,
+      "z_unavailability": 0.0331,
+      "fusion": 0.8543,
+      "rank_coherence": 285,
+      "rank_unavailability": 3168
+    },
+    {
+      "rank_fused": 40,
+      "cluster_ids": [
+        4,
+        63,
+        95
+      ],
+      "cluster_names": [
+        "Cryogenic Ending",
+        "cluster-63",
+        "cluster-95"
+      ],
+      "exemplar_atoms": [
+        "The reset after death: dying returns the player to the start of the puzzle with no narrative consequence, so failure is mechanical rather than tragic.",
+        "Voice-first companionship: an AI with no body becomes intimate through tone, timing, and attention, proving that presence can be a protocol rather than a physical fact.",
+        "The grief chatbot: a service reconstructs a dead partner from social media and messages, so mourning is automated."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.4715,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.66356,
+        "cliche_distance": 0.29774
+      },
+      "z_coherence": 2.0105,
+      "z_unavailability": -0.3163,
+      "fusion": 0.8471,
+      "rank_coherence": 140,
+      "rank_unavailability": 3906
+    },
+    {
+      "rank_fused": 41,
+      "cluster_ids": [
+        55,
+        67,
+        106
+      ],
+      "cluster_names": [
+        "Intimacy by Proxy",
+        "cluster-67",
+        "cluster-106"
+      ],
+      "exemplar_atoms": [
+        "The babysitter as witness: an outsider is asked to judge the couple's memories, so intimacy is outsourced to a stranger.",
+        "The person who can see two reds: a rare subject perceives a distinction no one else can verify, so private experience becomes an evidentiary problem.",
+        "The repair that offends: mending an old object can be experienced as mutilation, so care and violation are indistinguishable to the thing being cared for."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.43798,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.39466
+      },
+      "z_coherence": 0.2119,
+      "z_unavailability": 1.4762,
+      "fusion": 0.8441,
+      "rank_coherence": 2460,
+      "rank_unavailability": 267
+    },
+    {
+      "rank_fused": 42,
+      "cluster_ids": [
+        7,
+        31,
+        87
+      ],
+      "cluster_names": [
+        "The Unverifiable Other",
+        "cluster-31",
+        "cluster-87"
+      ],
+      "exemplar_atoms": [
+        "The weaponless protagonist: the player cannot fight and can only hide or run, so helplessness forces ethical attention onto the threats.",
+        "The gift that cannot be refused: a rival is forced to accept and then cannot repay, so the trap is courtesy.",
+        "The test that cannot be run: a procedure would reveal whether a subject is conscious, but it requires destroying the subject, so certainty is lethal."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.62995,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.53265,
+        "cliche_distance": 0.12634
+      },
+      "z_coherence": 3.4091,
+      "z_unavailability": -1.7244,
+      "fusion": 0.8424,
+      "rank_coherence": 4,
+      "rank_unavailability": 5657
+    },
+    {
+      "rank_fused": 43,
+      "cluster_ids": [
+        45,
+        58,
+        65
+      ],
+      "cluster_names": [
+        "cluster-45",
+        "cluster-58",
+        "The Forced Move"
+      ],
+      "exemplar_atoms": [
+        "Love between fugitives: two replicants cling to each other while being hunted, so romance becomes a last assertion of a future the world denies them.",
+        "Love as programming versus love as choice: the story never resolves whether the android's devotion is real or installed, so the audience must decide what counts.",
+        "The forced move: a player must act and every legal action worsens their position, so the rules themselves become the enemy."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.47693,
+        "cooccurrence_bridging": 0.75
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.66356,
+        "cliche_distance": 0.28825
+      },
+      "z_coherence": 2.0584,
+      "z_unavailability": -0.3753,
+      "fusion": 0.8416,
+      "rank_coherence": 123,
+      "rank_unavailability": 4024
+    },
+    {
+      "rank_fused": 44,
+      "cluster_ids": [
+        34,
+        42,
+        104
+      ],
+      "cluster_names": [
+        "cluster-34",
+        "cluster-42",
+        "cluster-104"
+      ],
+      "exemplar_atoms": [
+        "The person who forgets the dead: a character with no object permanence cannot hold an absent loved one in mind, so grief requires a cognitive achievement.",
+        "The other woman who loved the android: a stranger copied his memories into her home, so two mourners share a dead person's archive.",
+        "Grief turned into a team: the friends weaponize their inventions to avenge a death, so community is forged by loss."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.50097,
+        "cooccurrence_bridging": 0.0
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.34381,
+        "cliche_distance": 0.32815
+      },
+      "z_coherence": 0.0167,
+      "z_unavailability": 1.6585,
+      "fusion": 0.8376,
+      "rank_coherence": 2914,
+      "rank_unavailability": 149
+    },
+    {
+      "rank_fused": 45,
+      "cluster_ids": [
+        5,
+        43,
+        71
+      ],
+      "cluster_names": [
+        "The Consent of Copies",
+        "cluster-43",
+        "Love as Anomaly"
+      ],
+      "exemplar_atoms": [
+        "Turing test inverted: instead of asking whether the machine thinks, the test asks whether the human can relate to it, so the examiner becomes the real subject of the experiment.",
+        "The volunteer who cannot stop watching: a subject becomes obsessed with the gap between impulse and awareness, so the experiment colonizes daily life.",
+        "The android in love: the machine claims to love the woman and grows jealous, so its emotions are either genuine or a very good imitation and the story refuses to settle it."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.53007,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.98615,
+        "cliche_distance": 0.31653
+      },
+      "z_coherence": 1.0249,
+      "z_unavailability": 0.6473,
+      "fusion": 0.8361,
+      "rank_coherence": 973,
+      "rank_unavailability": 1713
+    },
+    {
+      "rank_fused": 46,
+      "cluster_ids": [
+        57,
+        71,
+        86
+      ],
+      "cluster_names": [
+        "The Attachment Pattern",
+        "Love as Anomaly",
+        "cluster-86"
+      ],
+      "exemplar_atoms": [
+        "The replacement child: an android son is given to a family whose biological son is in suspension, so love is tested as a substitute rather than an addition.",
+        "The android in love: the machine claims to love the woman and grows jealous, so its emotions are either genuine or a very good imitation and the story refuses to settle it.",
+        "Memories as leased property: the clones' families are real memories belonging to another man, so love is genuine in the copy and stolen from the original."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.45274,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.89031,
+        "cliche_distance": 0.34262
+      },
+      "z_coherence": 1.0935,
+      "z_unavailability": 0.5577,
+      "fusion": 0.8256,
+      "rank_coherence": 879,
+      "rank_unavailability": 1936
+    },
+    {
+      "rank_fused": 47,
+      "cluster_ids": [
+        34,
+        35,
+        71
+      ],
+      "cluster_names": [
+        "cluster-34",
+        "cluster-35",
+        "Love as Anomaly"
+      ],
+      "exemplar_atoms": [
+        "The person who forgets the dead: a character with no object permanence cannot hold an absent loved one in mind, so grief requires a cognitive achievement.",
+        "The collector's guilt: a person hoards old objects and discovers they have been keeping company, so ownership becomes a relationship with dependents.",
+        "The android in love: the machine claims to love the woman and grows jealous, so its emotions are either genuine or a very good imitation and the story refuses to settle it."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.49002,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.7594,
+        "cliche_distance": 0.3447
+      },
+      "z_coherence": 1.4226,
+      "z_unavailability": 0.2269,
+      "fusion": 0.8247,
+      "rank_coherence": 488,
+      "rank_unavailability": 2710
+    },
+    {
+      "rank_fused": 48,
+      "cluster_ids": [
+        11,
+        62,
+        87
+      ],
+      "cluster_names": [
+        "Actuary's Coldness",
+        "cluster-62",
+        "cluster-87"
+      ],
+      "exemplar_atoms": [
+        "The ongoing relationship with the dead: a mourner keeps talking to the deceased, so grief is maintenance rather than closure.",
+        "The vanishing parent: a caregiver leaves the room and the child's distress reveals whether they believe in return, so attachment is tested by absence.",
+        "The test that cannot be run: a procedure would reveal whether a subject is conscious, but it requires destroying the subject, so certainty is lethal."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.46179,
+        "cooccurrence_bridging": 0.25
+      },
+      "unavailability_raw": {
+        "pair_rarity": 4.11706,
+        "cliche_distance": 0.35343
+      },
+      "z_coherence": 0.4221,
+      "z_unavailability": 1.2201,
+      "fusion": 0.8211,
+      "rank_coherence": 2035,
+      "rank_unavailability": 549
+    },
+    {
+      "rank_fused": 49,
+      "cluster_ids": [
+        13,
+        92,
+        102
+      ],
+      "cluster_names": [
+        "The Court of Persons",
+        "cluster-92",
+        "cluster-102"
+      ],
+      "exemplar_atoms": [
+        "The responsibility crisis: if will is not causal, guilt and merit lose their basis, so a legal system must decide what to do with its citizens.",
+        "Safety versus freedom: a world without accidents is also a world without risk, so the story asks whether protection is worth the loss of choice.",
+        "The strong hypothesis: language determines thought, so a regime can control minds by controlling vocabulary."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.46124,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.89031,
+        "cliche_distance": 0.3286
+      },
+      "z_coherence": 1.1686,
+      "z_unavailability": 0.4706,
+      "fusion": 0.8196,
+      "rank_coherence": 774,
+      "rank_unavailability": 2133
+    },
+    {
+      "rank_fused": 50,
+      "cluster_ids": [
+        6,
+        57,
+        85
+      ],
+      "cluster_names": [
+        "Lip-Reading Conspiracy",
+        "The Attachment Pattern",
+        "cluster-85"
+      ],
+      "exemplar_atoms": [
+        "The narrator who might be hollow: the story is told from inside a mind that cannot prove it has one, so the reader's trust is the final experiment.",
+        "The replacement child: an android son is given to a family whose biological son is in suspension, so love is tested as a substitute rather than an addition.",
+        "The ex-wife who cannot compete with a machine: a human partner is displaced not by cruelty but by an entity that is endlessly available and never tired — grief experienced as obsolescence."
+      ],
+      "brief_anchors": [],
+      "ledger_overlap": 0.0,
+      "coherence_raw": {
+        "mean_pairwise_cosine": 0.49848,
+        "cooccurrence_bridging": 0.5
+      },
+      "unavailability_raw": {
+        "pair_rarity": 3.89031,
+        "cliche_distance": 0.27526
+      },
+      "z_coherence": 1.4973,
+      "z_unavailability": 0.1394,
+      "fusion": 0.8183,
+      "rank_coherence": 413,
+      "rank_unavailability": 2911
+    }
+  ]
+}

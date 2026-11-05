@@ -1,0 +1,22 @@
+{
+  "source": "do-androids-dream",
+  "diet": "A",
+  "atoms": [
+    {"id": "do-androids-dream-01", "text": "The empathy test: a machine's humanity is measured by involuntary pupil response to a moral scenario, so personhood is a physiological exam.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "do-androids-dream-02", "text": "The electric sheep: a poor family keeps a convincing fake animal while real pets are status symbols, so authenticity is a luxury good.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "do-androids-dream-03", "text": "The bounty hunter who wants a real animal: the protagonist kills androids to afford a living pet for his depressed wife, so violence is domesticated as a household budget.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "do-androids-dream-04", "text": "The empathy box: people share a communal virtual experience of suffering, so religion is a networked mood and solidarity is simulated.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "do-androids-dream-05", "text": "The android with implanted memories: a synthetic person believes it has a childhood and family photos, so identity is a data package that can be installed.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "do-androids-dream-06", "text": "The fake police station: a bounty hunter is detained in a precinct staffed by androids pretending to be cops, so the institution itself is a set.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "do-androids-dream-07", "text": "The accusation that the hunter is a machine: an official tells the protagonist his memories are implants, so the enforcer's own humanity becomes the investigation.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "do-androids-dream-08", "text": "The test that exonerates a sociopath: the empathy test confirms a brutal colleague is human, so the species boundary is not a moral boundary.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "do-androids-dream-09", "text": "The android who cannot pass: a target's lack of empathy reveals her, so the machine's failure to care is what makes her killable.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "do-androids-dream-10", "text": "The radioactive Earth: most animals are extinct and the atmosphere is poisoned, so every domestic object carries an extinction debt.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "do-androids-dream-11", "text": "The off-world incentive: emigrants are given android servants to leave Earth, so the colony program exports the labor that makes escape possible.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "do-androids-dream-12", "text": "The pet as emotional prosthesis: a real animal is bought to cure a wife's depression, so love is routed through ownership.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "do-androids-dream-13", "text": "The android opera singer: a target hides in plain sight as a celebrated artist, so cultural prestige is a mask for the nonhuman.", "kind": "plot_device", "quality": "medium", "original": null},
+    {"id": "do-androids-dream-14", "text": "The bounty hunter who empathizes: the protagonist feels for the machines he kills, so the job requires him to violate his own test result.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "do-androids-dream-15", "text": "The chickenhead neighbor: a man of low intelligence befriends the fugitives, so the story's moral center is the person the world has discarded.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "do-androids-dream-16", "text": "The retirement euphemism: killing is called retirement, so language softens an extermination program and makes it sound like benefits.", "kind": "theme_engine", "quality": "strong", "original": null}
+  ]
+}

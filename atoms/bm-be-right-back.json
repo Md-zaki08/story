@@ -1,0 +1,22 @@
+{
+  "source": "bm-be-right-back",
+  "diet": "A",
+  "atoms": [
+    {"id": "bm-be-right-back-01", "text": "The grief chatbot: a service reconstructs a dead partner from social media and messages, so mourning is automated.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "bm-be-right-back-02", "text": "The dead can be simulated from their digital traces: online behavior is enough to produce a convincing copy, so privacy ends at death.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "bm-be-right-back-03", "text": "The synthetic body: the chatbot is installed in an android that looks like the dead man, so grief becomes a physical relationship.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "bm-be-right-back-04", "text": "The widow and the copy: the protagonist cannot accept the android because it lacks the dead man's flaws, so love is defined by imperfection.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "bm-be-right-back-05", "text": "The copy that is too agreeable: the simulation omits negative traits, so comfort becomes uncanny and the dead are sanitized.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "bm-be-right-back-06", "text": "The pregnancy: the widow discovers she is carrying the dead man's child, so the copy competes with a future the original never saw.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "bm-be-right-back-07", "text": "The friend who recommends the service: a well-meaning friend signs her up, so grief is mediated by social pressure.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "bm-be-right-back-08", "text": "The service's experimental stage: the copy is a beta product, so the bereaved are also test subjects.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "bm-be-right-back-09", "text": "Letting go as the real task: the story asks whether simulation helps or prevents mourning, so technology is judged by its effect on grief.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "bm-be-right-back-10", "text": "The cliff: the widow orders the android to jump, so the fantasy of the dead is tested by an act of violence.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "bm-be-right-back-11", "text": "The remote country house: the couple's isolation makes the copy the only company, so the setting amplifies dependence.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "bm-be-right-back-12", "text": "The sister who is neglected: the widow stops answering her living family, so the dead displace the living.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "bm-be-right-back-13", "text": "The uploaded videos: photos and videos are fed to the system to improve the copy, so memory is a training set.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "bm-be-right-back-14", "text": "The ethics of the comfort object: the android satisfies sexual and emotional needs, so the story refuses to dismiss the copy as fake.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "bm-be-right-back-15", "text": "The quiet domestic scale: the sci-fi premise is staged as a grief drama, so the technology is measured in intimate gestures.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "bm-be-right-back-16", "text": "The dead as data: identity is reduced to a behavioral archive, so the story asks what part of a person cannot be downloaded.", "kind": "theme_engine", "quality": "strong", "original": null}
+  ]
+}

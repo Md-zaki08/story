@@ -1,0 +1,342 @@
+{
+  "brief": {
+    "genre": "",
+    "tone": "horror",
+    "setting": "flooded mining town",
+    "time_period": "",
+    "must_include": [
+      "Mara",
+      "flooded mining town",
+      "brokered memories",
+      "decaying AI archive"
+    ],
+    "must_avoid": [
+      "prophecy",
+      "chosen one"
+    ],
+    "banned_tropes": [
+      "chosen one",
+      "prophecy"
+    ],
+    "themes": [
+      "memory manipulation",
+      "dehumanization",
+      "resilience in despair",
+      "dystopian future",
+      "technological decay"
+    ],
+    "search_queries": [
+      "flooded mining towns",
+      "AI memory brokers",
+      "decaying technology horror stories",
+      "resilience in despair stories",
+      "dystopian mining towns",
+      "AI memories and human connection"
+    ],
+    "foreign_queries": [
+      "flooded cities in sci-fi",
+      "memory manipulation in fantasy",
+      "dystopian underwater landscapes"
+    ],
+    "hard_constraints_summary": "This story must avoid prophecy and chosen one tropes while including Mara, a woman who brokers memories through a decaying AI archive in a flooded mining town.",
+    "soft_constraints_summary": "The story should have a horror tone, focus on themes of memory manipulation, dehumanization, resilience, and technological decay, while keeping the setting in a flooded mining town.",
+    "audience": "",
+    "brief": "A quiet horror story set in a flooded mining town, about a woman named Mara who brokers other people's memories through a decaying AI archive; no prophecy, no chosen one."
+  },
+  "sources": [
+    {
+      "id": "ghost-town",
+      "title": "Ghost town",
+      "url": "https://en.wikipedia.org/wiki/Ghost_town",
+      "diet": "A",
+      "atoms": 10,
+      "query": "flooded mining towns"
+    },
+    {
+      "id": "great-flood-of-1862",
+      "title": "Great Flood of 1862",
+      "url": "https://en.wikipedia.org/wiki/Great_Flood_of_1862",
+      "diet": "A",
+      "atoms": 10,
+      "query": "flooded mining towns"
+    },
+    {
+      "id": "sam-altman",
+      "title": "Sam Altman",
+      "url": "https://en.wikipedia.org/wiki/Sam_Altman",
+      "diet": "A",
+      "atoms": 10,
+      "query": "AI memory brokers"
+    },
+    {
+      "id": "nvidia",
+      "title": "Nvidia",
+      "url": "https://en.wikipedia.org/wiki/Nvidia",
+      "diet": "A",
+      "atoms": 10,
+      "query": "AI memory brokers"
+    },
+    {
+      "id": "valkey",
+      "title": "Valkey",
+      "url": "https://en.wikipedia.org/wiki/Valkey",
+      "diet": "A",
+      "atoms": 8,
+      "query": "AI memory brokers"
+    }
+  ],
+  "atoms": [
+    {
+      "id": "ghost-town-01",
+      "text": "The exhaustion of natural resources leading to the abandonment of towns.",
+      "source": "ghost-town"
+    },
+    {
+      "id": "ghost-town-02",
+      "text": "Dividing a historic city into controlled and uncontrolled zones to enforce strict restrictions.",
+      "source": "ghost-town"
+    },
+    {
+      "id": "ghost-town-03",
+      "text": "The presence of settler populations in divided areas causing displacement.",
+      "source": "ghost-town"
+    },
+    {
+      "id": "ghost-town-04",
+      "text": "War and conflict as a cause of town abandonment.",
+      "source": "ghost-town"
+    },
+    {
+      "id": "ghost-town-05",
+      "text": "The intentional destruction of towns by occupying forces to discourage return.",
+      "source": "ghost-town"
+    },
+    {
+      "id": "ghost-town-06",
+      "text": "The use of abandoned towns as building materials, further depleting and emptying them.",
+      "source": "ghost-town"
+    },
+    {
+      "id": "ghost-town-07",
+      "text": "The rebuilding of towns by international organizations in contrast to their destruction by occupying forces.",
+      "source": "ghost-town"
+    },
+    {
+      "id": "ghost-town-08",
+      "text": "The presence of a small remaining population allowing for the term 'ghost town' to be applied.",
+      "source": "ghost-town"
+    },
+    {
+      "id": "ghost-town-09",
+      "text": "The use of ghost towns as tourist attractions or filming locations.",
+      "source": "ghost-town"
+    },
+    {
+      "id": "ghost-town-10",
+      "text": "The use of ghost towns as a historical reminder of past conflicts and events.",
+      "source": "ghost-town"
+    },
+    {
+      "id": "great-flood-of-1862-01",
+      "text": "A series of atmospheric rivers causing an intense, warm storm that melts heavy snow load and causes flooding.",
+      "source": "great-flood-of-1862"
+    },
+    {
+      "id": "great-flood-of-1862-02",
+      "text": "A longwave trough that remained in Oregon for nearly 40 days, causing precipitation in the state.",
+      "source": "great-flood-of-1862"
+    },
+    {
+      "id": "great-flood-of-1862-03",
+      "text": "The polar jet stream being to the north, resulting in a mild rainy pattern in the Pacific Northwest.",
+      "source": "great-flood-of-1862"
+    },
+    {
+      "id": "great-flood-of-1862-04",
+      "text": "The warm rains from atmospheric rivers causing flooding in California and other regions.",
+      "source": "great-flood-of-1862"
+    },
+    {
+      "id": "great-flood-of-1862-05",
+      "text": "The Willamette River and other streams in the Cascades experiencing increased flooding due to snow accumulation.",
+      "source": "great-flood-of-1862"
+    },
+    {
+      "id": "great-flood-of-1862-06",
+      "text": "The flooding in Oregon causing destruction of mills, houses, and towns, and displacement of people.",
+      "source": "great-flood-of-1862"
+    },
+    {
+      "id": "great-flood-of-1862-07",
+      "text": "The flooding in Oregon City resulting in the destruction of mills and the need for people to evacuate.",
+      "source": "great-flood-of-1862"
+    },
+    {
+      "id": "great-flood-of-1862-08",
+      "text": "The atmospheric rivers producing strong, warm southerly winds in Oregon, leading to heavy rain.",
+      "source": "great-flood-of-1862"
+    },
+    {
+      "id": "great-flood-of-1862-09",
+      "text": "The flooding in Oregon leading to the destruction of historic towns like Champoeg and Orleans.",
+      "source": "great-flood-of-1862"
+    },
+    {
+      "id": "great-flood-of-1862-10",
+      "text": "Rivers serving as main travel routes and commercial hubs.",
+      "source": "great-flood-of-1862"
+    },
+    {
+      "id": "sam-altman-01",
+      "text": "Dropping out of Stanford University to co-found Loopt, a location-based social networking mobile application.",
+      "source": "sam-altman"
+    },
+    {
+      "id": "sam-altman-02",
+      "text": "Loopt acquiring geolocation data from cellular providers and attempting to create an early social network for users to see where their friends were in real time.",
+      "source": "sam-altman"
+    },
+    {
+      "id": "sam-altman-03",
+      "text": "Loopt's board of directors attempting twice to remove Altman from his role as CEO.",
+      "source": "sam-altman"
+    },
+    {
+      "id": "sam-altman-04",
+      "text": "Altman becoming the president of Y Combinator and later expanding YC's scope, aiming to fund 1,000 new companies per year.",
+      "source": "sam-altman"
+    },
+    {
+      "id": "sam-altman-05",
+      "text": "Altman's investments in multiple startups, such as Stripe, Inc.",
+      "source": "sam-altman"
+    },
+    {
+      "id": "sam-altman-06",
+      "text": "Hydrazine Capital's initial $21 million fund including a large part from Peter Thiel, his mentor and main backer in Silicon Valley.",
+      "source": "sam-altman"
+    },
+    {
+      "id": "sam-altman-07",
+      "text": "Hydrazine launching its fourth fund with the University of Michigan endowment as the only outside investor.",
+      "source": "sam-altman"
+    },
+    {
+      "id": "sam-altman-08",
+      "text": "Hydrazine's investments in biotech companies, including Humane, Retro Biosciences, Boom Technology, Cruise, and Helion Energy.",
+      "source": "sam-altman"
+    },
+    {
+      "id": "sam-altman-09",
+      "text": "Altman providing capital to multiple startups during the depositor run on Silicon Valley Bank in mid-March 2023.",
+      "source": "sam-altman"
+    },
+    {
+      "id": "sam-altman-10",
+      "text": "Altman's investments in nuclear energy companies, such as Minicircle, Charter City projects Próspera and Praxis, and Airbnb, Stripe, and Retro Biosciences.",
+      "source": "sam-altman"
+    },
+    {
+      "id": "nvidia-01",
+      "text": "Founding Nvidia by three engineers: Huang, Malachowsky, and Priem, based on compelling visions of 3D graphics in gaming and multimedia, creates a clear plot device that drives the company's initial success and future trajectory.",
+      "source": "nvidia"
+    },
+    {
+      "id": "nvidia-02",
+      "text": "Huang's decision to leave LSI and become the CEO of the new startup, along with Malachowsky and Priem's decision to resign from their current jobs, creates a dynamic of pressure and urgency that pushes the founders towards a shared vision, adding tension and meaning to the founding story.",
+      "source": "nvidia"
+    },
+    {
+      "id": "nvidia-03",
+      "text": "The struggle to find a name for the company, resulting in the creation of Nvidia, from the Latin word for 'envy', represents a world rule of brand creation and naming, creating an interesting dynamic of the founders' backgrounds and the company's future.",
+      "source": "nvidia"
+    },
+    {
+      "id": "nvidia-04",
+      "text": "The introduction of onboard T&L in the GeForce 256, making it the first GPU explicitly marketed for gaming, creates a setting pressure of technological innovation in the gaming hardware market.",
+      "source": "nvidia"
+    },
+    {
+      "id": "nvidia-05",
+      "text": "The acquisition of 3dfx's intellectual assets, which had previously been a rival, adds complexity to Nvidia's business strategy and creates a tension with 3dfx's former employees and customers.",
+      "source": "nvidia"
+    },
+    {
+      "id": "nvidia-06",
+      "text": "Nvidia's control over more than 80% of the market for GPUs used in training and deploying AI models, as a result of developing CUDA, represents a theme engine of the company's dominance in AI hardware, highlighting the importance of innovation in this field.",
+      "source": "nvidia"
+    },
+    {
+      "id": "nvidia-07",
+      "text": "The acquisition of Exluna, an acquisition process finalized in April 2002, adds a layer of complexity to Nvidia's business strategy and creates a tension with the company's current projects and resources.",
+      "source": "nvidia"
+    },
+    {
+      "id": "nvidia-08",
+      "text": "The company's expansion into gaming hardware and services, such as the Shield Portable, Shield Tablet, Shield TV, and GeForce Now cloud gaming service, represents a world rule of the gaming industry's evolution and expansion into new territories.",
+      "source": "nvidia"
+    },
+    {
+      "id": "nvidia-09",
+      "text": "The company's involvement in developing the Tegra line of mobile processors for smartphones, tablets, and automotive infotainment systems, adds complexity to Nvidia's business strategy and creates a tension with its core business of GPUs for high-performance computing and AI.",
+      "source": "nvidia"
+    },
+    {
+      "id": "nvidia-10",
+      "text": "The company's success in the AI boom, driven by the soaring demand for its AI data center hardware, creates a theme engine of the importance of AI and data centers in the tech industry's future.",
+      "source": "nvidia"
+    },
+    {
+      "id": "valkey-01",
+      "text": "Low-latency reads and writes in an in-memory database, making it suitable for use cases requiring fast data access.",
+      "source": "valkey"
+    },
+    {
+      "id": "valkey-02",
+      "text": "Valkey being a fork of Redis and later being forked again, creating a new project under the Linux Foundation.",
+      "source": "valkey"
+    },
+    {
+      "id": "valkey-03",
+      "text": "Redis switching from BSD license to dual SSPL and proprietary licensing, leading to a community-based fork.",
+      "source": "valkey"
+    },
+    {
+      "id": "valkey-04",
+      "text": "Valkey 9.0 introducing new features such as atomic slot migration, hash field expiration, and support for multiple databases, indicating continuous development and improvement.",
+      "source": "valkey"
+    },
+    {
+      "id": "valkey-05",
+      "text": "The history of Redis and Valkey, including the transition from BSD to SSPL, provides a narrative of community-driven projects and the evolution of database software licenses.",
+      "source": "valkey"
+    },
+    {
+      "id": "valkey-06",
+      "text": "Redis and Valkey's use by a variety of tech companies, including Alibaba Cloud, AWS, and Google Cloud, suggests a growing ecosystem of open-source database solutions.",
+      "source": "valkey"
+    },
+    {
+      "id": "valkey-07",
+      "text": "The introduction of Valkey Admin, an open-source visual cluster management tool, indicates a shift towards more user-friendly and modular database management solutions.",
+      "source": "valkey"
+    },
+    {
+      "id": "valkey-08",
+      "text": "The history of Redis, Valkey, and related projects provides a timeline of database evolution and community engagement, creating a sense of continuity and change in the database industry.",
+      "source": "valkey"
+    }
+  ],
+  "new_clusters": [
+    {
+      "id": 112,
+      "name": "Longwave Trough Mechanism",
+      "size": 5
+    },
+    {
+      "id": 113,
+      "name": "Grants and Investments",
+      "size": 2
+    }
+  ]
+}

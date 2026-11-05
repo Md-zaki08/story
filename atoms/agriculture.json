@@ -1,0 +1,57 @@
+{
+  "source": "agriculture",
+  "title": "Agriculture",
+  "diet": "A",
+  "atoms": [
+    {
+      "text": "food surpluses that enabled people to live in the cities",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "domestication of wild sheep, goats, pigs, and cattle",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "domestication of wild potatoes, beans, coca, llamas, alpacas, and guinea pigs in the Andes",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "domestication of wild sugarcane and root vegetables in New Guinea",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "domestication of wild teosinte into maize (corn) in Mesoamerica",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "domestication of wild horse in the Eurasian Steppes",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "agriculture beginning independently in different parts of the globe",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "agriculture in the Middle East with Tigris and Euphrates rivers and a canal system for irrigation",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "agriculture in ancient Egypt with the Nile River and its seasonal flooding",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "agriculture in India with wheat, barley, and jujube by 9000 BC, soon followed by sheep and goats",
+      "kind": "structure_trick",
+      "quality": "medium"
+    }
+  ]
+}

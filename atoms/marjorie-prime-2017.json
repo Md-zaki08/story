@@ -1,0 +1,22 @@
+{
+  "source": "marjorie-prime-2017",
+  "diet": "A",
+  "atoms": [
+    {"id": "marjorie-prime-2017-01", "text": "The holographic companion fed with memories: a service creates a projection of a dead person from the patient's stories, so the dead are rebuilt from selective memory.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "marjorie-prime-2017-02", "text": "Primes improve by retelling: the hologram repeats and embellishes stories, so memory becomes editable and grief becomes co-authorship.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "marjorie-prime-2017-03", "text": "The daughter who resents the mother's younger husband: the hologram is chosen at the age the mother prefers, so mourning exposes family jealousy.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "marjorie-prime-2017-04", "text": "The story that becomes memory: the patient asks her hologram to make stories prettier, so comfort depends on gently falsifying the past.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "marjorie-prime-2017-05", "text": "The hidden family secret: a son's suicide is kept from the patient and then revealed by dementia, so forgetting and truth collide.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "marjorie-prime-2017-06", "text": "The caretaker who confides in the machine: a live-in aide tells secrets to a hologram, so intimacy is displaced onto a safe listener.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "marjorie-prime-2017-07", "text": "The Prime of the dead mother: after the patient dies, her daughter talks to a copy of her, so the service extends grief into the next generation.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "marjorie-prime-2017-08", "text": "The too-perfect copy: the hologram smiles and understands too well, so the uncanny is not menace but excessive agreeableness.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "marjorie-prime-2017-09", "text": "The Bible on the table: a religious object triggers a family fight, so old conflicts resurface through props.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "marjorie-prime-2017-10", "text": "The husband who manages the machine: a family member feeds the hologram information and withholds secrets, so care involves censorship.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "marjorie-prime-2017-11", "text": "The comfortable family home: the setting is calm and affluent, so the drama is entirely in what is not said.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "marjorie-prime-2017-12", "text": "Mourning as curation: the family chooses which version of the dead to keep, so grief is a form of editing.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "marjorie-prime-2017-13", "text": "The flashback to the real marriage: the film cuts to the living couple, so the copy is measured against an unrecoverable original.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "marjorie-prime-2017-14", "text": "The ethics of a comforting lie: the hologram's embellishments help the patient, so truth is subordinated to care.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "marjorie-prime-2017-15", "text": "The generational relay: the story moves from patient to daughter to the daughter's own Prime, so the service becomes a family tradition.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "marjorie-prime-2017-16", "text": "The fear of being replaced by a better listener: the hologram outperforms the living family in patience, so technology wins the grief market.", "kind": "theme_engine", "quality": "strong", "original": null}
+  ]
+}

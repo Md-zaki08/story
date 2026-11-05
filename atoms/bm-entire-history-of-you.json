@@ -1,0 +1,22 @@
+{
+  "source": "bm-entire-history-of-you",
+  "diet": "A",
+  "atoms": [
+    {"id": "bm-entire-history-of-you-01", "text": "The grain: an implant records everything a person sees and hears, so memory becomes a searchable archive.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "bm-entire-history-of-you-02", "text": "The re-do: people replay past moments to scrutinize them, so memory is used as evidence against loved ones.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "bm-entire-history-of-you-03", "text": "The jealous husband: a man obsessively reviews his wife's interactions, so surveillance destroys the trust it is meant to verify.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "bm-entire-history-of-you-04", "text": "The impossibility of letting go: perfect memory prevents forgiveness, so the story argues that forgetting is a social necessity.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "bm-entire-history-of-you-05", "text": "The gouging: a person's grain is cut out by attackers, so memory becomes a body part that can be stolen.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "bm-entire-history-of-you-06", "text": "The dinner party: a social gathering becomes an interrogation, so politeness is a thin layer over archived grievance.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "bm-entire-history-of-you-07", "text": "The sex while replaying memories: intimacy is mediated by past recordings, so the present competes with the archive.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "bm-entire-history-of-you-08", "text": "The grain as legal evidence: recorded experience can be used in court, so privacy is abolished by convenience.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "bm-entire-history-of-you-09", "text": "The tyranny of the record: a perfect archive makes every mistake permanent, so the story treats memory as a prison.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "bm-entire-history-of-you-10", "text": "The babysitter as witness: an outsider is asked to judge the couple's memories, so intimacy is outsourced to a stranger.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "bm-entire-history-of-you-11", "text": "The wife who edits: one partner selectively remembers, so the conflict is over narrative control.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "bm-entire-history-of-you-12", "text": "The final removal: the protagonist cuts out his own grain, so escape requires self-mutilation.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "bm-entire-history-of-you-13", "text": "The affluent near-future home: the setting is comfortable and surveilled, so the horror is domestic rather than dystopian.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "bm-entire-history-of-you-14", "text": "The end of privacy as the end of trust: if everything can be checked, nothing can be taken on faith.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "bm-entire-history-of-you-15", "text": "The real-time replay: scenes are replayed from different angles, so the audience shares the protagonist's obsessive review.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "bm-entire-history-of-you-16", "text": "Memory as identity: the grain defines who a person is, so losing it is both liberation and death.", "kind": "theme_engine", "quality": "strong", "original": null}
+  ]
+}

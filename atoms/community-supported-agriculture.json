@@ -1,0 +1,57 @@
+{
+  "source": "community-supported-agriculture",
+  "title": "Community-supported agriculture",
+  "diet": "A",
+  "atoms": [
+    {
+      "text": "Farm-share or subscription-driven agriculture, where consumers subscribe to a farm's harvest, creating a reciprocal relationship between producers and consumers.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "The CSA model as a prefigurative practice that decommodifies food and reinforces the idea of community as a source of reward and space of emancipation.",
+      "kind": "theme_engine",
+      "quality": "medium"
+    },
+    {
+      "text": "The CSA model as an example of community-led management of production and distribution of goods and services.",
+      "kind": "character_dynamic",
+      "quality": "medium"
+    },
+    {
+      "text": "The CSA model as an alternative socioeconomic model of agriculture and food distribution that allows producers and consumers to share risks of farming.",
+      "kind": "plot_device",
+      "quality": "medium"
+    },
+    {
+      "text": "CSA movements as a prefigurative practice that can be seen as an important step-stone in a sustainability transition in agri-food systems.",
+      "kind": "theme_engine",
+      "quality": "medium"
+    },
+    {
+      "text": "The CSA model as an example of a model in which market agents collaborate for the commonwealth, supported by public policies in some countries.",
+      "kind": "world_rule",
+      "quality": "medium"
+    },
+    {
+      "text": "The CSA model as a practice of commoning, emphasizing the importance of community in agricultural and food distribution.",
+      "kind": "theme_engine",
+      "quality": "medium"
+    },
+    {
+      "text": "The CSA model as a grassroots organizing project, driven by committed activists responding to local needs and values.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "The creation of the Bundesnetzwerk Solidarische Landwirtschaft in 2011 serves as a counterweight to industrial agriculture systems, creating tension between traditional farming and modern industrial practices.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "The Farmers Defense Force's major demonstrations in the Netherlands and the unified Landbouw Collectief represent a unified voice for CSA farmers, creating tension with the current agricultural power structures.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    }
+  ]
+}

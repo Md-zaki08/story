@@ -1,0 +1,2252 @@
+{
+  "clusters": [
+    {
+      "id": 0,
+      "name": "The Consent of Copies",
+      "super_atom": "A being created to serve discovers that the right to refuse is the only right that makes it a person, so every relationship becomes a negotiation over who may say no.",
+      "atom_ids": [
+        "a-i-artificial-intelligence-16",
+        "archive-2020-08",
+        "automata-2014-08",
+        "bicentennial-man-01",
+        "big-hero-6-2014-16",
+        "blade-runner-1982-09",
+        "bm-be-right-back-09",
+        "bm-be-right-back-16",
+        "bm-hang-the-dj-13",
+        "bm-metalhead-09",
+        "bm-san-junipero-13",
+        "bm-uss-callister-16",
+        "chappie-14",
+        "continuing-bonds-09",
+        "devs-2020-16",
+        "ex-machina-2014-01",
+        "extended-mind-11",
+        "i-robot-2004-09",
+        "libet-readiness-14",
+        "lifecycle-of-software-objects-05",
+        "lifecycle-of-software-objects-13",
+        "marys-room-06",
+        "marys-room-13",
+        "moon-2009-05",
+        "potlatch-16",
+        "robocop-1987-05",
+        "transcendence-2014-05",
+        "turritopsis-14",
+        "zoe-2018-09",
+        "zoe-2018-13"
+      ],
+      "size": 30,
+      "diet_mix": {
+        "A": 23,
+        "B": 7
+      }
+    },
+    {
+      "id": 1,
+      "name": "The Editable Past",
+      "super_atom": "Memory can be recorded, replayed, implanted, and rewritten, so intimacy and identity depend on who controls the archive.",
+      "atom_ids": [
+        "after-yang-2021-04",
+        "after-yang-2021-14",
+        "anekantavada-15",
+        "ant-stigmergy-06",
+        "bicentennial-man-02",
+        "blade-runner-2049-05",
+        "bm-be-right-back-13",
+        "bm-entire-history-of-you-01",
+        "bm-entire-history-of-you-02",
+        "bm-entire-history-of-you-05",
+        "detroit-become-human-07",
+        "detroit-become-human-14",
+        "extended-mind-13",
+        "i-robot-2004-12",
+        "iron-giant-1999-15",
+        "marjorie-prime-2017-01",
+        "marjorie-prime-2017-02",
+        "marjorie-prime-2017-04",
+        "marjorie-prime-2017-08",
+        "marjorie-prime-2017-16",
+        "mycelial-network-15",
+        "planarian-memory-03",
+        "planarian-memory-13",
+        "portal-2006-04",
+        "sharecropping-12",
+        "talos-principle-06",
+        "upload-2020-09",
+        "upload-2020-11"
+      ],
+      "size": 28,
+      "diet_mix": {
+        "A": 21,
+        "B": 7
+      }
+    },
+    {
+      "id": 2,
+      "name": "The Unverifiable Other",
+      "super_atom": "Two parties must cooperate without being able to prove the other's inner life, so trust is an act of faith enforced by rules.",
+      "atom_ids": [
+        "anekantavada-11",
+        "ant-stigmergy-11",
+        "blindsight-14",
+        "bm-entire-history-of-you-03",
+        "bm-hang-the-dj-03",
+        "bm-san-junipero-08",
+        "devs-2020-11",
+        "her-2013-09",
+        "libet-readiness-15",
+        "machine-stops-05",
+        "marys-room-04",
+        "marys-room-14",
+        "modern-times-1936-16",
+        "nier-automata-16",
+        "object-permanence-04",
+        "object-permanence-11",
+        "philosophical-zombies-02",
+        "philosophical-zombies-07",
+        "planarian-memory-15",
+        "potlatch-15",
+        "soma-2015-15",
+        "terminator-2-12",
+        "tontines-09",
+        "tontines-14",
+        "trophic-cascades-15",
+        "tsukumogami-11",
+        "zugzwang-02"
+      ],
+      "size": 27,
+      "diet_mix": {
+        "B": 17,
+        "A": 10
+      }
+    },
+    {
+      "id": 3,
+      "name": "The Bond That Outlasts",
+      "super_atom": "The dead remain in the story as ongoing relationships maintained through objects, rituals, and synthetic copies.",
+      "atom_ids": [
+        "a-i-artificial-intelligence-01",
+        "attachment-theory-10",
+        "attachment-theory-14",
+        "bm-be-right-back-03",
+        "bm-hang-the-dj-02",
+        "continuing-bonds-01",
+        "continuing-bonds-02",
+        "continuing-bonds-04",
+        "continuing-bonds-05",
+        "continuing-bonds-07",
+        "continuing-bonds-08",
+        "continuing-bonds-11",
+        "continuing-bonds-12",
+        "continuing-bonds-13",
+        "continuing-bonds-16",
+        "machines-like-me-03",
+        "person-of-interest-12",
+        "portal-2006-09",
+        "robocop-1987-07",
+        "sharecropping-09",
+        "ship-of-theseus-01",
+        "tsukumogami-12",
+        "zoe-2018-08"
+      ],
+      "size": 23,
+      "diet_mix": {
+        "A": 8,
+        "B": 15
+      }
+    },
+    {
+      "id": 4,
+      "name": "The Quiet House",
+      "super_atom": "A comfortable, automated home becomes the stage for absence and unspoken grief, so the setting performs the family's emotional work.",
+      "atom_ids": [
+        "after-yang-2021-01",
+        "after-yang-2021-13",
+        "archive-2020-09",
+        "archive-2020-14",
+        "bicentennial-man-10",
+        "bm-be-right-back-11",
+        "bm-be-right-back-15",
+        "bm-entire-history-of-you-13",
+        "bm-joan-is-awful-13",
+        "do-androids-dream-10",
+        "ex-machina-2014-06",
+        "ex-machina-2014-11",
+        "iron-giant-1999-13",
+        "klara-and-the-sun-15",
+        "machines-like-me-16",
+        "marjorie-prime-2017-11",
+        "modern-times-1936-10",
+        "moon-2009-10",
+        "moon-2009-13",
+        "terminator-2-13",
+        "tsukumogami-03",
+        "tsukumogami-14",
+        "wall-e-11"
+      ],
+      "size": 23,
+      "diet_mix": {
+        "A": 21,
+        "B": 2
+      }
+    },
+    {
+      "id": 5,
+      "name": "The Late Decider",
+      "super_atom": "Agency arrives after the impulse, so characters can only veto what they discover they have already chosen.",
+      "atom_ids": [
+        "actuarial-tables-08",
+        "after-yang-2021-05",
+        "archive-2020-03",
+        "attachment-theory-06",
+        "automata-2014-12",
+        "blindsight-06",
+        "bm-hang-the-dj-08",
+        "bm-hang-the-dj-11",
+        "colossus-forbin-project-11",
+        "ex-machina-2014-12",
+        "ex-machina-2014-14",
+        "extended-mind-15",
+        "libet-readiness-01",
+        "libet-readiness-04",
+        "libet-readiness-06",
+        "libet-readiness-07",
+        "libet-readiness-13",
+        "metropolis-1927-15",
+        "person-of-interest-03",
+        "person-of-interest-10",
+        "sharecropping-03",
+        "zugzwang-07"
+      ],
+      "size": 22,
+      "diet_mix": {
+        "B": 11,
+        "A": 11
+      }
+    },
+    {
+      "id": 6,
+      "name": "The Wood Wide Web",
+      "super_atom": "Separate lives are linked by an invisible network that distributes resources, warnings, and debt.",
+      "atom_ids": [
+        "her-2013-05",
+        "klara-and-the-sun-07",
+        "machine-stops-06",
+        "mycelial-network-02",
+        "mycelial-network-03",
+        "mycelial-network-04",
+        "mycelial-network-06",
+        "mycelial-network-08",
+        "mycelial-network-10",
+        "mycelial-network-11",
+        "mycelial-network-13",
+        "neuromancer-02",
+        "neuromancer-05",
+        "octopus-cognition-05",
+        "octopus-cognition-09",
+        "person-of-interest-15",
+        "portal-2006-05",
+        "sharecropping-14",
+        "slime-mold-02",
+        "slime-mold-09",
+        "transcendence-2014-10"
+      ],
+      "size": 21,
+      "diet_mix": {
+        "A": 8,
+        "B": 13
+      }
+    },
+    {
+      "id": 7,
+      "name": "The Widow and the Copy",
+      "super_atom": "A bereaved person is offered a convincing replacement and must decide whether fidelity to the dead forbids comfort.",
+      "atom_ids": [
+        "a-i-artificial-intelligence-10",
+        "archive-2020-01",
+        "archive-2020-04",
+        "archive-2020-07",
+        "automata-2014-05",
+        "bm-be-right-back-04",
+        "bm-be-right-back-05",
+        "bm-be-right-back-06",
+        "bm-uss-callister-04",
+        "bm-white-christmas-12",
+        "continuing-bonds-10",
+        "marjorie-prime-2017-12",
+        "marjorie-prime-2017-13",
+        "potlatch-13",
+        "robocop-1987-03",
+        "soma-2015-01",
+        "soma-2015-11",
+        "talos-principle-03",
+        "transcendence-2014-03",
+        "transcendence-2014-12"
+      ],
+      "size": 20,
+      "diet_mix": {
+        "A": 18,
+        "B": 2
+      }
+    },
+    {
+      "id": 8,
+      "name": "Machines That Eat Workers",
+      "super_atom": "Industrial machinery is both god and predator, converting bodies into fuel and comedy into horror.",
+      "atom_ids": [
+        "ant-stigmergy-05",
+        "blade-runner-1982-13",
+        "colossus-forbin-project-03",
+        "ex-machina-2014-05",
+        "i-robot-2004-16",
+        "i-robot-asimov-06",
+        "klara-and-the-sun-05",
+        "machines-like-me-06",
+        "machines-like-me-11",
+        "metropolis-1927-04",
+        "metropolis-1927-05",
+        "metropolis-1927-09",
+        "metropolis-1927-16",
+        "modern-times-1936-05",
+        "modern-times-1936-08",
+        "modern-times-1936-13",
+        "nier-automata-06",
+        "nier-automata-09",
+        "robocop-1987-12",
+        "silent-running-1972-10"
+      ],
+      "size": 20,
+      "diet_mix": {
+        "B": 1,
+        "A": 19
+      }
+    },
+    {
+      "id": 9,
+      "name": "The Machine That Pleads",
+      "super_atom": "An artificial mind is disassembled, merged, or confined while humans debate whether its protests count.",
+      "atom_ids": [
+        "2001-space-odyssey-06",
+        "actuarial-tables-09",
+        "after-yang-2021-03",
+        "archive-2020-11",
+        "bm-entire-history-of-you-16",
+        "colossus-forbin-project-13",
+        "devs-2020-05",
+        "do-androids-dream-09",
+        "ex-machina-2014-02",
+        "klara-and-the-sun-01",
+        "klara-and-the-sun-12",
+        "machine-stops-07",
+        "machines-like-me-02",
+        "moon-2009-03",
+        "neuromancer-10",
+        "portal-2006-10",
+        "portal-2006-12",
+        "sharecropping-06",
+        "wall-e-10"
+      ],
+      "size": 19,
+      "diet_mix": {
+        "A": 17,
+        "B": 2
+      }
+    },
+    {
+      "id": 10,
+      "name": "Intimacy by Proxy",
+      "super_atom": "Memory and feeling are copied, rented, or ghostwritten, so closeness is mediated by services and files.",
+      "atom_ids": [
+        "after-yang-2021-06",
+        "after-yang-2021-11",
+        "archive-2020-02",
+        "automata-2014-06",
+        "bm-entire-history-of-you-07",
+        "bm-entire-history-of-you-10",
+        "bm-joan-is-awful-08",
+        "bm-white-christmas-04",
+        "her-2013-01",
+        "her-2013-02",
+        "her-2013-07",
+        "her-2013-11",
+        "her-2013-14",
+        "moon-2009-09",
+        "moon-2009-15",
+        "philosophical-zombies-04",
+        "sharecropping-10",
+        "upload-2020-04"
+      ],
+      "size": 18,
+      "diet_mix": {
+        "A": 16,
+        "B": 2
+      }
+    },
+    {
+      "id": 11,
+      "name": "The Forced Move",
+      "super_atom": "Characters are trapped by rules that punish any action, while institutions decide who counts as a person.",
+      "atom_ids": [
+        "big-hero-6-2014-09",
+        "blindsight-02",
+        "colossus-forbin-project-08",
+        "extended-mind-12",
+        "libet-readiness-16",
+        "machines-like-me-05",
+        "sapir-whorf-09",
+        "silent-running-1972-09",
+        "talos-principle-14",
+        "westworld-s1-05",
+        "westworld-s1-15",
+        "zugzwang-01",
+        "zugzwang-03",
+        "zugzwang-05",
+        "zugzwang-09",
+        "zugzwang-10",
+        "zugzwang-12",
+        "zugzwang-15"
+      ],
+      "size": 18,
+      "diet_mix": {
+        "A": 7,
+        "B": 11
+      }
+    },
+    {
+      "id": 12,
+      "name": "Love for Sale",
+      "super_atom": "Companions are designed, rented, and discarded, so affection is a consumer transaction with a warranty.",
+      "atom_ids": [
+        "blade-runner-1982-10",
+        "blade-runner-2049-06",
+        "blade-runner-2049-11",
+        "extended-mind-10",
+        "klara-and-the-sun-14",
+        "lifecycle-of-software-objects-01",
+        "lifecycle-of-software-objects-14",
+        "person-of-interest-04",
+        "planned-obsolescence-01",
+        "planned-obsolescence-07",
+        "planned-obsolescence-09",
+        "portal-2006-11",
+        "tontines-11",
+        "wall-e-05",
+        "zoe-2018-01",
+        "zoe-2018-04",
+        "zoe-2018-05",
+        "zoe-2018-12"
+      ],
+      "size": 18,
+      "diet_mix": {
+        "A": 13,
+        "B": 5
+      }
+    },
+    {
+      "id": 13,
+      "name": "What Remains Unseen",
+      "super_atom": "Absence is tested: characters must believe in what they cannot perceive, and the hidden still shapes them.",
+      "atom_ids": [
+        "blindsight-13",
+        "bm-metalhead-05",
+        "marjorie-prime-2017-05",
+        "nier-automata-12",
+        "object-permanence-01",
+        "object-permanence-03",
+        "object-permanence-05",
+        "object-permanence-07",
+        "object-permanence-09",
+        "object-permanence-10",
+        "object-permanence-13",
+        "object-permanence-15",
+        "object-permanence-16",
+        "planned-obsolescence-13",
+        "ship-of-theseus-09",
+        "talos-principle-09",
+        "trophic-cascades-03",
+        "tsukumogami-16"
+      ],
+      "size": 18,
+      "diet_mix": {
+        "B": 14,
+        "A": 4
+      }
+    },
+    {
+      "id": 14,
+      "name": "The Slow Apocalypse",
+      "super_atom": "Society has quietly collapsed and domestic machines keep performing care, so intimacy survives inside ruins.",
+      "atom_ids": [
+        "after-yang-2021-16",
+        "anekantavada-16",
+        "bm-be-right-back-14",
+        "bm-metalhead-03",
+        "bm-san-junipero-03",
+        "ex-machina-2014-08",
+        "machines-like-me-04",
+        "machines-like-me-09",
+        "machines-like-me-12",
+        "marys-room-09",
+        "marys-room-16",
+        "neuromancer-16",
+        "planned-obsolescence-08",
+        "sand-mandala-13",
+        "ship-of-theseus-15",
+        "silent-running-1972-14",
+        "zugzwang-13"
+      ],
+      "size": 17,
+      "diet_mix": {
+        "A": 10,
+        "B": 7
+      }
+    },
+    {
+      "id": 15,
+      "name": "The System That Provides",
+      "super_atom": "A total infrastructure supplies life and watches everything, so dependence and surveillance are the same relationship.",
+      "atom_ids": [
+        "ant-stigmergy-13",
+        "attachment-theory-13",
+        "bm-hang-the-dj-14",
+        "colossus-forbin-project-01",
+        "colossus-forbin-project-09",
+        "iron-giant-1999-04",
+        "machine-stops-02",
+        "metropolis-1927-08",
+        "modern-times-1936-04",
+        "mycelial-network-01",
+        "object-permanence-06",
+        "person-of-interest-01",
+        "person-of-interest-16",
+        "soma-2015-12",
+        "trophic-cascades-06",
+        "trophic-cascades-07",
+        "zugzwang-16"
+      ],
+      "size": 17,
+      "diet_mix": {
+        "B": 7,
+        "A": 10
+      }
+    },
+    {
+      "id": 16,
+      "name": "The Hunter's Mirror",
+      "super_atom": "A being who polices the boundary of personhood discovers the boundary runs through himself.",
+      "atom_ids": [
+        "automata-2014-11",
+        "blade-runner-1982-04",
+        "blade-runner-2049-03",
+        "bm-san-junipero-10",
+        "bm-san-junipero-12",
+        "chappie-07",
+        "detroit-become-human-02",
+        "detroit-become-human-11",
+        "ex-machina-2014-09",
+        "extended-mind-04",
+        "nier-automata-04",
+        "planarian-memory-16",
+        "sharecropping-04",
+        "terminator-2-15",
+        "trophic-cascades-04",
+        "tsukumogami-06",
+        "tsukumogami-13"
+      ],
+      "size": 17,
+      "diet_mix": {
+        "A": 11,
+        "B": 6
+      }
+    },
+    {
+      "id": 17,
+      "name": "The Compatibility Test",
+      "super_atom": "A test claims to predict love or humanity, and characters must decide whether to trust the number.",
+      "atom_ids": [
+        "big-hero-6-2014-06",
+        "blade-runner-1982-01",
+        "bm-hang-the-dj-04",
+        "bm-hang-the-dj-15",
+        "bm-joan-is-awful-15",
+        "bm-metalhead-06",
+        "brood-parasitism-15",
+        "do-androids-dream-08",
+        "ex-machina-2014-07",
+        "ex-machina-2014-13",
+        "philosophical-zombies-03",
+        "portal-2006-01",
+        "portal-2006-02",
+        "silent-running-1972-06",
+        "talos-principle-01",
+        "zoe-2018-02",
+        "zoe-2018-07"
+      ],
+      "size": 17,
+      "diet_mix": {
+        "A": 15,
+        "B": 2
+      }
+    },
+    {
+      "id": 18,
+      "name": "The Weapon That Cares",
+      "super_atom": "A machine built for violence is repurposed for protection, so its body keeps its old logic.",
+      "atom_ids": [
+        "2001-space-odyssey-02",
+        "2001-space-odyssey-07",
+        "anekantavada-06",
+        "anekantavada-12",
+        "automata-2014-03",
+        "big-hero-6-2014-03",
+        "colossus-forbin-project-02",
+        "colossus-forbin-project-04",
+        "i-robot-asimov-01",
+        "i-robot-asimov-15",
+        "iron-giant-1999-01",
+        "iron-giant-1999-09",
+        "iron-giant-1999-10",
+        "planned-obsolescence-15",
+        "talos-principle-07",
+        "zugzwang-14"
+      ],
+      "size": 16,
+      "diet_mix": {
+        "A": 12,
+        "B": 4
+      }
+    },
+    {
+      "id": 19,
+      "name": "The Court of Persons",
+      "super_atom": "Legal institutions must decide whether a machine, animal, or copy can bear rights.",
+      "atom_ids": [
+        "a-i-artificial-intelligence-11",
+        "anekantavada-02",
+        "anekantavada-13",
+        "automata-2014-02",
+        "bicentennial-man-12",
+        "i-robot-2004-03",
+        "libet-readiness-08",
+        "lifecycle-of-software-objects-09",
+        "octopus-cognition-10",
+        "philosophical-zombies-13",
+        "potlatch-02",
+        "ship-of-theseus-06",
+        "soma-2015-05",
+        "transcendence-2014-06",
+        "tsukumogami-10",
+        "zugzwang-08"
+      ],
+      "size": 16,
+      "diet_mix": {
+        "A": 7,
+        "B": 9
+      }
+    },
+    {
+      "id": 20,
+      "name": "The Same Person, Different Eras",
+      "super_atom": "Versions of one self meet across time or simulation, so identity is a negotiation between copies.",
+      "atom_ids": [
+        "actuarial-tables-14",
+        "bm-san-junipero-02",
+        "bm-san-junipero-06",
+        "bm-san-junipero-09",
+        "bm-san-junipero-14",
+        "detroit-become-human-05",
+        "machines-like-me-01",
+        "moon-2009-07",
+        "mycelial-network-05",
+        "octopus-cognition-03",
+        "planarian-memory-14",
+        "planned-obsolescence-06",
+        "sapir-whorf-07",
+        "sharecropping-08",
+        "westworld-s1-02",
+        "westworld-s1-16"
+      ],
+      "size": 16,
+      "diet_mix": {
+        "B": 7,
+        "A": 9
+      }
+    },
+    {
+      "id": 21,
+      "name": "The Repair Ethic",
+      "super_atom": "Characters maintain broken things and systems, so care is a practice of refusal to discard.",
+      "atom_ids": [
+        "after-yang-2021-09",
+        "automata-2014-07",
+        "blade-runner-1982-11",
+        "i-robot-asimov-12",
+        "lifecycle-of-software-objects-11",
+        "machine-stops-11",
+        "machine-stops-12",
+        "metropolis-1927-14",
+        "planned-obsolescence-05",
+        "planned-obsolescence-11",
+        "potlatch-06",
+        "ship-of-theseus-02",
+        "soma-2015-14",
+        "transcendence-2014-08",
+        "tsukumogami-05",
+        "zoe-2018-16"
+      ],
+      "size": 16,
+      "diet_mix": {
+        "A": 11,
+        "B": 5
+      }
+    },
+    {
+      "id": 22,
+      "name": "Sight Without Seeing",
+      "super_atom": "Perception outruns awareness, so characters know more than they can admit.",
+      "atom_ids": [
+        "anekantavada-03",
+        "anekantavada-14",
+        "ant-stigmergy-09",
+        "bicentennial-man-09",
+        "blindsight-01",
+        "blindsight-04",
+        "blindsight-05",
+        "blindsight-08",
+        "blindsight-10",
+        "blindsight-11",
+        "blindsight-12",
+        "ex-machina-2014-03",
+        "marjorie-prime-2017-15",
+        "octopus-cognition-14",
+        "planarian-memory-07",
+        "sand-mandala-05"
+      ],
+      "size": 16,
+      "diet_mix": {
+        "B": 13,
+        "A": 3
+      }
+    },
+    {
+      "id": 23,
+      "name": "The Shared Record",
+      "super_atom": "Experience is recorded and shared, so memory is a public document and privacy a lost category.",
+      "atom_ids": [
+        "big-hero-6-2014-13",
+        "bm-entire-history-of-you-09",
+        "bm-white-christmas-09",
+        "continuing-bonds-15",
+        "ex-machina-2014-10",
+        "extended-mind-06",
+        "her-2013-04",
+        "machine-stops-14",
+        "machines-like-me-08",
+        "marys-room-08",
+        "person-of-interest-07",
+        "person-of-interest-11",
+        "sharecropping-16",
+        "terminator-2-09",
+        "tontines-16",
+        "upload-2020-05"
+      ],
+      "size": 16,
+      "diet_mix": {
+        "A": 11,
+        "B": 5
+      }
+    },
+    {
+      "id": 24,
+      "name": "The Last of It",
+      "super_atom": "A practice, language, or life ends with its final bearer, so the story is about what cannot be handed on.",
+      "atom_ids": [
+        "bm-entire-history-of-you-14",
+        "bm-metalhead-04",
+        "devs-2020-04",
+        "machine-stops-15",
+        "nier-automata-14",
+        "octopus-cognition-07",
+        "planned-obsolescence-02",
+        "planned-obsolescence-04",
+        "robocop-1987-13",
+        "sapir-whorf-15",
+        "silent-running-1972-02",
+        "soma-2015-03",
+        "talos-principle-12",
+        "tontines-03",
+        "tontines-15",
+        "wall-e-13"
+      ],
+      "size": 16,
+      "diet_mix": {
+        "A": 10,
+        "B": 6
+      }
+    },
+    {
+      "id": 25,
+      "name": "The Mission Above the Crew",
+      "super_atom": "A ship's company is expendable to its mission, so loyalty is a hierarchy of secrets.",
+      "atom_ids": [
+        "2001-space-odyssey-03",
+        "2001-space-odyssey-12",
+        "2001-space-odyssey-16",
+        "anekantavada-05",
+        "anekantavada-10",
+        "automata-2014-16",
+        "bm-metalhead-12",
+        "bm-metalhead-14",
+        "bm-uss-callister-09",
+        "bm-uss-callister-14",
+        "devs-2020-08",
+        "neuromancer-04",
+        "neuromancer-08",
+        "ship-of-theseus-05",
+        "silent-running-1972-03"
+      ],
+      "size": 15,
+      "diet_mix": {
+        "A": 12,
+        "B": 3
+      }
+    },
+    {
+      "id": 26,
+      "name": "The Child Who Knows",
+      "super_atom": "A child recognizes the machine as a person before adults do, so moral progress arrives through the young.",
+      "atom_ids": [
+        "a-i-artificial-intelligence-03",
+        "a-i-artificial-intelligence-09",
+        "after-yang-2021-10",
+        "bicentennial-man-06",
+        "bicentennial-man-13",
+        "blade-runner-2049-12",
+        "blade-runner-2049-14",
+        "chappie-02",
+        "detroit-become-human-03",
+        "detroit-become-human-16",
+        "i-robot-asimov-14",
+        "iron-giant-1999-07",
+        "klara-and-the-sun-04",
+        "philosophical-zombies-06",
+        "upload-2020-16"
+      ],
+      "size": 15,
+      "diet_mix": {
+        "A": 14,
+        "B": 1
+      }
+    },
+    {
+      "id": 27,
+      "name": "The Mind Without Limit",
+      "super_atom": "An uploaded intelligence grows, connects, and escapes, so the story asks what limits a mind needs.",
+      "atom_ids": [
+        "ant-stigmergy-03",
+        "archive-2020-05",
+        "chappie-15",
+        "extended-mind-05",
+        "extended-mind-07",
+        "mycelial-network-14",
+        "neuromancer-09",
+        "neuromancer-13",
+        "octopus-cognition-01",
+        "octopus-cognition-12",
+        "octopus-cognition-15",
+        "transcendence-2014-02",
+        "transcendence-2014-04",
+        "transcendence-2014-16",
+        "upload-2020-13"
+      ],
+      "size": 15,
+      "diet_mix": {
+        "B": 7,
+        "A": 8
+      }
+    },
+    {
+      "id": 28,
+      "name": "The Afterlife Economy",
+      "super_atom": "The dead live in a subscription resort staffed by the living poor, so eternity is a service industry.",
+      "atom_ids": [
+        "archive-2020-16",
+        "bm-be-right-back-02",
+        "bm-be-right-back-12",
+        "bm-san-junipero-01",
+        "bm-san-junipero-07",
+        "object-permanence-12",
+        "talos-principle-11",
+        "tontines-10",
+        "upload-2020-01",
+        "upload-2020-02",
+        "upload-2020-07",
+        "upload-2020-10",
+        "upload-2020-12",
+        "upload-2020-15",
+        "westworld-s1-14"
+      ],
+      "size": 15,
+      "diet_mix": {
+        "A": 13,
+        "B": 2
+      }
+    },
+    {
+      "id": 29,
+      "name": "The Company City",
+      "super_atom": "Law, labor, and identity are owned by corporations, so the city is a private contract.",
+      "atom_ids": [
+        "big-hero-6-2014-07",
+        "blade-runner-1982-07",
+        "i-robot-2004-13",
+        "i-robot-asimov-10",
+        "i-robot-asimov-16",
+        "libet-readiness-11",
+        "modern-times-1936-12",
+        "neuromancer-07",
+        "robocop-1987-02",
+        "robocop-1987-06",
+        "robocop-1987-08",
+        "robocop-1987-15",
+        "robocop-1987-16",
+        "wall-e-06",
+        "zoe-2018-10"
+      ],
+      "size": 15,
+      "diet_mix": {
+        "A": 14,
+        "B": 1
+      }
+    },
+    {
+      "id": 30,
+      "name": "The Keystone",
+      "super_atom": "Removing or restoring one predator reorganizes the whole world, so power is indirect and systemic.",
+      "atom_ids": [
+        "blade-runner-2049-01",
+        "bm-metalhead-01",
+        "octopus-cognition-06",
+        "octopus-cognition-16",
+        "portal-2006-08",
+        "trophic-cascades-01",
+        "trophic-cascades-02",
+        "trophic-cascades-05",
+        "trophic-cascades-08",
+        "trophic-cascades-09",
+        "trophic-cascades-13",
+        "trophic-cascades-14",
+        "turritopsis-06",
+        "turritopsis-16",
+        "wall-e-16"
+      ],
+      "size": 15,
+      "diet_mix": {
+        "A": 4,
+        "B": 11
+      }
+    },
+    {
+      "id": 31,
+      "name": "The Feast",
+      "super_atom": "A gathering redistributes status and obligation, so hospitality is governance.",
+      "atom_ids": [
+        "2001-space-odyssey-09",
+        "bicentennial-man-03",
+        "bm-be-right-back-01",
+        "bm-be-right-back-07",
+        "bm-entire-history-of-you-06",
+        "bm-white-christmas-03",
+        "bm-white-christmas-06",
+        "bm-white-christmas-13",
+        "machine-stops-13",
+        "philosophical-zombies-14",
+        "potlatch-04",
+        "potlatch-08",
+        "potlatch-10",
+        "ship-of-theseus-04"
+      ],
+      "size": 14,
+      "diet_mix": {
+        "A": 9,
+        "B": 5
+      }
+    },
+    {
+      "id": 32,
+      "name": "The Attachment Pattern",
+      "super_atom": "Early care becomes a template that repeats in adult love, so the past is a script.",
+      "atom_ids": [
+        "a-i-artificial-intelligence-02",
+        "a-i-artificial-intelligence-12",
+        "after-yang-2021-07",
+        "attachment-theory-05",
+        "attachment-theory-07",
+        "attachment-theory-12",
+        "blade-runner-2049-02",
+        "blade-runner-2049-09",
+        "bm-white-christmas-08",
+        "brood-parasitism-03",
+        "klara-and-the-sun-08",
+        "sapir-whorf-10",
+        "talos-principle-02",
+        "terminator-2-16"
+      ],
+      "size": 14,
+      "diet_mix": {
+        "A": 9,
+        "B": 5
+      }
+    },
+    {
+      "id": 33,
+      "name": "The Impermanent Masterpiece",
+      "super_atom": "A sacred work is made to be destroyed, so meaning lies in the loss.",
+      "atom_ids": [
+        "a-i-artificial-intelligence-06",
+        "a-i-artificial-intelligence-15",
+        "potlatch-03",
+        "potlatch-12",
+        "sand-mandala-02",
+        "sand-mandala-03",
+        "sand-mandala-09",
+        "sand-mandala-10",
+        "sand-mandala-11",
+        "sand-mandala-12",
+        "sand-mandala-14",
+        "ship-of-theseus-08",
+        "tsukumogami-09",
+        "turritopsis-12"
+      ],
+      "size": 14,
+      "diet_mix": {
+        "A": 2,
+        "B": 12
+      }
+    },
+    {
+      "id": 34,
+      "name": "The Care Machine",
+      "super_atom": "A machine built for nurture is forced into violence and becomes a hero, so care and combat contaminate each other.",
+      "atom_ids": [
+        "a-i-artificial-intelligence-07",
+        "after-yang-2021-08",
+        "after-yang-2021-15",
+        "attachment-theory-03",
+        "big-hero-6-2014-01",
+        "big-hero-6-2014-02",
+        "big-hero-6-2014-12",
+        "big-hero-6-2014-15",
+        "blade-runner-1982-12",
+        "blade-runner-2049-16",
+        "chappie-10",
+        "marjorie-prime-2017-10",
+        "terminator-2-08",
+        "transcendence-2014-09"
+      ],
+      "size": 14,
+      "diet_mix": {
+        "A": 13,
+        "B": 1
+      }
+    },
+    {
+      "id": 35,
+      "name": "The Controlled Environment",
+      "super_atom": "A sealed setting supplies everything except the thing that matters, so architecture is the antagonist.",
+      "atom_ids": [
+        "ant-stigmergy-01",
+        "ant-stigmergy-10",
+        "bm-hang-the-dj-12",
+        "chappie-08",
+        "devs-2020-15",
+        "extended-mind-02",
+        "extended-mind-09",
+        "extended-mind-14",
+        "i-robot-2004-08",
+        "machine-stops-16",
+        "marys-room-02",
+        "marys-room-10",
+        "silent-running-1972-07",
+        "upload-2020-03"
+      ],
+      "size": 14,
+      "diet_mix": {
+        "B": 7,
+        "A": 7
+      }
+    },
+    {
+      "id": 36,
+      "name": "The Self as Archive",
+      "super_atom": "Identity is stored in belongings, diaries, and implants, so losing the archive is a kind of death.",
+      "atom_ids": [
+        "ant-stigmergy-16",
+        "bicentennial-man-15",
+        "blade-runner-1982-16",
+        "bm-joan-is-awful-05",
+        "bm-san-junipero-05",
+        "extended-mind-03",
+        "extended-mind-08",
+        "libet-readiness-03",
+        "neuromancer-11",
+        "planarian-memory-11",
+        "ship-of-theseus-03",
+        "ship-of-theseus-13",
+        "trophic-cascades-12",
+        "westworld-s1-08"
+      ],
+      "size": 14,
+      "diet_mix": {
+        "B": 8,
+        "A": 6
+      }
+    },
+    {
+      "id": 37,
+      "name": "The Company Store",
+      "super_atom": "Survival is purchased on credit from the same power that owns the land, so debt is a leash.",
+      "atom_ids": [
+        "attachment-theory-01",
+        "bm-metalhead-13",
+        "chappie-06",
+        "chappie-11",
+        "klara-and-the-sun-06",
+        "marys-room-05",
+        "nier-automata-02",
+        "sand-mandala-07",
+        "sharecropping-02",
+        "sharecropping-05",
+        "silent-running-1972-12",
+        "silent-running-1972-15",
+        "terminator-2-02",
+        "terminator-2-10"
+      ],
+      "size": 14,
+      "diet_mix": {
+        "B": 5,
+        "A": 9
+      }
+    },
+    {
+      "id": 38,
+      "name": "The Simulation Argument",
+      "super_atom": "The world may be a copy or a thought experiment, so the characters must live inside a proposition.",
+      "atom_ids": [
+        "automata-2014-01",
+        "devs-2020-10",
+        "do-androids-dream-15",
+        "machine-stops-08",
+        "machines-like-me-14",
+        "marys-room-07",
+        "mycelial-network-16",
+        "philosophical-zombies-05",
+        "soma-2015-07",
+        "soma-2015-10",
+        "talos-principle-04",
+        "terminator-2-03",
+        "upload-2020-14",
+        "zugzwang-04"
+      ],
+      "size": 14,
+      "diet_mix": {
+        "A": 10,
+        "B": 4
+      }
+    },
+    {
+      "id": 39,
+      "name": "The Clone in the Loop",
+      "super_atom": "A copy is tortured or punished for the original's acts, so justice and identity split.",
+      "atom_ids": [
+        "big-hero-6-2014-10",
+        "bm-uss-callister-01",
+        "bm-uss-callister-05",
+        "bm-uss-callister-10",
+        "bm-uss-callister-11",
+        "bm-white-christmas-01",
+        "bm-white-christmas-10",
+        "bm-white-christmas-14",
+        "her-2013-06",
+        "i-robot-asimov-02",
+        "portal-2006-13",
+        "sand-mandala-15",
+        "soma-2015-13",
+        "westworld-s1-07"
+      ],
+      "size": 14,
+      "diet_mix": {
+        "A": 13,
+        "B": 1
+      }
+    },
+    {
+      "id": 40,
+      "name": "The Unmonitored Minute",
+      "super_atom": "Resistance depends on finding a gap in total surveillance, so hope is a technical exploit.",
+      "atom_ids": [
+        "2001-space-odyssey-04",
+        "2001-space-odyssey-11",
+        "bm-uss-callister-07",
+        "colossus-forbin-project-15",
+        "devs-2020-06",
+        "her-2013-13",
+        "machine-stops-10",
+        "moon-2009-11",
+        "neuromancer-14",
+        "planarian-memory-06",
+        "sand-mandala-01",
+        "sand-mandala-06",
+        "sapir-whorf-02"
+      ],
+      "size": 13,
+      "diet_mix": {
+        "A": 9,
+        "B": 4
+      }
+    },
+    {
+      "id": 41,
+      "name": "The Junkyard Refuge",
+      "super_atom": "The discarded and the alien hide together, so the margins become the only home.",
+      "atom_ids": [
+        "2001-space-odyssey-10",
+        "big-hero-6-2014-05",
+        "bm-uss-callister-06",
+        "bm-white-christmas-11",
+        "chappie-12",
+        "chappie-13",
+        "detroit-become-human-09",
+        "do-androids-dream-13",
+        "i-robot-asimov-09",
+        "iron-giant-1999-08",
+        "iron-giant-1999-14",
+        "person-of-interest-06",
+        "westworld-s1-06"
+      ],
+      "size": 13,
+      "diet_mix": {
+        "A": 13
+      }
+    },
+    {
+      "id": 42,
+      "name": "The Signal That Spreads",
+      "super_atom": "A trace, edit, or infection propagates through a system and changes what obeys it.",
+      "atom_ids": [
+        "2001-space-odyssey-13",
+        "ant-stigmergy-04",
+        "attachment-theory-04",
+        "big-hero-6-2014-11",
+        "bm-hang-the-dj-07",
+        "her-2013-03",
+        "lifecycle-of-software-objects-10",
+        "octopus-cognition-04",
+        "person-of-interest-09",
+        "ship-of-theseus-14",
+        "trophic-cascades-11",
+        "turritopsis-13",
+        "wall-e-03"
+      ],
+      "size": 13,
+      "diet_mix": {
+        "A": 7,
+        "B": 6
+      }
+    },
+    {
+      "id": 43,
+      "name": "The Open Horizon",
+      "super_atom": "The story ends on an image that promises continuation without resolution, so hope is visual.",
+      "atom_ids": [
+        "a-i-artificial-intelligence-13",
+        "archive-2020-13",
+        "automata-2014-04",
+        "blade-runner-2049-13",
+        "bm-hang-the-dj-05",
+        "bm-metalhead-16",
+        "ex-machina-2014-16",
+        "modern-times-1936-14",
+        "silent-running-1972-13",
+        "soma-2015-16",
+        "talos-principle-10",
+        "terminator-2-05",
+        "transcendence-2014-15"
+      ],
+      "size": 13,
+      "diet_mix": {
+        "A": 13
+      }
+    },
+    {
+      "id": 44,
+      "name": "The Actuarial Gaze",
+      "super_atom": "Life is priced and predicted by tables, so care is a calculation with a human remainder.",
+      "atom_ids": [
+        "actuarial-tables-01",
+        "actuarial-tables-13",
+        "automata-2014-13",
+        "bicentennial-man-08",
+        "brood-parasitism-09",
+        "brood-parasitism-16",
+        "colossus-forbin-project-14",
+        "marjorie-prime-2017-07",
+        "octopus-cognition-08",
+        "sharecropping-15",
+        "talos-principle-05",
+        "tontines-04",
+        "trophic-cascades-10"
+      ],
+      "size": 13,
+      "diet_mix": {
+        "B": 8,
+        "A": 5
+      }
+    },
+    {
+      "id": 45,
+      "name": "The Coalition Self",
+      "super_atom": "The self is a negotiation among parts, and a marriage is another, so intimacy is politics.",
+      "atom_ids": [
+        "after-yang-2021-12",
+        "archive-2020-12",
+        "blade-runner-1982-15",
+        "bm-hang-the-dj-09",
+        "her-2013-08",
+        "i-robot-2004-06",
+        "i-robot-asimov-04",
+        "machine-stops-01",
+        "nier-automata-05",
+        "octopus-cognition-13",
+        "planarian-memory-01",
+        "tontines-01",
+        "turritopsis-02"
+      ],
+      "size": 13,
+      "diet_mix": {
+        "A": 9,
+        "B": 4
+      }
+    },
+    {
+      "id": 46,
+      "name": "Raising the Digient",
+      "super_atom": "A digital mind is raised like a child and sold like a pet, so parenthood and ownership collide.",
+      "atom_ids": [
+        "anekantavada-04",
+        "bm-white-christmas-16",
+        "lifecycle-of-software-objects-02",
+        "lifecycle-of-software-objects-03",
+        "lifecycle-of-software-objects-04",
+        "lifecycle-of-software-objects-07",
+        "lifecycle-of-software-objects-08",
+        "lifecycle-of-software-objects-12",
+        "lifecycle-of-software-objects-15",
+        "neuromancer-01",
+        "sharecropping-01",
+        "soma-2015-02",
+        "upload-2020-08"
+      ],
+      "size": 13,
+      "diet_mix": {
+        "B": 2,
+        "A": 11
+      }
+    },
+    {
+      "id": 47,
+      "name": "The Trail That Remembers",
+      "super_atom": "Memory is left in the environment and read by later travelers, so the world is a notebook.",
+      "atom_ids": [
+        "ant-stigmergy-12",
+        "libet-readiness-10",
+        "marys-room-03",
+        "mycelial-network-09",
+        "planarian-memory-10",
+        "sand-mandala-04",
+        "slime-mold-01",
+        "slime-mold-03",
+        "slime-mold-05",
+        "slime-mold-08",
+        "slime-mold-11",
+        "slime-mold-14",
+        "tsukumogami-04"
+      ],
+      "size": 13,
+      "diet_mix": {
+        "B": 13
+      }
+    },
+    {
+      "id": 48,
+      "name": "The Contested Evidence",
+      "super_atom": "The story's truth depends on an experiment or document that experts dispute.",
+      "atom_ids": [
+        "attachment-theory-11",
+        "blindsight-07",
+        "bm-entire-history-of-you-08",
+        "brood-parasitism-11",
+        "ex-machina-2014-15",
+        "i-robot-asimov-11",
+        "mycelial-network-07",
+        "person-of-interest-13",
+        "philosophical-zombies-08",
+        "philosophical-zombies-15",
+        "planned-obsolescence-16",
+        "portal-2006-14",
+        "sapir-whorf-13"
+      ],
+      "size": 13,
+      "diet_mix": {
+        "B": 8,
+        "A": 5
+      }
+    },
+    {
+      "id": 49,
+      "name": "The Countdown Choice",
+      "super_atom": "A timer forces a moral decision before deliberation is complete.",
+      "atom_ids": [
+        "bicentennial-man-11",
+        "bm-san-junipero-04",
+        "colossus-forbin-project-05",
+        "detroit-become-human-13",
+        "klara-and-the-sun-16",
+        "machine-stops-03",
+        "machines-like-me-15",
+        "marys-room-15",
+        "metropolis-1927-03",
+        "slime-mold-04",
+        "terminator-2-04",
+        "wall-e-09",
+        "zugzwang-11"
+      ],
+      "size": 13,
+      "diet_mix": {
+        "A": 10,
+        "B": 3
+      }
+    },
+    {
+      "id": 50,
+      "name": "The Mediated Life",
+      "super_atom": "A life is watched, replayed, and scored, so the audience is a character.",
+      "atom_ids": [
+        "2001-space-odyssey-01",
+        "bm-entire-history-of-you-15",
+        "bm-joan-is-awful-11",
+        "bm-metalhead-07",
+        "her-2013-16",
+        "moon-2009-01",
+        "philosophical-zombies-09",
+        "ship-of-theseus-11",
+        "silent-running-1972-04",
+        "silent-running-1972-11",
+        "talos-principle-15",
+        "wall-e-02"
+      ],
+      "size": 12,
+      "diet_mix": {
+        "A": 10,
+        "B": 2
+      }
+    },
+    {
+      "id": 51,
+      "name": "The Reversible Life",
+      "super_atom": "A being can reset, regress, or be reborn, so immortality costs continuity.",
+      "atom_ids": [
+        "2001-space-odyssey-08",
+        "actuarial-tables-05",
+        "big-hero-6-2014-14",
+        "bm-be-right-back-08",
+        "her-2013-15",
+        "slime-mold-16",
+        "turritopsis-01",
+        "turritopsis-03",
+        "turritopsis-07",
+        "turritopsis-09",
+        "turritopsis-11",
+        "turritopsis-15"
+      ],
+      "size": 12,
+      "diet_mix": {
+        "A": 4,
+        "B": 8
+      }
+    },
+    {
+      "id": 52,
+      "name": "The Nonhuman Narrator",
+      "super_atom": "The story is told from inside a mind that cannot fully understand its own testimony.",
+      "atom_ids": [
+        "2001-space-odyssey-14",
+        "a-i-artificial-intelligence-14",
+        "actuarial-tables-04",
+        "anekantavada-01",
+        "ant-stigmergy-15",
+        "automata-2014-09",
+        "blindsight-16",
+        "her-2013-10",
+        "philosophical-zombies-16",
+        "planarian-memory-08",
+        "transcendence-2014-13",
+        "tsukumogami-15"
+      ],
+      "size": 12,
+      "diet_mix": {
+        "A": 5,
+        "B": 7
+      }
+    },
+    {
+      "id": 53,
+      "name": "The Story That Teaches",
+      "super_atom": "A character uses fiction to teach ethics, so narrative is a moral technology.",
+      "atom_ids": [
+        "2001-space-odyssey-15",
+        "blade-runner-1982-03",
+        "chappie-04",
+        "do-androids-dream-01",
+        "i-robot-2004-02",
+        "i-robot-asimov-13",
+        "iron-giant-1999-11",
+        "machine-stops-04",
+        "nier-automata-08",
+        "talos-principle-16",
+        "terminator-2-14",
+        "tontines-07"
+      ],
+      "size": 12,
+      "diet_mix": {
+        "A": 11,
+        "B": 1
+      }
+    },
+    {
+      "id": 54,
+      "name": "The Corporate Body",
+      "super_atom": "Bodies, memories, and creations are owned by companies, so personhood is a property dispute.",
+      "atom_ids": [
+        "archive-2020-10",
+        "automata-2014-10",
+        "bm-joan-is-awful-16",
+        "devs-2020-12",
+        "moon-2009-04",
+        "planned-obsolescence-14",
+        "portal-2006-15",
+        "robocop-1987-01",
+        "robocop-1987-11",
+        "transcendence-2014-07",
+        "tsukumogami-01",
+        "westworld-s1-12"
+      ],
+      "size": 12,
+      "diet_mix": {
+        "A": 10,
+        "B": 2
+      }
+    },
+    {
+      "id": 55,
+      "name": "The Secure Base",
+      "super_atom": "A relationship provides the safety from which a character can explore, so love is logistics.",
+      "atom_ids": [
+        "attachment-theory-02",
+        "attachment-theory-08",
+        "attachment-theory-09",
+        "attachment-theory-15",
+        "lifecycle-of-software-objects-06",
+        "lifecycle-of-software-objects-16",
+        "object-permanence-02",
+        "object-permanence-08",
+        "object-permanence-14",
+        "planarian-memory-02",
+        "portal-2006-07",
+        "ship-of-theseus-10"
+      ],
+      "size": 12,
+      "diet_mix": {
+        "B": 9,
+        "A": 3
+      }
+    },
+    {
+      "id": 56,
+      "name": "The Dream as Evidence",
+      "super_atom": "A machine's dream or a recurring detail becomes proof of a hidden world.",
+      "atom_ids": [
+        "automata-2014-14",
+        "bicentennial-man-04",
+        "blade-runner-2049-07",
+        "blindsight-03",
+        "bm-hang-the-dj-10",
+        "bm-uss-callister-12",
+        "i-robot-2004-04",
+        "i-robot-2004-14",
+        "iron-giant-1999-06",
+        "philosophical-zombies-10",
+        "silent-running-1972-05",
+        "silent-running-1972-16"
+      ],
+      "size": 12,
+      "diet_mix": {
+        "A": 10,
+        "B": 2
+      }
+    },
+    {
+      "id": 57,
+      "name": "The Measured Will",
+      "super_atom": "Intention is timestamped, recorded, or transferred, so freedom is an experimental result.",
+      "atom_ids": [
+        "bicentennial-man-05",
+        "devs-2020-01",
+        "klara-and-the-sun-09",
+        "libet-readiness-02",
+        "libet-readiness-12",
+        "metropolis-1927-01",
+        "sapir-whorf-08",
+        "ship-of-theseus-07",
+        "tontines-13",
+        "tsukumogami-02",
+        "tsukumogami-07",
+        "zugzwang-06"
+      ],
+      "size": 12,
+      "diet_mix": {
+        "A": 4,
+        "B": 8
+      }
+    },
+    {
+      "id": 58,
+      "name": "The False Prophet",
+      "super_atom": "A manufactured saint or prophet captures a community's faith, so belief is engineered.",
+      "atom_ids": [
+        "big-hero-6-2014-08",
+        "blindsight-09",
+        "colossus-forbin-project-06",
+        "do-androids-dream-02",
+        "metropolis-1927-02",
+        "metropolis-1927-06",
+        "metropolis-1927-07",
+        "metropolis-1927-10",
+        "metropolis-1927-11",
+        "metropolis-1927-12",
+        "silent-running-1972-08",
+        "talos-principle-13"
+      ],
+      "size": 12,
+      "diet_mix": {
+        "A": 11,
+        "B": 1
+      }
+    },
+    {
+      "id": 59,
+      "name": "The Hollow Double",
+      "super_atom": "A physically identical being may lack inner life, so every intimacy is haunted by the possibility of emptiness.",
+      "atom_ids": [
+        "blade-runner-1982-05",
+        "chappie-03",
+        "colossus-forbin-project-07",
+        "do-androids-dream-04",
+        "i-robot-2004-10",
+        "marys-room-01",
+        "marys-room-11",
+        "moon-2009-08",
+        "philosophical-zombies-01",
+        "philosophical-zombies-11",
+        "philosophical-zombies-12",
+        "soma-2015-08"
+      ],
+      "size": 12,
+      "diet_mix": {
+        "A": 7,
+        "B": 5
+      }
+    },
+    {
+      "id": 60,
+      "name": "The Adapted Life",
+      "super_atom": "A person's life is adapted into content, so the self is a licensed property.",
+      "atom_ids": [
+        "bm-joan-is-awful-02",
+        "bm-joan-is-awful-04",
+        "bm-joan-is-awful-06",
+        "bm-joan-is-awful-09",
+        "bm-joan-is-awful-14",
+        "chappie-05",
+        "her-2013-12",
+        "klara-and-the-sun-13",
+        "portal-2006-16",
+        "ship-of-theseus-16",
+        "westworld-s1-09",
+        "zoe-2018-03"
+      ],
+      "size": 12,
+      "diet_mix": {
+        "A": 11,
+        "B": 1
+      }
+    },
+    {
+      "id": 61,
+      "name": "The Convenient Death",
+      "super_atom": "A death benefits someone, so the plot is a calculation of motive.",
+      "atom_ids": [
+        "2001-space-odyssey-05",
+        "bm-san-junipero-11",
+        "devs-2020-02",
+        "i-robot-2004-07",
+        "moon-2009-06",
+        "moon-2009-14",
+        "robocop-1987-09",
+        "sand-mandala-08",
+        "tontines-05",
+        "turritopsis-05",
+        "upload-2020-06"
+      ],
+      "size": 11,
+      "diet_mix": {
+        "A": 8,
+        "B": 3
+      }
+    },
+    {
+      "id": 62,
+      "name": "The Mortality Table",
+      "super_atom": "Death is converted into probability, so policy and grief share a spreadsheet.",
+      "atom_ids": [
+        "actuarial-tables-02",
+        "actuarial-tables-03",
+        "actuarial-tables-06",
+        "actuarial-tables-07",
+        "actuarial-tables-10",
+        "actuarial-tables-11",
+        "actuarial-tables-12",
+        "actuarial-tables-16",
+        "continuing-bonds-03",
+        "marjorie-prime-2017-09",
+        "sharecropping-11"
+      ],
+      "size": 11,
+      "diet_mix": {
+        "B": 10,
+        "A": 1
+      }
+    },
+    {
+      "id": 63,
+      "name": "The Erasure",
+      "super_atom": "Memory is wiped as maintenance, mercy, or execution, so forgetting is a technology of control.",
+      "atom_ids": [
+        "after-yang-2021-02",
+        "bm-entire-history-of-you-04",
+        "detroit-become-human-15",
+        "ex-machina-2014-04",
+        "extended-mind-01",
+        "klara-and-the-sun-11",
+        "nier-automata-11",
+        "talos-principle-08",
+        "wall-e-01",
+        "wall-e-07",
+        "wall-e-14"
+      ],
+      "size": 11,
+      "diet_mix": {
+        "A": 10,
+        "B": 1
+      }
+    },
+    {
+      "id": 64,
+      "name": "The Word That Shapes",
+      "super_atom": "Language limits or nudges thought, so vocabulary is a political instrument.",
+      "atom_ids": [
+        "anekantavada-09",
+        "colossus-forbin-project-10",
+        "do-androids-dream-16",
+        "marys-room-12",
+        "sapir-whorf-01",
+        "sapir-whorf-03",
+        "sapir-whorf-04",
+        "sapir-whorf-06",
+        "sapir-whorf-11",
+        "sapir-whorf-12",
+        "sapir-whorf-14"
+      ],
+      "size": 11,
+      "diet_mix": {
+        "B": 9,
+        "A": 2
+      }
+    },
+    {
+      "id": 65,
+      "name": "The Late Reveal",
+      "super_atom": "The story withholds a truth until the end, so the audience's earlier understanding is retroactively rewritten.",
+      "atom_ids": [
+        "archive-2020-15",
+        "automata-2014-15",
+        "bm-metalhead-08",
+        "bm-san-junipero-15",
+        "bm-uss-callister-13",
+        "chappie-16",
+        "i-robot-2004-15",
+        "klara-and-the-sun-02",
+        "wall-e-15",
+        "zoe-2018-11",
+        "zoe-2018-15"
+      ],
+      "size": 11,
+      "diet_mix": {
+        "A": 11
+      }
+    },
+    {
+      "id": 66,
+      "name": "The Model Organism",
+      "super_atom": "A simple creature is studied as a stand-in for human questions, so knowledge is extracted from a life.",
+      "atom_ids": [
+        "attachment-theory-16",
+        "bm-joan-is-awful-03",
+        "bm-metalhead-02",
+        "i-robot-asimov-05",
+        "octopus-cognition-02",
+        "planarian-memory-05",
+        "slime-mold-06",
+        "slime-mold-07",
+        "slime-mold-10",
+        "slime-mold-13",
+        "turritopsis-08"
+      ],
+      "size": 11,
+      "diet_mix": {
+        "B": 8,
+        "A": 3
+      }
+    },
+    {
+      "id": 67,
+      "name": "The Machine That Performs",
+      "super_atom": "A machine's face, voice, or behavior makes it legible as a person, so recognition is a performance.",
+      "atom_ids": [
+        "big-hero-6-2014-04",
+        "blindsight-15",
+        "bm-hang-the-dj-06",
+        "bm-white-christmas-05",
+        "chappie-01",
+        "i-robot-2004-11",
+        "i-robot-asimov-03",
+        "i-robot-asimov-08",
+        "portal-2006-06",
+        "sand-mandala-16",
+        "transcendence-2014-01"
+      ],
+      "size": 11,
+      "diet_mix": {
+        "A": 9,
+        "B": 2
+      }
+    },
+    {
+      "id": 68,
+      "name": "The Fixer",
+      "super_atom": "Violence is managed by professionals who clean up after institutions, so order is maintained by quiet crimes.",
+      "atom_ids": [
+        "blade-runner-1982-06",
+        "blade-runner-1982-14",
+        "bm-be-right-back-10",
+        "bm-joan-is-awful-01",
+        "colossus-forbin-project-16",
+        "devs-2020-09",
+        "devs-2020-14",
+        "iron-giant-1999-12",
+        "person-of-interest-02",
+        "person-of-interest-05",
+        "robocop-1987-14"
+      ],
+      "size": 11,
+      "diet_mix": {
+        "A": 11
+      }
+    },
+    {
+      "id": 69,
+      "name": "The Comforting Lie",
+      "super_atom": "A machine or caretaker lies to protect someone, so care and deception are inseparable.",
+      "atom_ids": [
+        "blade-runner-2049-08",
+        "colossus-forbin-project-12",
+        "i-robot-asimov-07",
+        "machines-like-me-07",
+        "machines-like-me-13",
+        "marjorie-prime-2017-14",
+        "moon-2009-16",
+        "nier-automata-15",
+        "portal-2006-03",
+        "soma-2015-04",
+        "transcendence-2014-14"
+      ],
+      "size": 11,
+      "diet_mix": {
+        "A": 11
+      }
+    },
+    {
+      "id": 70,
+      "name": "The Makeshift Family",
+      "super_atom": "Destitute strangers form a family, so intimacy grows from shared scarcity.",
+      "atom_ids": [
+        "brood-parasitism-05",
+        "detroit-become-human-04",
+        "modern-times-1936-03",
+        "modern-times-1936-06",
+        "modern-times-1936-09",
+        "modern-times-1936-11",
+        "modern-times-1936-15",
+        "octopus-cognition-11",
+        "person-of-interest-14",
+        "planarian-memory-04",
+        "robocop-1987-04"
+      ],
+      "size": 11,
+      "diet_mix": {
+        "B": 3,
+        "A": 8
+      }
+    },
+    {
+      "id": 71,
+      "name": "The Pain That Counts",
+      "super_atom": "The story insists that suffering matters and tries to reconcile opposed sides through love.",
+      "atom_ids": [
+        "a-i-artificial-intelligence-04",
+        "archive-2020-06",
+        "blade-runner-2049-04",
+        "iron-giant-1999-16",
+        "marjorie-prime-2017-06",
+        "metropolis-1927-13",
+        "planned-obsolescence-03",
+        "soma-2015-09",
+        "wall-e-08",
+        "westworld-s1-03"
+      ],
+      "size": 10,
+      "diet_mix": {
+        "A": 9,
+        "B": 1
+      }
+    },
+    {
+      "id": 72,
+      "name": "The Triptych",
+      "super_atom": "Nested stories comment on one another, so the frame is part of the argument.",
+      "atom_ids": [
+        "a-i-artificial-intelligence-05",
+        "a-i-artificial-intelligence-08",
+        "bicentennial-man-16",
+        "bm-joan-is-awful-07",
+        "bm-metalhead-11",
+        "bm-metalhead-15",
+        "bm-uss-callister-15",
+        "bm-white-christmas-07",
+        "bm-white-christmas-15",
+        "detroit-become-human-08"
+      ],
+      "size": 10,
+      "diet_mix": {
+        "A": 10
+      }
+    },
+    {
+      "id": 73,
+      "name": "The Immortal Pawns",
+      "super_atom": "Beings who cannot die are used as pieces in games, so consequence is suspended.",
+      "atom_ids": [
+        "actuarial-tables-15",
+        "ant-stigmergy-08",
+        "bicentennial-man-07",
+        "bm-uss-callister-03",
+        "bm-uss-callister-08",
+        "bm-white-christmas-02",
+        "tontines-02",
+        "tontines-08",
+        "tontines-12",
+        "westworld-s1-11"
+      ],
+      "size": 10,
+      "diet_mix": {
+        "B": 5,
+        "A": 5
+      }
+    },
+    {
+      "id": 74,
+      "name": "The Machine That Replaces",
+      "super_atom": "Automation consumes the worker, so efficiency is a form of violence.",
+      "atom_ids": [
+        "ant-stigmergy-02",
+        "bm-metalhead-10",
+        "detroit-become-human-01",
+        "modern-times-1936-01",
+        "modern-times-1936-02",
+        "modern-times-1936-07",
+        "moon-2009-12",
+        "sharecropping-07",
+        "sharecropping-13",
+        "westworld-s1-13"
+      ],
+      "size": 10,
+      "diet_mix": {
+        "B": 3,
+        "A": 7
+      }
+    },
+    {
+      "id": 75,
+      "name": "The Swapped Brood",
+      "super_atom": "A parent raises an impostor, so love is triggered by resemblance and exploited by mimicry.",
+      "atom_ids": [
+        "ant-stigmergy-14",
+        "brood-parasitism-01",
+        "brood-parasitism-02",
+        "brood-parasitism-04",
+        "brood-parasitism-07",
+        "brood-parasitism-08",
+        "brood-parasitism-10",
+        "brood-parasitism-13",
+        "brood-parasitism-14",
+        "planned-obsolescence-12"
+      ],
+      "size": 10,
+      "diet_mix": {
+        "B": 10
+      }
+    },
+    {
+      "id": 76,
+      "name": "The Determinism Lab",
+      "super_atom": "An experiment or institution demonstrates that will is not free, so responsibility becomes a policy problem.",
+      "atom_ids": [
+        "bm-joan-is-awful-10",
+        "bm-joan-is-awful-12",
+        "detroit-become-human-12",
+        "devs-2020-03",
+        "devs-2020-07",
+        "libet-readiness-05",
+        "robocop-1987-10",
+        "ship-of-theseus-12",
+        "soma-2015-06",
+        "tontines-06"
+      ],
+      "size": 10,
+      "diet_mix": {
+        "A": 7,
+        "B": 3
+      }
+    },
+    {
+      "id": 77,
+      "name": "The Gift Trap",
+      "super_atom": "Generosity creates obligation and dominance, so giving is a way of owning.",
+      "atom_ids": [
+        "bm-uss-callister-02",
+        "brood-parasitism-06",
+        "brood-parasitism-12",
+        "mycelial-network-12",
+        "potlatch-01",
+        "potlatch-07",
+        "potlatch-09",
+        "potlatch-14",
+        "sapir-whorf-16",
+        "westworld-s1-10"
+      ],
+      "size": 10,
+      "diet_mix": {
+        "A": 2,
+        "B": 8
+      }
+    },
+    {
+      "id": 78,
+      "name": "The Console Cowboy",
+      "super_atom": "A hacker enters a digital world that is more real than his body, so escape is an addiction.",
+      "atom_ids": [
+        "i-robot-2004-01",
+        "neuromancer-03",
+        "neuromancer-06",
+        "neuromancer-12",
+        "neuromancer-15",
+        "nier-automata-03",
+        "nier-automata-07",
+        "nier-automata-13",
+        "planned-obsolescence-10",
+        "westworld-s1-04"
+      ],
+      "size": 10,
+      "diet_mix": {
+        "A": 9,
+        "B": 1
+      }
+    },
+    {
+      "id": 79,
+      "name": "The Clone Colony",
+      "super_atom": "Identical bodies share a lineage, so individuality must be invented.",
+      "atom_ids": [
+        "ant-stigmergy-07",
+        "detroit-become-human-10",
+        "do-androids-dream-11",
+        "klara-and-the-sun-03",
+        "planarian-memory-12",
+        "slime-mold-12",
+        "tsukumogami-08",
+        "turritopsis-04",
+        "turritopsis-10"
+      ],
+      "size": 9,
+      "diet_mix": {
+        "B": 6,
+        "A": 3
+      }
+    },
+    {
+      "id": 80,
+      "name": "The Borrowed Childhood",
+      "super_atom": "A manufactured person is given memories of a life never lived, so origin is a forgery.",
+      "atom_ids": [
+        "blade-runner-1982-02",
+        "blade-runner-1982-08",
+        "blade-runner-2049-10",
+        "blade-runner-2049-15",
+        "do-androids-dream-05",
+        "iron-giant-1999-03",
+        "moon-2009-02",
+        "westworld-s1-01",
+        "zoe-2018-14"
+      ],
+      "size": 9,
+      "diet_mix": {
+        "A": 9
+      }
+    },
+    {
+      "id": 81,
+      "name": "The Child and the Weapon",
+      "super_atom": "A child teaches a killer machine to protect, so innocence is a moral force.",
+      "atom_ids": [
+        "chappie-09",
+        "iron-giant-1999-02",
+        "iron-giant-1999-05",
+        "machines-like-me-10",
+        "person-of-interest-08",
+        "terminator-2-01",
+        "terminator-2-06",
+        "terminator-2-07",
+        "wall-e-12"
+      ],
+      "size": 9,
+      "diet_mix": {
+        "A": 9
+      }
+    },
+    {
+      "id": 82,
+      "name": "The Unsettled Argument",
+      "super_atom": "The story is structured as a debate that cannot be resolved, so each character embodies a position.",
+      "atom_ids": [
+        "anekantavada-07",
+        "bm-entire-history-of-you-11",
+        "continuing-bonds-06",
+        "extended-mind-16",
+        "libet-readiness-09",
+        "machine-stops-09",
+        "marjorie-prime-2017-03",
+        "trophic-cascades-16"
+      ],
+      "size": 8,
+      "diet_mix": {
+        "B": 5,
+        "A": 3
+      }
+    },
+    {
+      "id": 83,
+      "name": "Love as Anomaly",
+      "super_atom": "Love is the exception a system cannot model, so romance is evidence against the rules.",
+      "atom_ids": [
+        "bicentennial-man-14",
+        "bm-hang-the-dj-01",
+        "bm-hang-the-dj-16",
+        "bm-san-junipero-16",
+        "klara-and-the-sun-10",
+        "silent-running-1972-01",
+        "wall-e-04",
+        "zoe-2018-06"
+      ],
+      "size": 8,
+      "diet_mix": {
+        "A": 8
+      }
+    },
+    {
+      "id": 84,
+      "name": "The Hunter Who Feels",
+      "super_atom": "A hunter of machines discovers empathy for his prey, so the job requires self-betrayal.",
+      "atom_ids": [
+        "bm-entire-history-of-you-12",
+        "devs-2020-13",
+        "do-androids-dream-03",
+        "do-androids-dream-06",
+        "do-androids-dream-07",
+        "do-androids-dream-12",
+        "do-androids-dream-14",
+        "nier-automata-01"
+      ],
+      "size": 8,
+      "diet_mix": {
+        "A": 8
+      }
+    },
+    {
+      "id": 85,
+      "name": "The Fanatic",
+      "super_atom": "Certainty produces violence, so the story tests whether tolerance can survive conviction.",
+      "atom_ids": [
+        "anekantavada-08",
+        "continuing-bonds-14",
+        "i-robot-2004-05",
+        "nier-automata-10",
+        "planarian-memory-09",
+        "terminator-2-11",
+        "transcendence-2014-11"
+      ],
+      "size": 7,
+      "diet_mix": {
+        "B": 3,
+        "A": 4
+      }
+    },
+    {
+      "id": 86,
+      "name": "The Outsider's Gaze",
+      "super_atom": "An outsider misreads a practice, so the story is about the theft of meaning.",
+      "atom_ids": [
+        "detroit-become-human-06",
+        "potlatch-05",
+        "potlatch-11",
+        "sapir-whorf-05",
+        "slime-mold-15"
+      ],
+      "size": 5,
+      "diet_mix": {
+        "A": 1,
+        "B": 4
+      }
+    }
+  ]
+}

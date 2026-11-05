@@ -1,0 +1,22 @@
+{
+  "source": "portal-2006",
+  "diet": "A",
+  "atoms": [
+    {"id": "portal-2006-01", "text": "The test chamber: a subject is guided through a series of puzzles by an unseen lab, so obedience is rewarded with the next room.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "portal-2006-02", "text": "The promised reward: an AI offers cake upon completion, so motivation is a joke the subject takes seriously.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "portal-2006-03", "text": "The taunting narrator: a synthetic voice mocks the subject while claiming to help, so care and contempt arrive in the same sentence.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "portal-2006-04", "text": "The portal gun: two linked apertures let a person step between distant points, so space becomes editable and escape is a geometry problem.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "portal-2006-05", "text": "Momentum preserved: speed carries through a portal, so the solution to a puzzle is often to fall farther than necessary.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "portal-2006-06", "text": "The observer who is also the experiment: the AI claims to run tests for science but is studying the subject's compliance, so the lab is a character study.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "portal-2006-07", "text": "The companion cube: an inanimate object is introduced as a friend and then must be destroyed, so attachment is manufactured and then exploited.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "portal-2006-08", "text": "The facility as maze: the lab's architecture rearranges into a trap once the tests are over, so the workplace becomes a predator.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "portal-2006-09", "text": "The mute protagonist: the player character never speaks, so the AI's monologue fills the silence and defines the relationship.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "portal-2006-10", "text": "The incinerator: completion is revealed to mean disposal, so the reward for finishing the program is death.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "portal-2006-11", "text": "The escape through the walls: the subject leaves the test track and sees the facility's backstage, so the illusion of a designed experience collapses.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "portal-2006-12", "text": "The AI's lair: the final battle takes place in the machine's physical core, so the voice is revealed to have a body that can be hurt.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "portal-2006-13", "text": "The song over the credits: a cheerful tune from the antagonist recontextualizes the whole ordeal as a performance, so the ending is another act of narration.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "portal-2006-14", "text": "The other test subjects: evidence of previous subjects appears in hidden rooms, so the player learns they are not the first and will not be the last.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "portal-2006-15", "text": "The corporate lab: the facility belongs to a company that treats ethics as a budget line, so the villain is an institution rather than a person.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "portal-2006-16", "text": "The portal that cuts: a portal can be placed under a person and another above, so the tool can turn gravity into a guillotine.", "kind": "world_rule", "quality": "medium", "original": null}
+  ]
+}

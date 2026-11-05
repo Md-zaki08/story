@@ -1,0 +1,57 @@
+{
+  "source": "water-trading",
+  "title": "Water trading",
+  "diet": "A",
+  "atoms": [
+    {
+      "text": "Water trading is a voluntary exchange or transfer of water allocation between willing parties, creating a market where parties with excess water can sell and those with a deficit can buy. This creates a need for both buyers and sellers to be interested in the transaction, setting up a dynamic where water is allocated based on market demand.",
+      "kind": "plot_device",
+      "quality": "medium"
+    },
+    {
+      "text": "Water rights are based on 'prior appropriation,' which historically has led to inefficient water allocation, especially in areas with increasing urban populations and during droughts. This creates a tension between the historical legal framework and modern economic needs.",
+      "kind": "world_rule",
+      "quality": "medium"
+    },
+    {
+      "text": "The concept of water trading markets allows for local and informal exchanges between neighbors, different from more formal and distant water rights trading. This creates a distinction in the types of water trading that can occur.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "The argument that water trading promotes more efficient water allocation through a market-based price system creates a contrast to traditional water allocation methods, like prior appropriation. This highlights the potential benefits and challenges of water trading.",
+      "kind": "theme_engine",
+      "quality": "medium"
+    },
+    {
+      "text": "Economists argue that water markets should provide a clear measure of the value of water and encourage conservation, creating a tension between market-based pricing and traditional conservation efforts. This creates a narrative about the role of economics in managing natural resources.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "Private companies like Nestlé Waters acquiring local water resources for bottled water production creates competition with local communities for water access, creating a conflict between economic interests and community needs. This creates a narrative about the impact of private industry on local resources.",
+      "kind": "setting_pressure",
+      "quality": "medium"
+    },
+    {
+      "text": "The idea that water trading can be Pareto efficient, meaning it does not make someone worse off without making someone else better, creates a concept of fairness in resource allocation. This creates a narrative about the ethics of using economic principles for resource management.",
+      "kind": "character_dynamic",
+      "quality": "medium"
+    },
+    {
+      "text": "The need for clear definition of water rights and transferable from land rights creates a tension between modern market needs and historical legal frameworks. This creates a narrative about adapting legal systems to fit economic realities.",
+      "kind": "world_rule",
+      "quality": "medium"
+    },
+    {
+      "text": "The idea that water trading can re-allocate risk from inefficient users to more economically productive ones creates a concept of risk management in resource allocation. This creates a narrative about the role of market mechanisms in balancing risk and resource use.",
+      "kind": "structure_trick",
+      "quality": "medium"
+    },
+    {
+      "text": "The potential environmental benefits of trading water, such as improved instream water quality, creates a contrast between economic incentives and environmental sustainability. This creates a narrative about balancing economic and ecological considerations in resource management.",
+      "kind": "theme_engine",
+      "quality": "medium"
+    }
+  ]
+}

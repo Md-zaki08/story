@@ -1,0 +1,22 @@
+{
+  "source": "mycelial-network",
+  "diet": "B",
+  "atoms": [
+    {"id": "mycelial-network-01", "text": "The underground web: fungal threads connect the roots of separate trees, so a forest is a single infrastructure.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "mycelial-network-02", "text": "The warning signal: an injured tree sends a chemical alarm through the network and a neighbor prepares defenses, so information travels without sound.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "mycelial-network-03", "text": "The resource transfer: carbon and nutrients move from one plant to another through the fungus, so generosity and theft look identical.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "mycelial-network-04", "text": "The preferential allocation: a fungus chooses which partner to feed, so the network has favorites and politics.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "mycelial-network-05", "text": "The symbiosis that shifts: a relationship can be mutualist, commensal, or parasitic at different times, so allies are temporary.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "mycelial-network-06", "text": "The mother tree: an old tree supports seedlings through the network, so inheritance is chemical rather than legal.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "mycelial-network-07", "text": "The contested science: claims about the network are criticized as overstated, so the story's wonder is undercut by uncertainty.", "kind": "structure_trick", "quality": "strong", "original": null},
+    {"id": "mycelial-network-08", "text": "The wood wide web: the network is nicknamed after the internet, so biology is interpreted through the metaphors of technology.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "mycelial-network-09", "text": "The soil that remembers: disturbance and seasons alter the network's formation, so history is written underground.", "kind": "setting_pressure", "quality": "strong", "original": null},
+    {"id": "mycelial-network-10", "text": "The invasive fungus: an introduced network partner rewires the forest, so an outsider can change the rules of exchange.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "mycelial-network-11", "text": "The seedling that cannot connect: a plant excluded from the network starves, so belonging is a material resource.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "mycelial-network-12", "text": "The fungus that farms the tree: the symbiont may be cultivating its host, so the apparent dependents are also owners.", "kind": "theme_engine", "quality": "strong", "original": null},
+    {"id": "mycelial-network-13", "text": "The researcher who grew up in the forest: a scientist studies the network her family logged, so objectivity is entangled with inheritance.", "kind": "character_dynamic", "quality": "strong", "original": null},
+    {"id": "mycelial-network-14", "text": "The network as brain: the fungal web resembles neural tissue, so the story can treat a forest as a mind.", "kind": "world_rule", "quality": "strong", "original": null},
+    {"id": "mycelial-network-15", "text": "The cut connection: logging severs the links between trees, so a landscape's memory is destroyed by industry.", "kind": "plot_device", "quality": "strong", "original": null},
+    {"id": "mycelial-network-16", "text": "The cooperation thesis: symbiosis rather than competition may drive evolution, so the story's biology is also a moral argument.", "kind": "structure_trick", "quality": "strong", "original": null}
+  ]
+}
